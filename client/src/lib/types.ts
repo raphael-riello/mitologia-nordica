@@ -1,0 +1,34 @@
+export interface ContentItem {
+  slug: string;
+  title: string;
+  description: string;
+  category: string;
+  section: string;
+  date: string;
+  cover: string;
+  tags: string[];
+  content: string;
+  author?: string;
+  rating?: number;
+  platform?: string;
+  players?: string;
+  genre?: string;
+  year?: number;
+}
+
+export interface SectionConfig {
+  slug: string;
+  title: string;
+  description: string;
+  heroImage: string;
+  categories: CategoryConfig[];
+}
+
+export interface CategoryConfig {
+  slug: string;
+  title: string;
+  description: string;
+  icon: string;
+}
+
+export type Section = "historias" | "glossario" | "jogos" | "conteudo" | "comunidade";
