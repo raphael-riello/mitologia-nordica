@@ -3,6 +3,7 @@ export interface ContentItem {
   title: string;
   description: string;
   category: string;
+  subcategory?: string;
   section: string;
   date: string;
   cover: string;
