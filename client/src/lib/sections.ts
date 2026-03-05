@@ -49,6 +49,7 @@ export const sections: SectionConfig[] = [
           { slug: "monstros", title: "Monstros" },
           { slug: "espiritos", title: "Espíritos" },
           { slug: "animais-miticos", title: "Animais Míticos" },
+          { slug: "anoes", title: "Anões" },
         ],
       },
 
@@ -57,8 +58,6 @@ export const sections: SectionConfig[] = [
       { slug: "mundos", title: "Mundos", description: "Os Nove Mundos de Yggdrasil", icon: "🌍" },
 
       { slug: "runas", title: "Runas", description: "Símbolos sagrados do Elder Futhark", icon: "ᚱ" },
-
-      { slug: "anoes", title: "Anões", description: "Mestres forjadores de Svartalfheim", icon: "⛏️" },
     ],
   },
 
