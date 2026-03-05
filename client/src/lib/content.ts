@@ -526,13 +526,13 @@ As histórias de Hrolf Kraki destacam sua coragem pessoal e honra inquebrantáve
 Como muitos heróis nórdicos, a história de Hrolf Kraki é marcada pela tragédia. Suas sagas narram conflitos, traições e batalhas que culminam em sua morte. No entanto, seu legado permanece — um símbolo de liderança heroica, bravura inabalável e honra que transcende a morte, inspirando gerações futuras de guerreiros e reis.`,
   },
   {
-    slug: "helgi-gundingsbane",
+    slug: "helgi-hundingsbane",
     title: "Helgi Hundingsbane — O Herói Trágico",
     description: "Herói trágico da tradição dos Volsungos. Famoso por matar Hunding e por seu romance com a valquíria Sigrún. Sua narrativa envolve batalhas, honra e amor marcado pelo destino.",
     category: "herois",
     section: "glossario",
     date: "2026-03-05",
-    cover: "/images/glossario/herois/helgi-gundingsbane.png",
+    cover: "/images/glossario/herois/helgi-hundingsbane.png",
     tags: ["helgi", "hundingsbane", "heroi", "valkiquia", "sigrun", "tragedia"],
     content: `## O Herói dos Volsungos
 
