@@ -187,28 +187,244 @@ No fim dos tempos, Fenrir rompe suas correntes. Sua mandíbula se abre do chão 
   },
   {
     slug: "asgard",
-    title: "Asgard — O Reino dos Deuses",
-    description: "Asgard, o mais elevado dos Nove Mundos, lar dos deuses Aesir. Conectado a Midgard pela ponte arco-íris Bifröst.",
+    title: "Asgard — O Reino dos Deuses Aesir",
+    description: "Reino dos deuses Aesir, governado por Odin. É uma fortaleza celestial ligada a Midgard pela ponte Bifrost. Lá ficam salões como Valhalla, onde guerreiros mortos em batalha são recebidos.",
     category: "mundos",
     section: "glossario",
-    date: "2025-01-05",
-    cover: "/images/glossario/mundos/asgard.jpg",
-    tags: ["asgard", "nove mundos", "bifrost", "valhalla", "aesir"],
-    content: `## O Reino Celestial
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/asgard.png",
+    tags: ["asgard", "nove mundos", "odin", "valhalla", "bifrost", "aesir"],
+    content: `## A Fortaleza Celestial
 
-**Asgard** (nórdico antigo: Ásgarðr) é o mais elevado dos Nove Mundos, situado no topo de Yggdrasil. É o lar dos deuses Aesir e contém diversos salões magníficos.
+**Asgard** é o mais majestoso dos Nove Mundos da cosmologia nórdica, o reino dos deuses **Aesir**, governado pelo Pai de Todos, **Odin**. Situado no topo de Yggdrasil, a Árvore do Mundo, Asgard é uma fortaleza celestial de poder e glória incomparáveis.
 
-## Locais Importantes
+## A Ponte Bifrost
 
-- **Valhalla:** O salão de Odin, onde os guerreiros caídos em batalha (Einherjar) festejam e treinam para o Ragnarök
-- **Bifröst:** A ponte arco-íris que conecta Asgard a Midgard, guardada por Heimdall
-- **Gladsheim:** O salão onde os deuses se reúnem em conselho
-- **Fólkvangr:** O campo de Freya, onde ela recebe metade dos guerreiros mortos
+Asgard está conectado a **Midgard**, o mundo dos humanos, pela lendária ponte **Bifrost** — o arco-íris flamejante guardado pelo vigilante **Heimdall**, cujo olhar alcança os confins de todos os mundos e cujo corno Gjallarhorn soará para anunciar o Ragnarök.
 
-## A Muralha de Asgard
+## Os Grandes Salões
 
-Após a guerra entre Aesir e Vanir, as muralhas de Asgard foram destruídas. Um construtor misterioso (na verdade um gigante disfarçado) ofereceu-se para reconstruí-las em troca de Freya, o Sol e a Lua. Com a ajuda de Loki, os deuses conseguiram impedir que ele completasse a tarefa no prazo.`,
+Dentro de Asgard encontram-se salões lendários:
+
+- **Valhalla:** O salão de Odin, onde os Einherjar — guerreiros mortos em batalha — festejam e treinam para a batalha final do Ragnarök
+- **Fólkvangr:** O campo de Freya, que recebe metade dos guerreiros caídos
+- **Gladsheim:** O salão do conselho dos deuses
+- **Vingólf:** O santuário das deusas
+
+## Significado Cósmico
+
+Asgard representa a ordem divina, o poder e a sabedoria dos Aesir. É o centro do governo cósmico, de onde Odin observa todos os mundos sentado em seu trono **Hlidskjálf**. Dali, seus corvos **Huginn** e **Muninn** partem diariamente para trazer notícias de toda a criação.`,
   },
+  {
+    slug: "vanaheim",
+    title: "Vanaheim — O Lar dos Deuses Vanir",
+    description: "Lar dos deuses Vanir, ligados à fertilidade, natureza, prosperidade e magia natural. Um reino mais harmonioso e selvagem que Asgard.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/vanaheim.png",
+    tags: ["vanaheim", "nove mundos", "vanir", "fertilidade", "magia", "natureza"],
+    content: `## O Reino da Fertilidade
+
+**Vanaheim** é o lar dos deuses **Vanir**, uma linhagem divina profundamente ligada à fertilidade, à natureza, à prosperidade e à magia natural. Diferente da austeridade guerreira de Asgard, Vanaheim é um reino de harmonia selvagem e abundância.
+
+## Os Deuses Vanir
+
+Os Vanir são divindades da terra e do mar, mestres de uma forma de magia chamada **Seiðr**. Entre os mais conhecidos estão:
+
+- **Njörðr:** Deus do mar, dos ventos e da riqueza
+- **Freyr:** Deus da fertilidade, da chuva e da colheita
+- **Freya:** Deusa do amor, da beleza e da magia
+
+## A Guerra Aesir-Vanir
+
+Uma grande guerra eclodiu entre os Aesir e os Vanir nos tempos primordiais. Após um longo conflito sem vencedor claro, as duas linhagens fizeram as pazes e trocaram reféns. **Freyr**, **Freya** e **Njörðr** foram para Asgard, enquanto **Hoenir** e **Mímir** foram para Vanaheim.
+
+## Natureza e Magia
+
+Vanaheim é descrito como um reino mais harmonioso e selvagem que Asgard, onde a natureza floresce em sua forma mais pura. A magia dos Vanir é orgânica, conectada aos ciclos da terra, das estações e da vida — uma sabedoria antiga que até mesmo Odin desejou aprender.`,
+  },
+  {
+    slug: "alfheim",
+    title: "Alfheim — O Mundo dos Elfos da Luz",
+    description: "Mundo dos elfos da luz (Ljósálfar), seres belos e luminosos associados à magia e à beleza.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/alfheim.png",
+    tags: ["alfheim", "nove mundos", "elfos", "ljosalfar", "freyr", "luz"],
+    content: `## O Reino Luminoso
+
+**Alfheim** é o mundo dos **Ljósálfar**, os elfos da luz — seres de beleza sobrenatural e luminosidade etérea. É um dos reinos mais belos e misteriosos dos Nove Mundos, banhado por uma luz dourada perpétua.
+
+## Os Elfos da Luz
+
+Os **Ljósálfar** são descritos como seres mais belos que o sol, dotados de grande poder mágico. Eles são associados à beleza, à cura, à inspiração artística e à magia benéfica. Na tradição nórdica, os elfos eram venerados e recebiam oferendas chamadas **álfablót**.
+
+## O Domínio de Freyr
+
+Segundo a Edda em Prosa de Snorri Sturluson, Alfheim foi dado ao deus **Freyr** como presente de dentição quando ele era criança. Freyr governa este reino com sabedoria e generosidade, refletindo a natureza luminosa e fértil de seus habitantes.
+
+## Magia e Influência
+
+Os elfos da luz possuem uma conexão profunda com a magia natural e a fertilidade. Acreditava-se que eles podiam trazer bênçãos ou maldições aos humanos, e que sua presença estava ligada à saúde, à prosperidade e à beleza do mundo natural.`,
+  },
+  {
+    slug: "midgard",
+    title: "Midgard — O Mundo dos Humanos",
+    description: "O mundo dos humanos, cercado por um grande oceano onde vive Jörmungandr. Criado a partir do corpo do gigante Ymir.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/midgard.png",
+    tags: ["midgard", "nove mundos", "humanos", "jormungandr", "ymir", "terra"],
+    content: `## A Terra dos Mortais
+
+**Midgard** é o mundo dos humanos, o reino central na cosmologia nórdica. Situado no meio de Yggdrasil, é cercado por um vasto oceano onde habita **Jörmungandr**, a colossal Serpente do Mundo, cujo corpo imenso circunda toda a terra.
+
+## A Criação de Midgard
+
+Midgard foi criado pelos deuses **Odin**, **Vili** e **Vé** a partir do corpo do gigante primordial **Ymir**. Sua carne tornou-se a terra, seu sangue os oceanos, seus ossos as montanhas, seus cabelos as árvores, e seu crânio o céu, sustentado por quatro anões nos pontos cardeais.
+
+## A Conexão com os Deuses
+
+Midgard está conectado a Asgard pela ponte **Bifrost**, o arco-íris flamejante. Os deuses frequentemente visitam Midgard, e muitas das sagas nórdicas narram as aventuras de Thor, Odin e Loki entre os humanos. Os primeiros humanos, **Ask** e **Embla**, foram criados por Odin a partir de troncos de árvore.
+
+## O Destino de Midgard
+
+Durante o **Ragnarök**, Midgard será devastado. Jörmungandr emergirá do oceano, causando maremotos colossais. Surtur lançará fogo sobre o mundo. Mas após a destruição, uma nova terra verde e fértil surgirá das águas, e dois sobreviventes humanos — **Líf** e **Lífþrasir** — repovoarão o mundo renascido.`,
+  },
+  {
+    slug: "jotunheim",
+    title: "Jotunheim — A Terra dos Gigantes",
+    description: "Terra dos gigantes (Jotnar), seres antigos e poderosos que representam forças caóticas da natureza.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/jotunheim.png",
+    tags: ["jotunheim", "nove mundos", "gigantes", "jotnar", "caos", "utgard"],
+    content: `## O Reino dos Jotnar
+
+**Jotunheim** é a terra dos **Jotnar** — os gigantes — seres antigos e poderosos que representam as forças caóticas e indomáveis da natureza. É um reino vasto, selvagem e perigoso, de montanhas colossais, florestas impenetráveis e rios gelados.
+
+## Os Gigantes
+
+Os Jotnar não são meramente criaturas de grande tamanho — são entidades primordiais que personificam as forças brutas do cosmos. Existem gigantes de gelo (**Hrímþursar**), gigantes de fogo, gigantes de montanha e muitos outros. Alguns são hostis aos deuses, enquanto outros mantêm relações complexas com os Aesir.
+
+## Útgarðr
+
+A fortaleza de **Útgarðr**, governada pelo astuto **Útgarða-Loki**, é um dos locais mais famosos de Jotunheim. Foi lá que Thor, Loki e Thjalfi foram submetidos a desafios aparentemente simples que se revelaram ilusões mágicas de proporções cósmicas.
+
+## Relações com os Deuses
+
+Apesar da rivalidade, a relação entre deuses e gigantes é complexa. Muitos deuses têm ascendência gigante — a própria mãe de Thor, **Jörð**, é uma giganta. Odin buscou sabedoria entre os gigantes, e Freyr apaixonou-se pela giganta **Gerðr**. No Ragnarök, porém, gigantes e deuses se enfrentarão na batalha final.`,
+  },
+  {
+    slug: "muspelheim",
+    title: "Muspelheim — O Reino Primordial do Fogo",
+    description: "Reino primordial do fogo, governado por Surtr. Mundo de chamas eternas e destruição.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/muspelheim.png",
+    tags: ["muspelheim", "nove mundos", "fogo", "surtr", "ragnarok", "primordial"],
+    content: `## O Mundo das Chamas Eternas
+
+**Muspelheim** é o reino primordial do fogo, um dos dois mundos que existiam antes de toda a criação. É um lugar de chamas eternas, calor insuportável e destruição latente, governado pelo temível gigante de fogo **Surtr**, que empunha uma espada flamejante mais brilhante que o sol.
+
+## A Criação do Cosmos
+
+No princípio, quando apenas o vazio de **Ginnungagap** existia, Muspelheim ocupava o sul e **Niflheim** o norte. Quando as faíscas e o calor de Muspelheim encontraram o gelo de Niflheim no abismo primordial, o derretimento deu origem a **Ymir**, o primeiro gigante, e à vaca **Auðumbla** — iniciando assim toda a criação.
+
+## Surtr, o Guardião
+
+**Surtr** ("O Negro") é o guardião de Muspelheim desde antes do início dos tempos. Ele aguarda pacientemente na fronteira de seu reino, preparando-se para o dia em que marchará contra os deuses. Sua espada flamejante é capaz de consumir mundos inteiros.
+
+## O Papel no Ragnarök
+
+No **Ragnarök**, os filhos de Muspel marcharão sobre Bifrost, destruindo a ponte arco-íris sob o peso de seus exércitos de fogo. Surtr enfrentará **Freyr** em combate e, após a batalha final, lançará fogo sobre todos os Nove Mundos, consumindo a criação em chamas purificadoras que darão lugar a um novo começo.`,
+  },
+  {
+    slug: "niflheim",
+    title: "Niflheim — O Reino Primordial do Gelo",
+    description: "Reino primordial do gelo e da névoa. Um dos mundos mais antigos, associado ao frio absoluto e às origens da criação.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/niflheim.png",
+    tags: ["niflheim", "nove mundos", "gelo", "nevoa", "hvergelmir", "primordial"],
+    content: `## O Mundo do Gelo e da Névoa
+
+**Niflheim** é o reino primordial do gelo e da névoa, um dos mundos mais antigos da cosmologia nórdica. É um lugar de frio absoluto, escuridão perpétua e silêncio glacial — a antítese perfeita de Muspelheim.
+
+## As Origens da Criação
+
+Niflheim existia antes de toda a criação, ocupando o norte do vazio primordial **Ginnungagap**. De sua fonte central, **Hvergelmir**, fluíam onze rios venenosos chamados **Élivágar**. Quando o gelo desses rios encontrou o calor de Muspelheim, a vida surgiu — primeiro Ymir, o gigante primordial, e depois toda a criação.
+
+## Hvergelmir — A Fonte Primordial
+
+No coração de Niflheim encontra-se **Hvergelmir**, a fonte rugidora de onde todos os rios do cosmos se originam. É aqui que o dragão **Níðhöggr** rói as raízes de Yggdrasil, e incontáveis serpentes habitam suas águas geladas.
+
+## O Frio Absoluto
+
+Niflheim é associado ao frio absoluto e às origens mais remotas da existência. Seu gelo primordial continha o potencial latente da vida, que só se manifestou ao encontrar o calor oposto. Este dualismo entre gelo e fogo é fundamental na cosmovisão nórdica — a criação nasce do encontro dos opostos.`,
+  },
+  {
+    slug: "svartalfheim",
+    title: "Svartalfheim — O Mundo Subterrâneo dos Anões",
+    description: "Mundo subterrâneo dos anões (ou elfos negros), mestres da forja e criadores de artefatos lendários.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/svartalfheim.png",
+    tags: ["svartalfheim", "nove mundos", "anoes", "elfos negros", "forja", "artefatos"],
+    content: `## As Forjas Subterrâneas
+
+**Svartalfheim** (também chamado **Nidavellir**) é o mundo subterrâneo dos anões — ou elfos negros (**Svartálfar**) — mestres inigualáveis da forja e criadores dos mais poderosos artefatos da mitologia nórdica.
+
+## Os Anões Artesãos
+
+Os anões de Svartalfheim são os maiores artesãos de todos os Nove Mundos. Nascidos dos vermes que se alimentavam da carne do gigante Ymir, eles foram dotados de inteligência e habilidade sobre-humanas. Vivem em salões subterrâneos iluminados pelo brilho de suas forjas eternas.
+
+## Artefatos Lendários
+
+Das forjas de Svartalfheim surgiram os artefatos mais poderosos da mitologia nórdica:
+
+- **Mjölnir:** O martelo de Thor, forjado pelos irmãos Brokkr e Sindri
+- **Gungnir:** A lança de Odin, que nunca erra o alvo
+- **Draupnir:** O anel de ouro de Odin, que se multiplica a cada nove noites
+- **Skíðblaðnir:** O navio de Freyr, que sempre tem vento favorável e pode ser dobrado como um pano
+- **Gleipnir:** A corrente mágica que aprisiona Fenrir
+
+## A Importância Cósmica
+
+Svartalfheim representa a engenhosidade, a criação e o poder da transformação. Os anões são intermediários entre o mundo bruto dos materiais e o mundo divino dos artefatos mágicos. Sem suas criações, os deuses não teriam as armas necessárias para enfrentar o Ragnarök.`,
+  },
+  {
+    slug: "helheim",
+    title: "Helheim — O Reino dos Mortos",
+    description: "Reino dos mortos que não morreram em batalha, governado por Hel. Um lugar sombrio e silencioso.",
+    category: "mundos",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/mundos/helheim.png",
+    tags: ["helheim", "nove mundos", "hel", "mortos", "submundo", "baldr"],
+    content: `## O Domínio de Hel
+
+**Helheim** é o reino dos mortos que não pereceram em batalha — aqueles que morreram de doença, velhice ou causas naturais. É governado por **Hel**, filha de Loki e da giganta Angrboda, uma figura meio viva e meio morta, com metade do corpo belo e a outra em decomposição.
+
+## A Jornada dos Mortos
+
+Para chegar a Helheim, os mortos devem percorrer a **Helvegr** (Caminho de Hel), uma estrada escura e descendente. Devem cruzar o rio **Gjöll** pela ponte **Gjallarbrú**, guardada pela giganta **Módguðr**. Além da ponte, encontram os portões de Helheim, guardados pelo cão **Garmr**.
+
+## Um Lugar Sombrio
+
+Helheim é descrito como um lugar sombrio, frio e silencioso — mas não necessariamente um lugar de tormento como o inferno cristão. É um reino de existência apagada, onde os mortos levam uma existência pálida e sem glória. O salão de Hel chama-se **Éljúðnir** (Úmido de Chuva), e seu prato é **Hungr** (Fome).
+
+## Baldr em Helheim
+
+O episódio mais famoso envolvendo Helheim é a morte de **Baldr**, o deus da luz. Após ser morto por um ramo de visco manipulado por Loki, Baldr foi enviado a Helheim. Hermoðr cavalgou até lá para negociar seu retorno, mas Hel exigiu que todas as criaturas chorassem por Baldr — e uma giganta (Loki disfarçado) recusou-se, selando o destino do deus até o Ragnarök.`,
+  },,
   {
     slug: "fehu",
     title: "Fehu ᚠ — A Runa da Riqueza",
