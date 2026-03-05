@@ -424,7 +424,132 @@ Helheim é descrito como um lugar sombrio, frio e silencioso — mas não necess
 ## Baldr em Helheim
 
 O episódio mais famoso envolvendo Helheim é a morte de **Baldr**, o deus da luz. Após ser morto por um ramo de visco manipulado por Loki, Baldr foi enviado a Helheim. Hermoðr cavalgou até lá para negociar seu retorno, mas Hel exigiu que todas as criaturas chorassem por Baldr — e uma giganta (Loki disfarçado) recusou-se, selando o destino do deus até o Ragnarök.`,
-  },,
+  }
+  {
+    slug: "sigurd",
+    title: "Sigurd — O Matador de Dragões",
+    description: "Maior herói da Saga dos Volsungos. Matou o dragão Fafnir e tomou posse do tesouro amaldiçoado dos Nibelungos. Após provar do sangue do dragão, passou a compreender a linguagem dos pássaros, que o alertaram sobre traições. Sua história é marcada por bravura, destino trágico e honra.",
+    category: "herois",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/herois/sigurd.png",
+    tags: ["sigurd", "heroi", "fafnir", "dragao", "nibelungos", "volsungos"],
+    content: `## O Maior Herói dos Volsungos
+
+**Sigurd** é amplamente considerado o maior herói da mitologia nórdica, protagonista da **Saga dos Volsungos**. Sua vida é uma narrativa épica de bravura, destino trágico e honra incomparável. Nascido de uma linhagem de reis e guerreiros, Sigurd estava destinado a realizar feitos que ecoariam através dos séculos.
+
+## A Morte de Fafnir
+
+O feito mais famoso de Sigurd foi a morte do dragão **Fafnir**, guardião do tesouro amaldiçoado dos Nibelungos. Sigurd, armado com a espada **Gram** (reforjada a partir dos fragmentos da lendária **Odin's Sword**), enfrentou o dragão em combate mortal. Sua bravura e habilidade com a espada permitiram-lhe vencer a criatura, conquistando assim o tesouro maldito.
+
+## O Sangue do Dragão
+
+Após derrotar Fafnir, Sigurd provou do sangue do dragão — um ato que lhe conferiu poderes extraordinários. Passou a compreender a linguagem dos pássaros, que o alertaram sobre traições futuras. Alguns relatos sugerem que o sangue do dragão também lhe concedeu sabedoria mágica e proteção contra ferimentos.
+
+## Destino Trágico
+
+Apesar de sua força e heroísmo, Sigurd não conseguiu escapar de seu destino trágico. Envolvido em um triângulo amoroso com a valquíria **Brynhildr** e a rainha **Gudrun**, suas ações desencadearam uma série de traições e mortes que culminaram em sua própria morte. Sua história exemplifica o conceito nórdico de **wyrd** — o destino inexorável que até mesmo os maiores heróis não podem evitar.`,
+  },
+  {
+    slug: "beowulf",
+    title: "Beowulf — O Herói Imortal",
+    description: "Herói do épico anglo-saxão Beowulf. Derrotou o monstro Grendel e sua mãe, tornando-se rei. Já idoso, enfrentou um dragão para proteger seu povo, sacrificando a própria vida. Representa coragem, honra e o destino inevitável da morte heroica.",
+    category: "herois",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/herois/beowulf.png",
+    tags: ["beowulf", "heroi", "grendel", "anglo-saxao", "dragao", "coragem"],
+    content: `## O Épico de Beowulf
+
+**Beowulf** é o protagonista do épico anglo-saxão homônimo, um dos textos mais antigos da literatura germânica. Embora não seja estritamente nórdico, sua história reflete profundamente os valores e a mitologia compartilhados entre povos germânicos e escandinavos. Beowulf encarna o ideal do guerreiro perfeito — forte, corajoso, honrado e determinado.
+
+## A Derrota de Grendel
+
+Beowulf ganhou fama ao derrotar **Grendel**, um monstro que aterrorizava o reino de Hrothgar. Sem usar armas, Beowulf enfrentou o monstro em combate corpo a corpo, arrancando-lhe o braço. Este feito demonstrou sua força sobre-humana e sua coragem inabalável, estabelecendo-o como um herói de renome.
+
+## A Mãe de Grendel
+
+Após a morte de Grendel, a mãe do monstro — igualmente formidável — atacou o reino em vingança. Beowulf a perseguiu até sua toca subaquática e a derrotou, matando-a com uma espada gigante que encontrou em seu covil. Este segundo triunfo consolidou seu status como o guerreiro mais poderoso de sua era.
+
+## O Rei Guerreiro e o Dragão Final
+
+Beowulf ascendeu ao trono e reinou com honra e sabedoria por muitos anos. Já idoso, enfrentou um dragão que ameaçava seu reino. Apesar de sua idade avançada, Beowulf lutou contra a criatura para proteger seu povo, sacrificando sua própria vida no processo. Sua morte em batalha, defendendo aqueles que amava, o eternizou como símbolo supremo de honra e coragem.`,
+  },
+  {
+    slug: "ragnar-lodbrok",
+    title: "Ragnar Lothbrok — O Rei Lendário",
+    description: "Guerreiro lendário e rei viking presente em diversas sagas. Famoso por suas expedições e invasões. Sua morte lendária em um poço de serpentes reforçou sua imagem como símbolo de coragem e destino inevitável.",
+    category: "herois",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/herois/ragnar-lodbrok.png",
+    tags: ["ragnar", "lodbrok", "viking", "heroi", "serpentes", "lenda"],
+    content: `## O Guerreiro Lendário
+
+**Ragnar Lothbrok** (também conhecido como Ragnar Lodbrog) é uma figura lendária que aparece em diversas sagas nórdicas e crônicas históricas. Sua existência histórica é debatida pelos estudiosos, mas sua lenda é inegável — um guerreiro e rei viking de coragem extraordinária e destino épico.
+
+## As Expedições e Invasões
+
+Ragnar é famoso por suas expedições militares e invasões bem-sucedidas. Segundo as sagas, ele navegou pelos mares nórdicos, conquistando terras e riquezas. Sua reputação como estrategista militar e guerreiro feroz se espalhou por toda a Europa, tornando seu nome sinônimo de poder viking e conquista.
+
+## A Morte no Poço de Serpentes
+
+A morte lendária de Ragnar é talvez seu legado mais duradouro. Capturado pelo rei Aella da Nortúmbria, Ragnar foi executado sendo lançado em um poço cheio de serpentes venenosas. Segundo a lenda, ele enfrentou sua morte com coragem inabalável, cantando suas façanhas enquanto as serpentes o devoravam — um final digno de um verdadeiro herói nórdico.
+
+## Símbolo de Destino Inevitável
+
+A história de Ragnar exemplifica o conceito nórdico de **wyrd** — o destino que não pode ser evitado. Apesar de sua força e poder, ele não conseguiu escapar de seu destino trágico. Sua morte no poço de serpentes reforçou sua imagem como símbolo supremo de coragem diante do inevitável, inspirando gerações de guerreiros e heróis.`,
+  },
+  {
+    slug: "hrolf-kraki",
+    title: "Hrolf Kraki — O Rei Generoso",
+    description: "Rei lendário da Dinamarca, conhecido por bravura e generosidade. Liderava um grupo de guerreiros de elite, incluindo berserkers. Sua história mistura heroísmo, honra e tragédia nas antigas tradições escandinavas.",
+    category: "herois",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/herois/hrolf-kraki.png",
+    tags: ["hrolf", "kraki", "dinamarca", "heroi", "berserkers", "generosidade"],
+    content: `## O Rei Lendário da Dinamarca
+
+**Hrolf Kraki** é um rei lendário da Dinamarca, figura central na **Saga de Hrolf Kraki**. Conhecido por sua bravura extraordinária, generosidade sem limites e liderança inspiradora, Hrolf Kraki representa o ideal do rei guerreiro nórdico — um líder que não apenas governa, mas também lidera seus homens na batalha.
+
+## Os Guerreiros de Elite
+
+Hrolf Kraki era famoso por liderar um grupo de guerreiros de elite, incluindo **berserkers** — guerreiros em transe de batalha que lutavam com fúria selvagem e invencibilidade aparente. Estes homens eram lendários por sua lealdade a Hrolf e sua capacidade de vencer batalhas contra odds impossíveis.
+
+## Bravura e Honra
+
+As histórias de Hrolf Kraki destacam sua coragem pessoal e honra inquebrantável. Ele não era apenas um rei que ordenava seus homens a lutar — era um guerreiro que lutava ao lado deles, compartilhando os perigos e a glória da batalha. Sua generosidade era lendária, recompensando seus seguidores com riquezas e honra.
+
+## Tragédia e Legado
+
+Como muitos heróis nórdicos, a história de Hrolf Kraki é marcada pela tragédia. Suas sagas narram conflitos, traições e batalhas que culminam em sua morte. No entanto, seu legado permanece — um símbolo de liderança heroica, bravura inabalável e honra que transcende a morte, inspirando gerações futuras de guerreiros e reis.`,
+  },
+  {
+    slug: "helgi-gundingsbane",
+    title: "Helgi Hundingsbane — O Herói Trágico",
+    description: "Herói trágico da tradição dos Volsungos. Famoso por matar Hunding e por seu romance com a valquíria Sigrún. Sua narrativa envolve batalhas, honra e amor marcado pelo destino.",
+    category: "herois",
+    section: "glossario",
+    date: "2026-03-05",
+    cover: "/images/glossario/herois/helgi-gundingsbane.png",
+    tags: ["helgi", "hundingsbane", "heroi", "valkiquia", "sigrun", "tragedia"],
+    content: `## O Herói dos Volsungos
+
+**Helgi Hundingsbane** é um herói trágico da tradição dos Volsungos, figura que aparece em várias sagas e poemas nórdicos. Seu nome, que significa "Matador de Hunding", refere-se ao seu feito mais famoso — a morte de Hunding, um inimigo poderoso. Helgi encarna o arquétipo do guerreiro nórdico: corajoso, honrado e marcado pelo destino.
+
+## A Morte de Hunding
+
+O feito que deu nome a Helgi foi a morte de **Hunding**, um guerreiro formidável. Em combate mortal, Helgi demonstrou sua maestria com a espada e sua coragem inabalável, derrotando um inimigo que muitos consideravam invencível. Este triunfo estabeleceu sua reputação como um dos maiores guerreiros de sua era.
+
+## O Romance com Sigrún
+
+A história de Helgi é profundamente marcada por seu romance com **Sigrún**, uma valquíria — uma das guerreiras divinas de Odin. Este romance transcende as barreiras entre o mundo mortal e o divino, representando um amor épico e trágico. A união entre herói e valquíria é central em muitas sagas nórdicas, simbolizando a conexão entre a coragem humana e o destino divino.
+
+## Batalha, Honra e Destino
+
+A narrativa de Helgi envolve batalhas épicas, honra inabalável e o cumprimento inexorável do destino. Suas ações em batalha refletem os valores nórdicos de coragem e lealdade, enquanto seu romance com Sigrún adiciona uma dimensão emocional profunda à sua história. Como muitos heróis nórdicos, Helgi não consegue escapar de seu destino trágico, mas enfrenta-o com a dignidade e coragem que definem o verdadeiro herói.`,
+  },
   {
     slug: "fehu",
     title: "Fehu ᚠ — A Runa da Riqueza",
