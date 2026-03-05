@@ -1,7 +1,7 @@
 import { useMemo } from "react";
 import { useLocation } from "wouter";
 import { getContentBySlug, getContentBySectionAndCategory } from "@/lib/content";
-import { getSectionBySlug, getCategoryBySlug } from "@/lib/sections";
+import { getSectionBySlug, getCategoryBySlug, getSubcategoryBySlug } from "@/lib/sections";
 import Breadcrumb from "@/components/Breadcrumb";
 import ContentCard from "@/components/ContentCard";
 import { Streamdown } from "streamdown";
@@ -13,22 +13,59 @@ interface ContentDetailProps {
   section: string;
   category: string;
   slug: string;
+  subcategory?: string;
 }
 
-export default function ContentDetail({ section, category, slug }: ContentDetailProps) {
-  const item = getContentBySlug(section, slug);
+export default function ContentDetail({
+  section,
+  category,
+  slug,
+  subcategory,
+}: ContentDetailProps) {
+  const [, navigate] = useLocation();
+
   const sectionConfig = getSectionBySlug(section);
   const categoryConfig = getCategoryBySlug(section, category);
-  const [, navigate] = useLocation();
+  const subcategoryConfig = subcategory
+    ? getSubcategoryBySlug(section, category, subcategory)
+    : undefined;
+
+  // Busca do item:
+  // 1) tenta bater com section + category (+ subcategory) + slug (mais seguro)
+  // 2) fallback para section + slug (compatibilidade)
+  const item = useMemo(() => {
+    const bySectionAndCategory = getContentBySectionAndCategory(section, category);
+
+    const precise = bySectionAndCategory.find((i) => {
+      if (i.slug !== slug) return false;
+
+      // se a rota veio com subcategory, o item tem que bater
+      if (subcategory) return i.subcategory === subcategory;
+
+      // se a rota não veio com subcategory, aceita item sem subcategory
+      // (mantém compatível com o que já existe)
+      return !i.subcategory;
+    });
+
+    return precise || getContentBySlug(section, slug);
+  }, [section, category, subcategory, slug]);
 
   useDocumentTitle(item?.title || "Não encontrado");
 
   const relatedItems = useMemo(() => {
     if (!item) return [];
-    return getContentBySectionAndCategory(section, category)
-      .filter((i) => i.slug !== slug)
-      .slice(0, 3);
-  }, [section, category, slug, item]);
+
+    // começa com a mesma categoria
+    let list = getContentBySectionAndCategory(section, category).filter((i) => i.slug !== slug);
+
+    // se estamos dentro de uma subcategory, prioriza relacionados da mesma subcategory
+    if (subcategory) {
+      const sameSub = list.filter((i) => i.subcategory === subcategory);
+      if (sameSub.length > 0) list = sameSub;
+    }
+
+    return list.slice(0, 3);
+  }, [section, category, subcategory, slug, item]);
 
   if (!item || !sectionConfig) {
     return (
@@ -67,7 +104,20 @@ export default function ContentDetail({ section, category, slug }: ContentDetail
           <Breadcrumb
             items={[
               { label: sectionConfig.title, href: `/${section}` },
+
+              // categoria sempre aparece
               { label: categoryConfig?.title || category, href: `/${section}?categoria=${category}` },
+
+              // se existir subcategory, insere no breadcrumb
+              ...(subcategory
+                ? [
+                    {
+                      label: subcategoryConfig?.title || subcategory,
+                      href: `/${section}?categoria=${category}&subcategoria=${subcategory}`,
+                    },
+                  ]
+                : []),
+
               { label: item.title },
             ]}
           />
@@ -90,18 +140,21 @@ export default function ContentDetail({ section, category, slug }: ContentDetail
                   })}
                 </time>
               </div>
+
               {item.author && (
                 <div className="flex items-center gap-1.5">
                   <User className="w-4 h-4 text-gold/70" />
                   <span>{item.author}</span>
                 </div>
               )}
+
               {item.platform && (
                 <div className="flex items-center gap-1.5">
                   <Gamepad2 className="w-4 h-4 text-gold/70" />
                   <span>{item.platform}</span>
                 </div>
               )}
+
               {item.players && (
                 <div className="flex items-center gap-1.5">
                   <Users className="w-4 h-4 text-gold/70" />
@@ -129,7 +182,8 @@ export default function ContentDetail({ section, category, slug }: ContentDetail
             </p>
 
             {/* Content */}
-            <article className="prose prose-invert prose-lg max-w-none
+            <article
+              className="prose prose-invert prose-lg max-w-none
               prose-headings:font-display prose-headings:text-foreground prose-headings:tracking-wide
               prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:text-gold
               prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
@@ -138,7 +192,8 @@ export default function ContentDetail({ section, category, slug }: ContentDetail
               prose-li:text-muted-foreground
               prose-a:text-gold prose-a:no-underline hover:prose-a:underline
               prose-ul:list-disc prose-ol:list-decimal
-            ">
+            "
+            >
               <Streamdown>{item.content}</Streamdown>
             </article>
           </div>
