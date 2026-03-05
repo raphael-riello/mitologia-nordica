@@ -800,30 +800,6 @@ Após sua morte, seu sangue é transformado no **Hidromel da Poesia**, fonte da 
 
 Kvasir é morto por anões que desejam sua sabedoria — seu sacrifício gera a arte. Assim como muitos heróis nórdicos, Kvasir não consegue escapar de seu destino, mas sua morte não é vã: ela transforma sua sabedoria em algo que pode ser compartilhado e apreciado por todos.`,
   },
-  {
-    slug: "fenrir",
-    title: "Fenrir — O Lobo do Apocalipse",
-    description: "Fenrir, o lobo monstruoso filho de Loki, destinado a devorar Odin no Ragnarök. Uma das criaturas mais temidas da mitologia nórdica.",
-    category: "criaturas",
-    subcategory: "monstros"
-    section: "glossario",
-    date: "2025-01-10",
-    cover: "/images/glossario/criaturas/monstros/fenrir.png",
-    tags: ["fenrir", "lobo", "loki", "ragnarok", "gleipnir"],
-    content: `## O Lobo Monstruoso
-
-**Fenrir** (também chamado Fenrisúlfr) é um lobo gigantesco, filho de Loki e da giganta Angrboða. Junto com Jörmungandr e Hel, forma a tríade de filhos monstruosos de Loki.
-
-## A Corrente Gleipnir
-
-Os deuses, temendo a profecia de que Fenrir causaria grande destruição, tentaram acorrentá-lo. Após duas correntes comuns falharem, os anões forjaram **Gleipnir** — uma corrente mágica feita de seis ingredientes impossíveis: o som dos passos de um gato, a barba de uma mulher, as raízes de uma montanha, os tendões de um urso, o sopro de um peixe e a saliva de um pássaro.
-
-Fenrir, desconfiado, só aceitou ser amarrado se um dos deuses colocasse a mão em sua boca como garantia. **Týr**, o deus da justiça, sacrificou sua mão direita quando Fenrir percebeu que não conseguia se libertar.
-
-## O Ragnarök
-
-No fim dos tempos, Fenrir rompe suas correntes. Sua mandíbula se abre do chão ao céu. Ele devora Odin, o Pai de Todos, mas é morto por **Víðarr**, filho de Odin, que rasga sua mandíbula com uma bota mágica.`,
-  },
 {
   slug: "alf",
   title: "Álfr — O Anão de Nome Élfico",
