@@ -162,7 +162,7 @@ Thor é famoso por suas batalhas contra os gigantes (Jötnar), sendo o principal
 
 No fim dos tempos, Thor enfrenta seu arqui-inimigo Jörmungandr, a Serpente do Mundo. Ele consegue matar a serpente com Mjölnir, mas sucumbe ao veneno dela, caindo morto após dar nove passos.`,
   },
-  
+  {
     slug: "njord",
     title: "Njord — O Deus do Mar e da Prosperidade",
     category: "deuses",
