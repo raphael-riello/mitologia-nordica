@@ -110,8 +110,9 @@ Yggdrasil nos ensina que tudo no universo está conectado — como os galhos de 
     description: "Odin, o deus supremo da mitologia nórdica, senhor de Asgard, deus da sabedoria, guerra, morte e poesia. Sacrificou um olho pela sabedoria e se pendurou em Yggdrasil por nove dias para obter as runas.",
     category: "deuses",
     section: "glossario",
+    subcategory: "aesir",
     date: "2025-01-01",
-    cover: "/images/glossario/deuses/odin.jpg",
+    cover: "/images/glossario/deuses/aesir/odin.jpg",
     tags: ["odin", "aesir", "asgard", "sabedoria", "runas", "valhalla"],
     content: `## O Pai de Todos
 
@@ -138,8 +139,9 @@ No Ragnarök, Odin lidera os Einherjar contra as forças do caos. Ele enfrenta o
     description: "Thor, o poderoso deus do trovão, protetor de Midgard e Asgard, empunhando o lendário martelo Mjölnir. Filho de Odin e Jörð, é o mais forte dos deuses nórdicos.",
     category: "deuses",
     section: "glossario",
+    subcategory: "aesir",
     date: "2025-01-02",
-    cover: "/images/glossario/deuses/thor.jpg",
+    cover: "/images/glossario/deuses/aesir/thor.jpg",
     tags: ["thor", "mjolnir", "trovao", "aesir", "midgard"],
     content: `## O Protetor de Midgard
 
@@ -513,9 +515,23 @@ export function getContentBySection(section: string): ContentItem[] {
   return allContent.filter((item) => item.section === section);
 }
 
-export function getContentBySectionAndCategory(section: string, category: string): ContentItem[] {
+export function getContentBySectionAndCategory(
+  section: string,
+  category: string,
+  subcategory?: string
+): ContentItem[] {
   if (category === "todos") return getContentBySection(section);
-  return allContent.filter((item) => item.section === section && item.category === category);
+
+  return allContent.filter((item) => {
+    if (item.section !== section) return false;
+    if (item.category !== category) return false;
+
+    // se subcategory foi informada, filtra por ela
+    if (subcategory) return item.subcategory === subcategory;
+
+    // se não foi informada, traz tudo da categoria
+    return true;
+  });
 }
 
 export function getContentBySlug(section: string, slug: string): ContentItem | undefined {
