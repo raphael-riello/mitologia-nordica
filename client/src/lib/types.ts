@@ -25,11 +25,17 @@ export interface SectionConfig {
   categories: CategoryConfig[];
 }
 
-export interface CategoryConfig {
+export type SubcategoryConfig = {
+  slug: string;
+  title: string;
+};
+
+export type CategoryConfig = {
   slug: string;
   title: string;
   description: string;
   icon: string;
+  subcategories?: SubcategoryConfig[];
 }
 
 export type Section = "historias" | "glossario" | "jogos" | "conteudo" | "comunidade";
