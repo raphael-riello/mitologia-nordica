@@ -424,7 +424,7 @@ Helheim é descrito como um lugar sombrio, frio e silencioso — mas não necess
 ## Baldr em Helheim
 
 O episódio mais famoso envolvendo Helheim é a morte de **Baldr**, o deus da luz. Após ser morto por um ramo de visco manipulado por Loki, Baldr foi enviado a Helheim. Hermoðr cavalgou até lá para negociar seu retorno, mas Hel exigiu que todas as criaturas chorassem por Baldr — e uma giganta (Loki disfarçado) recusou-se, selando o destino do deus até o Ragnarök.`,
-  }
+  },
   {
     slug: "sigurd",
     title: "Sigurd — O Matador de Dragões",
