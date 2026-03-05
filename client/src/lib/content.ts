@@ -141,7 +141,7 @@ No Ragnarök, Odin lidera os Einherjar contra as forças do caos. Ele enfrenta o
     section: "glossario",
     subcategory: "aesir",
     date: "2025-01-02",
-    cover: "/images/glossario/deuses/aesir/thor.jpg",
+    cover: "/images/glossario/deuses/aesir/thor.png",
     tags: ["thor", "mjolnir", "trovao", "aesir", "midgard"],
     content: `## O Protetor de Midgard
 
@@ -169,7 +169,7 @@ No fim dos tempos, Thor enfrenta seu arqui-inimigo Jörmungandr, a Serpente do M
     section: "glossario",
     subcategory: "vanir",
     date: "2026-03-05",
-    cover: "/images/glossario/deuses/vanir/njord.jpg",
+    cover: "/images/glossario/deuses/vanir/njord.png",
     tags: ["njord", "vanir", "mar", "navegacao", "riqueza", "vento"],
     content: `## O Deus do Mar
 
@@ -194,7 +194,7 @@ Diferente dos Aesir guerreiros, Njord é pacífico, equilibrado e benevolente. S
     section: "glossario",
     subcategory: "vanir",
     date: "2026-03-05",
-    cover: "/images/glossario/deuses/vanir/freyr.jpg",
+    cover: "/images/glossario/deuses/vanir/freyr.png",
     tags: ["freyr", "vanir", "fertilidade", "colheita", "paz", "prosperidade"],
     content: `## O Senhor da Prosperidade Viva
 
@@ -219,7 +219,7 @@ Freyr se apaixona pela giganta **Gerd**, personificação da terra fértil, simb
     section: "glossario",
     subcategory: "vanir",
     date: "2026-03-05",
-    cover: "/images/glossario/deuses/vanir/freya.jpg",
+    cover: "/images/glossario/deuses/vanir/freyja.png",
     tags: ["freyja", "vanir", "amor", "magia", "beleza", "soberania"],
     content: `## A Deusa Suprema do Feminino
 
@@ -244,7 +244,7 @@ Metade dos guerreiros mortos em batalha vai para seu campo **Fólkvangr** (a out
     section: "glossario",
     subcategory: "vanir",
     date: "2026-03-05",
-    cover: "/images/glossario/deuses/vanir/kvasir.jpg",
+    cover: "/images/glossario/deuses/vanir/kvasir.png",
     tags: ["kvasir", "vanir", "sabedoria", "poesia", "conhecimento", "hidromel"],
     content: `## A Sabedoria Perfeita
 
@@ -269,7 +269,7 @@ Kvasir é morto por anões que desejam sua sabedoria — seu sacrifício gera a 
     category: "criaturas",
     section: "glossario",
     date: "2025-01-10",
-    cover: "/images/glossario/criaturas/fenrir.jpg",
+    cover: "/images/glossario/criaturas/fenrir.png",
     tags: ["fenrir", "lobo", "loki", "ragnarok", "gleipnir"],
     content: `## O Lobo Monstruoso
 
@@ -657,7 +657,7 @@ A narrativa de Helgi envolve batalhas épicas, honra inabalável e o cumprimento
     category: "runas",
     section: "glossario",
     date: "2025-02-01",
-    cover: "/images/glossario/runas/fehu.jpg",
+    cover: "/images/glossario/runas/fehu.png",
     tags: ["fehu", "runas", "elder futhark", "riqueza"],
     content: `## Fehu ᚠ
 
