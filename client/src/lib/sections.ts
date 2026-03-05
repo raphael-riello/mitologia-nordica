@@ -21,19 +21,45 @@ export const sections: SectionConfig[] = [
     ],
   },
   {
-    slug: "glossario",
-    title: "Glossário",
-    description: "Enciclopédia dos deuses, criaturas e mundos nórdicos",
-    heroImage: HERO_IMAGES.glossario,
-    categories: [
-      { slug: "deuses", title: "Deuses", description: "Os Aesir e Vanir — divindades nórdicas", icon: "⚡" },
-      { slug: "herois", title: "Heróis", description: "Guerreiros e heróis lendários", icon: "🛡️" },
-      { slug: "mundos", title: "Mundos", description: "Os Nove Mundos de Yggdrasil", icon: "🌍" },
-      { slug: "criaturas", title: "Criaturas", description: "Bestas e seres míticos", icon: "🐉" },
-      { slug: "runas", title: "Runas", description: "Símbolos sagrados do Elder Futhark", icon: "ᚱ" },
-      { slug: "anoes", title: "Anões", description: "Mestres forjadores de Svartalfheim", icon: "⛏️" },
-    ],
-  },
+  slug: "glossario",
+  title: "Glossário",
+  description: "Enciclopédia dos deuses, criaturas e mundos nórdicos",
+  heroImage: HERO_IMAGES.glossario,
+  categories: [
+    {
+      slug: "deuses",
+      title: "Deuses",
+      description: "Os Aesir e Vanir — divindades nórdicas",
+      icon: "⚡",
+      subcategories: [
+        { slug: "aesir", title: "Aesir" },
+        { slug: "vanir", title: "Vanir" },
+        { slug: "outras-entidades", title: "Outras Entidades" }
+      ]
+    },
+
+    {
+      slug: "criaturas",
+      title: "Criaturas",
+      description: "Bestas e seres míticos",
+      icon: "🐉",
+      subcategories: [
+        { slug: "gigantes", title: "Gigantes" },
+        { slug: "monstros", title: "Monstros" },
+        { slug: "espiritos", title: "Espíritos" },
+        { slug: "animais-miticos", title: "Animais Míticos" }
+      ]
+    },
+
+    { slug: "herois", title: "Heróis", description: "Guerreiros e heróis lendários", icon: "🛡️" },
+
+    { slug: "mundos", title: "Mundos", description: "Os Nove Mundos de Yggdrasil", icon: "🌍" },
+
+    { slug: "runas", title: "Runas", description: "Símbolos sagrados do Elder Futhark", icon: "ᚱ" },
+
+    { slug: "anoes", title: "Anões", description: "Mestres forjadores de Svartalfheim", icon: "⛏️" },
+  ],
+},
   {
     slug: "jogos",
     title: "Jogos",
