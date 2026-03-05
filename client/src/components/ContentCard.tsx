@@ -8,7 +8,9 @@ interface ContentCardProps {
 }
 
 export default function ContentCard({ item, index = 0 }: ContentCardProps) {
-  const href = `/${item.section}/${item.category}/${item.slug}`;
+  const href = item.subcategory
+    ? `/${item.section}/${item.category}/${item.subcategory}/${item.slug}`
+    : `/${item.section}/${item.category}/${item.slug}`;
 
   return (
     <motion.div
