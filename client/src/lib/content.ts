@@ -805,9 +805,10 @@ Kvasir é morto por anões que desejam sua sabedoria — seu sacrifício gera a 
     title: "Fenrir — O Lobo do Apocalipse",
     description: "Fenrir, o lobo monstruoso filho de Loki, destinado a devorar Odin no Ragnarök. Uma das criaturas mais temidas da mitologia nórdica.",
     category: "criaturas",
+    subcategory: "monstros"
     section: "glossario",
     date: "2025-01-10",
-    cover: "/images/glossario/criaturas/fenrir.png",
+    cover: "/images/glossario/criaturas/monstros/fenrir.png",
     tags: ["fenrir", "lobo", "loki", "ragnarok", "gleipnir"],
     content: `## O Lobo Monstruoso
 
@@ -823,6 +824,564 @@ Fenrir, desconfiado, só aceitou ser amarrado se um dos deuses colocasse a mão 
 
 No fim dos tempos, Fenrir rompe suas correntes. Sua mandíbula se abre do chão ao céu. Ele devora Odin, o Pai de Todos, mas é morto por **Víðarr**, filho de Odin, que rasga sua mandíbula com uma bota mágica.`,
   },
+{
+  slug: "alf",
+  title: "Álfr — O Anão de Nome Élfico",
+  description: "Álfr (Alf) é um anão listado na Völuspá, na Edda Poética, entre os anões primordiais. Seu nome é particularmente curioso, pois 'álfr' é a palavra nórdica para 'elfo', revelando uma ligação simbólica entre dois povos míticos.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/alf.png",
+  tags: ["alf", "álfr", "anão", "anoes", "völuspá", "edda poetica", "elfo", "criaturas nordicas", "mitologia nordica"],
+  content: `## O Anão de Nome Élfico
+
+**Álfr** (frequentemente anglicizado como **Alf**) aparece na **Völuspá**, um dos poemas da **Edda Poética**, dentro do catálogo de nomes dos **anões primordiais**. Diferente de muitas outras figuras da mitologia nórdica, ele não possui uma narrativa própria preservada — sendo conhecido principalmente pelo significado singular de seu nome.
+
+## Quem é Álfr no Contexto Mítico
+
+Na lista de anões da Völuspá, **Álfr** é mencionado entre as linhagens antigas que surgem nos primórdios do mundo. Esses nomes aparecem como parte de uma tradição poética que registra os povos subterrâneos ligados à criação e à estrutura do cosmos.
+
+Mesmo sem uma história individual detalhada, a presença de Álfr indica sua inclusão entre os **primeiros anões**, seres associados às profundezas da terra e à formação do mundo.
+
+## Um Nome com Significado Curioso
+
+O aspecto mais intrigante de Álfr está no próprio nome. Em nórdico antigo, a palavra:
+
+- **álfr** significa literalmente **“elfo”**
+
+Isso cria uma curiosa ambiguidade dentro da mitologia: um **anão cujo nome significa elfo**. Esse detalhe sugere que, nas tradições mais antigas, as fronteiras entre certos povos míticos talvez fossem mais fluidas do que as categorias posteriores indicam.
+
+## Anões e Elfos no Imaginário Nórdico
+
+Embora anões e elfos sejam frequentemente tratados como povos distintos em interpretações modernas, os textos antigos mostram que as classificações nem sempre eram rígidas. A presença de um nome como Álfr dentro de uma lista de anões reforça a possibilidade de conexões simbólicas ou linguísticas entre essas entidades.
+
+## Significado Cultural
+
+Álfr representa:
+
+- a tradição preservada em listas poéticas antigas
+- a complexidade linguística da mitologia nórdica
+- a relação simbólica entre diferentes povos míticos
+- a memória de nomes que sobreviveram mesmo sem narrativas completas
+
+Mesmo sem um mito próprio detalhado, Álfr permanece como um exemplo de como os textos nórdicos guardam fragmentos valiosos da cosmologia e da linguagem do mundo antigo.`,
+},
+{
+  slug: "skafidur",
+  title: "Skáfiðr — O Anão do Polimento da Matéria",
+  description: "Skáfiðr (Skafidur) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens primordiais dos anões. Seu nome está ligado ao ato de raspar, polir ou refinar a matéria, simbolizando os processos finais de acabamento no trabalho artesanal dos anões.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/skafidur.png",
+  tags: ["skafidur", "skáfiðr", "anão", "anoes", "völuspá", "edda poetica", "forja", "artesanato", "polimento", "mitologia nordica"],
+  content: `## O Anão do Acabamento
+
+**Skáfiðr** (frequentemente anglicizado como **Skafidur**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**. Ele faz parte das linhagens primordiais do povo anão, uma lista que reúne nomes associados à origem, à técnica e às qualidades do trabalho subterrâneo.
+
+Assim como vários anões mencionados na parte final dessa lista, Skáfiðr não possui uma narrativa individual preservada. Seu significado é conhecido principalmente através do **sentido simbólico de seu nome**.
+
+## Quem é Skáfiðr no Contexto Mítico
+
+Os anões listados na Völuspá compõem uma espécie de **genealogia mítica do povo subterrâneo**. Esses nomes podem representar diferentes aspectos da existência anã, como:
+
+- clãs e linhagens
+- qualidades da matéria
+- habilidades artesanais
+- processos técnicos da forja e da escultura
+
+Dentro dessa estrutura, **Skáfiðr** pertence ao grupo de nomes associados a **processos de transformação da matéria**.
+
+## O Significado do Nome
+
+O nome **Skáfiðr** está ligado a verbos que indicam ações como **raspar, aparar, polir ou alisar superfícies**. Isso sugere um simbolismo relacionado ao **acabamento final de um objeto**.
+
+Na tradição artesanal, o trabalho não termina quando a peça é moldada — ele termina quando ela é refinada, ajustada e aperfeiçoada. Skáfiðr representa exatamente essa etapa.
+
+## O Papel dos Processos na Mitologia dos Anões
+
+Muitos anões da tradição nórdica não representam indivíduos isolados, mas **etapas de um processo criativo**. Nesse contexto, Skáfiðr simboliza o momento em que a matéria já transformada recebe sua forma definitiva.
+
+Ele representa:
+
+- o refinamento após a criação
+- o cuidado com detalhes
+- o trabalho paciente que transforma algo bruto em algo completo
+
+## Significado Simbólico
+
+Skáfiðr simboliza:
+
+- o acabamento que dá valor à obra
+- a disciplina do detalhe
+- o refinamento da matéria após a forja
+- a importância das etapas finais de criação
+
+Dentro da tradição da Völuspá, Skáfiðr reforça a ideia de que o poder dos anões não está apenas em criar objetos extraordinários, mas também em **aperfeiçoá-los até que se tornem verdadeiramente dignos de lenda**.`,
+},
+{
+  slug: "virfir",
+  title: "Virfir — O Anão do Entrelaçamento",
+  description: "Virfir é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome carrega um valor simbólico ligado ao entrelaçamento, às formas torcidas e a padrões complexos da matéria, sugerindo os desenhos internos e as estruturas naturais que surgem nas profundezas da terra.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/virfir.png",
+  tags: ["virfir", "anão", "anoes", "völuspá", "edda poetica", "entrelaçamento", "formas", "padrões", "materia", "mitologia nordica"],
+  content: `## O Anão das Formas Complexas
+
+**Virfir** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como muitos nomes presentes nessa lista, ele não possui uma narrativa própria preservada e é compreendido principalmente pelo **valor simbólico do seu nome**.
+
+## Quem é Virfir no Contexto Mítico
+
+Os anões da Völuspá compõem uma espécie de genealogia do povo subterrâneo, e seus nomes frequentemente evocam:
+
+- clãs e linhagens antigas
+- qualidades da matéria
+- padrões naturais
+- processos internos da terra
+
+Dentro dessa estrutura, **Virfir** pertence ao grupo estrutural, anões que expressam **formas e padrões complexos da matéria**, como se fossem a linguagem escondida no interior das rochas e dos metais.
+
+## Entrelaçamento e Formas Torcidas
+
+O nome Virfir é associado à ideia de **entrelaçamento**, torção e composição de formas. Isso pode ser lido de duas maneiras complementares:
+
+- **Na natureza:** veios de minério, camadas dobradas, estruturas retorcidas de pedra e metal, padrões que surgem com pressão e tempo
+- **Na técnica anã:** fios, elos, tramas e encaixes, onde o valor está na forma complexa que dá resistência, beleza e função
+
+Virfir, assim, simboliza o momento em que a matéria deixa de ser simples e passa a carregar desenho, estrutura e padrão.
+
+## Virfir e os Padrões do Subterrâneo
+
+No imaginário nórdico, os anões não apenas fabricam: eles entendem as “regras” da terra por dentro. Virfir representa essa dimensão, a ideia de que existem **padrões ocultos** no mundo subterrâneo, e que dominá-los é parte do poder anão.
+
+## Significado Simbólico
+
+Virfir simboliza:
+
+- estruturas intrincadas e entrelaçadas
+- padrões naturais complexos moldados por tempo e pressão
+- a beleza e a força que nascem do “torcido”, do dobrado, do trabalhado
+- a inteligência técnica aplicada à forma
+
+Dentro do catálogo da Völuspá, Virfir reforça que o povo anão é, ao mesmo tempo, artesão e intérprete da matéria, capaz de ler e criar complexidade onde outros só veem pedra bruta.`,
+},
+{
+  slug: "skirfir",
+  title: "Skirfir — O Anão do Corte da Matéria",
+  description: "Skirfir é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado ao ato de cortar, separar ou dividir a matéria, simbolizando processos fundamentais de transformação e refinamento no trabalho subterrâneo dos anões.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/skirfir.png",
+  tags: ["skirfir", "anão", "anoes", "völuspá", "edda poetica", "corte", "separacao", "materia", "forja", "mitologia nordica"],
+  content: `## O Anão do Corte e da Separação
+
+**Skirfir** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes presentes na parte final dessa lista, ele não possui uma narrativa própria preservada, sendo conhecido principalmente pelo **significado simbólico de seu nome**.
+
+## Quem é Skirfir no Contexto Mítico
+
+Os anões mencionados na Völuspá compõem uma genealogia do povo subterrâneo e frequentemente representam:
+
+- Clãs e linhagens antigas
+- Qualidades da matéria
+- Processos naturais
+- Técnicas artesanais dos anões
+
+Dentro dessa estrutura, **Skirfir** pertence ao grupo estrutural, anões cujos nomes descrevem **processos de transformação da matéria** nas profundezas da terra.
+
+## O Significado do Nome
+
+O nome **Skirfir** está associado à ideia de **cortar, dividir ou separar**. Em termos simbólicos, isso pode representar a etapa em que a matéria bruta precisa ser isolada em partes utilizáveis.
+
+No trabalho subterrâneo dos anões, esse processo é essencial. Antes de forjar um artefato, é necessário separar minério da rocha, dividir blocos de material e preparar cada componente para sua transformação.
+
+## O Processo de Transformação
+
+Na lógica simbólica da mitologia nórdica, cada etapa da criação possui um representante. Skirfir representa o momento em que a matéria deixa de ser um bloco indistinto e passa a ser **organizada e preparada para a criação**.
+
+Esse processo envolve:
+
+- Identificar o que é útil dentro da matéria bruta
+- Separar e preparar os materiais
+- Estabelecer ordem antes da transformação final
+
+## Significado Simbólico
+
+Skirfir simboliza:
+
+- A separação que permite a criação
+- O momento em que a matéria ganha estrutura
+- O conhecimento técnico que antecede a forja
+- A disciplina necessária para transformar recursos naturais em artefatos
+
+Dentro da tradição da Völuspá, Skirfir reforça a ideia de que o poder dos anões não está apenas na criação de objetos mágicos, mas também no domínio completo dos **processos que transformam a matéria desde sua forma mais bruta até sua forma final**.`,
+},
+{
+  slug: "hledjolf",
+  title: "Hléjólfr — O Anão da Proteção Combativa",
+  description: "Hléjólfr (Hledjolf) é um anão listado na Völuspá, na Edda Poética, entre as linhagens anãs primordiais. Seu nome composto sugere uma função ligada à proteção e à combatividade, simbolizando papéis defensivos ou guerreiros dentro da sociedade anã.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/hledjolf.png",
+  tags: ["hledjolf", "hléjólfr", "anão", "anoes", "völuspá", "edda poetica", "protecao", "defesa", "guerreiro", "sociedade anã", "mitologia nordica"],
+  content: `## O Anão da Defesa e da Vigilância
+
+**Hléjólfr** (frequentemente anglicizado como **Hledjolf**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como quase todos os nomes da parte final dessa lista, ele não possui uma narrativa própria preservada e é compreendido principalmente pelo **significado simbólico de seu nome composto**.
+
+## Quem é Hléjólfr no Contexto Mítico
+
+Os anões da Völuspá compõem uma genealogia do povo subterrâneo e seus nomes frequentemente evocam:
+
+- Clãs e linhagens
+- Qualidades da matéria
+- Funções sociais
+- Papéis culturais dentro do mundo anão
+
+Dentro dessa estrutura, **Hléjólfr** pertence ao grupo estrutural, anões cujos nomes indicam **funções protetoras ou guerreiras** dentro da sociedade subterrânea.
+
+## O Significado Simbólico do Nome
+
+O nome composto **Hléjólfr** sugere uma ideia de **proteção combativa**, como alguém que protege não apenas com prudência, mas com capacidade de confronto. Isso aponta para um papel que pode lembrar:
+
+- Guardiões de túneis e entradas
+- Protetores de oficinas e tesouros
+- Defensores de clãs e territórios
+- Escoltas em rotas subterrâneas
+
+Na lógica mítica, nem todo anão é apenas forjador: alguns representam as estruturas que mantêm a comunidade segura para que a criação aconteça.
+
+## Função Protetora na Sociedade Anã
+
+Se os anões são os grandes artesãos do mito nórdico, sua riqueza e seus artefatos exigem defesa. Hléjólfr simboliza a camada social que garante:
+
+- Estabilidade e segurança interna
+- Proteção dos segredos técnicos
+- Manutenção de fronteiras contra invasores
+- Prontidão em tempos de conflito
+
+Ele é a lembrança de que o subterrâneo não é apenas oficina, mas também fortaleza.
+
+## Significado Simbólico
+
+Hléjólfr representa:
+
+- Proteção ativa, não passiva
+- A força que guarda a comunidade
+- O papel de vigiar e defender o que tem valor
+- A ideia de que a criação só floresce onde há segurança
+
+Dentro do catálogo da Völuspá, Hléjólfr reforça que a cultura anã não é apenas técnica, é social e estratégica: um povo que cria maravilhas, mas também sabe protegê-las.`,
+},
+{
+  slug: "hugstari",
+  title: "Hugstari — O Anão do Pensamento Profundo",
+  description: "Hugstari é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado ao pensamento, à mente e à reflexão profunda, simbolizando as qualidades intelectuais e estratégicas do povo anão.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/hugstari.png",
+  tags: ["hugstari", "anão", "anoes", "völuspá", "edda poetica", "mente", "pensamento", "sabedoria", "estrategia", "mitologia nordica"],
+  content: `## O Anão da Mente Profunda
+
+**Hugstari** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes dessa lista, ele não possui uma narrativa individual preservada, sendo conhecido principalmente pelo **significado simbólico de seu nome**.
+
+## Quem é Hugstari no Contexto Mítico
+
+Os anões mencionados na Völuspá formam uma espécie de genealogia do povo subterrâneo. Seus nomes frequentemente representam diferentes aspectos da existência anã, como:
+
+- Clãs e linhagens
+- Qualidades da matéria
+- Forças naturais
+- Atributos mentais ou sociais
+
+Dentro dessa estrutura, **Hugstari** pertence ao grupo estrutural de anões cujos nomes refletem **qualidades psicológicas e intelectuais**.
+
+## O Significado do Nome
+
+O elemento **hug-** em nórdico antigo está ligado à ideia de **mente, pensamento ou espírito interior**. Assim, o nome Hugstari pode ser entendido como alguém associado ao **pensamento profundo, à reflexão e à estratégia**.
+
+Esse significado conecta Hugstari à dimensão intelectual do povo anão, conhecida por sua capacidade de resolver problemas complexos, criar artefatos extraordinários e dominar conhecimentos técnicos difíceis.
+
+## Inteligência na Cultura Anã
+
+No imaginário nórdico, os anões não são apenas artesãos habilidosos, mas também **mentes engenhosas**. Criar objetos mágicos, trabalhar metais raros e compreender os segredos da terra exige planejamento, cálculo e compreensão profunda da matéria.
+
+Hugstari simboliza exatamente essa dimensão mental do povo anão, a capacidade de pensar antes de agir e de encontrar soluções onde outros veem apenas obstáculos.
+
+## Significado Simbólico
+
+Hugstari representa:
+
+- Pensamento estratégico e reflexão profunda
+- Inteligência aplicada ao trabalho artesanal
+- Sabedoria silenciosa que sustenta a criação
+- A mente como ferramenta tão poderosa quanto o martelo ou a forja
+
+Dentro do catálogo da Völuspá, Hugstari reforça que o poder dos anões não está apenas em suas mãos habilidosas, mas também em suas **mentes disciplinadas e criativas**, capazes de imaginar e construir maravilhas.`,
+},
+{
+  slug: "hor",
+  title: "Hór — O Anão da Pedra Crua",
+  description: "Hór é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome curto e arcaico sugere a pedra em seu estado bruto, áspero e mineral, simbolizando as qualidades fundamentais da matéria e os estados primitivos da terra subterrânea.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/hor.png",
+  tags: ["hor", "hór", "anão", "anoes", "völuspá", "edda poetica", "pedra", "materia bruta", "aspereza", "mineral", "mitologia nordica"],
+  content: `## O Anão da Matéria Bruta
+
+**Hór** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui uma narrativa preservada e é conhecido principalmente pelo **valor simbólico de seu nome curto, arcaico e direto**.
+
+## Quem é Hór no Contexto Mítico
+
+Os anões da Völuspá formam uma espécie de genealogia do povo subterrâneo. Seus nomes podem representar:
+
+- Clãs e casas antigas
+- Qualidades fundamentais da matéria
+- Estados e condições da terra
+- Aspectos primitivos do mundo subterrâneo
+
+Dentro dessa estrutura, **Hór** pertence ao grupo estrutural mais primitivo, composto por nomes extremamente curtos que parecem apontar para **propriedades básicas da pedra**.
+
+## Pedra Crua e Aspereza Mineral
+
+O nome Hór sugere a ideia de **aspereza**, de material não trabalhado, de pedra crua. É o estado inicial da matéria antes de qualquer intervenção: sem polimento, sem corte, sem forma final.
+
+Na lógica simbólica do mundo anão, isso é essencial, porque todo artefato começa aqui, na rocha dura, no minério preso, na superfície irregular que ainda não foi domada.
+
+## Hór e os Estados Primitivos da Terra
+
+Se alguns anões representam técnicas e etapas do trabalho (corte, torção, acabamento), Hór representa algo anterior: o **fundamento mineral**. Ele é a lembrança de que o subterrâneo é feito de pressão, peso e tempo, e que a matéria, antes de virar tesouro, é rude e resistente.
+
+## Significado Simbólico
+
+Hór simboliza:
+
+- A pedra em estado bruto
+- A aspereza mineral e a resistência
+- O ponto de partida de toda transformação
+- A base silenciosa sobre a qual a forja e a criação acontecem
+
+Dentro do catálogo da Völuspá, Hór reforça a ideia de que o povo anão não domina apenas o acabamento e a magia, mas também a matéria no seu estado mais primitivo, a rocha dura que sustenta o mundo.`,
+},
+{
+  slug: "dolgthrasir",
+  title: "Dólgþrasir — O Anão da Resistência Vital",
+  description: "Dólgþrasir (Dolgthrasir) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome composto sugere força vital, resistência e persistência, simbolizando as energias internas que sustentam a vida e a sobrevivência no mundo subterrâneo.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/dolgthrasir.png",
+  tags: ["dolgthrasir", "dólgþrasir", "anão", "anoes", "völuspá", "edda poetica", "resistencia", "forca vital", "vida subterranea", "mitologia nordica"],
+  content: `## O Anão da Força Interior
+
+**Dólgþrasir** (frequentemente anglicizado como **Dolgthrasir**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes dessa lista, ele não possui uma narrativa individual preservada e é conhecido principalmente pelo **significado simbólico de seu nome composto**.
+
+## Quem é Dólgþrasir no Contexto Mítico
+
+Os anões mencionados na Völuspá representam diferentes aspectos da existência subterrânea. Seus nomes frequentemente evocam:
+
+- Clãs e linhagens do povo anão  
+- Qualidades da matéria  
+- Processos naturais da terra  
+- Estados vitais ou forças internas da comunidade
+
+Dentro dessa estrutura, **Dólgþrasir** pertence ao grupo estrutural de anões cujos nomes descrevem **forças internas ou estados de vida do povo anão**.
+
+## O Significado do Nome
+
+O nome **Dólgþrasir** pode ser interpretado como a expressão de **energia combativa e resistência vital**. Ele sugere alguém que mantém sua força mesmo diante de pressão, conflito ou adversidade.
+
+No mundo subterrâneo dos anões, onde a vida acontece sob peso de pedra, calor de fornalhas e riscos constantes, essa resistência não é apenas simbólica — é essencial para a sobrevivência.
+
+## Resistência no Mundo Subterrâneo
+
+A cultura anã é frequentemente associada a trabalho duro, disciplina e perseverança. A presença de um nome como Dólgþrasir dentro da genealogia da Völuspá reforça a ideia de que a sociedade anã valoriza qualidades como:
+
+- Persistência diante da dificuldade  
+- Energia vital que sustenta o trabalho  
+- Coragem para enfrentar ambientes hostis  
+- Determinação em proteger a própria comunidade
+
+Dólgþrasir representa a força silenciosa que mantém a vida subterrânea funcionando mesmo sob enorme pressão.
+
+## Significado Simbólico
+
+Dólgþrasir simboliza:
+
+- Resistência vital diante das adversidades  
+- Força interior que sustenta o trabalho e a sobrevivência  
+- Persistência diante da pressão do mundo subterrâneo  
+- A energia que mantém o povo anão ativo e resiliente
+
+Dentro do catálogo da Völuspá, Dólgþrasir reforça que a cultura anã não é apenas técnica e artesanal, mas também profundamente marcada pela **resiliência e pela força de continuar vivendo e criando mesmo nas condições mais duras**.`,
+},
+{
+  slug: "eikinskjaldi",
+  title: "Eikinskjaldi — O Anão do Escudo de Carvalho",
+  description: "Eikinskjaldi é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome composto significa literalmente 'escudo de carvalho', evocando proteção, resistência e a cultura guerreira e artesanal associada ao povo anão.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/eikinskjaldi.png",
+  tags: ["eikinskjaldi", "anão", "anoes", "völuspá", "edda poetica", "escudo", "carvalho", "protecao", "guerreiro", "mitologia nordica"],
+  content: `## O Anão do Escudo de Carvalho
+
+**Eikinskjaldi** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como muitos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado literal e simbólico de seu nome composto**.
+
+## Quem é Eikinskjaldi no Contexto Mítico
+
+Os anões mencionados na Völuspá representam diferentes aspectos da cultura subterrânea e da sociedade anã. Seus nomes frequentemente evocam:
+
+- Clãs e linhagens antigas  
+- Qualidades da matéria  
+- Técnicas e processos artesanais  
+- Objetos e símbolos culturais do povo anão
+
+Dentro dessa estrutura, **Eikinskjaldi** pertence ao grupo estrutural de anões cujos nomes descrevem **objetos, funções ou atributos característicos da cultura anã**.
+
+## O Significado do Nome
+
+O nome **Eikinskjaldi** pode ser dividido em dois elementos:
+
+- **Eikin** — relacionado ao **carvalho**, uma madeira forte e resistente  
+- **Skjaldi** — que significa **escudo**
+
+Assim, o nome pode ser interpretado como **“escudo de carvalho”**, evocando uma imagem de proteção sólida e confiável.
+
+## Escudos e Defesa na Cultura Nórdica
+
+Escudos feitos de madeira resistente eram elementos fundamentais na guerra e na defesa das comunidades nórdicas. O carvalho, conhecido por sua durabilidade, simboliza **força, estabilidade e proteção duradoura**.
+
+Dentro do imaginário anão, essa imagem também pode remeter à habilidade de criar equipamentos defensivos de alta qualidade, capazes de resistir a impactos e proteger guerreiros e tesouros.
+
+## Significado Simbólico
+
+Eikinskjaldi simboliza:
+
+- Proteção firme e confiável  
+- Resistência e durabilidade  
+- A importância dos equipamentos defensivos  
+- A capacidade anã de criar objetos robustos e duradouros
+
+Dentro do catálogo da Völuspá, Eikinskjaldi reforça que o povo anão não está ligado apenas à criação de artefatos mágicos ou preciosos, mas também à produção de ferramentas e proteções que garantem a segurança e a sobrevivência de sua comunidade.`,
+},
+{
+  slug: "ai",
+  title: "Ái — O Anão Primordial da Própria Pedra",
+  description: "Ái é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome extremamente arcaico sugere um vínculo direto com a essência mineral, como se representasse a própria pedra em seu estado mais fundamental e primordial.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/ai.png",
+  tags: ["ai", "ái", "anão", "anoes", "völuspá", "edda poetica", "pedra", "essencia mineral", "primordial", "terra", "mitologia nordica"],
+  content: `## O Nome Mais Antigo da Matéria
+
+**Ái** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como muitos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo valor simbólico de seu nome **extremamente arcaico**, curto e direto.
+
+## Quem é Ái no Contexto Mítico
+
+Os anões da Völuspá formam a genealogia do povo subterrâneo. Seus nomes frequentemente representam:
+
+- Clãs e linhagens antigas  
+- Casas e grupos primordiais  
+- Qualidades fundamentais da matéria  
+- Aspectos primordiais da terra
+
+Dentro dessa estrutura, **Ái** pertence ao nível mais antigo desses nomes, anões que parecem representar não uma técnica ou um objeto, mas a própria **essência mineral**.
+
+## Ái como Essência da Pedra
+
+Enquanto alguns anões do catálogo evocam processos (corte, polimento, torção) ou funções sociais (guarda, proteção), Ái remete ao que existe antes de qualquer trabalho: **a pedra em si**, o fundamento mineral do mundo subterrâneo.
+
+Ele simboliza:
+
+- A matéria bruta antes de ser transformada  
+- A permanência da rocha diante do tempo  
+- A base silenciosa onde veios de minério se formam  
+- O estado primordial da terra, ainda não “moldado” por mãos artesãs
+
+## O Subterrâneo Como Origem
+
+Na cosmologia nórdica, o subterrâneo é lugar de profundezas antigas, pressão e criação lenta. Ái, como nome arcaico e primordial, reforça essa percepção: os anões não são apenas criadores de artefatos, eles são parte das camadas profundas do mundo, próximos do que é mais antigo e fundamental.
+
+## Significado Simbólico
+
+Ái simboliza:
+
+- A própria pedra como origem  
+- A essência mineral, dura e permanente  
+- O fundamento sobre o qual toda transformação acontece  
+- O caráter primordial do mundo subterrâneo
+
+Dentro do catálogo da Völuspá, Ái funciona como um lembrete de que, antes do ouro, das runas e da forja, existe o elemento básico que sustenta tudo: **a pedra primordial**.`,
+},
+{
+  slug: "pekr",
+  title: "Þekkr — O Anão da Confiança e da Aceitação",
+  description: "Þekkr (Thekkur) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado à ideia de ser agradável, digno de confiança e aceito, simbolizando traços sociais e relacionais importantes dentro da cultura anã primordial.",
+  category: "criaturas",
+  section: "glossario",
+  subcategory: "anoes",
+  date: "2026-03-05",
+  cover: "/images/glossario/criaturas/anoes/pekr.png",
+  tags: ["pekr", "þekkr", "thekkur", "anão", "anoes", "völuspá", "edda poetica", "confianca", "aceitacao", "cultura anã", "mitologia nordica"],
+  content: `## O Anão do Vínculo Social
+
+**Þekkr** (frequentemente anglicizado como **Thekkur**, aqui em slug **pekr**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado simbólico de seu nome**.
+
+## Quem é Þekkr no Contexto Mítico
+
+Os anões da Völuspá compõem a genealogia do povo subterrâneo e seus nomes frequentemente representam:
+
+- Clãs e casas antigas  
+- Qualidades pessoais  
+- Funções sociais do mundo anão  
+- Traços relacionais dentro da cultura primordial
+
+Dentro dessa estrutura, **Þekkr** pertence ao grupo estrutural de anões que expressam **características sociais e relacionais**.
+
+## O Significado do Nome
+
+O termo **Þekkr** está associado à ideia de alguém **agradável**, **estimado** e **digno de confiança**. Em sentido simbólico, isso aponta para uma qualidade essencial em sociedades baseadas em pacto, segredo técnico e colaboração intensa: a confiança.
+
+No mundo anão, onde o valor de um clã pode depender de sigilo, precisão e lealdade, ser “þekkr” é ser alguém aceito, respeitado e confiável.
+
+## Confiança e Aceitação na Cultura Anã
+
+A presença de Þekkr no catálogo sugere que a mitologia não registra apenas matéria e técnica, mas também as bases sociais que sustentam a comunidade. A confiança é um recurso tão importante quanto minério.
+
+Þekkr simboliza:
+
+- A aceitação dentro de um clã  
+- A reputação construída por constância  
+- A lealdade que permite cooperação  
+- O vínculo que mantém segredos protegidos
+
+## Significado Simbólico
+
+Þekkr representa:
+
+- Confiança como valor social central  
+- Aceitação e pertencimento na comunidade  
+- Reputação e credibilidade construídas ao longo do tempo  
+- A ideia de que relações firmes sustentam a criação
+
+Dentro do catálogo da Völuspá, Þekkr reforça que o poder do povo anão não nasce apenas da forja, mas também de uma cultura interna forte, feita de **alianças, respeito e confiança mútua**.`,
+},
   {
     slug: "asgard",
     title: "Asgard — O Reino dos Deuses Aesir",
