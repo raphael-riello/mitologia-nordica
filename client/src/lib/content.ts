@@ -162,6 +162,106 @@ Thor é famoso por suas batalhas contra os gigantes (Jötnar), sendo o principal
 
 No fim dos tempos, Thor enfrenta seu arqui-inimigo Jörmungandr, a Serpente do Mundo. Ele consegue matar a serpente com Mjölnir, mas sucumbe ao veneno dela, caindo morto após dar nove passos.`,
   },
+  
+    slug: "njord",
+    title: "Njord — O Deus do Mar e da Prosperidade",
+    category: "deuses",
+    section: "glossario",
+    subcategory: "vanir",
+    date: "2026-03-05",
+    cover: "/images/glossario/deuses/vanir/njord.jpg",
+    tags: ["njord", "vanir", "mar", "navegacao", "riqueza", "vento"],
+    content: `## O Deus do Mar
+
+**Njord** (nórdico antigo: Njörðr) é um dos principais deuses do clã **Vanir**, associado ao mar, aos ventos, à navegação, à riqueza e à prosperidade material. Ele governa as águas costeiras e é invocado por marinheiros, comerciantes e pescadores para obter viagens seguras e abundância.
+
+## Reconciliação entre Aesir e Vanir
+
+Após a guerra entre Aesir e Vanir, Njord passa a viver em Asgard como símbolo de reconciliação entre os dois clãs divinos. Ele representa a paz e a harmonia que pode surgir do conflito, tornando-se um intermediário entre as duas linhagens de deuses.
+
+## Deus da Riqueza Material
+
+Como o mar era fonte de comércio e sustento, Njord representa riqueza tangível — bens, ouro, recursos e sucesso econômico. Diferente da riqueza viva de Freyr, a prosperidade de Njord é aquela que vem do comércio, da navegação e da abundância marítima.
+
+## Serenidade e Harmonia
+
+Diferente dos Aesir guerreiros, Njord é pacífico, equilibrado e benevolente. Sua natureza é calma e protetora, garantindo que aqueles que navegam sob seu domínio encontrem paz nas águas e sucesso em suas jornadas.`,
+  },
+  {
+    slug: "freyr",
+    title: "Freyr — O Deus da Fertilidade e da Colheita",
+    category: "deuses",
+    section: "glossario",
+    subcategory: "vanir",
+    date: "2026-03-05",
+    cover: "/images/glossario/deuses/vanir/freyr.jpg",
+    tags: ["freyr", "vanir", "fertilidade", "colheita", "paz", "prosperidade"],
+    content: `## O Senhor da Prosperidade Viva
+
+**Freyr** é um dos principais deuses do clã **Vanir**, associado à fertilidade, abundância, colheita, prosperidade e paz. Filho de Njord e irmão de Freyja, ele governa o crescimento da terra, a fecundidade e a harmonia entre natureza e humanidade. Freyr é considerado o senhor da prosperidade viva — aquela que brota, cresce e alimenta.
+
+## Deus da Fertilidade e da Colheita
+
+Freyr rege crescimento vegetal, ciclos agrícolas, fecundidade animal e abundância natural. Ele é invocado durante o plantio para garantir colheitas abundantes e durante o crescimento das plantas para assegurar que a terra seja fértil e generosa.
+
+## Paz e Harmonia
+
+Ele é um deus pacífico — sua presença traz estabilidade, boa convivência e prosperidade coletiva. Ao contrário de deuses guerreiros como Thor ou Odin, Freyr representa a força construtiva da natureza, não a destrutiva da guerra.
+
+## O Amor pela Terra Fértil
+
+Freyr se apaixona pela giganta **Gerd**, personificação da terra fértil, simbolizando a união céu–solo que gera vida. Este romance representa a necessidade de união entre as forças divinas e terrestres para que a vida prospere e floresça.`,
+  },
+  {
+    slug: "freya",
+    title: "Freyja — A Deusa do Amor e da Magia",
+    category: "deuses",
+    section: "glossario",
+    subcategory: "vanir",
+    date: "2026-03-05",
+    cover: "/images/glossario/deuses/vanir/freya.jpg",
+    tags: ["freyja", "vanir", "amor", "magia", "beleza", "soberania"],
+    content: `## A Deusa Suprema do Feminino
+
+**Freyja** é uma das mais poderosas deusas da mitologia nórdica, pertencente ao clã **Vanir**. Ela governa o amor, o desejo, a fertilidade, a beleza, a magia (seidr) e a soberania feminina. Irmã de Freyr e filha de Njord, Freyja representa a força vital do feminino em todas as suas dimensões — sensual, mágica, guerreira e espiritual.
+
+## Deusa do Amor e do Desejo
+
+Freyja rege atração, paixão, erotismo e vínculos afetivos. Ela representa o amor intenso e vital, aquele que move os corações e une os seres. Seu poder sobre o amor é tão grande que até mesmo os deuses buscam sua companhia e favor.
+
+## Senhora da Magia Seidr
+
+Ela é a maior praticante do **seidr**, magia de destino, transformação e profecia — que depois ensina a Odin. Esta magia é profundamente feminina, conectada aos ciclos da natureza, à intuição e ao conhecimento das tecelãs do destino.
+
+## Guerreira e Líder dos Mortos
+
+Metade dos guerreiros mortos em batalha vai para seu campo **Fólkvangr** (a outra metade para Odin). Ela é, portanto, uma deusa guerreira que honra aqueles que caem em combate, demonstrando que o feminino nórdico é tanto amoroso quanto marcial.`,
+  },
+  {
+    slug: "kvasir",
+    title: "Kvasir — O Ser Mais Sábio",
+    category: "deuses",
+    section: "glossario",
+    subcategory: "vanir",
+    date: "2026-03-05",
+    cover: "/images/glossario/deuses/vanir/kvasir.jpg",
+    tags: ["kvasir", "vanir", "sabedoria", "poesia", "conhecimento", "hidromel"],
+    content: `## A Sabedoria Perfeita
+
+**Kvasir** é uma figura única na mitologia nórdica: o ser mais sábio já criado, nascido da reconciliação entre os deuses Aesir e Vanir. Ele personifica a sabedoria pura, o conhecimento universal e a inspiração que dá origem à poesia. Kvasir conhece todas as coisas e responde a qualquer pergunta — ele é a inteligência perfeita.
+
+## Nascido da União Divina
+
+Aesir e Vanir selam a paz cuspindo em um vaso comum. Desse ato nasce Kvasir — sabedoria como fruto da concórdia. Sua existência representa que a verdadeira sabedoria surge apenas quando diferentes perspectivas e poderes se unem harmoniosamente.
+
+## O Hidromel da Poesia
+
+Após sua morte, seu sangue é transformado no **Hidromel da Poesia**, fonte da inspiração divina. Misturado ao mel, este néctar concede talento poético e intelectual a qualquer um que o beba. Toda poesia e eloquência nórdica derivam, simbolicamente, de Kvasir.
+
+## Mártir da Inspiração
+
+Kvasir é morto por anões que desejam sua sabedoria — seu sacrifício gera a arte. Assim como muitos heróis nórdicos, Kvasir não consegue escapar de seu destino, mas sua morte não é vã: ela transforma sua sabedoria em algo que pode ser compartilhado e apreciado por todos.`,
+  },
   {
     slug: "fenrir",
     title: "Fenrir — O Lobo do Apocalipse",
