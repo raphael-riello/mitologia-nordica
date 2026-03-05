@@ -35,6 +35,20 @@ function Router() {
         <Route path="/comunidade/forum" component={Forum} />
         <Route path="/comunidade/artes" component={Artes} />
         <Route path="/comunidade/servidores" component={Servidores} />
+
+        {/* Detalhe de conteúdo (com subcategory) */}
+        <Route path="/comunidade/:category/:subcategory/:slug">
+          {(params) => (
+            <ContentDetail
+              section="comunidade"
+              category={params.category}
+              subcategory={params.subcategory}
+              slug={params.slug}
+            />
+          )}
+        </Route>
+
+        {/* Detalhe de conteúdo (sem subcategory) */}
         <Route path="/comunidade/:category/:slug">
           {(params) => (
             <ContentDetail section="comunidade" category={params.category} slug={params.slug} />
@@ -42,20 +56,54 @@ function Router() {
         </Route>
 
         {/* Seções de conteúdo */}
-        <Route path="/historias">
-          {() => <SectionListing sectionSlug="historias" />}
+        <Route path="/historias">{() => <SectionListing sectionSlug="historias" />}</Route>
+        <Route path="/glossario">{() => <SectionListing sectionSlug="glossario" />}</Route>
+        <Route path="/jogos">{() => <SectionListing sectionSlug="jogos" />}</Route>
+        <Route path="/conteudo">{() => <SectionListing sectionSlug="conteudo" />}</Route>
+
+        {/* Detalhe de conteúdo (com subcategory) */}
+        <Route path="/historias/:category/:subcategory/:slug">
+          {(params) => (
+            <ContentDetail
+              section="historias"
+              category={params.category}
+              subcategory={params.subcategory}
+              slug={params.slug}
+            />
+          )}
         </Route>
-        <Route path="/glossario">
-          {() => <SectionListing sectionSlug="glossario" />}
+        <Route path="/glossario/:category/:subcategory/:slug">
+          {(params) => (
+            <ContentDetail
+              section="glossario"
+              category={params.category}
+              subcategory={params.subcategory}
+              slug={params.slug}
+            />
+          )}
         </Route>
-        <Route path="/jogos">
-          {() => <SectionListing sectionSlug="jogos" />}
+        <Route path="/jogos/:category/:subcategory/:slug">
+          {(params) => (
+            <ContentDetail
+              section="jogos"
+              category={params.category}
+              subcategory={params.subcategory}
+              slug={params.slug}
+            />
+          )}
         </Route>
-        <Route path="/conteudo">
-          {() => <SectionListing sectionSlug="conteudo" />}
+        <Route path="/conteudo/:category/:subcategory/:slug">
+          {(params) => (
+            <ContentDetail
+              section="conteudo"
+              category={params.category}
+              subcategory={params.subcategory}
+              slug={params.slug}
+            />
+          )}
         </Route>
 
-        {/* Detalhe de conteúdo */}
+        {/* Detalhe de conteúdo (sem subcategory) */}
         <Route path="/historias/:category/:slug">
           {(params) => (
             <ContentDetail section="historias" category={params.category} slug={params.slug} />
@@ -96,5 +144,4 @@ function App() {
     </ErrorBoundary>
   );
 }
-
 export default App;
