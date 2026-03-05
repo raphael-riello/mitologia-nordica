@@ -9,7 +9,7 @@ export const allContent: ContentItem[] = [
     category: "historia-completa",
     section: "historias",
     date: "2025-01-15",
-    cover: "/images/historias/historia-completa/ragnarok.jpg",
+    cover: "/images/historias/historia-completa/ragnarok.png",
     tags: ["ragnarok", "odin", "thor", "loki", "fenrir", "surtur"],
     content: `## O Prelúdio do Fim
 
@@ -50,7 +50,7 @@ O Ragnarök não é apenas destruição — é transformação. O ciclo eterno d
     category: "contos-curtos",
     section: "historias",
     date: "2025-02-10",
-    cover: "/images/historias/contos-curtos/thor-serpente.jpg",
+    cover: "/images/historias/contos-curtos/thor-serpente.png",
     tags: ["thor", "jormungandr", "hymir", "pesca"],
     content: `## A Pescaria de Thor
 
@@ -79,7 +79,7 @@ Este conto ilustra a rivalidade cósmica entre Thor e Jörmungandr — uma batal
     category: "historias-infantis",
     section: "historias",
     date: "2025-03-01",
-    cover: "/images/historias/historias-infantis/yggdrasil-infantil.jpg",
+    cover: "/images/historias/historias-infantis/yggdrasil-infantil.png",
     tags: ["yggdrasil", "nove mundos", "infantil", "ratatoskr"],
     content: `## A Maior Árvore do Universo
 
@@ -112,7 +112,7 @@ Yggdrasil nos ensina que tudo no universo está conectado — como os galhos de 
     section: "glossario",
     subcategory: "aesir",
     date: "2025-01-01",
-    cover: "/images/glossario/deuses/aesir/odin.jpg",
+    cover: "/images/glossario/deuses/aesir/odin.png",
     tags: ["odin", "aesir", "asgard", "sabedoria", "runas", "valhalla"],
     content: `## O Pai de Todos
 
@@ -686,7 +686,7 @@ Fehu era utilizada em inscrições para atrair prosperidade e sucesso em empreen
     category: "singleplayer",
     section: "jogos",
     date: "2024-11-09",
-    cover: "/images/jogos/singleplayer/god-of-war-ragnarok.jpg",
+    cover: "/images/jogos/singleplayer/god-of-war-ragnarok.png",
     tags: ["god of war", "ragnarok", "kratos", "atreus", "ps5", "pc"],
     platform: "PS4, PS5, PC",
     players: "1 jogador",
@@ -719,7 +719,7 @@ Um dos jogos mais aclamados da geração, com nota 94 no Metacritic. Uma experi�
     category: "multiplayer",
     section: "jogos",
     date: "2024-06-15",
-    cover: "/images/jogos/multiplayer/valheim.jpg",
+    cover: "/images/jogos/multiplayer/valheim.png",
     tags: ["valheim", "sobrevivencia", "multiplayer", "viking", "pc"],
     platform: "PC, Xbox",
     players: "1-10 jogadores",
@@ -755,7 +755,7 @@ Valheim possui uma das comunidades mais ativas de jogos de sobrevivência, com m
     category: "livros",
     section: "conteudo",
     date: "2025-01-20",
-    cover: "/images/conteudo/livros/mitologia-nordica-gaiman.jpg",
+    cover: "/images/conteudo/livros/mitologia-nordica-gaiman.png",
     tags: ["neil gaiman", "livro", "mitologia", "odin", "thor", "loki"],
     year: 2017,
     content: `## Sobre o Livro
@@ -790,7 +790,7 @@ Gaiman consegue tornar os mitos nórdicos acessíveis para leitores modernos sem
     category: "series",
     section: "conteudo",
     date: "2025-02-05",
-    cover: "/images/conteudo/series/vikings.jpg",
+    cover: "/images/conteudo/series/vikings.png",
     tags: ["vikings", "serie", "ragnar", "history channel", "lagertha"],
     year: 2013,
     content: `## Sobre a Série
@@ -829,7 +829,7 @@ Vikings abriu caminho para outras produções de temática nórdica e é conside
     category: "filmes",
     section: "conteudo",
     date: "2025-02-15",
-    cover: "/images/conteudo/filmes/13o-guerreiro.jpg",
+    cover: "/images/conteudo/filmes/13o-guerreiro.png",
     tags: ["filme", "vikings", "guerreiros", "aventura"],
     year: 1999,
     content: `## Sobre o Filme\n\n**O 13º Guerreiro** (The 13th Warrior) é um filme de 1999 dirigido por John McTiernan, baseado no romance \"Devoradores de Mortos\" de Michael Crichton, que por sua vez se inspira no poema épico Beowulf.\n\n## Sinopse\n\nAhmad ibn Fadlan (Antonio Banderas), um embaixador árabe, é banido de sua terra e acaba se juntando a um grupo de 12 guerreiros nórdicos em uma missão para combater uma ameaça antiga — os Wendol, criaturas que aterrorizam uma aldeia viking.\n\n## Destaques\n\n- Representação interessante do choque cultural entre árabes e nórdicos\n- Cenas de batalha viscerais e atmosféricas\n- Baseado parcialmente em relatos históricos reais de Ibn Fadlan\n- Trilha sonora épica de Jerry Goldsmith\n\n## Elenco\n\n- Antonio Banderas como Ahmad ibn Fadlan\n- Vladimir Kulich como Buliwyf\n- Dennis Storhøi como Herger`,
@@ -841,7 +841,7 @@ Vikings abriu caminho para outras produções de temática nórdica e é conside
     category: "animes",
     section: "conteudo",
     date: "2025-02-25",
-    cover: "/images/conteudo/animes/vinland-saga.jpg",
+    cover: "/images/conteudo/animes/vinland-saga.png",
     tags: ["anime", "vinland saga", "thorfinn", "viking", "manga"],
     year: 2019,
     content: `## Sobre o Anime\n\n**Vinland Saga** é um anime baseado no mangá de Makoto Yukimura, ambientado durante a era viking. A série é aclamada por sua narrativa madura, personagens complexos e representação historicamente informada da cultura nórdica.\n\n## Sinopse\n\nA história segue **Thorfinn**, filho do lendário guerreiro Thors. Após a morte de seu pai pelas mãos do mercenário Askeladd, Thorfinn jura vingança e se junta ao bando de Askeladd, participando de batalhas e invasões pela Europa.\n\n## Temporadas\n\n- **Temporada 1 (2019):** A saga de vingança de Thorfinn\n- **Temporada 2 (2023):** A redenção e busca por Vinland\n\n## Por que Assistir\n\n- Animação de alta qualidade pelo estúdio WIT/MAPPA\n- Personagens moralmente complexos\n- Exploração profunda de temas como violência, paz e propósito\n- Referências históricas precisas à era viking\n- Considerado um dos melhores animes da década`,
@@ -853,7 +853,7 @@ Vikings abriu caminho para outras produções de temática nórdica e é conside
     category: "musicas",
     section: "conteudo",
     date: "2025-03-01",
-    cover: "/images/conteudo/musicas/wardruna.jpg",
+    cover: "/images/conteudo/musicas/wardruna.png",
     tags: ["wardruna", "musica", "folk nordico", "einar selvik"],
     year: 2009,
     content: `## Sobre a Banda\n\n**Wardruna** é um projeto musical norueguês fundado por Einar Selvik em 2003. O grupo utiliza instrumentos tradicionais nórdicos, cantos em nórdico antigo e gravações em ambientes naturais para criar uma experiência sonora que evoca a era viking.\n\n## Discografia Principal\n\n- **Runaljod – Gap Var Ginnunga** (2009)\n- **Runaljod – Yggdrasil** (2013)\n- **Runaljod – Ragnarok** (2016)\n- **Kvitravn** (2021)\n- **Kvitravn – First Flight of the White Raven** (2022)\n\n## Instrumentos\n\nWardruna utiliza instrumentos como:\n- Tagelharpa (lira de crina de cavalo)\n- Kravik-lira\n- Bukkehorn (chifre de bode)\n- Tambores de pele\n- Ossos e pedras\n\n## Conexão com Vikings\n\nEinar Selvik também compôs músicas para a série Vikings do History Channel, trazendo autenticidade sonora à produção. Wardruna é considerada a referência máxima em música de inspiração nórdica.`,
@@ -867,7 +867,7 @@ Vikings abriu caminho para outras produções de temática nórdica e é conside
     category: "artes",
     section: "comunidade",
     date: "2025-02-20",
-    cover: "/images/comunidade/artes/odin-trono.jpg",
+    cover: "/images/comunidade/artes/odin-trono.png",
     tags: ["odin", "arte", "digital", "trono", "hlidskjalf"],
     author: "NorseArtist42",
     content: `## Odin no Trono de Hlidskjalf
@@ -892,7 +892,7 @@ Ilustração digital criada por **NorseArtist42**, retratando Odin sentado em se
     category: "artes",
     section: "comunidade",
     date: "2025-03-05",
-    cover: "/images/comunidade/artes/thor-tempestade.jpg",
+    cover: "/images/comunidade/artes/thor-tempestade.png",
     tags: ["thor", "arte", "digital", "tempestade", "mjolnir"],
     author: "VikingBrush",
     content: `## Thor na Tempestade
@@ -917,7 +917,7 @@ Obra digital criada por **VikingBrush**, retratando Thor no auge de seu poder, i
     category: "servidores",
     section: "comunidade",
     date: "2025-03-01",
-    cover: "/images/comunidade/servidores/valheim-midgard.jpg",
+    cover: "/images/comunidade/servidores/valheim-midgard.png",
     tags: ["valheim", "servidor", "brasil", "multiplayer"],
     content: `## Midgard Brasil — Servidor Valheim
 
