@@ -106,3 +106,21 @@ export function getCategoryBySlug(sectionSlug: string, categorySlug: string) {
   const section = getSectionBySlug(sectionSlug);
   return section?.categories.find((c) => c.slug === categorySlug);
 }
+
+export function getSectionBySlug(slug: string): SectionConfig | undefined {
+  return sections.find((s) => s.slug === slug);
+}
+
+export function getCategoryBySlug(sectionSlug: string, categorySlug: string) {
+  const section = getSectionBySlug(sectionSlug);
+  return section?.categories.find((c) => c.slug === categorySlug);
+}
+
+export function getSubcategoryBySlug(
+  sectionSlug: string,
+  categorySlug: string,
+  subcategorySlug: string
+) {
+  const category = getCategoryBySlug(sectionSlug, categorySlug);
+  return category?.subcategories?.find((s) => s.slug === subcategorySlug);
+}
