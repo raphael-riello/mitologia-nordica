@@ -20,46 +20,48 @@ export const sections: SectionConfig[] = [
       { slug: "historias-infantis", title: "Histórias Infantis", description: "Contos adaptados para jovens exploradores", icon: "🌟" },
     ],
   },
+
   {
-  slug: "glossario",
-  title: "Glossário",
-  description: "Enciclopédia dos deuses, criaturas e mundos nórdicos",
-  heroImage: HERO_IMAGES.glossario,
-  categories: [
-    {
-      slug: "deuses",
-      title: "Deuses",
-      description: "Os Aesir e Vanir — divindades nórdicas",
-      icon: "⚡",
-      subcategories: [
-        { slug: "aesir", title: "Aesir" },
-        { slug: "vanir", title: "Vanir" },
-        { slug: "outras-entidades", title: "Outras Entidades" }
-      ]
-    },
+    slug: "glossario",
+    title: "Glossário",
+    description: "Enciclopédia dos deuses, criaturas e mundos nórdicos",
+    heroImage: HERO_IMAGES.glossario,
+    categories: [
+      {
+        slug: "deuses",
+        title: "Deuses",
+        description: "Os Aesir e Vanir — divindades nórdicas",
+        icon: "⚡",
+        subcategories: [
+          { slug: "aesir", title: "Aesir" },
+          { slug: "vanir", title: "Vanir" },
+          { slug: "outras-entidades", title: "Outras Entidades" },
+        ],
+      },
 
-    {
-      slug: "criaturas",
-      title: "Criaturas",
-      description: "Bestas e seres míticos",
-      icon: "🐉",
-      subcategories: [
-        { slug: "gigantes", title: "Gigantes" },
-        { slug: "monstros", title: "Monstros" },
-        { slug: "espiritos", title: "Espíritos" },
-        { slug: "animais-miticos", title: "Animais Míticos" }
-      ]
-    },
+      {
+        slug: "criaturas",
+        title: "Criaturas",
+        description: "Bestas e seres míticos",
+        icon: "🐉",
+        subcategories: [
+          { slug: "gigantes", title: "Gigantes" },
+          { slug: "monstros", title: "Monstros" },
+          { slug: "espiritos", title: "Espíritos" },
+          { slug: "animais-miticos", title: "Animais Míticos" },
+        ],
+      },
 
-    { slug: "herois", title: "Heróis", description: "Guerreiros e heróis lendários", icon: "🛡️" },
+      { slug: "herois", title: "Heróis", description: "Guerreiros e heróis lendários", icon: "🛡️" },
 
-    { slug: "mundos", title: "Mundos", description: "Os Nove Mundos de Yggdrasil", icon: "🌍" },
+      { slug: "mundos", title: "Mundos", description: "Os Nove Mundos de Yggdrasil", icon: "🌍" },
 
-    { slug: "runas", title: "Runas", description: "Símbolos sagrados do Elder Futhark", icon: "ᚱ" },
+      { slug: "runas", title: "Runas", description: "Símbolos sagrados do Elder Futhark", icon: "ᚱ" },
 
-    { slug: "anoes", title: "Anões", description: "Mestres forjadores de Svartalfheim", icon: "⛏️" },
-  ],
-},
+      { slug: "anoes", title: "Anões", description: "Mestres forjadores de Svartalfheim", icon: "⛏️" },
+    ],
+  },
+
   {
     slug: "jogos",
     title: "Jogos",
@@ -72,6 +74,7 @@ export const sections: SectionConfig[] = [
       { slug: "novidades", title: "Novidades", description: "Lançamentos e anúncios recentes", icon: "🆕" },
     ],
   },
+
   {
     slug: "conteudo",
     title: "Conteúdo",
@@ -85,6 +88,7 @@ export const sections: SectionConfig[] = [
       { slug: "musicas", title: "Músicas", description: "Bandas e músicas de temática nórdica", icon: "🎵" },
     ],
   },
+
   {
     slug: "comunidade",
     title: "Comunidade",
@@ -97,15 +101,6 @@ export const sections: SectionConfig[] = [
     ],
   },
 ];
-
-export function getSectionBySlug(slug: string): SectionConfig | undefined {
-  return sections.find((s) => s.slug === slug);
-}
-
-export function getCategoryBySlug(sectionSlug: string, categorySlug: string) {
-  const section = getSectionBySlug(sectionSlug);
-  return section?.categories.find((c) => c.slug === categorySlug);
-}
 
 export function getSectionBySlug(slug: string): SectionConfig | undefined {
   return sections.find((s) => s.slug === slug);
