@@ -18,12 +18,13 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
     >
       <Link href={href} className="block group">
         <article className="card-norse h-full flex flex-col">
-          <div className="aspect-[16/10] bg-secondary overflow-hidden relative">
+          {/* imagem: agora 1:1 (quadrada) e sem corte */}
+          <div className="aspect-square bg-secondary overflow-hidden relative">
             {item.cover ? (
               <img
                 src={item.cover}
                 alt={item.title}
-                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-105"
                 loading="lazy"
               />
             ) : (
@@ -31,7 +32,9 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
                 <span className="font-display text-4xl text-gold/30">ᚱ</span>
               </div>
             )}
+
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+
             <div className="absolute bottom-3 left-3 flex gap-2">
               {item.tags.slice(0, 2).map((tag) => (
                 <span
@@ -43,13 +46,16 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
               ))}
             </div>
           </div>
+
           <div className="p-4 flex flex-col flex-1">
             <h3 className="font-display text-lg text-foreground group-hover:text-gold transition-colors duration-300 mb-2 line-clamp-2">
               {item.title}
             </h3>
+
             <p className="text-muted-foreground text-sm leading-relaxed line-clamp-3 flex-1">
               {item.description}
             </p>
+
             <div className="mt-3 pt-3 border-t border-border flex items-center justify-between">
               <time className="text-xs text-muted-foreground font-display uppercase tracking-wider">
                 {new Date(item.date).toLocaleDateString("pt-BR", {
@@ -58,6 +64,7 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
                   year: "numeric",
                 })}
               </time>
+
               <span className="text-xs text-gold font-display uppercase tracking-widest group-hover:tracking-[0.2em] transition-all duration-300">
                 Ler mais →
               </span>
