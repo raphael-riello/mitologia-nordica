@@ -134,6 +134,544 @@ Odin sacrificou um de seus olhos no Poço de Mímir para obter sabedoria cósmic
 No Ragnarök, Odin lidera os Einherjar contra as forças do caos. Ele enfrenta o lobo Fenrir em combate final, sendo devorado pela besta. Seu filho Víðarr vinga sua morte rasgando a mandíbula do lobo.`,
   },
   {
+  slug: "tyr",
+  title: "Tyr — O Deus da Justiça e da Coragem",
+  description: "Tyr é um dos deuses Aesir da mitologia nórdica, associado à justiça, aos juramentos, à lei e à coragem em batalha. É lembrado principalmente pelo sacrifício da própria mão ao prender o lobo Fenrir, garantindo a segurança de Asgard ao custo de sua mutilação.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2025-01-01",
+  cover: "/images/glossario/deuses/aesir/tyr.png",
+  tags: ["tyr", "týr", "aesir", "asgard", "justica", "juramentos", "fenrir", "coragem", "guerra", "lei"],
+  content: `## O Deus dos Juramentos
+
+**Tyr** (nórdico antigo: Týr) é um dos deuses mais antigos e respeitados entre os **Aesir**, ligado à **justiça**, aos **pactos**, à **lei** e à **coragem**. Diferente de deuses associados à astúcia ou à magia, Tyr representa o princípio de que a ordem só se sustenta quando alguém está disposto a pagar o preço por ela.
+
+## Atributos e Símbolos
+
+- **Domínios:** Justiça, juramentos, lei, coragem e guerra “honrada”
+- **Símbolo recorrente:** A mão ausente (ou mutilada), marca de seu sacrifício
+- **Virtudes:** Retidão, responsabilidade, disciplina e lealdade à palavra dada
+- **Relação com a guerra:** Conflito guiado por regras, honra e compromisso com a proteção do coletivo
+
+## O Sacrifício da Mão e o Lobo Fenrir
+
+Quando os deuses perceberam que o lobo **Fenrir** se tornaria uma ameaça inevitável, tentaram contê-lo com correntes, mas nenhuma foi capaz de segurá-lo. Então, os Aesir obtiveram uma amarra mágica chamada **Gleipnir**, leve como fita, porém indestrutível.
+
+Fenrir desconfiou do “teste” e exigiu uma garantia: alguém deveria colocar a mão em sua boca como prova de boa-fé. **Tyr** aceitou — e, quando Gleipnir o prendeu de verdade, o lobo mordeu, arrancando-lhe a mão. O gesto de Tyr se tornou um símbolo absoluto de **coragem moral**: cumprir um juramento mesmo quando o custo é pessoal e irreversível.
+
+## Justiça como Responsabilidade
+
+A figura de Tyr é frequentemente interpretada como a personificação da justiça que não depende apenas de palavras, mas de **responsabilidade prática**. Ele é o deus que “segura a consequência” para que a sociedade permaneça de pé. Seu mito reforça a ideia de que a lei e os acordos só têm valor quando alguém está disposto a defendê-los, mesmo diante do medo.
+
+## Papel no Ragnarök
+
+No **Ragnarök**, Tyr enfrenta o cão monstruoso **Garmr**, guardião associado a Hel. O combate é fatal para ambos: Tyr derrota a criatura, mas cai em seguida. Assim, seu fim ecoa sua essência: lutar até o último instante para conter o caos, mantendo a ordem pelo sacrifício e pela coragem.`,
+},
+{
+  slug: "heimdall",
+  title: "Heimdall — O Guardião de Bifröst",
+  description: "Heimdall é um deus Aesir da mitologia nórdica, guardião da ponte arco-íris Bifröst e sentinela de Asgard. Dotado de sentidos sobrenaturais, vigia as fronteiras dos deuses e toca o chifre Gjallarhorn para anunciar o Ragnarök, quando enfrenta Loki no confronto final.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/heimdall.png",
+  tags: ["heimdall", "heimdallr", "aesir", "asgard", "bifrost", "gjallarhorn", "guardiao", "sentinela", "loki", "ragnarok"],
+  content: `## O Sentinela de Asgard
+
+**Heimdall** (nórdico antigo: Heimdallr) é o grande **guardião** de Asgard e o vigilante da ponte **Bifröst**, a passagem que conecta os mundos e protege os deuses contra invasões. Ele representa a prontidão absoluta: a presença que não dorme de verdade, que percebe o menor sinal de ameaça e que mantém a fronteira entre ordem e caos.
+
+## Atributos e Símbolos
+
+- **Função:** Guardião de Bifröst e sentinela das portas de Asgard
+- **Arma / instrumento:** **Gjallarhorn**, o chifre cujo som ecoa por todos os mundos
+- **Sede:** **Himinbjörg**, o “Castelo do Céu”, próximo à ponte arco-íris
+- **Dons:** Sentidos sobre-humanos, vigilância constante e visão ampla do que se aproxima
+- **Associação simbólica:** Limites, proteção, alerta e disciplina
+
+## Sentidos Sobrenaturais
+
+Heimdall é descrito como alguém que **ouve** e **vê** muito além dos limites comuns: percebe o movimento mais sutil, o som mais distante e o perigo antes de ele se tornar inevitável. Seu papel não é apenas lutar, mas **prevenir** — manter o mundo dos deuses preparado e protegido.
+
+Ele é a personificação da fronteira bem guardada: a ponte é bela, mas também é um ponto vulnerável; e Heimdall existe para garantir que beleza e segurança caminhem juntas.
+
+## O Gjallarhorn e o Anúncio do Ragnarök
+
+Quando o Ragnarök se aproxima, é Heimdall quem toca o **Gjallarhorn**, emitindo o chamado que desperta os deuses e convoca a última resistência contra as forças do caos. O som do chifre marca a transição irreversível: do tempo de vigilância para o tempo de batalha.
+
+Nesse sentido, Heimdall não é só um guardião do espaço (a ponte), mas também um guardião do **tempo** — aquele que reconhece o momento exato em que a guerra final começa.
+
+## Rivalidade com Loki
+
+Heimdall é frequentemente retratado como o contraponto de **Loki**: enquanto Loki simboliza ruptura, engano e mudança imprevisível, Heimdall simboliza clareza, ordem e controle das fronteiras. Essa oposição se cristaliza na ideia de que um existe para impedir o outro de atravessar limites perigosos.
+
+## Papel no Ragnarök
+
+No Ragnarök, Heimdall enfrenta **Loki** em um duelo decisivo. O conflito é mortal para ambos: Heimdall derrota Loki, mas cai em seguida. A imagem final reforça sua essência: o guardião que cumpre sua função até o fim, mantendo a fronteira protegida mesmo quando o mundo está desabando.`,
+},
+{
+  slug: "hod",
+  title: "Höðr — O Deus Cego e a Tragédia de Baldr",
+  description: "Höðr (Hod) é um deus Aesir da mitologia nórdica, conhecido por ser cego e por, sem intenção, causar a morte de Baldr ao ser manipulado por Loki. Sua história é um dos eventos mais trágicos do panteão nórdico e um presságio direto do Ragnarök, envolvendo culpa, destino e vingança.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/hod.png",
+  tags: ["hod", "höðr", "aesir", "asgard", "baldr", "loki", "tragédia", "destino", "vingança", "ragnarok"],
+  content: `## O Deus Cego de Asgard
+
+**Höðr** (frequentemente escrito como **Hod**; nórdico antigo: Höðr) é um dos **Aesir** cuja fama não vem de conquistas gloriosas, mas de uma tragédia inevitável. Ele é descrito como **cego**, e sua narrativa está profundamente ligada à morte de **Baldr**, o mais amado entre os deuses.
+
+## Atributos e Símbolos
+
+- **Condição marcante:** Cegueira, associada à vulnerabilidade e à manipulação
+- **Tema central:** Tragédia, destino e consequências involuntárias
+- **Relações-chave:** Baldr, Loki e Vali
+- **Simbolismo:** A ausência de visão como metáfora para falta de informação, ingenuidade e uso por terceiros
+
+## A Morte de Baldr
+
+Após sonhos e presságios indicando a morte de Baldr, os deuses buscaram proteger o filho de Odin: tudo no mundo teria jurado não feri-lo. Com Baldr aparentemente invulnerável, os Aesir passaram a brincar lançando objetos contra ele, rindo ao ver que nada causava dano.
+
+**Loki**, porém, descobriu uma exceção: o **visco** (mistletoe), pequeno e ignorado, não havia sido incluído no juramento. Então, Loki colocou Höðr no centro da brincadeira e, explorando sua cegueira, **guiou sua mão** para arremessar o projétil de visco. O golpe atingiu Baldr, que caiu morto — e a alegria de Asgard se converteu em luto.
+
+Höðr, nessa versão, não age por maldade: ele é o instrumento trágico de um plano, e sua participação carrega o peso do “ato irreparável” cometido sem plena consciência.
+
+## Culpa, Destino e Vingança
+
+A morte de Baldr desencadeia um efeito dominó de dor e ruptura, funcionando como um dos sinais mais fortes de que o mundo caminha para o Ragnarök. Em muitas tradições, a vingança recai sobre Höðr: ele é morto por **Váli**, filho de Odin, nascido com o propósito de reparar a tragédia.
+
+A história de Höðr é, acima de tudo, um lembrete de que, na mitologia nórdica, nem toda queda nasce de maldade: às vezes, nasce de **destino**, de brechas pequenas e de manipulação inteligente.
+
+## Papel no Ragnarök
+
+Höðr está associado ao clima de inevitabilidade que antecede o Ragnarök: sua ação involuntária marca o início da deterioração da ordem em Asgard. Em algumas tradições e reconstruções, após o Ragnarök, Höðr e Baldr retornam ao novo mundo reconciliados, sugerindo que, depois do fim, existe renovação — e a tragédia ganha um sentido maior no ciclo cósmico.`,
+},
+{
+  slug: "hermod",
+  title: "Hermóðr — O Mensageiro dos Deuses",
+  description: "Hermóðr (Hermod) é uma figura associada aos Aesir na mitologia nórdica, lembrado por sua bravura e por atuar como mensageiro em momentos críticos. Ele cavalga até Hel para tentar negociar o retorno de Baldr, atravessando caminhos perigosos e representando a urgência, a lealdade e a esperança diante da perda.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/hermod.png",
+  tags: ["hermod", "hermóðr", "aesir", "asgard", "baldr", "hel", "mensageiro", "sleipnir", "negociacao", "jornada"],
+  content: `## O Cavaleiro Enviado ao Mundo dos Mortos
+
+**Hermóðr** (frequentemente escrito como **Hermod**; nórdico antigo: Hermóðr) é lembrado como o **mensageiro** e emissário em missões de alto risco entre os Aesir. Seu papel mais famoso surge após a morte de **Baldr**, quando Asgard mergulha em luto e precisa de alguém disposto a atravessar o impossível em busca de esperança.
+
+## Atributos e Símbolos
+
+- **Função:** Mensageiro e emissário em jornadas críticas
+- **Virtudes:** Coragem, lealdade, rapidez e determinação
+- **Montaria:** Frequentemente associado a **Sleipnir**, o cavalo de oito patas de Odin
+- **Símbolos narrativos:** Estradas perigosas, fronteiras entre mundos, negociação com forças inevitáveis
+
+## A Jornada até Hel
+
+Após a morte de Baldr, os deuses tentam reverter o irreversível. Hermóðr é escolhido para descer ao reino de **Hel** e negociar com a governante do mundo dos mortos. Ele cavalga por dias e noites, atravessando vales sombrios e caminhos que se tornam cada vez mais hostis, até alcançar as portas do submundo.
+
+Chegar a Hel não é apenas uma viagem física: é cruzar o limite que separa o que ainda pode ser mudado do que já se tornou destino.
+
+## O Encontro com Hel e a Condição
+
+No reino dos mortos, Hermóðr encontra Baldr e tenta convencer Hel a libertá-lo. A resposta vem como condição: Baldr poderia retornar se **todas as coisas** chorassem por ele — um teste que mede o quanto o mundo ainda está unido em amor e luto.
+
+Hermóðr volta a Asgard com a proposta, carregando a última chance. Mesmo que o resultado final seja trágico em muitas versões (por causa de uma recusa decisiva), sua missão estabelece Hermóðr como símbolo de quem enfrenta o impossível para tentar salvar o que importa.
+
+## Significado Simbólico
+
+Hermóðr representa o arquétipo do mensageiro que não é apenas portador de recados, mas de **pontes**: ele atravessa fronteiras entre vida e morte, esperança e resignação, ordem e caos. Na mitologia nórdica, onde o destino pesa, sua história mostra que ainda assim existe espaço para tentativa, coragem e ação.
+
+## Ligação com Baldr e o Presságio do Ragnarök
+
+A morte de Baldr é um marco que antecipa o Ragnarök, e Hermóðr surge exatamente nesse ponto de ruptura. Seu ato não apaga a tragédia, mas ilumina a postura dos Aesir diante dela: lutar, negociar e agir — mesmo quando a vitória não é garantida.`,
+},
+{
+  slug: "vili",
+  title: "Vili — A Vontade Criadora dos Aesir",
+  description: "Vili é um deus Aesir da mitologia nórdica, irmão de Odin e Vé, e parte do trio primordial responsável por moldar o mundo. Juntos, eles derrotam o gigante Ymir e, a partir de seu corpo, criam os elementos do cosmos. Vili costuma ser associado à vontade, ao impulso criativo e à intenção que move a criação.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/vili.png",
+  tags: ["vili", "aesir", "asgard", "odin", "ve", "ymir", "criacao", "cosmos", "vontade", "ordem"],
+  content: `## Um dos Três Irmãos da Criação
+
+**Vili** é um dos deuses Aesir mais antigos, conhecido principalmente como irmão de **Odin** e **Vé**. Ele aparece no núcleo mítico da criação nórdica: o trio que transforma o caos primordial em mundo habitável, estabelecendo forma, limites e sentido.
+
+## Atributos e Símbolos
+
+- **Papel mítico:** Co-criador do mundo ao lado de Odin e Vé
+- **Associação simbólica comum:** Vontade, intenção, impulso criativo e decisão
+- **Relações-chave:** Odin (sabedoria e liderança), Vé (sagrado e ordem ritual), Ymir (o gigante primordial)
+- **Temas:** Criação, estruturação do cosmos, passagem do caos para a ordem
+
+## A Criação do Mundo a Partir de Ymir
+
+No início, segundo a tradição, existia o vazio e o caos primordial. **Vili**, **Odin** e **Vé** enfrentam o gigante **Ymir** e, após derrotá-lo, usam seu corpo como matéria-prima para construir o mundo:
+
+- A terra é moldada a partir de sua carne
+- Os mares e rios surgem de seu sangue
+- Montanhas e pedras são formadas de seus ossos
+- O céu é erguido com seu crânio
+- Nuvens nascem de sua matéria dispersa
+
+Nesse mito, Vili não é um “deus secundário”: ele faz parte do ato fundador que dá existência ao cosmos como conhecemos.
+
+## Vili como Força de Vontade
+
+Embora as fontes nem sempre detalhem suas ações individuais, Vili costuma ser interpretado como a personificação da **vontade** — a energia que decide, inicia e sustenta a transformação. Se Odin representa a visão estratégica e Vé a dimensão do sagrado e dos ritos, Vili aparece como o “sim” interno que torna a criação possível: o impulso que escolhe agir.
+
+## Presença e Mistério
+
+Vili é um exemplo de figura mítica que tem enorme importância no começo do mundo, mas aparece menos nas narrativas posteriores. Essa “retirada” reforça seu caráter arquetípico: ele é a força necessária para começar, para romper a inércia, para fundar a estrutura — e, uma vez que o mundo existe, seu papel passa a ecoar mais como princípio do que como personagem ativo.
+
+## Legado no Imaginário Nórdico
+
+Mesmo com poucas menções diretas, Vili permanece ligado à ideia de que a criação exige três pilares: visão, vontade e sacralidade. Ele representa a parte do mito que lembra que nada nasce apenas de conhecimento — nasce também de decisão e coragem de transformar.`,
+},
+{
+  slug: "ve",
+  title: "Vé — O Sagrado e a Consagração da Criação",
+  description: "Vé é um deus Aesir da mitologia nórdica, irmão de Odin e Vili, e parte do trio primordial que derrota Ymir e molda o mundo a partir de seu corpo. Vé é frequentemente associado ao sagrado, aos ritos, à consagração e à ordem simbólica que dá significado ao cosmos e à vida humana.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/ve.png",
+  tags: ["ve", "vé", "aesir", "asgard", "odin", "vili", "ymir", "criacao", "sagrado", "ritos", "consagracao"],
+  content: `## O Irmão da Consagração
+
+**Vé** (nórdico antigo: Vé) é um dos deuses Aesir mais antigos, irmão de **Odin** e **Vili**, e integrante do trio primordial responsável por transformar o caos inicial em mundo. Seu nome está ligado à ideia de **espaço sagrado**, de “lugar consagrado”, e por isso Vé costuma ser interpretado como a força que dá **significado espiritual e simbólico** à criação.
+
+## Atributos e Símbolos
+
+- **Papel mítico:** Co-criador do cosmos ao lado de Odin e Vili
+- **Associações simbólicas:** Sagrado, consagração, ritos, ordem ritual e sentido
+- **Temas:** Separar o profano do sagrado, estabelecer limites e dar “nome” ao mundo
+- **Relações-chave:** Odin (visão e sabedoria), Vili (vontade e impulso), Ymir (matéria primordial)
+
+## A Criação do Mundo e a Ordem do Sagrado
+
+Após derrotarem o gigante **Ymir**, Odin, Vili e Vé usam seu corpo para construir os elementos do cosmos. Nessa leitura, Vé é a parte do trio que não apenas “monta” o mundo, mas o **consagra**: transforma matéria em realidade habitável, e realidade em algo que possui regras, sentido e pertencimento.
+
+Em outras palavras: não basta existir terra, céu e mar — é preciso que o mundo tenha um **mapa simbólico**, uma ordem que permita aos seres viverem dentro dele.
+
+## O Dom aos Primeiros Humanos
+
+Em algumas tradições, Odin, Vili e Vé também participam da criação ou do “despertar” dos primeiros humanos (frequentemente associados a **Ask** e **Embla**). Cada irmão contribui com dons fundamentais. Vé, nesse contexto, é muitas vezes ligado ao que torna o ser humano mais do que corpo: a dimensão de **consciência social**, **forma**, **sentido**, **expressão** e pertencimento a uma ordem maior.
+
+## Vé como Princípio Arquetípico
+
+Vé é lembrado menos como personagem em aventuras e mais como **princípio fundador**. Ele representa:
+
+- A capacidade de transformar espaço em **lugar**
+- A capacidade de transformar convivência em **comunidade**
+- A capacidade de transformar existência em **vida com significado**
+
+Por isso, mesmo com poucas aparições narrativas, Vé ocupa um papel estrutural: ele é a ideia de que o mundo precisa de consagração para ser sustentado.
+
+## Legado no Imaginário Nórdico
+
+No conjunto da criação, Vé completa a tríade com Odin e Vili: visão, vontade e sagrado. Ele é o lembrete de que a ordem não nasce apenas da força — nasce também de ritos, limites, símbolos e responsabilidade com aquilo que se considera digno de proteger.`,
+},
+{
+  slug: "vidar",
+  title: "Víðarr — O Deus do Silêncio e da Vingança",
+  description: "Víðarr é um deus Aesir da mitologia nórdica, filho de Odin, conhecido como o deus do silêncio e da vingança. No Ragnarök, ele cumpre um papel decisivo ao vingar a morte de Odin, matando o lobo Fenrir e ajudando a abrir caminho para a renovação do mundo após o fim.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/vidar.png",
+  tags: ["vidar", "víðarr", "aesir", "asgard", "odin", "fenrir", "vinganca", "silencio", "ragnarok", "renovacao"],
+  content: `## O Silencioso Filho de Odin
+
+**Víðarr** (nórdico antigo: Víðarr) é um dos **Aesir** e filho de **Odin**, conhecido por sua natureza reservada e por carregar um destino imenso. Ele é chamado de **deus do silêncio**, não como ausência de poder, mas como presença contida: alguém que fala pouco, observa muito e age no momento exato.
+
+## Atributos e Símbolos
+
+- **Domínios:** Silêncio, resistência, vingança e reparação
+- **Relação familiar:** Filho de Odin
+- **Símbolos recorrentes:** Força implacável, paciência e ação decisiva
+- **Elemento mítico marcante:** O “sapato” especial associado ao combate contra Fenrir
+
+## O Sapato de Víðarr
+
+Uma das imagens mais conhecidas ligadas a Víðarr é a de um **calçado poderoso**, feito a partir de sobras (como aparas de couro) guardadas ao longo do tempo. Esse detalhe reforça dois aspectos essenciais do personagem:
+
+- **Preparação paciente:** poder construído em silêncio, peça por peça
+- **Função inevitável:** tudo nele aponta para um único momento decisivo
+
+O sapato simboliza a resistência necessária para enfrentar uma força monstruosa sem ser esmagado.
+
+## O Papel no Ragnarök
+
+No **Ragnarök**, Odin enfrenta o lobo **Fenrir** e é devorado. É então que Víðarr entra em ação para cumprir a **vingança** e restaurar, ao menos em parte, o equilíbrio.
+
+Em muitas tradições, Víðarr derrota Fenrir de forma brutal e definitiva: ele usa sua força e o apoio do sapato para firmar posição, abrindo a mandíbula do lobo e rasgando-o, matando a besta que havia consumido o Pai de Todos.
+
+Esse ato não é apenas vingança familiar — é um gesto cósmico: conter o caos no ponto de ruptura máxima.
+
+## Víðarr e a Renovação do Mundo
+
+A vingança de Víðarr é um dos eventos que permite a transição do fim para o recomeço. Após o Ragnarök, ele é frequentemente citado entre os deuses que **sobrevivem** para habitar o mundo renovado, carregando a ideia de continuidade: mesmo quando tudo desmorona, algo permanece para reconstruir.
+
+## Significado Simbólico
+
+Víðarr representa a força que não se exibe, mas **sustenta**. Ele é o arquétipo de:
+
+- Justiça que chega sem alarde
+- Coragem silenciosa
+- Ação inevitável no momento certo
+- Reparação após uma perda irreparável
+
+No conjunto do panteão nórdico, Víðarr é o lembrete de que o silêncio também pode ser destino — e que, às vezes, a maior força é a que espera para agir.`,
+},
+{
+  slug: "vali",
+  title: "Váli — O Vingador de Baldr",
+  description: "Váli é um deus Aesir da mitologia nórdica, filho de Odin, nascido com um único propósito: vingar a morte de Baldr. Ele mata Höðr (Hod), cumprindo a reparação exigida pela tragédia que abala Asgard. Após o Ragnarök, Váli é frequentemente citado entre os deuses que sobrevivem ao fim e participam do mundo renovado.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/vali.png",
+  tags: ["vali", "váli", "aesir", "asgard", "odin", "baldr", "hod", "vinganca", "justica", "ragnarok"],
+  content: `## O Filho de Odin Nascido para Vingar
+
+**Váli** (nórdico antigo: Váli) é um dos **Aesir** e filho de **Odin**, conhecido principalmente por um destino direto e implacável: ele nasce para reparar a maior tragédia de Asgard — a morte de **Baldr**.
+
+Enquanto outros deuses acumulam funções amplas, Váli é frequentemente descrito como a personificação de uma única força: **vingança como justiça**.
+
+## Atributos e Símbolos
+
+- **Domínios:** Vingança, reparação, justiça e consequência
+- **Relação familiar:** Filho de Odin
+- **Missão central:** Vingar Baldr
+- **Simbolismo:** A resposta inevitável ao desequilíbrio causado por um crime (mesmo involuntário)
+
+## A Tragédia de Baldr e a Morte de Höðr
+
+Após Baldr ser morto por um golpe de visco, em um ato no qual **Höðr (Hod)** é usado como instrumento por **Loki**, Asgard entra em luto e o mundo se inclina ainda mais rumo ao Ragnarök.
+
+Váli surge como a solução dura para restaurar a ordem quebrada: ele mata Höðr, cumprindo a vingança e encerrando o ciclo imediato de impunidade. Em muitas versões, esse ato é apresentado como inevitável — menos um gesto de ódio pessoal e mais um “acerto de contas” cósmico.
+
+## Váli como Consequência
+
+O significado de Váli vai além do evento. Ele representa a ideia de que, na mitologia nórdica:
+
+- A quebra de um pilar (como a morte de Baldr) exige resposta
+- A justiça pode ser fria e rápida
+- Mesmo tragédias involuntárias geram consequências reais
+
+Váli é a face da ordem que retorna não por conciliação, mas por **reparação**.
+
+## Papel no Ragnarök e no Mundo Renovado
+
+Em muitas tradições, Váli é citado entre os deuses que **sobrevivem ao Ragnarök**. Essa sobrevivência reforça seu arquétipo: ele é continuidade da ordem após o colapso, alguém ligado à reconstrução do que foi rompido.
+
+## Legado no Imaginário Nórdico
+
+Váli é o deus que não hesita quando o mundo exige resposta. Ele simboliza a ação que fecha ciclos dolorosos e lembra que, em Asgard, nem mesmo os deuses escapam do peso do destino, dos juramentos e das consequências.`,
+},
+{
+  slug: "bragi",
+  title: "Bragi — O Deus da Poesia e da Eloquência",
+  description: "Bragi é um deus Aesir da mitologia nórdica associado à poesia, à música verbal e à eloquência. Considerado o patrono dos skalds (poetas), ele representa o poder das palavras para preservar memória, honra e feitos, acolhendo com discursos e versos aqueles que chegam aos salões dos deuses.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/bragi.png",
+  tags: ["bragi", "aesir", "asgard", "poesia", "eloquencia", "skald", "versos", "memoria", "honra", "valhalla", "idunn"],
+  content: `## A Voz dos Aesir
+
+**Bragi** é o deus Aesir ligado à **poesia**, à **eloquência** e ao poder da palavra bem construída. Na mitologia nórdica, poesia não é só arte: é memória viva, reputação, magia social — a capacidade de transformar feitos em legado e de manter nomes importantes atravessando o tempo.
+
+Bragi é frequentemente lembrado como o patrono dos **skalds**, poetas que celebravam heróis e reis, guardando histórias em versos.
+
+## Atributos e Símbolos
+
+- **Domínios:** Poesia, eloquência, canção verbal, memória e reputação
+- **Função cultural:** Patrono dos skalds e da tradição oral
+- **Virtudes:** Clareza, honra na fala, inteligência e precisão
+- **Relações associadas:** Frequentemente ligado a **Iðunn (Idunn)** em várias tradições
+
+## Poesia como Poder
+
+No mundo nórdico, as palavras tinham peso real: podiam firmar alianças, encerrar conflitos, ampliar a fama de um guerreiro ou destruir reputações. Bragi personifica esse poder de forma elevada: a **fala que organiza o mundo**, dá sentido aos acontecimentos e torna a vida digna de ser lembrada.
+
+Sua presença sugere que força sem narrativa se perde; e que a imortalidade, muitas vezes, vem do que é contado.
+
+## O Guardião da Honra em Versos
+
+Bragi é associado à ideia de que honra não é apenas o que se faz — é o que se sustenta publicamente, o que se prova, o que se registra. Por isso, ele aparece no imaginário como alguém que:
+
+- celebra a coragem com justiça
+- distingue vaidade de grandeza real
+- preserva a memória dos que merecem ser lembrados
+
+Em alguns relatos e interpretações, Bragi também é visto como aquele que recebe e saúda com palavras os que chegam aos salões dos deuses, reforçando o papel cerimonial da poesia.
+
+## Bragi e a Tradição dos Skalds
+
+A ligação com os skalds coloca Bragi no coração da cultura: ele é a ponte entre acontecimento e eternidade. Versos bem feitos sobrevivem quando a madeira apodrece e o ferro enferruja. A poesia, sob o olhar de Bragi, é uma forma de resistência contra o esquecimento.
+
+## Significado Simbólico
+
+Bragi representa:
+
+- a palavra que constrói, não apenas impressiona
+- a memória como forma de imortalidade
+- a eloquência como disciplina e responsabilidade
+- a arte como ferramenta de identidade coletiva
+
+No panteão nórdico, Bragi lembra que, além da guerra e do destino, existe o que permanece: a história contada com verdade e beleza.`,
+},
+{
+  slug: "iduna",
+  title: "Iðunn — Guardiã das Maçãs da Juventude",
+  description: "Iðunn (Iduna) é uma deusa associada aos Aesir na mitologia nórdica, guardiã das maçãs que preservam a juventude e o vigor dos deuses. Sua história se destaca quando é sequestrada, fazendo Asgard definhar, até ser resgatada com a ajuda de Loki, reforçando seu papel como símbolo de renovação, vitalidade e continuidade.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/iduna.png",
+  tags: ["iduna", "iðunn", "aesir", "asgard", "macas", "juventude", "vitalidade", "renovacao", "loki", "bragi"],
+  content: `## A Guardiã da Juventude dos Deuses
+
+**Iðunn** (frequentemente escrita como **Iduna**; nórdico antigo: Iðunn) é uma deusa ligada aos **Aesir** cuja importância é vital para a própria sobrevivência de Asgard. Ela é a guardiã das **maçãs da juventude**, frutos sagrados que mantêm os deuses jovens, fortes e cheios de vigor.
+
+Sem Iðunn, a eternidade dos Aesir não é garantida: ela é a fonte de renovação que sustenta o ciclo de vida mesmo entre seres divinos.
+
+## Atributos e Símbolos
+
+- **Domínios:** Juventude, vitalidade, renovação e continuidade
+- **Símbolo central:** As **maçãs** (ou frutos) que preservam o vigor dos Aesir
+- **Função mítica:** Sustentar a força e a longevidade dos deuses
+- **Relações associadas:** Frequentemente ligada a **Bragi** em várias tradições
+- **Temas:** Proteção do que é essencial, fragilidade de Asgard sem seu “centro vital”
+
+## O Sequestro e o Enfraquecimento de Asgard
+
+Uma das narrativas mais marcantes sobre Iðunn envolve seu **sequestro** por um gigante (com frequência associado a Þjazi). Enganada ou atraída para fora de Asgard, ela é levada embora — e, com sua ausência, os deuses começam a **envelhecer**.
+
+Esse detalhe é crucial: os Aesir não são “imortais” no sentido absoluto. Eles dependem de elementos sagrados e de equilíbrio. Quando Iðunn some, o tempo volta a ter poder sobre eles.
+
+## O Resgate e o Retorno da Renovação
+
+Diante do declínio de Asgard, Loki é pressionado a reverter a situação. Em muitas versões, ele participa do resgate usando artifícios e metamorfose, trazendo Iðunn de volta — e, com ela, o retorno das maçãs e da juventude dos deuses.
+
+O mito reforça a ideia de que o coração de um reino pode estar em algo simples e delicado: não uma espada, mas um **cesto de frutos** que sustenta o futuro.
+
+## Significado Simbólico
+
+Iðunn representa aquilo que renova e mantém a vida:
+
+- juventude não como vaidade, mas como **energia para continuar**
+- vitalidade como bem coletivo, não individual
+- a necessidade de proteger fontes essenciais, mesmo quando parecem “pequenas”
+- a lembrança de que até os deuses dependem de equilíbrio e cuidado
+
+No panteão nórdico, Iðunn é a garantia silenciosa de que a vida segue — até que o destino final (como o Ragnarök) imponha seus próprios limites.`,
+},
+{
+  slug: "sif",
+  title: "Sif — A Deusa da Fertilidade e da Terra Dourada",
+  description: "Sif é uma deusa associada aos Aesir na mitologia nórdica, ligada à fertilidade, à terra e às colheitas. Conhecida por seus cabelos dourados, frequentemente comparados a campos de trigo, ela simboliza abundância, crescimento e a ligação entre a natureza e os deuses de Asgard.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/sif.png",
+  tags: ["sif", "aesir", "asgard", "fertilidade", "colheita", "terra", "thor", "cabelos dourados", "abundancia", "natureza"],
+  content: `## A Deusa da Terra e da Colheita
+
+**Sif** é uma deusa ligada aos **Aesir**, conhecida por sua associação com a **fertilidade da terra**, a abundância e o ciclo das colheitas. Seu símbolo mais famoso são os **cabelos dourados**, frequentemente interpretados como uma metáfora para campos de trigo maduros balançando ao vento.
+
+Dentro do imaginário nórdico, Sif representa a prosperidade que nasce do solo e sustenta a vida humana.
+
+## Atributos e Símbolos
+
+- **Domínios:** Fertilidade, terra cultivada, abundância e crescimento
+- **Símbolo central:** Cabelos dourados associados aos campos de grãos
+- **Relação familiar:** Esposa de **Thor**
+- **Temas:** Prosperidade, natureza fértil, estabilidade doméstica e proteção da comunidade
+
+## Os Cabelos de Ouro
+
+Uma das histórias mais conhecidas envolvendo Sif começa quando **Loki** corta seus cabelos enquanto ela dorme, em um ato de travessura que rapidamente se transforma em problema sério. Ao descobrir o ocorrido, Thor ameaça Loki, exigindo que ele repare o dano.
+
+Para corrigir a situação, Loki procura os anões artesãos e encomenda novos cabelos feitos de **ouro mágico**, capazes de crescer como fios naturais quando colocados na cabeça de Sif. Esses cabelos se tornam um dos grandes artefatos criados pelos anões e reforçam o símbolo de Sif como personificação da fertilidade da terra.
+
+## Sif e a Prosperidade de Asgard
+
+A presença de Sif no panteão reforça a importância da agricultura e da estabilidade para o mundo nórdico. Mesmo em uma mitologia marcada por batalhas e heróis, a sobrevivência cotidiana dependia da fertilidade do solo, das colheitas e do equilíbrio com a natureza.
+
+Sif representa esse aspecto fundamental da vida, a abundância que permite que comunidades cresçam, prosperem e atravessem os ciclos das estações.
+
+## Significado Simbólico
+
+Sif simboliza:
+
+- a ligação entre divindade e natureza cultivada
+- a prosperidade que nasce da terra
+- o ciclo de crescimento, maturação e renovação
+- a estabilidade que sustenta famílias e comunidades
+
+No conjunto do panteão nórdico, Sif lembra que a força não vem apenas da guerra ou da magia, mas também da terra fértil que alimenta todos os mundos.`,
+},
+{
+  slug: "var",
+  title: "Vár — A Guardiã dos Juramentos",
+  description: "Vár é uma deusa associada aos Aesir na mitologia nórdica, conhecida por ouvir e testemunhar juramentos entre pessoas. Ela protege promessas, acordos e votos sagrados, garantindo que as palavras empenhadas tenham peso e consequências.",
+  category: "deuses",
+  section: "glossario",
+  subcategory: "aesir",
+  date: "2026-03-05",
+  cover: "/images/glossario/deuses/aesir/var.png",
+  tags: ["var", "vár", "aesir", "asgard", "juramentos", "promessas", "acordos", "honra", "votos", "justica"],
+  content: `## A Deusa que Ouve Promessas
+
+**Vár** é uma deusa associada aos **Aesir**, conhecida por sua função de **ouvir e registrar juramentos** feitos entre pessoas. Em um mundo onde a palavra empenhada era fundamental para alianças, casamentos e pactos, Vár representa a garantia de que promessas não são vazias.
+
+Ela é a presença divina que testemunha acordos e lembra que toda palavra dada carrega responsabilidade.
+
+## Atributos e Símbolos
+
+- **Domínios:** Juramentos, promessas, votos e acordos
+- **Função simbólica:** Testemunhar e validar compromissos
+- **Virtudes:** Honestidade, responsabilidade e fidelidade à palavra
+- **Temas:** Consequência moral das promessas e respeito às alianças
+
+## A Importância dos Juramentos
+
+Na cultura nórdica, juramentos não eram apenas gestos simbólicos. Eles tinham valor social, político e espiritual. Quebrar uma promessa podia gerar conflitos, desonra ou punições.
+
+Vár surge como a divindade que **escuta esses compromissos** e mantém memória deles. Seu papel reforça que o universo nórdico não é governado apenas por força ou destino, mas também por **responsabilidade moral**.
+
+## Vár e os Votos de União
+
+Em algumas interpretações, Vár é associada a votos entre parceiros, especialmente aqueles ligados a compromissos de união. Assim, ela também simboliza a confiança necessária para construir relações duradouras, lembrando que promessas sustentam laços entre indivíduos e comunidades.
+
+## Significado Simbólico
+
+Vár representa:
+
+- o valor da palavra dada
+- a importância da confiança nas relações
+- a responsabilidade de cumprir acordos
+- a ideia de que promessas criam vínculos reais
+
+No panteão nórdico, Vár lembra que o poder de um juramento não está apenas em quem o faz, mas também em quem o escuta e garante que ele seja lembrado.`,
+},
+  {
     slug: "thor",
     title: "Thor — O Deus do Trovão",
     description: "Thor, o poderoso deus do trovão, protetor de Midgard e Asgard, empunhando o lendário martelo Mjölnir. Filho de Odin e Jörð, é o mais forte dos deuses nórdicos.",
