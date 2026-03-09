@@ -9,7 +9,7 @@ export const allContent: ContentItem[] = [
     category: "historia-completa",
     section: "historias",
     date: "2025-01-15",
-    cover: "/images/historias/historia-completa/ragnarok.png",
+    cover: "/images/historias/historia-completa/ragnarok-o-crepusculo-dos-deuses.png",
     tags: ["ragnarok", "odin", "thor", "loki", "fenrir", "surtur"],
     content: `## O Prelúdio do Fim
 
@@ -50,7 +50,7 @@ O Ragnarök não é apenas destruição — é transformação. O ciclo eterno d
     category: "contos-curtos",
     section: "historias",
     date: "2025-02-10",
-    cover: "/images/historias/contos-curtos/thor-serpente.png",
+    cover: "/images/historias/contos-curtos/thor-e-a-serpente-de-midgard.png",
     tags: ["thor", "jormungandr", "hymir", "pesca"],
     content: `## A Pescaria de Thor
 
@@ -73,13 +73,13 @@ Mas Hymir, tomado pelo terror, cortou a linha com sua faca. A serpente mergulhou
 Este conto ilustra a rivalidade cósmica entre Thor e Jörmungandr — uma batalha que só se resolveria no fim dos tempos. Mostra também que mesmo os deuses têm limites, e que o destino não pode ser antecipado.`,
   },
   {
-    slug: "a-arvore-dos-nove-mundos",
+    slug: "yggdrasil-a-arvore-dos-nove-mundos",
     title: "A Árvore dos Nove Mundos",
     description: "Uma história infantil sobre Yggdrasil, a grande árvore que conecta todos os mundos da mitologia nórdica, contada de forma lúdica e acessível.",
     category: "historias-infantis",
     section: "historias",
     date: "2025-03-01",
-    cover: "/images/historias/historias-infantis/yggdrasil-infantil.png",
+    cover: "/images/historias/contos-infantis/yggdrasil-infantil.png",
     tags: ["yggdrasil", "nove mundos", "infantil", "ratatoskr"],
     content: `## A Maior Árvore do Universo
 
