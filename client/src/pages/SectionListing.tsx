@@ -94,7 +94,7 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
             <CategoryFilter
               categories={section.categories}
               activeCategory={activeCategory}
-              onChange={handleCategoryChange}
+              onCategoryChange={handleCategoryChange}
             />
 
             <SearchBar
