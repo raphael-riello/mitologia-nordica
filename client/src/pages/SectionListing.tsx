@@ -20,22 +20,23 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
   const section = getSectionBySlug(sectionSlug);
   const [location, setLocation] = useLocation();
 
-  const urlParams = useMemo(
-    () => new URLSearchParams(location.split("?")[1] || ""),
-    [location]
+  const urlParams = useMemo(() => {
+    return new URLSearchParams(window.location.search);
+  }, [location]);
+
+  const [activeCategory, setActiveCategory] = useState(
+    () => urlParams.get("categoria") || "todos"
   );
-
-  const initialCategory = urlParams.get("categoria") || "todos";
-
-  const [activeCategory, setActiveCategory] = useState(initialCategory);
   const [searchQuery, setSearchQuery] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
-    const cat = urlParams.get("categoria") || "todos";
+    const params = new URLSearchParams(window.location.search);
+    const cat = params.get("categoria") || "todos";
+
     setActiveCategory(cat);
     setCurrentPage(1);
-  }, [urlParams]);
+  }, [location]);
 
   useDocumentTitle(section?.title || "");
 
