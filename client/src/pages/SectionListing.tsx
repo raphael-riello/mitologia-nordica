@@ -18,9 +18,13 @@ interface SectionListingProps {
 
 export default function SectionListing({ sectionSlug }: SectionListingProps) {
   const section = getSectionBySlug(sectionSlug);
-  const [location] = useLocation();
+  const [location, setLocation] = useLocation();
 
-  const urlParams = useMemo(() => new URLSearchParams(location.split("?")[1] || ""), [location]);
+  const urlParams = useMemo(
+    () => new URLSearchParams(location.split("?")[1] || ""),
+    [location]
+  );
+
   const initialCategory = urlParams.get("categoria") || "todos";
 
   const [activeCategory, setActiveCategory] = useState(initialCategory);
@@ -37,9 +41,10 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
 
   if (!section) return null;
 
-  const allItems = activeCategory === "todos"
-    ? getContentBySection(sectionSlug)
-    : getContentBySectionAndCategory(sectionSlug, activeCategory);
+  const allItems =
+    activeCategory === "todos"
+      ? getContentBySection(sectionSlug)
+      : getContentBySectionAndCategory(sectionSlug, activeCategory);
 
   const filteredItems = searchQuery.trim()
     ? allItems.filter(
@@ -51,6 +56,7 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
     : allItems;
 
   const totalPages = Math.ceil(filteredItems.length / ITEMS_PER_PAGE);
+
   const paginatedItems = filteredItems.slice(
     (currentPage - 1) * ITEMS_PER_PAGE,
     currentPage * ITEMS_PER_PAGE
@@ -59,64 +65,76 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
   function handleCategoryChange(slug: string) {
     setActiveCategory(slug);
     setCurrentPage(1);
+
+    if (slug === "todos") {
+      setLocation(`/${sectionSlug}`);
+    } else {
+      setLocation(`/${sectionSlug}?categoria=${slug}`);
+    }
   }
 
   return (
     <>
       <HeroSection
         title={section.title}
-        subtitle={section.description}
-        image={section.heroImage}
-        compact
+        description={section.description}
+        backgroundImage={section.heroImage}
       />
-      <div className="container py-10">
+
+      <section className="container py-10">
         <Breadcrumb
           items={[
+            { label: "Início", href: "/" },
             { label: section.title },
           ]}
         />
 
-        <div className="flex flex-col sm:flex-row sm:items-start gap-4 mb-6">
-          <div className="flex-1">
+        <div className="flex flex-col gap-6 mt-8">
+          <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4">
             <CategoryFilter
               categories={section.categories}
               activeCategory={activeCategory}
-              onCategoryChange={handleCategoryChange}
+              onChange={handleCategoryChange}
             />
-          </div>
-          <SearchBar
-            inline
-            placeholder={`Buscar em ${section.title}...`}
-            onFilter={(q) => { setSearchQuery(q); setCurrentPage(1); }}
-            className="w-full sm:w-64"
-          />
-        </div>
 
-        {paginatedItems.length > 0 ? (
-          <>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {paginatedItems.map((item, i) => (
-                <ContentCard key={item.slug} item={item} index={i} />
-              ))}
-            </div>
-            <Pagination
-              currentPage={currentPage}
-              totalPages={totalPages}
-              onPageChange={setCurrentPage}
+            <SearchBar
+              onSearch={(q) => {
+                setSearchQuery(q);
+                setCurrentPage(1);
+              }}
+              className="w-full sm:w-64"
             />
-          </>
-        ) : (
-          <div className="text-center py-20">
-            <span className="text-5xl mb-4 block">ᚱ</span>
-            <p className="font-display text-lg text-muted-foreground">
-              Nenhum conteúdo encontrado
-            </p>
-            <p className="text-sm text-muted-foreground/70 mt-2">
-              Tente ajustar os filtros ou a busca
-            </p>
           </div>
-        )}
-      </div>
+
+          {paginatedItems.length > 0 ? (
+            <>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {paginatedItems.map((item, i) => (
+                  <ContentCard key={item.slug} item={item} index={i} />
+                ))}
+              </div>
+
+              {totalPages > 1 && (
+                <Pagination
+                  currentPage={currentPage}
+                  totalPages={totalPages}
+                  onPageChange={setCurrentPage}
+                />
+              )}
+            </>
+          ) : (
+            <div className="py-20 text-center border border-border rounded-2xl bg-card/30">
+              <span className="text-6xl block mb-4">ᚱ</span>
+              <h2 className="font-display text-2xl text-foreground mb-2">
+                Nenhum conteúdo encontrado
+              </h2>
+              <p className="text-muted-foreground">
+                Tente ajustar os filtros ou a busca
+              </p>
+            </div>
+          )}
+        </div>
+      </section>
     </>
   );
 }
