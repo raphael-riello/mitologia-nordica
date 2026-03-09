@@ -30,7 +30,6 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border/50 bg-background/90 backdrop-blur-md">
       <div className="container flex items-center justify-between h-16">
-        {/* Logo */}
         <Link href="/" className="flex items-center gap-3 group">
           <span className="font-display text-2xl text-gold group-hover:text-gold-light transition-colors">
             ᚱ
@@ -40,7 +39,6 @@ export default function Header() {
           </span>
         </Link>
 
-        {/* Desktop Nav */}
         <nav className="hidden lg:flex items-center gap-8">
           {sections.map((section) => (
             <div
@@ -103,7 +101,6 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Actions */}
         <div className="flex items-center gap-2">
           <button
             onClick={() => setSearchOpen(!searchOpen)}
@@ -123,7 +120,6 @@ export default function Header() {
         </div>
       </div>
 
-      {/* Search Overlay */}
       <AnimatePresence>
         {searchOpen && (
           <motion.div
@@ -139,7 +135,6 @@ export default function Header() {
         )}
       </AnimatePresence>
 
-      {/* Mobile Menu */}
       <AnimatePresence>
         {mobileOpen && (
           <motion.div
