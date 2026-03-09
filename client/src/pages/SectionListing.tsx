@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from "react";
-import { useLocation } from "wouter";
+import { useLocation, useSearch } from "wouter";
 import { getSectionBySlug } from "@/lib/sections";
 import { getContentBySection, getContentBySectionAndCategory } from "@/lib/content";
 import HeroSection from "@/components/HeroSection";
@@ -18,11 +18,10 @@ interface SectionListingProps {
 
 export default function SectionListing({ sectionSlug }: SectionListingProps) {
   const section = getSectionBySlug(sectionSlug);
-  const [location, setLocation] = useLocation();
+  const [, setLocation] = useLocation();
+  const search = useSearch();
 
-  const urlParams = useMemo(() => {
-    return new URLSearchParams(window.location.search);
-  }, [location]);
+  const urlParams = useMemo(() => new URLSearchParams(search), [search]);
 
   const [activeCategory, setActiveCategory] = useState(
     () => urlParams.get("categoria") || "todos"
@@ -31,12 +30,10 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
   const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const cat = params.get("categoria") || "todos";
-
+    const cat = urlParams.get("categoria") || "todos";
     setActiveCategory(cat);
     setCurrentPage(1);
-  }, [location]);
+  }, [urlParams]);
 
   useDocumentTitle(section?.title || "");
 
