@@ -4061,6 +4061,766 @@ Na sociedade viking, a riqueza era medida em cabeças de gado. Fehu representa n
 
 Fehu era utilizada em inscrições para atrair prosperidade e sucesso em empreendimentos comerciais. Também era associada ao deus Freyr, divindade da fertilidade e abundância.`,
   },
+  {
+  slug: "uruz",
+  title: "Uruz ᚢ — A Runa da Força Primordial",
+  description: "Uruz, a segunda runa do Elder Futhark, simboliza força, vitalidade, poder bruto e a energia primordial da vida.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/uruz.png",
+  tags: ["uruz", "runas", "elder futhark", "força", "vitalidade", "poder"],
+  content: `## Uruz ᚢ
+
+**Uruz** é a segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **auroque** (um grande boi selvagem da Europa antiga), animal símbolo de força indomável, resistência e vitalidade.
+
+## Significado
+
+- **Literal:** Auroque, boi selvagem
+- **Simbólico:** Força física, vitalidade, poder primordial, transformação
+- **Invertida:** Fraqueza, perda de energia, estagnação
+
+## Na Tradição
+
+O auroque era um animal poderoso e temido na Europa antiga. Representava força natural em estado bruto — uma energia que não foi domesticada.
+
+Por isso, **Uruz** simboliza a potência vital da natureza: a força que sustenta a vida, impulsiona mudanças e permite superar dificuldades.
+
+Também pode indicar momentos de **transformação profunda**, nos quais a energia interior precisa ser despertada.
+
+## Uso Mágico
+
+Uruz era associada a rituais de fortalecimento, saúde e renovação. Inscrições com essa runa podiam ser usadas para invocar vigor físico, resistência em batalhas ou recuperação após doenças.
+
+Em práticas simbólicas, Uruz representa a força que surge das raízes da vida — o poder natural que existe antes da civilização e das estruturas sociais.`,
+},
+{
+  slug: "thurisaz",
+  title: "Thurisaz ᚦ — A Runa dos Gigantes e da Defesa",
+  description: "Thurisaz, a terceira runa do Elder Futhark, simboliza gigantes, defesa, conflito e forças perigosas que exigem reação consciente.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/thurisaz.png",
+  tags: ["thurisaz", "runas", "elder futhark", "gigantes", "defesa", "conflito"],
+  content: `## Thurisaz ᚦ
+
+**Thurisaz** é a terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado aos **þursar**, os gigantes ou seres caóticos da mitologia nórdica, frequentemente associados a forças brutas, destrutivas e perigosas.
+
+## Significado
+
+- **Literal:** Gigante, þurs
+- **Simbólico:** Defesa, confronto, reação, força caótica, proteção ativa
+- **Invertida:** Vulnerabilidade, conflito mal conduzido, ataque sem controle
+
+## Na Tradição
+
+Na tradição nórdica, os gigantes representam forças antigas e indomadas da natureza e do caos. Por isso, **Thurisaz** carrega uma energia ambígua: ela tanto aponta para o perigo quanto para a capacidade de enfrentá-lo.
+
+É uma runa de **limite**, **choque** e **resposta defensiva**. Ela aparece quando algo precisa ser confrontado, bloqueado ou impedido. Diferente de uma proteção passiva, Thurisaz sugere defesa com presença, reação e firmeza.
+
+Também está associada ao martelo de **Thor**, o defensor de Asgard contra as forças gigantescas e caóticas.
+
+## Uso Mágico
+
+Thurisaz era utilizada em contextos de proteção, quebra de influências hostis e fortalecimento diante de ameaças. Em inscrições rúnicas, podia simbolizar defesa espiritual, barreira contra inimigos e poder de reação em tempos de crise.
+
+Em práticas simbólicas, Thurisaz representa a força necessária para enfrentar o caos sem ser consumido por ele, transformando conflito em consciência e defesa em poder.`,
+},
+{
+  slug: "ansuz",
+  title: "Ansuz ᚨ — A Runa da Comunicação e da Inspiração Divina",
+  description: "Ansuz, a quarta runa do Elder Futhark, simboliza comunicação, palavra sagrada, sabedoria e inspiração divina.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/ansuz.png",
+  tags: ["ansuz", "runas", "elder futhark", "comunicação", "inspiração divina", "sabedoria"],
+  content: `## Ansuz ᚨ
+
+**Ansuz** é a quarta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado aos **Aesir**, os deuses do panteão nórdico, e por isso carrega forte associação com a **palavra inspirada**, a **sabedoria divina** e a **comunicação sagrada**.
+
+## Significado
+
+- **Literal:** Deus, divindade, Aesir
+- **Simbólico:** Comunicação, inspiração divina, sabedoria, revelação, mensagem
+- **Invertida:** Mal-entendido, distorção, bloqueio de comunicação, conselho enganoso
+
+## Na Tradição
+
+Na tradição nórdica, **Ansuz** está ligada à fala que transmite poder, conhecimento e ordem. É a runa da voz carregada de sentido, do discurso que ensina, orienta e transforma.
+
+Frequentemente é associada a **Odin**, deus da sabedoria, da poesia e das runas, reforçando sua conexão com a inspiração, a linguagem e a transmissão de conhecimento oculto.
+
+Por isso, Ansuz representa tanto a comunicação entre pessoas quanto a ideia de receber sinais, conselhos ou percepções vindas de uma fonte mais alta.
+
+## Uso Mágico
+
+Ansuz era utilizada em inscrições ligadas à eloquência, à sabedoria e à clareza mental. Podia ser invocada em contextos de aprendizado, conselhos, negociações, discursos e práticas voltadas à inspiração poética ou espiritual.
+
+Em práticas simbólicas, Ansuz representa a força da palavra viva, aquela que não apenas informa, mas desperta consciência, alinha pensamento e conecta o humano ao divino.`,
+},
+{
+  slug: "raidho",
+  title: "Raidho ᚱ — A Runa da Jornada e do Destino",
+  description: "Raidho, a quinta runa do Elder Futhark, simboliza jornada, movimento, caminho correto e o fluxo do destino em ação.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/raidho.png",
+  tags: ["raidho", "runas", "elder futhark", "jornada", "movimento", "destino"],
+  content: `## Raidho ᚱ
+
+**Raidho** é a quinta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **cavalgada**, **viagem** ou **deslocamento**, e por isso representa o movimento com direção, a jornada orientada e o caminho que se desenrola no tempo.
+
+## Significado
+
+- **Literal:** Cavalgada, viagem, percurso
+- **Simbólico:** Jornada, movimento, ordem, caminho correto, destino em curso
+- **Invertida:** Desvio, atraso, desordem, caminho bloqueado
+
+## Na Tradição
+
+Na tradição rúnica, **Raidho** não representa apenas movimento físico, mas também o alinhamento entre ação e percurso. É a runa do caminho que faz sentido, da travessia guiada por ordem, ritmo e propósito.
+
+Ela pode simbolizar viagens, mudanças de fase, deslocamentos importantes e o avanço de processos que precisam seguir seu curso natural. Também está ligada à ideia de que o destino não é apenas algo que acontece, mas algo que se percorre.
+
+Por isso, Raidho fala tanto de estrada quanto de direção interior: mover-se é importante, mas mover-se na direção certa é essencial.
+
+## Uso Mágico
+
+Raidho era utilizada em inscrições ligadas a proteção em viagens, condução segura, organização de caminhos e harmonização de processos em andamento. Também podia ser associada à busca por direção, resolução de impasses e alinhamento com o próprio destino.
+
+Em práticas simbólicas, Raidho representa o movimento que encontra ordem, a jornada que conduz ao lugar certo e o destino que se revela passo a passo no caminho percorrido.`,
+},
+{
+  slug: "kenaz",
+  title: "Kenaz ᚲ — A Runa do Conhecimento e da Iluminação",
+  description: "Kenaz, a sexta runa do Elder Futhark, simboliza conhecimento, iluminação, criatividade e a chama que revela o que estava oculto.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/kenaz.png",
+  tags: ["kenaz", "runas", "elder futhark", "conhecimento", "iluminação", "criatividade"],
+  content: `## Kenaz ᚲ
+
+**Kenaz** é a sexta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **tocha**, **chama controlada** ou **fogo de conhecimento**, e por isso representa a luz que esclarece, aquece e transforma.
+
+## Significado
+
+- **Literal:** Tocha, chama
+- **Simbólico:** Conhecimento, iluminação, criatividade, revelação, habilidade
+- **Invertida:** Confusão, perda de clareza, bloqueio criativo, obscuridade
+
+## Na Tradição
+
+Na tradição rúnica, **Kenaz** representa o fogo que não destrói de forma caótica, mas ilumina e permite ver com clareza. É a chama do artesão, do poeta, do curador e de todos aqueles que transformam matéria, ideias ou experiência em algo novo.
+
+Por isso, Kenaz está associada ao aprendizado, à percepção repentina, à inspiração e ao refinamento de talentos. Ela simboliza o momento em que algo escondido se torna visível, compreensível e utilizável.
+
+Também pode indicar processos de cura e regeneração, pois a luz da consciência permite identificar o que precisa ser trabalhado e transformado.
+
+## Uso Mágico
+
+Kenaz era utilizada em inscrições ligadas ao conhecimento, à inspiração, à arte, à cura e à revelação de caminhos antes obscuros. Podia ser invocada em contextos de estudo, criação, aperfeiçoamento técnico e despertar de percepção interior.
+
+Em práticas simbólicas, Kenaz representa a chama da mente e do espírito, a luz que revela potencial, dissipa a escuridão e transforma ignorância em compreensão.`,
+},
+{
+  slug: "gebo",
+  title: "Gebo ᚷ — A Runa do Presente e da Parceria",
+  description: "Gebo, a sétima runa do Elder Futhark, simboliza presente, troca, parceria e o equilíbrio das relações baseadas em reciprocidade.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/gebo.png",
+  tags: ["gebo", "runas", "elder futhark", "presente", "troca", "parceria"],
+  content: `## Gebo ᚷ
+
+**Gebo** é a sétima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **presente** ou **dádiva**, e por isso está profundamente ligada à ideia de troca, reciprocidade e alianças construídas com equilíbrio.
+
+## Significado
+
+- **Literal:** Presente, dádiva
+- **Simbólico:** Troca, parceria, reciprocidade, aliança, equilíbrio relacional
+- **Invertida:** Gebo tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar troca injusta, dependência ou vínculos desarmônicos
+
+## Na Tradição
+
+Na cultura nórdica e germânica, o ato de dar e receber tinha enorme importância social e espiritual. Presentes não eram apenas objetos, eram formas de criar laços, selar alianças, demonstrar honra e estabelecer compromissos entre pessoas, famílias e líderes.
+
+Por isso, **Gebo** representa relações em que existe circulação equilibrada de valor. Ela fala de parceria verdadeira, cooperação e troca justa, em que ambas as partes participam do vínculo de forma viva e consciente.
+
+Também pode simbolizar o encontro entre forças complementares, mostrando que certas conquistas não surgem do isolamento, mas da união entre pessoas, talentos ou caminhos.
+
+## Uso Mágico
+
+Gebo era associada a rituais de união, acordos, alianças e fortalecimento de vínculos. Podia ser utilizada em inscrições ligadas a amizades, parcerias, trocas comerciais, compromissos afetivos e harmonização de relações.
+
+Em práticas simbólicas, Gebo representa o poder da reciprocidade: o presente que cria ligação, a troca que fortalece e a parceria que transforma duas forças em algo maior do que cada uma isoladamente.`,
+},
+{
+  slug: "wunjo",
+  title: "Wunjo ᚹ — A Runa da Alegria e da Harmonia",
+  description: "Wunjo, a oitava runa do Elder Futhark, simboliza alegria, harmonia, felicidade e a sensação de bem-estar que surge quando tudo encontra seu lugar.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/wunjo.png",
+  tags: ["wunjo", "runas", "elder futhark", "alegria", "harmonia", "felicidade"],
+  content: `## Wunjo ᚹ
+
+**Wunjo** é a oitava runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **alegria**, **contentamento** e **harmonia interior**, representando o momento em que forças, emoções e relações entram em equilíbrio.
+
+## Significado
+
+- **Literal:** Alegria, contentamento
+- **Simbólico:** Harmonia, felicidade, bem-estar, realização, alinhamento
+- **Invertida:** Tristeza, desarmonia, frustração, desalinhamento emocional
+
+## Na Tradição
+
+Na tradição rúnica, **Wunjo** representa a alegria que nasce do equilíbrio verdadeiro. Não se trata apenas de prazer passageiro, mas de uma sensação mais profunda de consonância, quando a vida, os vínculos e o interior da pessoa parecem estar em acordo.
+
+Ela pode indicar momentos de paz, celebração, convivência harmoniosa e resultados positivos após períodos de esforço ou tensão. Também está ligada à ideia de pertencimento, de sentir-se bem em um grupo, em uma casa ou em um caminho.
+
+Por isso, Wunjo simboliza a felicidade que surge quando existe coerência entre o que se vive, o que se sente e o que se constrói.
+
+## Uso Mágico
+
+Wunjo era utilizada em inscrições ligadas à harmonia, à paz entre pessoas, à alegria compartilhada e ao fortalecimento de vínculos saudáveis. Podia ser invocada em contextos de cura emocional, reconciliação, celebração e busca por equilíbrio interno.
+
+Em práticas simbólicas, Wunjo representa a alegria que não aliena, mas integra, a felicidade que vem do alinhamento e a harmonia que transforma esforço em plenitude.`,
+},
+{
+  slug: "hagalaz",
+  title: "Hagalaz ᚺ — A Runa da Destruição e da Mudança Repentina",
+  description: "Hagalaz, a nona runa do Elder Futhark, simboliza destruição, ruptura, forças incontroláveis da natureza e mudanças repentinas que transformam o curso dos acontecimentos.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/hagalaz.png",
+  tags: ["hagalaz", "runas", "elder futhark", "destruição", "mudança repentina", "transformação"],
+  content: `## Hagalaz ᚺ
+
+**Hagalaz** é a nona runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **granizo**, e por isso está ligada às forças súbitas e destrutivas da natureza, aquelas que interrompem, quebram e alteram o curso normal das coisas.
+
+## Significado
+
+- **Literal:** Granizo
+- **Simbólico:** Destruição, ruptura, mudança repentina, crise, transformação forçada
+- **Invertida:** Hagalaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar caos prolongado, resistência à mudança ou sensação de colapso
+
+## Na Tradição
+
+Na tradição rúnica, **Hagalaz** representa o impacto do inesperado. Assim como uma tempestade de granizo pode cair de repente e destruir plantações, planos e estruturas, essa runa simboliza eventos que vêm de fora do controle humano e exigem adaptação imediata.
+
+Ela está associada à quebra de padrões, ao colapso de formas antigas e à necessidade de atravessar períodos turbulentos. Embora sua energia seja dura, Hagalaz não fala apenas de perda: ela também representa a transformação que só acontece quando algo rígido é rompido.
+
+Por isso, é uma runa ligada à crise como agente de mudança. O que ela destrói muitas vezes já não podia permanecer como estava.
+
+## Uso Mágico
+
+Hagalaz era associada a processos de quebra, proteção diante de forças hostis e compreensão de ciclos de crise e renovação. Em inscrições e leituras simbólicas, podia indicar momentos em que o destino impõe ruptura para redirecionar a vida ou revelar fragilidades ocultas.
+
+Em práticas simbólicas, Hagalaz representa a tempestade inevitável que desorganiza para transformar, a força que rompe ilusões de controle e o poder da mudança que chega sem pedir permissão.`,
+},
+{
+  slug: "nauthiz",
+  title: "Nauthiz ᚾ — A Runa da Necessidade e da Resistência",
+  description: "Nauthiz, a décima runa do Elder Futhark, simboliza necessidade, dificuldade, limitação e a resistência desenvolvida diante da pressão e da escassez.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/nauthiz.png",
+  tags: ["nauthiz", "runas", "elder futhark", "necessidade", "dificuldade", "resistência"],
+  content: `## Nauthiz ᚾ
+
+**Nauthiz** é a décima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **necessidade** ou **carência**, e por isso está ligada a situações de pressão, dificuldade e limitação que exigem resistência, disciplina e adaptação.
+
+## Significado
+
+- **Literal:** Necessidade, Carência
+- **Simbólico:** Dificuldade, Resistência, Restrição, Pressão, Superação
+- **Invertida:** Sofrimento prolongado, Impotência, Bloqueio, Escassez mal administrada
+
+## Na Tradição
+
+Na tradição rúnica, **Nauthiz** representa os momentos em que a vida impõe limites. É a runa da fricção, daquilo que aperta, atrasa ou dificulta, mas que ao mesmo tempo fortalece.
+
+Ela simboliza a experiência de enfrentar carência, pressão ou obstáculos sem poder simplesmente evitá-los. Por isso, Nauthiz está ligada à resistência interior, à capacidade de suportar o desconforto e de encontrar meios de continuar mesmo quando os recursos são poucos.
+
+Diferente de uma runa de destruição súbita, Nauthiz fala de tensão contínua: o desafio que testa a firmeza, obriga a rever prioridades e ensina a distinguir o essencial do supérfluo.
+
+## Uso Mágico
+
+Nauthiz era utilizada em inscrições ligadas à proteção em tempos difíceis, ao fortalecimento diante de privações e à disciplina necessária para atravessar crises. Também podia ser associada a práticas de contenção, sobrevivência e domínio da vontade em situações de escassez.
+
+Em práticas simbólicas, Nauthiz representa a força que nasce da necessidade, a resistência construída sob pressão e a sabedoria adquirida quando a dificuldade obriga a amadurecer.`,
+},
+{
+  slug: "isa",
+  title: "Isa ᛁ — A Runa do Gelo e da Pausa",
+  description: "Isa, a décima primeira runa do Elder Futhark, simboliza gelo, estagnação, imobilidade e a pausa necessária antes de um novo movimento.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/isa.png",
+  tags: ["isa", "runas", "elder futhark", "gelo", "estagnação", "pausa"],
+  content: `## Isa ᛁ
+
+**Isa** é a décima primeira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **gelo**, e por isso está ligada à imobilidade, à suspensão do movimento e aos períodos em que tudo parece parar.
+
+## Significado
+
+- **Literal:** Gelo
+- **Simbólico:** Estagnação, Pausa, Imobilidade, Contenção, Clareza fria
+- **Invertida:** Isa tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar rigidez excessiva, isolamento ou paralisação prolongada
+
+## Na Tradição
+
+Na tradição rúnica, **Isa** representa o momento em que a energia deixa de fluir livremente e se cristaliza. É a runa da pausa, da contenção e da quietude forçada ou necessária.
+
+Assim como o gelo preserva, endurece e interrompe o movimento da água, Isa simboliza situações em que o avanço é suspenso. Isso pode ser vivido como bloqueio, frieza ou estagnação, mas também como um tempo de observação, silêncio e foco.
+
+Isa não fala necessariamente de fracasso ou fim. Muitas vezes, indica apenas que ainda não é hora de agir, e que a clareza precisa surgir antes do próximo passo.
+
+## Uso Mágico
+
+Isa era associada a práticas de contenção, estabilização e interrupção de influências indesejadas. Podia ser usada em inscrições ligadas à preservação, ao autocontrole, à proteção por imobilização e à necessidade de esfriar impulsos desordenados.
+
+Em práticas simbólicas, Isa representa a força do repouso, a lucidez que nasce do silêncio e a pausa inevitável que antecede transformações futuras.`,
+},
+{
+  slug: "jera",
+  title: "Jera ᛃ — A Runa da Colheita e dos Ciclos Naturais",
+  description: "Jera, a décima segunda runa do Elder Futhark, simboliza colheita, ciclos naturais, recompensa e os resultados que chegam no tempo certo.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/jera.png",
+  tags: ["jera", "runas", "elder futhark", "colheita", "ciclos naturais", "recompensa"],
+  content: `## Jera ᛃ
+
+**Jera** é a décima segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **ano**, **estação** ou **colheita**, e por isso representa os ciclos naturais do tempo, o amadurecimento dos processos e a recompensa que chega após esforço e espera.
+
+## Significado
+
+- **Literal:** Ano, Colheita
+- **Simbólico:** Recompensa, Ciclos naturais, Resultado, Tempo certo, Frutificação
+- **Invertida:** Jera tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar atraso na colheita, impaciência ou dificuldade em respeitar o tempo dos processos
+
+## Na Tradição
+
+Na tradição rúnica, **Jera** representa a lógica do ciclo completo: plantar, cuidar, esperar e colher. Ela está ligada à compreensão de que nem tudo pode ser apressado, porque certas recompensas só surgem quando o tempo, o trabalho e as condições certas se encontram.
+
+Por isso, Jera simboliza tanto a **colheita material** quanto a **frutificação simbólica** de ações passadas. É a runa dos resultados merecidos, do retorno natural daquilo que foi semeado e da harmonia com os ritmos do mundo.
+
+Ela também lembra que todo fim prepara um novo começo: cada colheita encerra um ciclo, mas também inicia outro.
+
+## Uso Mágico
+
+Jera era utilizada em inscrições ligadas à prosperidade, à boa colheita, ao amadurecimento de projetos e à chegada de recompensas após períodos de trabalho. Também podia ser associada à paciência, à fertilidade e ao alinhamento com os ritmos naturais da vida.
+
+Em práticas simbólicas, Jera representa o tempo certo das coisas, a recompensa que vem com constância e a sabedoria de respeitar os ciclos que governam crescimento, maturação e retorno.`,
+},
+{
+  slug: "eihwaz",
+  title: "Eihwaz ᛇ — A Runa do Eixo do Mundo e da Transformação",
+  description: "Eihwaz, a décima terceira runa do Elder Futhark, simboliza eixo do mundo, transformação, proteção e a resistência que atravessa mudanças profundas.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/eihwaz.png",
+  tags: ["eihwaz", "runas", "elder futhark", "eixo do mundo", "transformação", "proteção"],
+  content: `## Eihwaz ᛇ
+
+**Eihwaz** é a décima terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **teixo**, árvore associada à longevidade, à resistência e à ligação entre vida, morte e renovação. Por isso, Eihwaz representa transformação profunda, proteção e estabilidade diante de passagens difíceis.
+
+## Significado
+
+- **Literal:** Teixo
+- **Simbólico:** Transformação, Proteção, Resistência, Eixo do mundo, Travessia entre estados
+- **Invertida:** Eihwaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar medo da mudança, bloqueio de passagem ou resistência excessiva ao inevitável
+
+## Na Tradição
+
+Na tradição rúnica, **Eihwaz** está associada à ideia de sustentação profunda. O teixo é uma árvore ligada tanto à durabilidade quanto ao mistério, frequentemente associada a arcos, morte ritual, renascimento e continuidade.
+
+Por isso, Eihwaz pode ser entendida como uma runa do **eixo do mundo**, aquilo que conecta planos, sustenta travessias e permite que a consciência atravesse períodos de transformação sem se romper. Ela fala de mudanças que não são superficiais, mas estruturais, em que algo precisa morrer simbolicamente para que outra forma de existência possa emergir.
+
+Também é uma runa de proteção, não no sentido de evitar toda dor, mas de dar firmeza para atravessar processos intensos com integridade.
+
+## Uso Mágico
+
+Eihwaz era utilizada em inscrições ligadas à proteção espiritual, à resistência em tempos de crise, à travessia segura entre fases e ao fortalecimento diante de mudanças inevitáveis. Também podia ser associada à conexão com o invisível, à profundidade interior e à sustentação em ritos de passagem.
+
+Em práticas simbólicas, Eihwaz representa a coluna que sustenta a transformação, a proteção que acompanha a travessia e a força silenciosa que permanece firme entre o fim de um ciclo e o nascimento de outro.`,
+},
+{
+  slug: "perthro",
+  title: "Perthro ᛈ — A Runa do Destino e do Mistério",
+  description: "Perthro, a décima quarta runa do Elder Futhark, simboliza destino, mistério, sorte e os aspectos ocultos do que ainda está por se revelar.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/perthro.png",
+  tags: ["perthro", "runas", "elder futhark", "destino", "mistério", "sorte"],
+  content: `## Perthro ᛈ
+
+**Perthro** é a décima quarta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu significado exato é debatido, mas ela costuma ser associada a ideias como **mistério**, **sorte**, **destino** e aquilo que permanece oculto até o momento certo de se revelar.
+
+## Significado
+
+- **Literal:** Significado incerto, frequentemente associado a receptáculo, jogo de sorte ou sorteio
+- **Simbólico:** Destino, mistério, acaso, revelação oculta, sorte
+- **Invertida:** Segredos ocultos, ilusões, azar, bloqueio intuitivo, dificuldade em compreender o que está em jogo
+
+## Na Tradição
+
+Na tradição rúnica, **Perthro** está ligada ao que não pode ser totalmente previsto ou controlado. Ela representa o encontro entre acaso e destino, o momento em que forças invisíveis parecem influenciar o curso dos acontecimentos.
+
+Por isso, Perthro é frequentemente vista como uma runa dos **mistérios**, daquilo que está escondido sob a superfície, aguardando o instante de emergir. Também pode simbolizar sorte, mas não de forma superficial: trata-se da sorte como parte de um tecido maior de possibilidades, escolhas e forças ocultas.
+
+Ela convida à percepção do invisível, à aceitação do incerto e à compreensão de que nem tudo pode ser revelado antes da hora.
+
+## Uso Mágico
+
+Perthro era associada a práticas ligadas à intuição, ao destino, à descoberta de segredos e à abertura para sinais ocultos. Podia ser utilizada em inscrições relacionadas a jogos de sorte, revelações, processos iniciáticos e busca por compreensão do que ainda não está claro.
+
+Em práticas simbólicas, Perthro representa o véu entre o conhecido e o desconhecido, a sorte que surge de caminhos invisíveis e o mistério que participa silenciosamente da construção do destino.`,
+},
+{
+  slug: "algiz",
+  title: "Algiz ᛉ — A Runa da Proteção e da Defesa Espiritual",
+  description: "Algiz, a décima quinta runa do Elder Futhark, simboliza proteção, defesa espiritual, amparo e a conexão com forças que preservam a integridade do ser.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/algiz.png",
+  tags: ["algiz", "runas", "elder futhark", "proteção", "defesa espiritual", "amparo"],
+  content: `## Algiz ᛉ
+
+**Algiz** é a décima quinta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Ela está ligada à ideia de **proteção**, **defesa espiritual** e conexão com forças superiores de preservação e cuidado.
+
+## Significado
+
+- **Literal:** Significado exato debatido, frequentemente associado a alce, junco ou gesto de proteção
+- **Simbólico:** Proteção, Defesa espiritual, Amparo, Vigilância, Conexão sagrada
+- **Invertida:** Vulnerabilidade, Exposição, Falta de proteção, Descuido espiritual
+
+## Na Tradição
+
+Na tradição rúnica, **Algiz** representa a energia que protege sem necessariamente atacar. É a runa da guarda, da presença atenta e da integridade preservada diante de ameaças visíveis e invisíveis.
+
+Seu formato é muitas vezes interpretado como braços erguidos em invocação, galhos abertos para o alto ou chifres de um animal atento, sugerindo alerta, receptividade e defesa. Por isso, Algiz está ligada tanto à proteção física quanto à espiritual, funcionando como um símbolo de ligação entre o humano e o sagrado.
+
+Ela também pode indicar limites saudáveis, consciência de risco e capacidade de perceber o perigo antes que ele atinja plenamente.
+
+## Uso Mágico
+
+Algiz era utilizada em inscrições de proteção, defesa contra influências hostis, fortalecimento espiritual e guarda de pessoas, lugares ou objetos sagrados. Podia ser invocada em contextos de vigilância, purificação, segurança ritual e busca por amparo diante de energias adversas.
+
+Em práticas simbólicas, Algiz representa a força que resguarda, a defesa que nasce da consciência e o amparo invisível que sustenta quem caminha com atenção, presença e alinhamento espiritual.`,
+},
+{
+  slug: "sowilo",
+  title: "Sowilo ᛊ — A Runa do Sol e da Vitória",
+  description: "Sowilo, a décima sexta runa do Elder Futhark, simboliza sol, vitória, sucesso e a força luminosa que guia, energiza e conduz à realização.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/sowilo.png",
+  tags: ["sowilo", "runas", "elder futhark", "sol", "vitória", "sucesso"],
+  content: `## Sowilo ᛊ
+
+**Sowilo** é a décima sexta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **sol**, fonte de luz, direção, energia e triunfo. Por isso, Sowilo representa vitória, sucesso, clareza e a força vital que impulsiona o ser em direção à realização.
+
+## Significado
+
+- **Literal:** Sol
+- **Simbólico:** Vitória, Sucesso, Clareza, Energia vital, Direção
+- **Invertida:** Sowilo tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar excesso de ego, desgaste, cegueira diante da própria sombra ou sucesso instável
+
+## Na Tradição
+
+Na tradição rúnica, **Sowilo** simboliza a luz que vence a escuridão. É a runa da energia solar como princípio de orientação, vitalidade e conquista. Ela representa o momento em que a força interior se alinha com a direção correta, produzindo avanço, superação e êxito.
+
+Também está ligada à clareza de propósito, à confiança e à consciência desperta. Sowilo não fala apenas de vencer externamente, mas de encontrar coerência interna suficiente para seguir com intensidade e foco.
+
+Por isso, é uma runa associada ao triunfo que nasce de alinhamento, força e lucidez, não apenas de impulso.
+
+## Uso Mágico
+
+Sowilo era utilizada em inscrições ligadas à vitória, ao fortalecimento da vontade, ao sucesso em disputas e à busca por energia vital e clareza. Podia ser invocada em contextos de liderança, conquista, renovação de ânimo e superação de obstáculos.
+
+Em práticas simbólicas, Sowilo representa a luz que orienta, a vitória que nasce da clareza e o sucesso que surge quando a energia interior encontra direção e propósito.`,
+},
+{
+  slug: "tiwaz",
+  title: "Tiwaz ᛏ — A Runa da Honra, Justiça e Liderança",
+  description: "Tiwaz, a décima sétima runa do Elder Futhark, simboliza honra, justiça, liderança, coragem moral e a disposição de agir com retidão mesmo diante do sacrifício.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/tiwaz.png",
+  tags: ["tiwaz", "runas", "elder futhark", "honra", "justiça", "liderança"],
+  content: `## Tiwaz ᛏ
+
+**Tiwaz** é a décima sétima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao deus **Týr**, divindade nórdica associada à **justiça**, aos **juramentos**, à **coragem** e ao **sacrifício em nome da ordem**.
+
+## Significado
+
+- **Literal:** Týr, deus da justiça e da coragem
+- **Simbólico:** Honra, Justiça, Liderança, Disciplina, Sacrifício consciente
+- **Invertida:** Injustiça, Covardia moral, Falta de direção, Liderança fragilizada
+
+## Na Tradição
+
+Na tradição rúnica, **Tiwaz** representa a força da retidão. É a runa da liderança que não se baseia apenas em poder, mas em princípios, responsabilidade e disposição para sustentar o que é correto.
+
+Sua associação com **Týr** reforça essa leitura: ele é o deus que sacrifica a própria mão para que os deuses consigam prender **Fenrir**, colocando o bem coletivo acima da segurança pessoal. Por isso, Tiwaz simboliza a coragem moral de agir com honra mesmo quando há custo.
+
+Ela também está ligada à disciplina, à decisão firme e ao senso de direção necessário para conduzir pessoas, causas ou conflitos de maneira justa.
+
+## Uso Mágico
+
+Tiwaz era utilizada em inscrições ligadas à vitória justa, à coragem em batalha, ao fortalecimento da honra pessoal e à proteção de juramentos e compromissos. Podia ser invocada em contextos de liderança, decisões difíceis, disputas legais ou morais e busca por firmeza de caráter.
+
+Em práticas simbólicas, Tiwaz representa a liderança guiada por princípios, a justiça que exige coragem e a honra de sustentar o caminho certo mesmo diante do sacrifício.`,
+},
+{
+  slug: "berkano",
+  title: "Berkano ᛒ — A Runa do Nascimento e do Crescimento",
+  description: "Berkano, a décima oitava runa do Elder Futhark, simboliza nascimento, fertilidade, crescimento, cuidado e os processos de renovação que fazem a vida florescer.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/berkano.png",
+  tags: ["berkano", "runas", "elder futhark", "nascimento", "fertilidade", "crescimento"],
+  content: `## Berkano ᛒ
+
+**Berkano** é a décima oitava runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **vidoeiro** (bétula), árvore associada à renovação, à fertilidade, à proteção e ao início de novos ciclos.
+
+## Significado
+
+- **Literal:** Vidoeiro, Bétula
+- **Simbólico:** Nascimento, Fertilidade, Crescimento, Renovação, Cuidado
+- **Invertida:** Bloqueio de crescimento, Fragilidade, Dificuldade de nutrir, Estagnação em processos de desenvolvimento
+
+## Na Tradição
+
+Na tradição rúnica, **Berkano** representa tudo aquilo que nasce, cresce e precisa ser cuidado para florescer. É uma runa profundamente ligada aos ciclos da vida, à fertilidade da terra, ao desenvolvimento orgânico e ao acolhimento necessário para que algo novo amadureça.
+
+Ela pode simbolizar nascimento literal, maternidade, cura, criação de projetos, amadurecimento emocional e qualquer processo que envolva proteção e desenvolvimento gradual. Berkano fala de crescimento vivo, daquele que não pode ser forçado, mas precisa de ambiente adequado, nutrição e tempo.
+
+Por isso, também está associada à energia do abrigo, da proteção amorosa e da regeneração.
+
+## Uso Mágico
+
+Berkano era utilizada em inscrições ligadas à fertilidade, à proteção de nascimentos, à saúde, à cura e ao fortalecimento de processos de crescimento. Podia ser invocada em contextos de renovação, cuidado familiar, desenvolvimento de projetos e abertura de novos ciclos.
+
+Em práticas simbólicas, Berkano representa a vida que brota, o crescimento que pede cuidado e a força suave, mas poderosa, que protege, nutre e permite florescer.`,
+},
+{
+  slug: "ehwaz",
+  title: "Ehwaz ᛖ — A Runa do Movimento, da Parceria e da Confiança",
+  description: "Ehwaz, a décima nona runa do Elder Futhark, simboliza movimento, parceria, confiança, cooperação e o avanço construído em sintonia entre forças que caminham juntas.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/ehwaz.png",
+  tags: ["ehwaz", "runas", "elder futhark", "movimento", "parceria", "confiança"],
+  content: `## Ehwaz ᛖ
+
+**Ehwaz** é a décima nona runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **cavalo**, animal profundamente associado ao deslocamento, à lealdade, à parceria e à confiança entre cavaleiro e montaria.
+
+## Significado
+
+- **Literal:** Cavalo
+- **Simbólico:** Movimento, Parceria, Confiança, Cooperação, Progresso conjunto
+- **Invertida:** Desconfiança, Falta de sintonia, Movimento travado, Ruptura de parceria
+
+## Na Tradição
+
+Na tradição rúnica, **Ehwaz** representa o avanço que acontece quando duas forças trabalham em sintonia. O cavalo não é apenas um meio de transporte, mas um parceiro vivo, cuja relação com o humano exige confiança mútua, sensibilidade e alinhamento.
+
+Por isso, Ehwaz simboliza movimento com cooperação. Ela está ligada a jornadas realizadas com apoio, alianças confiáveis, relações produtivas e processos que avançam porque existe harmonia entre intenção e ação, ou entre duas partes que se complementam.
+
+Também pode indicar transição, mudança positiva e deslocamento para um novo estágio, desde que haja fidelidade, coordenação e abertura para caminhar junto.
+
+## Uso Mágico
+
+Ehwaz era utilizada em inscrições ligadas a viagens seguras, fortalecimento de vínculos, parcerias confiáveis e harmonização de relações de trabalho, amizade ou compromisso. Também podia ser associada à superação de travas em processos que dependem de cooperação verdadeira.
+
+Em práticas simbólicas, Ehwaz representa o movimento que nasce da confiança, a parceria que conduz ao progresso e a travessia bem-sucedida quando há sintonia entre forças que caminham lado a lado.`,
+},
+{
+  slug: "mannaz",
+  title: "Mannaz ᛗ — A Runa da Humanidade e da Consciência Coletiva",
+  description: "Mannaz, a vigésima runa do Elder Futhark, simboliza humanidade, consciência coletiva, identidade, inteligência social e a relação entre o indivíduo e a comunidade.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/mannaz.png",
+  tags: ["mannaz", "runas", "elder futhark", "humanidade", "consciência coletiva", "comunidade"],
+  content: `## Mannaz ᛗ
+
+**Mannaz** é a vigésima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **homem**, **ser humano** ou **humanidade**, e por isso está ligada à identidade humana, à consciência coletiva e à forma como o indivíduo se compreende dentro de um grupo maior.
+
+## Significado
+
+- **Literal:** Homem, ser humano
+- **Simbólico:** Humanidade, Consciência coletiva, Identidade, Cooperação, Inteligência social
+- **Invertida:** Isolamento, Confusão de identidade, Dificuldade relacional, Desalinhamento com o coletivo
+
+## Na Tradição
+
+Na tradição rúnica, **Mannaz** representa o ser humano não como entidade isolada, mas como parte de uma rede de relações, cultura, memória e convivência. É a runa da consciência que surge no encontro entre o eu e o outro, entre identidade pessoal e pertencimento coletivo.
+
+Por isso, Mannaz está ligada à inteligência social, à cooperação, ao autoconhecimento e à compreensão de que a humanidade se constrói em relação. Ela pode simbolizar maturidade, reflexão, responsabilidade social e percepção de papéis dentro de uma comunidade.
+
+Também sugere que o crescimento individual depende, em parte, da capacidade de compreender os vínculos que nos formam, sustentam e desafiam.
+
+## Uso Mágico
+
+Mannaz era utilizada em inscrições ligadas ao fortalecimento da mente, ao autoconhecimento, à harmonia social e à clareza nas relações humanas. Podia ser invocada em contextos de cooperação, liderança consciente, integração em grupos e desenvolvimento da percepção sobre si mesmo e sobre os outros.
+
+Em práticas simbólicas, Mannaz representa a humanidade como consciência viva, o indivíduo em diálogo com a comunidade e a sabedoria que nasce quando o ser humano compreende seu lugar dentro do todo.`,
+},
+{
+  slug: "laguz",
+  title: "Laguz ᛚ — A Runa da Água, da Intuição e das Emoções",
+  description: "Laguz, a vigésima primeira runa do Elder Futhark, simboliza água, intuição, emoções, fluxo e a sabedoria profunda que se move sob a superfície.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/laguz.png",
+  tags: ["laguz", "runas", "elder futhark", "água", "intuição", "emoções"],
+  content: `## Laguz ᛚ
+
+**Laguz** é a vigésima primeira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à **água**, aos **lagos** e aos fluxos profundos da vida, por isso representa intuição, emoções, movimento interior e conexão com aquilo que não pode ser controlado de forma rígida.
+
+## Significado
+
+- **Literal:** Água, Lago
+- **Simbólico:** Intuição, Emoções, Fluxo, Sensibilidade, Profundidade interior
+- **Invertida:** Bloqueio emocional, Confusão intuitiva, Medo do fluxo, Desequilíbrio interior
+
+## Na Tradição
+
+Na tradição rúnica, **Laguz** representa a água como força viva, móvel e misteriosa. Diferente de estruturas fixas, a água se adapta, contorna obstáculos e alcança profundidades invisíveis. Por isso, essa runa está ligada à percepção intuitiva, à vida emocional e aos movimentos internos que nem sempre podem ser explicados racionalmente.
+
+Laguz também fala de entrega ao fluxo. Ela sugere a importância de escutar o que se move por dentro, reconhecer ciclos emocionais e confiar em percepções sutis. Ao mesmo tempo, lembra que águas profundas podem tanto nutrir quanto confundir, exigindo sensibilidade e equilíbrio.
+
+É uma runa associada ao feminino simbólico, ao inconsciente, à imaginação e à sabedoria que emerge quando se aprende a sentir sem se perder.
+
+## Uso Mágico
+
+Laguz era utilizada em inscrições ligadas à intuição, à proteção em travessias marítimas, à conexão com o invisível e ao equilíbrio emocional. Podia ser invocada em contextos de sonhos, sensibilidade espiritual, cura interior e aprofundamento da percepção.
+
+Em práticas simbólicas, Laguz representa a água da alma, o fluxo das emoções e a inteligência intuitiva que guia por caminhos que a lógica sozinha não alcança.`,
+},
+{
+  slug: "ingwaz",
+  title: "Ingwaz ᛜ — A Runa da Fertilidade e do Potencial Interior",
+  description: "Ingwaz, a vigésima segunda runa do Elder Futhark, simboliza fertilidade, potencial interior, gestação de forças e a energia madura que se prepara para florescer.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/ingwaz.png",
+  tags: ["ingwaz", "runas", "elder futhark", "fertilidade", "potencial interior", "crescimento"],
+  content: `## Ingwaz ᛜ
+
+**Ingwaz** é a vigésima segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado a **Ing**, frequentemente associado ao deus **Freyr**, divindade nórdica relacionada à fertilidade, à abundância e à prosperidade.
+
+## Significado
+
+- **Literal:** Ing, nome divino associado à fertilidade
+- **Simbólico:** Fertilidade, Potencial interior, Gestação, Maturação, Energia contida
+- **Invertida:** Ingwaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar potencial represado, dificuldade de conclusão ou energia estagnada antes do florescimento
+
+## Na Tradição
+
+Na tradição rúnica, **Ingwaz** representa a força que cresce em silêncio antes de se manifestar. É a runa do potencial guardado, da semente madura, da energia fértil que ainda não explodiu em movimento, mas já está plenamente carregada de possibilidade.
+
+Por isso, Ingwaz está ligada a processos de gestação, amadurecimento e preparação. Ela não fala do crescimento visível, mas da potência interna que se organiza antes de tomar forma no mundo.
+
+Também pode indicar fertilidade em sentido amplo: não apenas biológica, mas criativa, emocional, espiritual ou material. É a runa do que está prestes a nascer porque já se tornou maduro por dentro.
+
+## Uso Mágico
+
+Ingwaz era utilizada em inscrições ligadas à fertilidade, à abundância, à proteção de processos em gestação e ao fortalecimento de projetos que ainda estavam amadurecendo. Podia ser invocada em contextos de prosperidade, renovação, fecundidade e desenvolvimento de potencial oculto.
+
+Em práticas simbólicas, Ingwaz representa a semente carregada de futuro, a energia interior pronta para florescer e o poder fértil que se prepara, em silêncio, para se tornar realidade.`,
+},
+{
+  slug: "dagaz",
+  title: "Dagaz ᛞ — A Runa da Transformação e do Despertar",
+  description: "Dagaz, a vigésima terceira runa do Elder Futhark, simboliza transformação, despertar, clareza e a passagem luminosa de um estado para outro.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/dagaz.png",
+  tags: ["dagaz", "runas", "elder futhark", "transformação", "despertar", "clareza"],
+  content: `## Dagaz ᛞ
+
+**Dagaz** é a vigésima terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **dia** ou **aurora**, e por isso está ligada ao despertar, à clareza e à transformação que acontece quando a luz rompe a escuridão.
+
+## Significado
+
+- **Literal:** Dia, Aurora
+- **Simbólico:** Transformação, Despertar, Clareza, Virada, Iluminação
+- **Invertida:** Dagaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar dificuldade de enxergar a mudança, resistência ao despertar ou transição incompleta
+
+## Na Tradição
+
+Na tradição rúnica, **Dagaz** representa o momento da virada. É a passagem entre noite e dia, entre confusão e compreensão, entre um estado antigo e uma nova percepção.
+
+Por isso, essa runa está associada a transformações súbitas, revelações, despertares de consciência e mudanças positivas que trazem mais luz ao caminho. Ela não simboliza apenas mudança em si, mas a mudança que ilumina, esclarece e renova.
+
+Dagaz também pode indicar um ponto de transição em que algo finalmente se torna visível, compreensível ou maduro o bastante para emergir. É uma runa de abertura, consciência expandida e passagem para um novo ciclo com mais lucidez.
+
+## Uso Mágico
+
+Dagaz era utilizada em inscrições ligadas à renovação, ao despertar espiritual, à clareza mental e à superação de fases obscuras. Podia ser invocada em contextos de transformação positiva, abertura de caminhos, iluminação de decisões e passagem segura entre estados diferentes de vida ou consciência.
+
+Em práticas simbólicas, Dagaz representa a luz que chega no momento exato, a transformação que desperta e a aurora interior que marca o fim da escuridão e o início de uma nova visão.`,
+},
+{
+  slug: "othala",
+  title: "Othala ᛟ — A Runa da Herança, do Lar e da Ancestralidade",
+  description: "Othala, a vigésima quarta runa do Elder Futhark, simboliza herança, lar, ancestralidade, pertencimento e os legados materiais e espirituais transmitidos entre gerações.",
+  category: "runas",
+  section: "glossario",
+  date: "2026-03-05",
+  cover: "/images/glossario/runas/othala.png",
+  tags: ["othala", "runas", "elder futhark", "herança", "lar", "ancestralidade"],
+  content: `## Othala ᛟ
+
+**Othala** é a vigésima quarta e última runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **herança ancestral**, **propriedade herdada**, **terra de família** e pertencimento a uma linhagem ou casa.
+
+## Significado
+
+- **Literal:** Herança, Propriedade ancestral
+- **Simbólico:** Lar, Ancestralidade, Legado, Pertencimento, Tradição
+- **Invertida:** Desenraizamento, Ruptura com a herança, Conflito familiar, Perda de pertencimento
+
+## Na Tradição
+
+Na tradição rúnica, **Othala** representa aquilo que é recebido das gerações anteriores e que forma a base de identidade, continuidade e pertencimento. Ela está ligada tanto à herança material, como terras, bens e casa, quanto à herança imaterial, como valores, memória, cultura e tradição.
+
+Por isso, Othala simboliza o vínculo com os ancestrais, com o lar e com tudo aquilo que constitui uma origem. Também pode indicar proteção do que é sagrado dentro de uma família ou comunidade, bem como responsabilidade diante do legado recebido.
+
+Ela não fala apenas de posse, mas de **continuidade**. O que foi herdado precisa ser compreendido, honrado e, muitas vezes, transformado com consciência antes de ser transmitido adiante.
+
+## Uso Mágico
+
+Othala era utilizada em inscrições ligadas à proteção da casa, fortalecimento dos laços familiares, preservação da herança e conexão com os ancestrais. Podia ser invocada em contextos de estabilidade doméstica, defesa de território, reconexão com raízes e busca por identidade profunda.
+
+Em práticas simbólicas, Othala representa o chão ancestral sob os pés, o lar como centro de pertencimento e o legado que une passado, presente e futuro dentro de uma mesma linhagem.`,
+},
+
 
   // === JOGOS ===
   {
