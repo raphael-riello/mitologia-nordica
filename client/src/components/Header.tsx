@@ -28,106 +28,116 @@ export default function Header() {
   }
 
   return (
-    <header className="sticky top-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
-      <div className="container">
-        <div className="flex items-center justify-between h-16">
-          {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 shrink-0">
-            <span className="text-gold text-2xl">ᚱ</span>
-            <span className="font-display text-sm sm:text-base uppercase tracking-widest text-foreground">
-              Mitologia<span className="text-gold"> Nórdica</span>
-            </span>
-          </Link>
+    <header className="sticky top-0 z-50 border-b border-border/50 bg-background/90 backdrop-blur-md">
+      <div className="container flex items-center justify-between h-16">
+        {/* Logo */}
+        <Link href="/" className="flex items-center gap-3 group">
+          <span className="font-display text-2xl text-gold group-hover:text-gold-light transition-colors">
+            ᚱ
+          </span>
+          <span className="font-display text-lg text-foreground tracking-wide hidden sm:block">
+            Mitologia Nórdica
+          </span>
+        </Link>
 
-          {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-0.5">
-            {sections.map((section) => (
-              <div
-                key={section.slug}
-                className="relative"
-                onMouseEnter={() => handleMouseEnter(section.slug)}
-                onMouseLeave={handleMouseLeave}
+        {/* Desktop Nav */}
+        <nav className="hidden lg:flex items-center gap-8">
+          {sections.map((section) => (
+            <div
+              key={section.slug}
+              className="relative"
+              onMouseEnter={() => handleMouseEnter(section.slug)}
+              onMouseLeave={handleMouseLeave}
+            >
+              <Link
+                href={`/${section.slug}`}
+                className="flex items-center gap-1 font-display text-xs uppercase tracking-widest text-muted-foreground hover:text-gold transition-colors"
               >
-                <Link
-                  href={`/${section.slug}`}
-                  className={`flex items-center gap-1 px-3 py-2 font-display text-xs uppercase tracking-widest transition-colors ${
-                    location.startsWith(`/${section.slug}`)
-                      ? "text-gold"
-                      : "text-muted-foreground hover:text-foreground"
-                  }`}
-                >
-                  {section.title}
-                  <ChevronDown className={`w-3 h-3 transition-transform ${openDropdown === section.slug ? "rotate-180" : ""}`} />
-                </Link>
-                <AnimatePresence>
-                  {openDropdown === section.slug && (
-                    <motion.div
-                      initial={{ opacity: 0, y: -4 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, y: -4 }}
-                      transition={{ duration: 0.15 }}
-                      className="absolute top-full left-0 mt-0 w-56 bg-card border border-border shadow-xl"
-                      onMouseEnter={() => handleMouseEnter(section.slug)}
-                      onMouseLeave={handleMouseLeave}
-                    >
-                      <div className="py-1">
-                        {section.categories.map((cat) => (
-                          <Link
-                            key={cat.slug}
-                            href={
-                              section.slug === "comunidade"
-                                ? `/comunidade/${cat.slug}`
-                                : `/${section.slug}?categoria=${cat.slug}`
-                            }
-                            className="block px-4 py-2.5 text-sm text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
-                          >
-                            <span className="mr-2">{cat.icon}</span>
-                            {cat.title}
-                          </Link>
-                        ))}
-                      </div>
-                    </motion.div>
-                  )}
-                </AnimatePresence>
-              </div>
-            ))}
-          </nav>
+                {section.title}
+                <ChevronDown className="w-3 h-3" />
+              </Link>
 
-          {/* Actions */}
-          <div className="flex items-center gap-2">
-            <button
-              onClick={() => setSearchOpen(!searchOpen)}
-              className="p-2 text-muted-foreground hover:text-gold transition-colors"
-              aria-label="Buscar"
-            >
-              <Search className="w-5 h-5" />
-            </button>
-            <button
-              onClick={() => setMobileOpen(!mobileOpen)}
-              className="lg:hidden p-2 text-muted-foreground hover:text-foreground transition-colors"
-              aria-label="Menu"
-            >
-              {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
-            </button>
-          </div>
+              <AnimatePresence>
+                {openDropdown === section.slug && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 8 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: 8 }}
+                    transition={{ duration: 0.18 }}
+                    className="absolute top-full left-0 mt-3 w-72 rounded-xl border border-border bg-card/95 backdrop-blur-xl shadow-2xl p-3"
+                    onMouseEnter={() => handleMouseEnter(section.slug)}
+                    onMouseLeave={handleMouseLeave}
+                  >
+                    <div className="mb-2 px-2 py-1">
+                      <p className="font-display text-[11px] uppercase tracking-[0.22em] text-gold">
+                        {section.title}
+                      </p>
+                      <p className="text-xs text-muted-foreground mt-1">
+                        {section.description}
+                      </p>
+                    </div>
+
+                    <div className="space-y-1">
+                      <Link
+                        href={`/${section.slug}`}
+                        className="flex items-center rounded-lg px-3 py-2 text-sm text-foreground hover:bg-secondary transition-colors"
+                      >
+                        Ver todos
+                      </Link>
+
+                      {section.categories.map((cat) => (
+                        <Link
+                          key={cat.slug}
+                          href={`/${section.slug}?categoria=${cat.slug}`}
+                          className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
+                        >
+                          <span>{cat.icon}</span>
+                          <span>{cat.title}</span>
+                        </Link>
+                      ))}
+                    </div>
+                  </motion.div>
+                )}
+              </AnimatePresence>
+            </div>
+          ))}
+        </nav>
+
+        {/* Actions */}
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setSearchOpen(!searchOpen)}
+            className="p-2 text-muted-foreground hover:text-gold transition-colors"
+            aria-label="Buscar"
+          >
+            <Search className="w-5 h-5" />
+          </button>
+
+          <button
+            onClick={() => setMobileOpen(!mobileOpen)}
+            className="lg:hidden p-2 text-muted-foreground hover:text-foreground transition-colors"
+            aria-label="Menu"
+          >
+            {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+          </button>
         </div>
-
-        {/* Search Overlay */}
-        <AnimatePresence>
-          {searchOpen && (
-            <motion.div
-              initial={{ opacity: 0, height: 0 }}
-              animate={{ opacity: 1, height: "auto" }}
-              exit={{ opacity: 0, height: 0 }}
-              className="overflow-hidden border-t border-border"
-            >
-              <div className="py-4">
-                <SearchBar />
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
       </div>
+
+      {/* Search Overlay */}
+      <AnimatePresence>
+        {searchOpen && (
+          <motion.div
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: "auto" }}
+            exit={{ opacity: 0, height: 0 }}
+            className="border-t border-border bg-background/95 backdrop-blur-md overflow-hidden"
+          >
+            <div className="container py-4">
+              <SearchBar onSearch={() => {}} />
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Mobile Menu */}
       <AnimatePresence>
@@ -136,18 +146,25 @@ export default function Header() {
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: "auto" }}
             exit={{ opacity: 0, height: 0 }}
-            className="lg:hidden border-t border-border bg-background overflow-hidden"
+            className="lg:hidden border-t border-border bg-background/95 backdrop-blur-md overflow-hidden"
           >
-            <nav className="container py-4 space-y-1">
+            <div className="container py-4">
               {sections.map((section) => (
-                <div key={section.slug}>
+                <div key={section.slug} className="border-b border-border/50 last:border-0 py-2">
                   <button
-                    onClick={() => setOpenDropdown(openDropdown === section.slug ? null : section.slug)}
+                    onClick={() =>
+                      setOpenDropdown(openDropdown === section.slug ? null : section.slug)
+                    }
                     className="w-full flex items-center justify-between py-2.5 font-display text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {section.title}
-                    <ChevronDown className={`w-4 h-4 transition-transform ${openDropdown === section.slug ? "rotate-180" : ""}`} />
+                    <ChevronDown
+                      className={`w-4 h-4 transition-transform ${
+                        openDropdown === section.slug ? "rotate-180" : ""
+                      }`}
+                    />
                   </button>
+
                   <AnimatePresence>
                     {openDropdown === section.slug && (
                       <motion.div
@@ -156,25 +173,22 @@ export default function Header() {
                         exit={{ opacity: 0, height: 0 }}
                         className="overflow-hidden"
                       >
-                        <div className="pl-4 pb-2 space-y-0.5">
+                        <div className="pt-2 pb-3 pl-2 space-y-1">
                           <Link
                             href={`/${section.slug}`}
-                            className="block py-2 text-sm text-muted-foreground hover:text-gold transition-colors"
+                            className="block py-2 text-sm text-foreground hover:text-gold transition-colors"
                           >
                             Ver todos
                           </Link>
+
                           {section.categories.map((cat) => (
                             <Link
                               key={cat.slug}
-                              href={
-                                section.slug === "comunidade"
-                                  ? `/comunidade/${cat.slug}`
-                                  : `/${section.slug}?categoria=${cat.slug}`
-                              }
-                              className="block py-2 text-sm text-muted-foreground hover:text-gold transition-colors"
+                              href={`/${section.slug}?categoria=${cat.slug}`}
+                              className="flex items-center gap-2 py-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
                             >
-                              <span className="mr-2">{cat.icon}</span>
-                              {cat.title}
+                              <span>{cat.icon}</span>
+                              <span>{cat.title}</span>
                             </Link>
                           ))}
                         </div>
@@ -183,7 +197,7 @@ export default function Header() {
                   </AnimatePresence>
                 </div>
               ))}
-            </nav>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
