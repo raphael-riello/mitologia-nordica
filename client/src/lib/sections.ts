@@ -17,7 +17,7 @@ export const sections: SectionConfig[] = [
     categories: [
       { slug: "historia-completa", title: "História Completa", description: "Sagas completas da mitologia nórdica", icon: "📜" },
       { slug: "contos-curtos", title: "Contos Curtos", description: "Narrativas breves do universo nórdico", icon: "⚔️" },
-      { slug: "historias-infantis", title: "Histórias Infantis", description: "Contos adaptados para jovens exploradores", icon: "🌟" },
+      { slug: "contos-infantis", title: "Histórias Infantis", description: "Contos adaptados para jovens exploradores", icon: "🌟" },
     ],
   },
 
