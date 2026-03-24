@@ -5529,6 +5529,315 @@ Você é um guerreiro viking morto em batalha, enviado ao décimo mundo nórdico
 
 Valheim possui uma das comunidades mais ativas de jogos de sobrevivência, com milhares de servidores dedicados e mods criados pela comunidade.`,
   },
+  {
+  slug: "nordhold",
+  title: "Nordhold",
+  description: "Um tower defense com city building e elementos roguelite, onde você constrói e gerencia uma vila nórdica medieval enquanto prepara defesas contra ondas de inimigos. Desenvolvido pela StunForge e publicado pela HypeTrain Digital.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2025-03-25",
+  cover: "/images/jogos/singleplayer/nordhold.png",
+  tags: ["nordhold", "tower defense", "city builder", "roguelite", "estratégia", "pc", "steam"],
+  platform: "PC",
+  players: "1 jogador",
+  genre: "Estratégia/Tower Defense",
+  year: 2025,
+  content: `## Sobre o Jogo
+
+**Nordhold** é um jogo de estratégia desenvolvido pela **StunForge** e publicado pela **HypeTrain Digital**. A proposta mistura **tower defense**, **construção de cidade** e **elementos roguelite**, criando uma experiência focada em rejogabilidade e adaptação estratégica.
+
+## História
+
+Em **Nordhold**, o jogador assume o comando de uma pequena vila nórdica medieval que precisa crescer, organizar sua economia e sobreviver a sucessivas ondas de inimigos. Em vez de uma narrativa fortemente linear, o jogo aposta em uma ambientação nórdica e em decisões táticas que moldam cada partida.
+
+## Destaques
+
+- Construa e gerencie uma vila nórdica medieval
+- Defenda sua cidade contra ondas de inimigos
+- Combine economia, posicionamento e evolução estratégica
+- Utilize múltiplos edifícios, upgrades e meta progressão
+- Alta rejogabilidade com diferentes builds e combinações táticas
+
+## Avaliação
+
+**Nordhold** se destaca por unir defesa de torres e gestão de cidade em uma estrutura acessível, mas com profundidade estratégica. É uma opção especialmente interessante para quem gosta de experiências singleplayer com progressão, planejamento e forte fator de repetição.`,
+},
+{
+  slug: "spirit-of-the-north",
+  title: "Spirit of the North",
+  description: "Uma aventura contemplativa em terceira pessoa inspirada nas paisagens da Islândia e no folclore nórdico. Controle uma raposa vermelha em uma jornada silenciosa ao lado de uma misteriosa raposa espiritual.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2020-05-07",
+  cover: "/images/jogos/singleplayer/spirit-of-the-north.png",
+  tags: ["spirit of the north", "raposa", "folclore nórdico", "aventura", "pc", "ps4", "switch"],
+  platform: "PS4, Nintendo Switch, PC",
+  players: "1 jogador",
+  genre: "Aventura",
+  year: 2019,
+  content: `## Sobre o Jogo
+
+**Spirit of the North** é um jogo de aventura em terceira pessoa desenvolvido pela **Infuse Studio** e publicado pela **Merge Games**. A experiência aposta em exploração, atmosfera e narrativa ambiental, sem depender de diálogos tradicionais para contar sua história.
+
+## História
+
+No jogo, você controla uma **raposa vermelha comum** cuja jornada se entrelaça com a de uma **raposa espiritual guardiã da Aurora Boreal**. Ao atravessar montanhas, ruínas e paisagens marcadas pela decadência de uma antiga civilização, o jogador descobre fragmentos de um mundo inspirado no imaginário nórdico.
+
+## Destaques
+
+- Explore cenários inspirados nas paisagens naturais da Islândia
+- Viva uma aventura contemplativa, sem diálogos
+- Resolva puzzles ambientais e avance por ruínas antigas
+- Acompanhe a relação entre a raposa e a guardiã espiritual
+- Trilha sonora atmosférica e direção de arte focada em imersão
+
+## Avaliação
+
+**Spirit of the North** se destaca pela ambientação, pela direção artística e pela proposta mais sensorial e contemplativa. É uma experiência indicada para quem gosta de exploração, simbolismo e jogos com forte identidade visual.`,
+},
+{
+  slug: "hellblade-senuas-sacrifice",
+  title: "Hellblade: Senua's Sacrifice",
+  description: "Uma intensa aventura psicológica e mitológica que acompanha Senua em uma jornada pelo inferno viking. Desenvolvido pela Ninja Theory, o jogo combina combate brutal, narrativa profunda e uma representação marcante da psicose.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2017-08-08",
+  cover: "/images/jogos/singleplayer/hellblade-senuas-sacrifice.png",
+  tags: ["hellblade", "senua", "mitologia nórdica", "psicose", "ação", "aventura", "pc", "ps4", "xbox"],
+  platform: "PS4, Xbox One, Nintendo Switch, PC",
+  players: "1 jogador",
+  genre: "Ação/Aventura",
+  year: 2017,
+  content: `## Sobre o Jogo
+
+**Hellblade: Senua's Sacrifice** é um jogo de ação e aventura desenvolvido e publicado pela **Ninja Theory**. A experiência combina combate em terceira pessoa, exploração, puzzles e uma narrativa psicológica intensa, ambientada em um universo inspirado na mitologia nórdica.
+
+## História
+
+No papel de **Senua**, uma guerreira celta devastada pela perda e pelo trauma, o jogador embarca em uma jornada perturbadora rumo ao **inferno viking** para lutar pela alma de seu amado morto. Ao longo do caminho, realidade, memória, mito e sofrimento mental se misturam de forma profunda e inquietante.
+
+## Destaques
+
+- Narrativa intensa e emocional centrada na jornada de Senua
+- Ambientação inspirada na mitologia nórdica e no imaginário viking
+- Representação marcante da psicose, construída com apoio de especialistas
+- Combate visceral e intimista em terceira pessoa
+- Puzzles ambientais e progressão focada em atmosfera
+- Direção de arte e design de som altamente imersivos
+
+## Avaliação
+
+**Hellblade: Senua's Sacrifice** se destaca pela força narrativa, pela atmosfera sombria e pela maneira como une mitologia, trauma e percepção alterada em uma experiência singular. É um jogo especialmente marcante para quem busca uma aventura mais densa, artística e emocional.`,
+},
+{
+  slug: "jotun-valhalla-edition",
+  title: "Jotun: Valhalla Edition",
+  description: "Um jogo de ação e exploração desenhado à mão, ambientado na mitologia nórdica. Controle Thora, uma guerreira viking que precisa provar seu valor aos deuses para conquistar seu lugar em Valhalla.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2015-09-29",
+  cover: "/images/jogos/singleplayer/jotun-valhalla-edition.png",
+  tags: ["jotun", "valhalla edition", "thora", "mitologia nórdica", "vikings", "pc", "ps4", "xbox one", "switch"],
+  platform: "PC, PS4, Xbox One, Nintendo Switch",
+  players: "1 jogador",
+  genre: "Ação/Aventura",
+  year: 2015,
+  content: `## Sobre o Jogo
+
+**Jotun: Valhalla Edition** é um jogo de **ação, aventura e exploração** desenvolvido e publicado pela **Thunder Lotus**. Com visual totalmente desenhado à mão, o jogo mergulha o jogador em uma jornada inspirada na mitologia nórdica, combinando combates contra chefes gigantescos, atmosfera épica e forte identidade artística.
+
+## História
+
+Em **Jotun: Valhalla Edition**, você controla **Thora**, uma guerreira viking que teve uma morte sem glória e agora precisa provar seu valor aos deuses para poder entrar em **Valhalla**. Para isso, ela atravessa regiões vastas do purgatório nórdico em busca de runas capazes de invocar os **jotuns**, gigantes elementais da tradição nórdica.
+
+## Destaques
+
+- Animação belíssima totalmente desenhada à mão
+- Enfrente cinco jotuns épicos, gigantes elementais da mitologia nórdica
+- Explore nove regiões amplas e misteriosas inspiradas no imaginário viking
+- Use seu machado de duas mãos, bênçãos divinas e habilidade em combate
+- Dublagem autêntica em islandês
+- Edição Valhalla Edition com **Valhalla Mode**, trazendo batalhas ainda mais desafiadoras
+
+## Avaliação
+
+**Jotun: Valhalla Edition** se destaca pela direção de arte marcante, pelo clima mitológico e pelas batalhas memoráveis contra chefes. É uma ótima escolha para quem busca uma experiência single-player focada em exploração, desafio e ambientação nórdica.`,
+},
+{
+  slug: "assassins-creed-valhalla",
+  title: "Assassin's Creed Valhalla",
+  description: "Uma aventura épica em mundo aberto ambientada na era viking, onde você controla Eivor em sua jornada por conquista, alianças e destino na Inglaterra anglo-saxã. Desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2020-11-10",
+  cover: "/images/jogos/singleplayer/assassins-creed-valhalla.png",
+  tags: ["assassin's creed valhalla", "assassin's creed", "eivor", "vikings", "mitologia nórdica", "ubisoft", "ps5", "xbox", "pc"],
+  platform: "PS4, PS5, Xbox One, Xbox Series X|S, PC, Stadia, Amazon Luna",
+  players: "1 jogador",
+  genre: "Ação/RPG",
+  year: 2020,
+  content: `## Sobre o Jogo
+
+**Assassin's Creed Valhalla** é um jogo de ação e RPG em mundo aberto desenvolvido pela **Ubisoft Montreal** e publicado pela **Ubisoft**. Ambientado na era viking, o jogo mistura exploração, combate, alianças políticas e elementos da mitologia nórdica em uma jornada de conquista e sobrevivência.
+
+## História
+
+No papel de **Eivor**, um guerreiro ou guerreira viking, o jogador lidera seu povo da Noruega até a Inglaterra anglo-saxã em busca de um novo lar. Ao longo da jornada, Eivor precisa formar alianças, expandir seu assentamento e enfrentar conflitos envolvendo reis, clãs, os **Ocultos** e a **Ordem dos Antigos**.
+
+A narrativa combina guerra, destino, política e temas ligados à herança viking, enquanto também explora visões e elementos míticos conectados a **Odin**, **Asgard** e ao imaginário nórdico.
+
+## Destaques
+
+- Explore um vasto mundo aberto inspirado na Inglaterra e na Noruega da era viking
+- Jogue como **Eivor**, em versão masculina ou feminina
+- Construa e desenvolva seu próprio assentamento
+- Forme alianças políticas e participe de invasões vikings
+- Combate com machados, escudos, arcos e armas duplas
+- Elementos de mitologia nórdica integrados à campanha e expansões
+
+## Avaliação
+
+**Assassin's Creed Valhalla** se destacou como um dos maiores lançamentos da franquia, combinando a fórmula moderna de RPG da série com forte inspiração na cultura viking e no imaginário nórdico. É uma experiência indicada para quem gosta de exploração, narrativa extensa e ambientação histórica com toques mitológicos.`,
+},
+{
+  slug: "the-banner-saga",
+  title: "The Banner Saga",
+  description: "Um RPG tático inspirado na mitologia nórdica, com narrativa épica e escolhas impactantes. Guie uma caravana em um mundo à beira do colapso em uma jornada marcada por sobrevivência, estratégia e destino.",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2014-01-14",
+  cover: "/images/jogos/singleplayer/the-banner-saga.png",
+  tags: ["the banner saga", "rpg tático", "mitologia nórdica", "stoic", "estratégia", "vikings", "pc", "ps4", "xbox", "switch"],
+  platform: "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+  players: "1 jogador",
+  genre: "RPG/Estratégia",
+  year: 2014,
+  content: `## Sobre o Jogo
+
+**The Banner Saga** é um RPG tático desenvolvido pela **Stoic Studio**, com forte inspiração na mitologia nórdica e no estilo artístico de animações tradicionais. O jogo combina combate estratégico por turnos com uma narrativa profunda, onde cada escolha pode impactar o destino dos personagens.
+
+## História
+
+Em um mundo onde o sol parou no céu e o fim parece inevitável, você lidera uma **caravana de sobreviventes** através de paisagens devastadas. Entre humanos, varl (gigantes) e outras ameaças, a jornada se torna uma luta constante por recursos, moral e sobrevivência.
+
+A narrativa se desenvolve através de decisões difíceis, onde cada escolha pode resultar em consequências duradouras, incluindo a morte permanente de personagens importantes.
+
+## Destaques
+
+- Combate tático por turnos com profundidade estratégica
+- Narrativa ramificada com decisões impactantes
+- Estilo visual desenhado à mão inspirado em animações clássicas
+- Gestão de recursos, moral e sobrevivência da caravana
+- Trilha sonora marcante composta por Austin Wintory
+
+## Avaliação
+
+**The Banner Saga** é amplamente elogiado por sua narrativa madura, direção de arte única e sistema de escolhas significativas. É uma experiência ideal para quem busca um jogo estratégico com forte carga emocional e ambientação inspirada no universo nórdico.`,
+},
+{
+  slug: "age-of-mythology-retold",
+  title: "Age of Mythology: Retold",
+  description: "Um RTS mitológico que reimagina o clássico Age of Mythology com visual moderno, campanha épica e batalhas entre deuses, monstros e humanos. Desenvolvido por World's Edge, Forgotten Empires, Tantalus Media, CaptureAge e Virtuos Games, com publicação da Xbox Game Studios. :contentReference[oaicite:0]{index=0}",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2024-09-04",
+  cover: "/images/jogos/singleplayer/age-of-mythology-retold.png",
+  tags: ["age of mythology", "retold", "rts", "mitologia", "xbox game studios", "pc", "ps5", "estratégia"],
+  platform: "PC, Xbox Series X|S, PlayStation 5",
+  players: "1 jogador",
+  genre: "Estratégia/RTS",
+  year: 2024,
+  content: `## Sobre o Jogo
+
+**Age of Mythology: Retold** é uma releitura moderna do clássico RTS mitológico, trazendo de volta a mistura entre estratégia em tempo real, deuses, monstros e civilizações lendárias. O jogo foi desenvolvido por **World's Edge**, **Forgotten Empires**, **Tantalus Media**, **CaptureAge** e **Virtuos Games**, com publicação da **Xbox Game Studios**. :contentReference[oaicite:1]{index=1}
+
+## História
+
+Em **Age of Mythology: Retold**, o jogador atravessa campanhas épicas ambientadas em um mundo mitológico, enfrentando guerras em cenários inspirados por diferentes tradições antigas. A jornada inclui conflitos em locais como **Troia**, os ermos gelados de **Midgard** e as terras ligadas aos mistérios de **Osíris**, colocando humanos, monstros e poderes divinos em choque constante. :contentReference[oaicite:2]{index=2}
+
+## Destaques
+
+- Campanhas mitológicas com cerca de **50 missões**
+- Use deuses, poderes divinos e criaturas lendárias em batalha
+- Modos de jogo com campanha, escaramuça, multiplayer e **Arena of the Gods**
+- Estratégia em tempo real com construção de base e gerenciamento de recursos
+- Visual modernizado e novos recursos para uma experiência atualizada
+- Suporte a **single-player**, **PvP online**, **co-op online** e editor de fases :contentReference[oaicite:3]{index=3}
+
+## Avaliação
+
+**Age of Mythology: Retold** foi bem recebido no Steam, com avaliações gerais **Muito Positivas**, e aparece com **83 no Metacritic** na página da loja. É uma ótima opção para quem gosta de estratégia em tempo real e quer uma experiência focada em mitologia, campanha robusta e batalhas grandiosas. :contentReference[oaicite:4]{index=4}`,
+},
+{
+  slug: "volgarr-the-viking",
+  title: "Volgarr the Viking",
+  description: "Um action platformer hardcore em estilo arcade retrô, inspirado em clássicos como Super Ghouls 'N Ghosts, Rastan e Castlevania. Desenvolvido e publicado pela Crazy Viking Studios, o jogo aposta em desafio elevado, controles precisos e visual em pixel art. :contentReference[oaicite:0]{index=0}",
+  category: "singleplayer",
+  section: "jogos",
+  date: "2013-09-13",
+  cover: "/images/jogos/singleplayer/volgarr-the-viking.png",
+  tags: ["volgarr the viking", "volgarr", "viking", "platformer", "retro", "arcade", "pc", "pixel art"],
+  platform: "PC, macOS, Linux",
+  players: "1 jogador",
+  genre: "Ação/Aventura/Indie",
+  year: 2013,
+  content: `## Sobre o Jogo
+
+**Volgarr the Viking** é um jogo de ação em plataforma desenvolvido e publicado pela **Crazy Viking Studios**. A proposta é recriar a sensação da era de ouro dos arcades, com dificuldade alta, design meticuloso, controles simples e precisos, além de animações em pixel art feitas à mão. :contentReference[oaicite:1]{index=1}
+
+## História
+
+Em vez de focar em uma narrativa complexa, **Volgarr the Viking** aposta em uma jornada direta e brutal, centrada no avanço do guerreiro Volgarr por cenários hostis, cheios de armadilhas, inimigos e chefes gigantescos. O foco está na sobrevivência, na habilidade do jogador e na progressão por um mundo de fantasia em estilo clássico. :contentReference[oaicite:2]{index=2}
+
+## Destaques
+
+- Ação arcade hardcore inspirada em clássicos retrô
+- Explore **sete mundos** em **30+ mapas**
+- Enfrente **40+ inimigos e armadilhas**, incluindo chefes enormes
+- Animação em pixel art com milhares de frames desenhados à mão
+- Trilha sonora orquestrada
+- Suporte completo a controles
+- Caminhos múltiplos e finais diferentes :contentReference[oaicite:3]{index=3}
+
+## Avaliação
+
+**Volgarr the Viking** recebeu nota **76 no Metacritic** na página da Steam e mantém avaliações gerais **Muito Positivas** na plataforma, com **84%** de aprovação entre as avaliações exibidas. É uma ótima escolha para quem gosta de jogos difíceis, retrô e focados em execução precisa. :contentReference[oaicite:4]{index=4}`,
+},
+{
+  slug: "tribes-of-midgard",
+  title: "Tribes of Midgard",
+  description: "Uma mistura vibrante de sobrevivência, ação e RPG em um mundo inspirado na mitologia nórdica. Construa sua vila, enfrente gigantes e lute para impedir o Ragnarök nesta aventura da Norsfell.",
+  category: "multiplayer",
+  section: "jogos",
+  date: "2021-07-27",
+  cover: "/images/jogos/multiplayer/tribes-of-midgard.png",
+  tags: ["tribes of midgard", "mitologia nórdica", "vikings", "ragnarok", "survival", "action rpg", "pc", "ps4", "ps5"],
+  platform: "PS4, PS5, PC",
+  players: "1 jogador",
+  genre: "Ação/RPG/Survival",
+  year: 2021,
+  content: `## Sobre o Jogo
+
+**Tribes of Midgard** é um jogo de ação, RPG e sobrevivência desenvolvido pela **Norsfell** e publicado pela **Gearbox Publishing**. A proposta combina exploração, coleta de recursos, construção de base e combate contra criaturas míticas em um mundo inspirado na mitologia nórdica.
+
+## História
+
+Em **Tribes of Midgard**, você assume o papel de um **Einherjar**, um guerreiro escolhido para proteger Midgard diante da ameaça do **Ragnarök**. Em sua jornada, é preciso fortalecer sua vila, explorar territórios perigosos e enfrentar criaturas lendárias, incluindo os gigantes **Jötnar** e outras ameaças colossais.
+
+## Destaques
+
+- Construa, expanda e defenda sua vila viking
+- Explore mundos gerados proceduralmente
+- Enfrente gigantes e criaturas ligadas ao Ragnarök
+- Modos **Saga** e **Survival** com abordagens diferentes
+- Progressão com classes, habilidades, runas e equipamentos
+- Ambientação colorida com forte inspiração nórdica
+
+## Avaliação
+
+**Tribes of Midgard** se destaca por unir sobrevivência, ação cooperativa e elementos de RPG em uma estrutura acessível e rejogável. É uma ótima escolha para quem gosta de mitologia nórdica, construção de base e combates contra grandes chefes em uma atmosfera viking estilizada.`,
+},
+
 
   // === CONTEÚDO ===
   {
