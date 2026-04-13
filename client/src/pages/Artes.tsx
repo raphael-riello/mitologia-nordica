@@ -10,6 +10,7 @@ export default function Artes() {
   useDocumentTitle("Artes da Comunidade");
   const artes = useMemo(() => getContentBySectionAndCategory("comunidade", "artes"), []);
 
+
   return (
     <>
       <HeroSection
