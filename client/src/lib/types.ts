@@ -4,6 +4,7 @@ export interface ContentItem {
   description: string;
   category: string;
   subcategory?: string;
+  additionalSubcategories?: string[];
   section: string;
   date: string;
   cover: string;

@@ -383,6 +383,7 @@ Em Skáldskaparmál, ele dialoga com Bragi e faz perguntas que dão origem a exp
   },
   {
     slug: "fenrir",
+    additionalSubcategories: ["monstros"],
     title: "Fenrir — O Lobo do Ragnarök",
     description: "Filho de Loki e Angrboða, Fenrir é o lobo preso por Gleipnir e destinado a enfrentar Odin no fim dos tempos.",
     category: "criaturas",
@@ -419,6 +420,7 @@ Fenrir é uma figura do perigo cósmico, mas seu relato também envolve confian�
   },
   {
     slug: "jormungandr",
+    additionalSubcategories: ["monstros"],
     title: "Jörmungandr — A Serpente do Mundo",
     description: "Filha de Loki e Angrboða, a serpente que circunda Midgard é a grande adversária de Thor.",
     category: "criaturas",

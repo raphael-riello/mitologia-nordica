@@ -1,7 +1,9 @@
 import type { ContentItem } from "./types";
 import { giantContent } from "./giants";
+import { beastContent } from "./beasts";
 
 export const allContent: ContentItem[] = [
+  ...beastContent,
   ...giantContent,
   // === HISTÓRIAS ===
   {
@@ -3754,6 +3756,7 @@ Dentro do catálogo da Völuspá, Gandálfr ocupa um lugar especial como um nome
 },
 {
   slug: "fafnir",
+  additionalSubcategories: ["monstros"],
   title: "Fáfnir — O Anão Transformado em Dragão",
   description: "Fáfnir é uma das figuras mais trágicas da mitologia nórdica: originalmente um anão, ou ser próximo aos anões, ele se transforma em dragão após ser corrompido pelo ouro amaldiçoado de Andvari. Sua história é central no ciclo dos Völsungos, preservado na Völsunga saga e na Edda Poética.",
   category: "criaturas",
@@ -6062,7 +6065,10 @@ export function getContentBySectionAndCategory(
     if (item.category !== category) return false;
 
     // se subcategory foi informada, filtra por ela
-    if (subcategory) return item.subcategory === subcategory;
+    if (subcategory) {
+      return item.subcategory === subcategory ||
+        item.additionalSubcategories?.includes(subcategory) === true;
+    }
 
     // se não foi informada, traz tudo da categoria
     return true;
