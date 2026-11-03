@@ -4,10 +4,11 @@ import { getContentBySlug, getContentBySectionAndCategory } from "@/lib/content"
 import { getSectionBySlug, getCategoryBySlug, getSubcategoryBySlug } from "@/lib/sections";
 import Breadcrumb from "@/components/Breadcrumb";
 import ContentCard from "@/components/ContentCard";
-import { Streamdown } from "streamdown";
+import ArticleBody from "@/components/ArticleBody";
+import { relatedContent } from "@/lib/editorial-links";
+import { categoryPath } from "@/lib/paths";
 import { motion } from "framer-motion";
 import { Calendar, Tag, User, Gamepad2, Users } from "lucide-react";
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
 
 interface ContentDetailProps {
   section: string;
@@ -50,21 +51,11 @@ export default function ContentDetail({
     return precise || getContentBySlug(section, slug);
   }, [section, category, subcategory, slug]);
 
-  useDocumentTitle(item?.title || "Não encontrado");
 
   const relatedItems = useMemo(() => {
     if (!item) return [];
 
-    // começa com a mesma categoria
-    let list = getContentBySectionAndCategory(section, category).filter((i) => i.slug !== slug);
-
-    // se estamos dentro de uma subcategory, prioriza relacionados da mesma subcategory
-    if (subcategory) {
-      const sameSub = list.filter((i) => i.subcategory === subcategory);
-      if (sameSub.length > 0) list = sameSub;
-    }
-
-    return list.slice(0, 3);
+    return relatedContent(item);
   }, [section, category, subcategory, slug, item]);
 
   if (!item || !sectionConfig) {
@@ -97,7 +88,7 @@ export default function ContentDetail({
 
       <div className="container -mt-24 relative z-10 pb-16">
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
@@ -106,14 +97,14 @@ export default function ContentDetail({
               { label: sectionConfig.title, href: `/${section}` },
 
               // categoria sempre aparece
-              { label: categoryConfig?.title || category, href: `/${section}?categoria=${category}` },
+              { label: categoryConfig?.title || category, href: categoryPath(section, category) },
 
               // se existir subcategory, insere no breadcrumb
               ...(subcategory
                 ? [
                     {
                       label: subcategoryConfig?.title || subcategory,
-                      href: `/${section}?categoria=${category}&subcategoria=${subcategory}`,
+                      href: categoryPath(section, category, subcategory),
                     },
                   ]
                 : []),
@@ -132,8 +123,9 @@ export default function ContentDetail({
             <div className="flex flex-wrap gap-4 mb-8 text-sm text-muted-foreground">
               <div className="flex items-center gap-1.5">
                 <Calendar className="w-4 h-4 text-gold/70" />
-                <time>
-                  {new Date(item.date).toLocaleDateString("pt-BR", {
+                <time dateTime={item.date}>
+                  {new Date(item.date + "T12:00:00Z").toLocaleDateString("pt-BR", {
+                    timeZone: "UTC",
                     day: "2-digit",
                     month: "long",
                     year: "numeric",
@@ -194,7 +186,7 @@ export default function ContentDetail({
               prose-ul:list-disc prose-ol:list-decimal
             "
             >
-              <Streamdown>{item.content}</Streamdown>
+              <ArticleBody item={item} />
             </article>
           </div>
         </motion.div>

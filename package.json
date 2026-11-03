@@ -9,7 +9,8 @@
   },
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build",
+    "build": "vite build && tsx scripts/prerender.ts && tsx --test scripts/seo.test.ts",
+    "test:seo": "tsx --test scripts/seo.test.ts",
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",

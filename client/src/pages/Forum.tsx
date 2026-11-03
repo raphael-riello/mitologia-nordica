@@ -3,7 +3,6 @@ import HeroSection from "@/components/HeroSection";
 import Breadcrumb from "@/components/Breadcrumb";
 import { HERO_IMAGES } from "@/lib/sections";
 import { MessageSquare, Users, Shield, BookOpen } from "lucide-react";
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
 
 const forumCategories = [
   {
@@ -37,7 +36,6 @@ const forumCategories = [
 ];
 
 export default function Forum() {
-  useDocumentTitle("Fórum de Discussão");
   return (
     <>
       <HeroSection
@@ -56,7 +54,7 @@ export default function Forum() {
 
         {/* Notice */}
         <motion.div
-          initial={{ opacity: 0, y: 10 }}
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           className="border border-gold/30 bg-gold/5 p-6 mb-10"
         >
@@ -74,7 +72,7 @@ export default function Forum() {
           {forumCategories.map((cat, i) => (
             <motion.div
               key={cat.title}
-              initial={{ opacity: 0, y: 20 }}
+              initial={false}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: i * 0.1 }}
               className="card-norse p-6"

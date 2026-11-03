@@ -1,3 +1,4 @@
+import { categoryPath } from "@/lib/paths";
 import { useState, useRef, useEffect } from "react";
 import { Link, useLocation } from "wouter";
 import { Menu, X, ChevronDown, Search } from "lucide-react";
@@ -86,7 +87,7 @@ export default function Header() {
                       {section.categories.map((cat) => (
                         <Link
                           key={cat.slug}
-                          href={`/${section.slug}?categoria=${cat.slug}`}
+                          href={categoryPath(section.slug,cat.slug)}
                           className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
                         >
                           <span>{cat.icon}</span>
@@ -129,7 +130,7 @@ export default function Header() {
             className="border-t border-border bg-background/95 backdrop-blur-md overflow-hidden"
           >
             <div className="container py-4">
-              <SearchBar onSearch={() => {}} />
+              <SearchBar />
             </div>
           </motion.div>
         )}
@@ -179,7 +180,7 @@ export default function Header() {
                           {section.categories.map((cat) => (
                             <Link
                               key={cat.slug}
-                              href={`/${section.slug}?categoria=${cat.slug}`}
+                              href={categoryPath(section.slug,cat.slug)}
                               className="flex items-center gap-2 py-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
                             >
                               <span>{cat.icon}</span>

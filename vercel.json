@@ -2,7 +2,358 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist/public",
   "installCommand": "npm install",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "deuses"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "aesir"
+        }
+      ],
+      "destination": "/glossario/deuses/aesir",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "deuses"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "vanir"
+        }
+      ],
+      "destination": "/glossario/deuses/vanir",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "deuses"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "outras-entidades"
+        }
+      ],
+      "destination": "/glossario/deuses/outras-entidades",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "gigantes"
+        }
+      ],
+      "destination": "/glossario/criaturas/gigantes",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "monstros"
+        }
+      ],
+      "destination": "/glossario/criaturas/monstros",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "espiritos"
+        }
+      ],
+      "destination": "/glossario/criaturas/espiritos",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "elfos"
+        }
+      ],
+      "destination": "/glossario/criaturas/elfos",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "animais-miticos"
+        }
+      ],
+      "destination": "/glossario/criaturas/animais-miticos",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        },
+        {
+          "type": "query",
+          "key": "subcategoria",
+          "value": "anoes"
+        }
+      ],
+      "destination": "/glossario/criaturas/anoes",
+      "permanent": true
+    },
+    {
+      "source": "/historias",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "historia-completa"
+        }
+      ],
+      "destination": "/historias/historia-completa",
+      "permanent": true
+    },
+    {
+      "source": "/historias",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "contos-curtos"
+        }
+      ],
+      "destination": "/historias/contos-curtos",
+      "permanent": true
+    },
+    {
+      "source": "/historias",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "contos-infantis"
+        }
+      ],
+      "destination": "/historias/contos-infantis",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "deuses"
+        }
+      ],
+      "destination": "/glossario/deuses",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "criaturas"
+        }
+      ],
+      "destination": "/glossario/criaturas",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "herois"
+        }
+      ],
+      "destination": "/glossario/herois",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "mundos"
+        }
+      ],
+      "destination": "/glossario/mundos",
+      "permanent": true
+    },
+    {
+      "source": "/glossario",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "runas"
+        }
+      ],
+      "destination": "/glossario/runas",
+      "permanent": true
+    },
+    {
+      "source": "/jogos",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "multiplayer"
+        }
+      ],
+      "destination": "/jogos/multiplayer",
+      "permanent": true
+    },
+    {
+      "source": "/jogos",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "singleplayer"
+        }
+      ],
+      "destination": "/jogos/singleplayer",
+      "permanent": true
+    },
+    {
+      "source": "/jogos",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "novidades"
+        }
+      ],
+      "destination": "/jogos/novidades",
+      "permanent": true
+    },
+    {
+      "source": "/conteudo",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "livros"
+        }
+      ],
+      "destination": "/conteudo/livros",
+      "permanent": true
+    },
+    {
+      "source": "/conteudo",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "filmes"
+        }
+      ],
+      "destination": "/conteudo/filmes",
+      "permanent": true
+    },
+    {
+      "source": "/conteudo",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "series"
+        }
+      ],
+      "destination": "/conteudo/series",
+      "permanent": true
+    },
+    {
+      "source": "/conteudo",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "animes"
+        }
+      ],
+      "destination": "/conteudo/animes",
+      "permanent": true
+    },
+    {
+      "source": "/conteudo",
+      "has": [
+        {
+          "type": "query",
+          "key": "categoria",
+          "value": "musicas"
+        }
+      ],
+      "destination": "/conteudo/musicas",
+      "permanent": true
+    },
+    {
+      "source": "/historias/historias-infantis/yggdrasil-a-arvore-dos-nove-mundos",
+      "destination": "/historias/contos-infantis/yggdrasil-a-arvore-dos-nove-mundos",
+      "permanent": true
+    }
   ]
 }

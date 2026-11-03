@@ -4,7 +4,6 @@ import HeroSection from "@/components/HeroSection";
 import Breadcrumb from "@/components/Breadcrumb";
 import { HERO_IMAGES } from "@/lib/sections";
 import { MessageSquare, Palette, Server, ArrowRight } from "lucide-react";
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
 
 const communityLinks = [
   {
@@ -31,7 +30,6 @@ const communityLinks = [
 ];
 
 export default function Comunidade() {
-  useDocumentTitle("Comunidade");
   return (
     <>
       <HeroSection
@@ -47,7 +45,7 @@ export default function Comunidade() {
           {communityLinks.map((link, i) => (
             <motion.div
               key={link.title}
-              initial={{ opacity: 0, y: 20 }}
+              initial={false}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: i * 0.1 }}
             >

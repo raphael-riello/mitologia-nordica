@@ -27,7 +27,7 @@ export default function Home() {
         </div>
         <div className="relative h-full container flex flex-col justify-end pb-16 md:pb-20">
           <motion.div
-            initial={{ opacity: 0, y: 40 }}
+            initial={false}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
             className="max-w-2xl"
@@ -67,7 +67,7 @@ export default function Home() {
           {sectionHighlights.map((section, i) => (
             <motion.div
               key={section.slug}
-              initial={{ opacity: 0, y: 20 }}
+              initial={false}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: i * 0.1 }}
@@ -128,7 +128,7 @@ export default function Home() {
         </div>
         <div className="relative container py-16 md:py-20 text-center">
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={false}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}

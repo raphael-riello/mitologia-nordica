@@ -1,32 +1,32 @@
 import { useState, useMemo, useEffect } from "react";
-import { useLocation, useSearch } from "wouter";
+import { Link, useSearch } from "wouter";
+import { categoryPath } from "@/lib/paths";
 import { getSectionBySlug } from "@/lib/sections";
 import { getContentBySection, getContentBySectionAndCategory } from "@/lib/content";
 import HeroSection from "@/components/HeroSection";
 import Breadcrumb from "@/components/Breadcrumb";
-import CategoryFilter from "@/components/CategoryFilter";
 import ContentCard from "@/components/ContentCard";
 import SearchBar from "@/components/SearchBar";
 import Pagination from "@/components/Pagination";
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
 
 const ITEMS_PER_PAGE = 9;
 
 interface SectionListingProps {
   sectionSlug: string;
+  categorySlug?: string;
+  subcategorySlug?: string;
 }
 
-export default function SectionListing({ sectionSlug }: SectionListingProps) {
+export default function SectionListing({ sectionSlug, categorySlug, subcategorySlug }: SectionListingProps) {
   const section = getSectionBySlug(sectionSlug);
-  const [, setLocation] = useLocation();
   const search = useSearch();
 
   const urlParams = useMemo(() => new URLSearchParams(search), [search]);
 
-  const category = section?.categories.find((item) => item.slug === urlParams.get("categoria"));
+  const category = section?.categories.find((item) => item.slug === (categorySlug || urlParams.get("categoria")));
   const activeCategory = category?.slug || "todos";
   const activeSubcategory = category?.subcategories?.find(
-    (item) => item.slug === urlParams.get("subcategoria")
+    (item) => item.slug === (subcategorySlug || urlParams.get("subcategoria"))
   )?.slug;
   const [searchQuery, setSearchQuery] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
@@ -35,7 +35,6 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
     setCurrentPage(1);
   }, [sectionSlug, activeCategory, activeSubcategory]);
 
-  useDocumentTitle(section?.title || "");
 
   if (!section) return null;
 
@@ -60,28 +59,11 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
     currentPage * ITEMS_PER_PAGE
   );
 
-  function handleCategoryChange(slug: string) {
-    setCurrentPage(1);
-
-    if (slug === "todos") {
-      setLocation(`/${sectionSlug}`);
-    } else {
-      setLocation(`/${sectionSlug}?categoria=${slug}`);
-    }
-  }
-
-  function handleSubcategoryChange(slug?: string) {
-    const params = new URLSearchParams({ categoria: activeCategory });
-    if (slug) params.set("subcategoria", slug);
-    setCurrentPage(1);
-    setLocation(`/${sectionSlug}?${params.toString()}`);
-  }
-
   return (
     <>
       <HeroSection
-        title={section.title}
-        subtitle={section.description}
+        title={category?.subcategories?.find(s=>s.slug===activeSubcategory)?.title || category?.title || section.title}
+        subtitle={category?.description || section.description}
         image={section.heroImage}
       />
 
@@ -95,11 +77,11 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
 
         <div className="flex flex-col gap-6 mt-8">
           <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4">
-            <CategoryFilter
-              categories={section.categories}
-              activeCategory={activeCategory}
-              onCategoryChange={handleCategoryChange}
-            />
+            <nav aria-label="Categorias" className="flex flex-wrap gap-2">
+              {[{slug:"todos",title:"Todos"}, ...section.categories.filter(c=>c.slug!=="todos")].map(cat=><Link
+                key={cat.slug} href={categoryPath(sectionSlug,cat.slug)} aria-current={activeCategory===cat.slug?"page":undefined}
+                className={`px-4 py-2 font-display text-xs uppercase tracking-widest border ${activeCategory===cat.slug?"border-gold bg-gold text-black":"border-border text-muted-foreground hover:text-gold"}`}>{cat.title}</Link>)}
+            </nav>
 
             <SearchBar
               inline
@@ -119,11 +101,10 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
               </legend>
               <div className="flex flex-wrap gap-2">
                 {[{ slug: "", title: "Todos" }, ...category.subcategories].map((subcategory) => (
-                  <button
+                  <Link
                     key={subcategory.slug}
-                    type="button"
-                    aria-pressed={(activeSubcategory || "") === subcategory.slug}
-                    onClick={() => handleSubcategoryChange(subcategory.slug || undefined)}
+                    href={categoryPath(sectionSlug,activeCategory,subcategory.slug || undefined)}
+                    aria-current={(activeSubcategory || "") === subcategory.slug ? "page" : undefined}
                     className={`px-4 py-2 font-display text-xs uppercase tracking-widest border rounded-lg transition-colors focus-visible:outline-2 focus-visible:outline-gold ${
                       (activeSubcategory || "") === subcategory.slug
                         ? "border-gold bg-gold text-black"
@@ -131,7 +112,7 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
                     }`}
                   >
                     {subcategory.title}
-                  </button>
+                  </Link>
                 ))}
               </div>
             </fieldset>
@@ -140,6 +121,7 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
           <p className="text-sm text-muted-foreground" role="status">
             {filteredItems.length} {filteredItems.length === 1 ? "conteúdo encontrado" : "conteúdos encontrados"}
           </p>
+          <p className="text-sm text-muted-foreground">Consulte o <Link href="/indice" className="text-gold underline">índice completo por tema</Link> e as <Link href="/fontes" className="text-gold underline">fontes dos relatos nórdicos</Link>.</p>
 
           {paginatedItems.length > 0 ? (
             <>

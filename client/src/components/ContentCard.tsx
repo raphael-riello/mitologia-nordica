@@ -14,7 +14,7 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 20 }}
+      initial={false}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.4, delay: index * 0.08 }}
     >
@@ -60,7 +60,7 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
 
             <div className="mt-3 pt-3 border-t border-border flex items-center justify-between">
               <time className="text-xs text-muted-foreground font-display uppercase tracking-wider">
-                {new Date(item.date).toLocaleDateString("pt-BR", {
+                {new Date(item.date + "T12:00:00Z").toLocaleDateString("pt-BR", {
                   day: "2-digit",
                   month: "short",
                   year: "numeric",

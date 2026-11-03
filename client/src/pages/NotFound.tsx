@@ -5,7 +5,7 @@ export default function NotFound() {
   return (
     <div className="min-h-[60vh] flex items-center justify-center">
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
+        initial={false}
         animate={{ opacity: 1, y: 0 }}
         className="text-center px-4"
       >

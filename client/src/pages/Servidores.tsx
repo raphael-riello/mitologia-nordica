@@ -4,10 +4,8 @@ import Breadcrumb from "@/components/Breadcrumb";
 import ContentCard from "@/components/ContentCard";
 import { HERO_IMAGES } from "@/lib/sections";
 import { getContentBySectionAndCategory } from "@/lib/content";
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
 
 export default function Servidores() {
-  useDocumentTitle("Servidores de Jogos");
   const servidores = useMemo(() => getContentBySectionAndCategory("comunidade", "servidores"), []);
 
   return (

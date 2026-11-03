@@ -1,3 +1,4 @@
+import { categoryPath } from "@/lib/paths";
 import { Link } from "wouter";
 import { sections } from "@/lib/sections";
 
@@ -17,6 +18,10 @@ export default function Footer() {
             <p className="text-sm text-muted-foreground leading-relaxed">
               Portal dedicado ao universo da mitologia nórdica. Explore histórias, deuses, criaturas e muito mais.
             </p>
+            <nav aria-label="Biblioteca do portal" className="mt-5 space-y-3 text-sm">
+              <Link className="block text-gold underline" href="/indice">Índice de conteúdos</Link>
+              <Link className="block text-gold underline" href="/fontes">Fontes e referências</Link>
+            </nav>
           </div>
 
           {/* Section Links */}
@@ -29,7 +34,7 @@ export default function Footer() {
                 {section.categories.map((cat) => (
                   <li key={cat.slug}>
                     <Link
-                      href={`/${section.slug}?categoria=${cat.slug}`}
+                      href={categoryPath(section.slug,cat.slug)}
                       className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                     >
                       {cat.title}

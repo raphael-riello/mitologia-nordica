@@ -80,7 +80,7 @@ Este conto ilustra a rivalidade cósmica entre Thor e Jörmungandr — uma batal
     slug: "yggdrasil-a-arvore-dos-nove-mundos",
     title: "A Árvore dos Nove Mundos",
     description: "Uma história infantil sobre Yggdrasil, a grande árvore que conecta todos os mundos da mitologia nórdica, contada de forma lúdica e acessível.",
-    category: "historias-infantis",
+    category: "contos-infantis",
     section: "historias",
     date: "2025-03-01",
     cover: "/images/historias/contos-infantis/yggdrasil-infantil.png",
@@ -706,6 +706,7 @@ No fim dos tempos, Thor enfrenta seu arqui-inimigo Jörmungandr, a Serpente do M
   },
   {
     slug: "njord",
+  description: "Njord é o deus Vanir ligado ao mar, à navegação e à prosperidade, pai de Freyr e Freyja e esposo de Skadi em um dos relatos.",
     title: "Njord — O Deus do Mar e da Prosperidade",
     category: "deuses",
     section: "glossario",
@@ -731,6 +732,7 @@ Diferente dos Aesir guerreiros, Njord é pacífico, equilibrado e benevolente. S
   },
   {
     slug: "freyr",
+  description: "Freyr é um deus Vanir associado à fertilidade e à prosperidade, senhor do javali Gullinbursti e ligado à gigante Gerd.",
     title: "Freyr — O Deus da Fertilidade e da Colheita",
     category: "deuses",
     section: "glossario",
@@ -756,6 +758,7 @@ Freyr se apaixona pela giganta **Gerd**, personificação da terra fértil, simb
   },
   {
     slug: "freya",
+  description: "Freyja é uma deusa Vanir ligada ao amor, à magia e aos mortos em batalha, irmã de Freyr e senhora de Fólkvangr.",
     title: "Freyja — A Deusa do Amor e da Magia",
     category: "deuses",
     section: "glossario",
@@ -781,6 +784,7 @@ Metade dos guerreiros mortos em batalha vai para seu campo **Fólkvangr** (a out
   },
   {
     slug: "kvasir",
+  description: "Kvasir é o sábio nascido da paz entre Aesir e Vanir, cuja morte dá origem ao hidromel da poesia.",
     title: "Kvasir — O Ser Mais Sábio",
     category: "deuses",
     section: "glossario",

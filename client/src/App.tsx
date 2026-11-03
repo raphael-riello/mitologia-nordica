@@ -14,6 +14,10 @@ import Artes from "./pages/Artes";
 import Servidores from "./pages/Servidores";
 import { useEffect } from "react";
 import { useLocation } from "wouter";
+import Seo from "./components/Seo";
+import ContentIndex from "./pages/ContentIndex";
+import Sources from "./pages/Sources";
+import { hubs } from "./lib/seo";
 
 function ScrollToTop() {
   const [location] = useLocation();
@@ -27,8 +31,14 @@ function Router() {
   return (
     <Layout>
       <ScrollToTop />
+      <Seo />
       <Switch>
         <Route path="/" component={Home} />
+        <Route path="/indice" component={ContentIndex} />
+        <Route path="/fontes" component={Sources} />
+        {hubs.map(hub => <Route key={hub.path} path={hub.path}>
+          <SectionListing sectionSlug={hub.section.slug} categorySlug={hub.category.slug} subcategorySlug={hub.subcategory?.slug} />
+        </Route>)}
 
         {/* Comunidade */}
         <Route path="/comunidade" component={Comunidade} />
