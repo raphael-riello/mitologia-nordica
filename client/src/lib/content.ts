@@ -1,6 +1,8 @@
 import type { ContentItem } from "./types";
+import { giantContent } from "./giants";
 
 export const allContent: ContentItem[] = [
+  ...giantContent,
   // === HISTÓRIAS ===
   {
     slug: "ragnarok-o-crepusculo-dos-deuses",
