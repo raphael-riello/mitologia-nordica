@@ -1,11 +1,11 @@
 import type { SectionConfig } from "./types";
 
 export const HERO_IMAGES = {
-  main: "https://d2xsxph8kpxj0f.cloudfront.net/310419663029020766/ZhNJbXi9mFAmjRkZ6fvmTk/hero-main-esHfV9cVshjkFJeAGetwJV.webp",
-  historias: "https://d2xsxph8kpxj0f.cloudfront.net/310419663029020766/ZhNJbXi9mFAmjRkZ6fvmTk/hero-historias-htvPSeL8BgBiVmymsYfm7W.webp",
-  glossario: "https://d2xsxph8kpxj0f.cloudfront.net/310419663029020766/ZhNJbXi9mFAmjRkZ6fvmTk/hero-glossario-cwwhntUdSGcuhguVBZiTxG.webp",
-  jogos: "https://d2xsxph8kpxj0f.cloudfront.net/310419663029020766/ZhNJbXi9mFAmjRkZ6fvmTk/hero-jogos-MFsFdCyPaDHUhdySWP4cTK.webp",
-  comunidade: "https://d2xsxph8kpxj0f.cloudfront.net/310419663029020766/ZhNJbXi9mFAmjRkZ6fvmTk/hero-comunidade-SuqrED7egBraBXw6VehRf5.webp",
+  main: "/images/heroes/main.png",
+  historias: "/images/heroes/historias.png",
+  glossario: "/images/heroes/glossario.png",
+  jogos: "/images/heroes/jogos.png",
+  comunidade: "/images/heroes/comunidade.png",
 };
 
 export const sections: SectionConfig[] = [

@@ -75,8 +75,8 @@ export default function SectionListing({ sectionSlug }: SectionListingProps) {
     <>
       <HeroSection
         title={section.title}
-        description={section.description}
-        backgroundImage={section.heroImage}
+        subtitle={section.description}
+        image={section.heroImage}
       />
 
       <section className="container py-10">
