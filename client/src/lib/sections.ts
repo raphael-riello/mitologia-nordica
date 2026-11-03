@@ -48,6 +48,7 @@ export const sections: SectionConfig[] = [
           { slug: "gigantes", title: "Gigantes" },
           { slug: "monstros", title: "Monstros" },
           { slug: "espiritos", title: "Espíritos" },
+          { slug: "elfos", title: "Elfos" },
           { slug: "animais-miticos", title: "Animais Míticos" },
           { slug: "anoes", title: "Anões" },
         ],

@@ -59,7 +59,7 @@ export default function SearchBar({ placeholder = "Buscar nos Nove Mundos...", c
   function handleSelect(item: ContentItem) {
     setQuery("");
     setIsOpen(false);
-    navigate(`/${item.section}/${item.category}/${item.slug}`);
+    navigate(["", item.section, item.category, item.subcategory, item.slug].filter((part) => part !== undefined).join("/"));
   }
 
   if (inline) {
