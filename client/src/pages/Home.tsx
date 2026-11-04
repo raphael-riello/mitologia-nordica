@@ -1,3 +1,4 @@
+import ResponsiveImage from "@/components/ResponsiveImage";
 import { Link } from "wouter";
 import { motion } from "framer-motion";
 import { HERO_IMAGES, sections } from "@/lib/sections";
@@ -16,11 +17,12 @@ export default function Home() {
       {/* Hero */}
       <section className="relative h-[85vh] min-h-[500px] max-h-[800px] overflow-hidden">
         <div className="absolute inset-0">
-          <img
+          <ResponsiveImage
             src={HERO_IMAGES.main}
             alt="Yggdrasil, a Árvore do Mundo"
             className="w-full h-full object-cover"
             loading="eager"
+            fetchPriority="high"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-background via-background/60 to-background/20" />
           <div className="absolute inset-0 bg-gradient-to-r from-background/60 to-transparent" />
@@ -74,8 +76,9 @@ export default function Home() {
             >
               <Link href={`/${section.slug}`} className="block group">
                 <div className="relative h-48 overflow-hidden border border-border group-hover:border-gold/50 transition-all duration-500">
-                  <img
+                  <ResponsiveImage
                     src={section.heroImage}
+                    sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
                     alt={section.title}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                     loading="lazy"
@@ -118,7 +121,7 @@ export default function Home() {
       {/* Community CTA */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
-          <img
+          <ResponsiveImage
             src={HERO_IMAGES.comunidade}
             alt="Comunidade Viking"
             className="w-full h-full object-cover"

@@ -27,9 +27,9 @@ export default function Footer() {
           {/* Section Links */}
           {sections.slice(0, 4).map((section) => (
             <div key={section.slug}>
-              <h4 className="font-display text-xs uppercase tracking-widest text-gold mb-4">
+              <h2 className="font-display text-xs uppercase tracking-widest text-gold mb-4">
                 {section.title}
-              </h4>
+              </h2>
               <ul className="space-y-2">
                 {section.categories.map((cat) => (
                   <li key={cat.slug}>

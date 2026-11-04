@@ -1,0 +1,3270 @@
+{
+  "/images/comunidade/artes/odin-trono.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/comunidade/artes/odin-trono-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/comunidade/artes/odin-trono-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/comunidade/artes/odin-trono-1254.webp"
+      }
+    ]
+  },
+  "/images/comunidade/artes/thor-tempestade.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/comunidade/artes/thor-tempestade-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/comunidade/artes/thor-tempestade-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/comunidade/artes/thor-tempestade-1254.webp"
+      }
+    ]
+  },
+  "/images/comunidade/servidores/valheim-midgard.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/comunidade/servidores/valheim-midgard-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/comunidade/servidores/valheim-midgard-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/comunidade/servidores/valheim-midgard-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/animes/vinland-saga.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/animes/vinland-saga-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/animes/vinland-saga-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/animes/vinland-saga-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/filmes/13o-guerreiro.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/filmes/13o-guerreiro-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/filmes/13o-guerreiro-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/filmes/13o-guerreiro-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/livros/mitologia-nordica-gaiman.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/livros/mitologia-nordica-gaiman-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/livros/mitologia-nordica-gaiman-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/livros/mitologia-nordica-gaiman-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/wardruna.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/wardruna-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/wardruna-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/musicas/wardruna-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/series/vikings.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/series/vikings-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/series/vikings-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/series/vikings-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/audumla-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/audumla-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/audumla-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/audumla-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/eikthyrnir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/eikthyrnir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/eikthyrnir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/eikthyrnir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/gullinbursti-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/gullinbursti-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/gullinbursti-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/gullinbursti-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/heidrun-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/heidrun-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/heidrun-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/heidrun-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/huginn-e-muninn-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/huginn-e-muninn-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/huginn-e-muninn-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/huginn-e-muninn-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/ratatosk-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/ratatosk-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/ratatosk-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/ratatosk-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/sleipnir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/sleipnir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/sleipnir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/sleipnir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/animais-miticos/tanngrisnir-e-tanngnjostr-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/animais-miticos/tanngrisnir-e-tanngnjostr-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/animais-miticos/tanngrisnir-e-tanngnjostr-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/animais-miticos/tanngrisnir-e-tanngnjostr-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/ai.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/ai-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/ai-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/ai-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/alf.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/alf-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/alf-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/alf-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/alvis.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/alvis-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/alvis-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/alvis-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/andvari.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/andvari-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/andvari-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/andvari-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/bifurr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/bifurr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/bifurr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/bifurr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/bofurr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/bofurr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/bofurr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/bofurr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/bombur.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/bombur-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/bombur-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/bombur-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/brokkr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/brokkr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/brokkr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/brokkr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/dainn.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/dainn-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/dainn-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/dainn-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/dolgthrasir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/dolgthrasir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/dolgthrasir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/dolgthrasir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/dori.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/dori-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/dori-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/dori-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/durinn.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/durinn-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/durinn-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/durinn-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/dvalinn.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/dvalinn-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/dvalinn-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/dvalinn-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/eikinskjaldi.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/eikinskjaldi-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/eikinskjaldi-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/eikinskjaldi-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/eitri.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/eitri-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/eitri-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/eitri-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/fafnir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/fafnir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/fafnir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/fafnir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/frar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/frar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/frar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/frar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/gandalf.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/gandalf-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/gandalf-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/gandalf-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/ginnarr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/ginnarr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/ginnarr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/ginnarr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/gloin.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/gloin-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/gloin-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/gloin-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/hannarr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/hannarr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/hannarr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/hannarr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/hledjolf.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/hledjolf-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/hledjolf-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/hledjolf-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/hor.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/hor-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/hor-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/hor-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/hreidmar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/hreidmar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/hreidmar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/hreidmar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/hugstari.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/hugstari-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/hugstari-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/hugstari-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/kili.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/kili-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/kili-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/kili-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/lofarr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/lofarr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/lofarr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/lofarr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/loni.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/loni-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/loni-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/loni-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/mimir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/mimir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/mimir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/mimir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/nordri-sudri-austri-vestri.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/nordri-sudri-austri-vestri-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/nordri-sudri-austri-vestri-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/nordri-sudri-austri-vestri-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/nori.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/nori-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/nori-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/nori-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/oin.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/oin-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/oin-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/oin-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/ori.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/ori-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/ori-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/ori-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/otr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/otr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/otr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/otr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/pekr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/pekr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/pekr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/pekr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/reginn.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/reginn-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/reginn-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/reginn-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/skafidur.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/skafidur-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/skafidur-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/skafidur-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/skirfir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/skirfir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/skirfir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/skirfir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/sviarr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/sviarr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/sviarr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/sviarr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/thrair.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/thrair-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/thrair-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/thrair-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/thrar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/thrar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/thrar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/thrar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/anoes/virfir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/anoes/virfir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/anoes/virfir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/anoes/virfir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/elfos/docalfar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/elfos/docalfar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/elfos/docalfar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/elfos/docalfar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/elfos/liosalfar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/elfos/liosalfar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/elfos/liosalfar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/elfos/liosalfar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/elfos/volundr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/elfos/volundr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/elfos/volundr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/elfos/volundr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/disir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/disir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/disir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/disir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/draugr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/draugr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/draugr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/draugr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/fylgja.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/fylgja-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/fylgja-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/fylgja-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/hamingja.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/hamingja-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/hamingja-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/hamingja-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/landvaettir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/landvaettir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/landvaettir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/landvaettir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/espiritos/nornir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/espiritos/nornir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/espiritos/nornir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/espiritos/nornir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/aegir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/aegir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/aegir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/aegir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/angrboda-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/angrboda-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/angrboda-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/angrboda-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/aurboda-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/aurboda-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/aurboda-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/aurboda-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/bestla-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/bestla-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/bestla-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/bestla-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/bestla.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/bestla-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/bestla-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/bestla-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/bolthorn.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/bolthorn-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/bolthorn-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/bolthorn-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/elli-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/elli-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/elli-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/elli-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/farbauti.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/farbauti-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/farbauti-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/farbauti-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/fenrir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/fenrir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/fenrir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/fenrir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/gerd-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/gerd-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/gerd-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/gerd-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/gerda.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/gerda-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/gerda-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/gerda-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/gilling.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/gilling-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/gilling-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/gilling-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/gunnlod-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/gunnlod-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/gunnlod-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/gunnlod-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/gymir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/gymir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/gymir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/gymir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hel-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hel-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hel-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/hel-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hrungnir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hrungnir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hrungnir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/hrungnir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hrym.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hrym-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hrym-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/hrym-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hymir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hymir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hymir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/hymir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hymir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hymir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hymir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/hymir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hyrokkin.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hyrokkin-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hyrokkin-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/hyrokkin-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/hyrrokkin-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/hyrrokkin-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/hyrrokkin-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/hyrrokkin-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/jarnsaxa-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/jarnsaxa-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/jarnsaxa-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/jarnsaxa-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/jormungandr-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/jormungandr-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/jormungandr-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/jormungandr-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/laufey.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/laufey-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/laufey-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/laufey-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/skadi-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/skadi-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/skadi-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/skadi-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/skrymir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/skrymir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/skrymir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/skrymir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/surtr-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/surtr-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/surtr-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/surtr-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/suttung.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/suttung-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/suttung-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/suttung-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/thiazi-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/thiazi.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/thiazi-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/thrym-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/thrym-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/thrym-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/thrym-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/thrym.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/thrym-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/thrym-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/thrym-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/utgard-loki-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/utgard-loki-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/utgard-loki-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/utgard-loki-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/utgardaloki.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/utgardaloki-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/utgardaloki-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/utgardaloki-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/ymir-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/ymir-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/ymir-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/gigantes/ymir-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/gigantes/ymir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/gigantes/ymir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/gigantes/ymir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/criaturas/gigantes/ymir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/monstros/garm-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/monstros/garm-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/monstros/garm-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/monstros/garm-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/monstros/nidhogg-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/monstros/nidhogg-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/monstros/nidhogg-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/monstros/nidhogg-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/criaturas/monstros/skoll-e-hati-capa.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/criaturas/monstros/skoll-e-hati-capa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/criaturas/monstros/skoll-e-hati-capa-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/criaturas/monstros/skoll-e-hati-capa-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/baldr.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/baldr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/baldr-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/deuses/aesir/baldr-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/bragi.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/bragi-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/bragi-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/bragi-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/frigg.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/frigg-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/frigg-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/deuses/aesir/frigg-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/heimdall.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/heimdall-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/heimdall-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/heimdall-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/hermod.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/hermod-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/hermod-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/hermod-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/hod.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/hod-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/hod-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/hod-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/iduna.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/iduna-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/iduna-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/iduna-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/loki.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/loki-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/loki-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/glossario/deuses/aesir/loki-1254.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/odin.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/odin-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/odin-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/odin-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/sif.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/sif-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/sif-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/sif-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/thor.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/thor-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/thor-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/thor-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/tyr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/tyr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/tyr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/tyr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/vali.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/vali-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/vali-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/vali-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/var.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/var-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/var-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/var-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/ve.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/ve-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/ve-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/ve-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/vidar.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/vidar-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/vidar-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/vidar-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/aesir/vili.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/aesir/vili-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/aesir/vili-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/aesir/vili-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/vanir/freyja.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/vanir/freyja-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/vanir/freyja-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/vanir/freyja-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/vanir/freyr.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/vanir/freyr-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/vanir/freyr-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/vanir/freyr-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/vanir/kvasir.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/vanir/kvasir-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/vanir/kvasir-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/vanir/kvasir-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/deuses/vanir/njord.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/deuses/vanir/njord-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/deuses/vanir/njord-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/deuses/vanir/njord-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/herois/beowulf.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/herois/beowulf-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/herois/beowulf-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/herois/beowulf-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/herois/helgi-hundingsbane.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/herois/helgi-hundingsbane-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/herois/helgi-hundingsbane-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/herois/helgi-hundingsbane-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/herois/hrolf-kraki.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/herois/hrolf-kraki-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/herois/hrolf-kraki-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/herois/hrolf-kraki-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/herois/ragnar-lodbrok.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/herois/ragnar-lodbrok-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/herois/ragnar-lodbrok-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/herois/ragnar-lodbrok-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/herois/sigurd.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/herois/sigurd-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/herois/sigurd-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/herois/sigurd-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/alfheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/alfheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/alfheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/alfheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/asgard.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/asgard-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/asgard-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/asgard-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/helheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/helheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/helheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/helheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/jotunheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/jotunheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/jotunheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/jotunheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/midgard.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/midgard-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/midgard-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/midgard-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/muspelheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/muspelheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/muspelheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/muspelheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/niflheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/niflheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/niflheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/niflheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/svartalfheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/svartalfheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/svartalfheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/svartalfheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/mundos/vanaheim.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/mundos/vanaheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/mundos/vanaheim-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/mundos/vanaheim-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/algiz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/algiz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/algiz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/algiz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/ansuz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/ansuz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/ansuz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/ansuz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/berkano.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/berkano-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/berkano-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/berkano-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/dagaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/dagaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/dagaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/dagaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/ehwaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/ehwaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/ehwaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/ehwaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/eihwaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/eihwaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/eihwaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/eihwaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/fehu.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/fehu-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/fehu-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/fehu-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/gebo.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/gebo-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/gebo-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/gebo-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/hagalaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/hagalaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/hagalaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/hagalaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/ingwaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/ingwaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/ingwaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/ingwaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/isa.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/isa-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/isa-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/isa-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/jera.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/jera-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/jera-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/jera-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/kenaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/kenaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/kenaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/kenaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/laguz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/laguz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/laguz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/laguz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/mannaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/mannaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/mannaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/mannaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/nauthiz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/nauthiz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/nauthiz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/nauthiz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/othala.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/othala-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/othala-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/othala-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/perthro.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/perthro-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/perthro-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/perthro-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/raidho.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/raidho-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/raidho-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/raidho-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/sowilo.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/sowilo-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/sowilo-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/sowilo-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/thurisaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/thurisaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/thurisaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/thurisaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/tiwaz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/tiwaz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/tiwaz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/tiwaz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/uruz.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/uruz-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/uruz-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/uruz-1024.webp"
+      }
+    ]
+  },
+  "/images/glossario/runas/wunjo.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/glossario/runas/wunjo-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/glossario/runas/wunjo-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/glossario/runas/wunjo-1024.webp"
+      }
+    ]
+  },
+  "/images/heroes/comunidade.png": {
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/heroes/comunidade-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/heroes/comunidade-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "/images/heroes/comunidade-1600.webp"
+      }
+    ]
+  },
+  "/images/heroes/glossario.png": {
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/heroes/glossario-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/heroes/glossario-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "/images/heroes/glossario-1600.webp"
+      }
+    ]
+  },
+  "/images/heroes/historias.png": {
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/heroes/historias-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/heroes/historias-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "/images/heroes/historias-1600.webp"
+      }
+    ]
+  },
+  "/images/heroes/jogos.png": {
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/heroes/jogos-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/heroes/jogos-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "/images/heroes/jogos-1600.webp"
+      }
+    ]
+  },
+  "/images/heroes/main.png": {
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/heroes/main-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/heroes/main-960.webp"
+      },
+      {
+        "width": 1600,
+        "src": "/images/heroes/main-1600.webp"
+      }
+    ]
+  },
+  "/images/historias/contos-curtos/thor-e-a-serpente-de-midgard.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/historias/contos-curtos/thor-e-a-serpente-de-midgard-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/historias/contos-curtos/thor-e-a-serpente-de-midgard-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/historias/contos-curtos/thor-e-a-serpente-de-midgard-1024.webp"
+      }
+    ]
+  },
+  "/images/historias/contos-infantis/yggdrasil-infantil.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/historias/contos-infantis/yggdrasil-infantil-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/historias/contos-infantis/yggdrasil-infantil-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/historias/contos-infantis/yggdrasil-infantil-1024.webp"
+      }
+    ]
+  },
+  "/images/historias/historia-completa/ragnarok-o-crepusculo-dos-deuses.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/historias/historia-completa/ragnarok-o-crepusculo-dos-deuses-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/historias/historia-completa/ragnarok-o-crepusculo-dos-deuses-960.webp"
+      },
+      {
+        "width": 1024,
+        "src": "/images/historias/historia-completa/ragnarok-o-crepusculo-dos-deuses-1024.webp"
+      }
+    ]
+  },
+  "/images/jogos/multiplayer/tribes-of-midgard.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/multiplayer/tribes-of-midgard-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/multiplayer/tribes-of-midgard-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/multiplayer/valheim.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/multiplayer/valheim-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/multiplayer/valheim-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/age-of-mythology-retold.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/age-of-mythology-retold-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/age-of-mythology-retold-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/assassins-creed-valhalla.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/assassins-creed-valhalla-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/assassins-creed-valhalla-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/god-of-war-ragnarok.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/god-of-war-ragnarok-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/god-of-war-ragnarok-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/hellblade-senuas-sacrifice.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/hellblade-senuas-sacrifice-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/hellblade-senuas-sacrifice-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/jotun-valhalla-edition.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/jotun-valhalla-edition-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/jotun-valhalla-edition-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/nordhold.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/nordhold-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/nordhold-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/spirit-of-the-north.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/spirit-of-the-north-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/spirit-of-the-north-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/the-banner-saga.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/the-banner-saga-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/the-banner-saga-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/volgarr-the-viking.png": {
+    "width": 500,
+    "height": 500,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/volgarr-the-viking-480.webp"
+      },
+      {
+        "width": 500,
+        "src": "/images/jogos/singleplayer/volgarr-the-viking-500.webp"
+      }
+    ]
+  }
+}

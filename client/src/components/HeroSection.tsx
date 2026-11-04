@@ -1,3 +1,4 @@
+import ResponsiveImage from "@/components/ResponsiveImage";
 import { motion } from "framer-motion";
 
 interface HeroSectionProps {
@@ -12,7 +13,7 @@ export default function HeroSection({ title, subtitle, image, compact = false, c
   return (
     <section className={`relative overflow-hidden ${compact ? "h-[280px] md:h-[340px]" : "h-[480px] md:h-[560px]"}`}>
       <div className="absolute inset-0">
-        <img src={image} alt="" className="w-full h-full object-cover" loading="eager" />
+        <ResponsiveImage src={image} alt="" className="w-full h-full object-cover" loading="eager" fetchPriority="high" />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/30" />
         <div className="absolute inset-0 bg-gradient-to-r from-background/50 to-transparent" />
       </div>

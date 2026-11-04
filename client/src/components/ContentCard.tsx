@@ -1,3 +1,4 @@
+import ResponsiveImage from "@/components/ResponsiveImage";
 import { Link } from "wouter";
 import type { ContentItem } from "@/lib/types";
 import { motion } from "framer-motion";
@@ -23,8 +24,9 @@ export default function ContentCard({ item, index = 0 }: ContentCardProps) {
           {/* imagem: agora 1:1 (quadrada) e sem corte */}
           <div className="aspect-square bg-secondary overflow-hidden relative">
             {item.cover ? (
-              <img
+              <ResponsiveImage
                 src={item.cover}
+                sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
                 alt={item.title}
                 className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-105"
                 loading="lazy"

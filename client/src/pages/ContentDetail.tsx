@@ -1,3 +1,4 @@
+import ResponsiveImage from "@/components/ResponsiveImage";
 import { useMemo } from "react";
 import { useLocation } from "wouter";
 import { getContentBySlug, getContentBySectionAndCategory } from "@/lib/content";
@@ -79,7 +80,7 @@ export default function ContentDetail({
       {/* Hero Cover */}
       <div className="relative h-[300px] md:h-[400px] overflow-hidden">
         {item.cover ? (
-          <img src={item.cover} alt={item.title} className="w-full h-full object-cover" />
+          <ResponsiveImage src={item.cover} fetchPriority="high" alt={item.title} className="w-full h-full object-cover" />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-secondary to-muted" />
         )}
