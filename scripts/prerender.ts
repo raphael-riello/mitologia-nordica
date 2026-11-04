@@ -10,6 +10,9 @@ import {
 import { SITE_URL } from "../client/src/lib/paths";
 const out = path.resolve("dist/public");
 const template = await fs.readFile(path.join(out, "index.html"), "utf8");
+if (!template.includes('<div id="root"></div>')) {
+  throw new Error("Execute vite build antes do prerender: o template já contém HTML renderizado.");
+}
 const escape = (text: string) =>
   text
     .replaceAll("&", "&amp;")

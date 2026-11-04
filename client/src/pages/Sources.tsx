@@ -19,10 +19,19 @@ export default function Sources() {
       <p className="text-muted-foreground mb-6">
         As Eddas não formam um relato único e sem divergências. Uma tradução
         também contém escolhas do tradutor. Distinga o que o texto relata das
-        interpretações simbólicas e das adaptações modernas. Personagens de
-        Tolkien e leituras esotéricas contemporâneas não devem ser tratados como
+        interpretações simbólicas e das adaptações modernas. Leituras
+        esotéricas contemporâneas não devem ser tratadas como
         testemunhos medievais. Uma referência de leitura não valida
         automaticamente todas as interpretações de um verbete.
+      </p>
+      <h2 className="font-display text-2xl mb-4">Critérios editoriais</h2>
+      <p className="text-muted-foreground mb-6">
+        Nos verbetes revistos, indicamos capítulos ou estrofes e a edição
+        utilizada. Um nome em um catálogo não comprova poderes, personalidade ou
+        uma biografia. Separamos interpretações editoriais dos relatos; em runas,
+        distinguimos escrita, poemas históricos e recepção contemporânea. As
+        capas são interpretações artísticas, não reconstruções documentais.
+        As notas de tradutores também devem ser distinguidas dos textos que traduzem.
       </p>
       {references.map((ref) => (
         <section

@@ -4,6 +4,9 @@ import type { ContentItem } from "./types";
 
 // Curated aliases only: no linking ambiguous short names, generic tags, or Tolkien names.
 const aliases: Record<string, string[]> = {
+  loki: ["Loki", "Loptr"],
+  frigg: ["Frigg"],
+  baldr: ["Baldr", "Balder", "Baldur"],
   odin: ["Odin", "Óðinn"],
   thor: ["Thor", "Þórr"],
   tyr: ["Tyr", "Týr"],

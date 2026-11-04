@@ -6,6 +6,36 @@ import { contentPath, SITE_URL } from "../client/src/lib/paths";
 import { pageInfo, renderPaths, indexablePaths } from "../client/src/lib/seo";
 import { contextualLinks } from "../client/src/lib/editorial-links";
 
+test("revisão editorial remove verbetes indevidos das páginas e do sitemap", () => {
+  const removed = ["thror", "frerin", "nain-2", "thorin-2", "fili", "balinn", "groin"];
+  const sitemap = fs.readFileSync("dist/public/sitemap.xml", "utf8");
+  for (const slug of removed) {
+    const route = "/glossario/criaturas/anoes/" + slug;
+    assert(!allContent.some(x => x.slug === slug));
+    assert(!sitemap.includes(route + "<"));
+    assert(!fs.existsSync("dist/public" + route + ".html"));
+    assert.equal(pageInfo(route).indexable, false);
+  }
+  for (const item of allContent) {
+    assert(!/Tolkien|Erebor|Terra-média|Companhia de Thorin/i.test(item.title + item.description + item.content), item.slug);
+  }
+});
+
+test("novos deuses têm capa, fontes e links sem confundir Loki com Útgarða-Loki", () => {
+  for (const slug of ["loki", "frigg", "baldr"]) {
+    const item = allContent.find(x => x.slug === slug)!;
+    assert(item);
+    assert(fs.existsSync("client/public" + item.cover));
+    assert(item.content.includes("## Fonte"));
+    assert(html(contentPath(item)).includes(item.title));
+  }
+  const linker = contextualLinks(allContent.find(x => x.slug === "thor")!);
+  const tree: any = { type: "root", children: [{type:"paragraph",children:[{type:"text",value:"Útgarða-Loki Loki Frigg Balder"}]}] };
+  linker.plugin()(tree);
+  const links = tree.children[0].children.filter((x:any)=>x.type==="link");
+  assert.deepEqual(links.map((x:any)=>x.url.split("/").at(-1)), ["utgard-loki", "loki", "frigg", "baldr"]);
+});
+
 test("cada artigo usa seu próprio contexto ao renderizar links", () => {
   for (const item of allContent) {
     const article = html(contentPath(item)).match(/<article\s+class="prose[\s\S]*?<\/article>/)?.[0] || "";

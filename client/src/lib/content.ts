@@ -1,8 +1,10 @@
 import type { ContentItem } from "./types";
 import { giantContent } from "./giants";
 import { beastContent } from "./beasts";
+import { coreGodContent } from "./core-gods";
 
 export const allContent: ContentItem[] = [
+  ...coreGodContent,
   ...beastContent,
   ...giantContent,
   // === HISTÓRIAS ===
@@ -164,7 +166,9 @@ Quando os deuses perceberam que o lobo **Fenrir** se tornaria uma ameaça inevit
 
 Fenrir desconfiou do “teste” e exigiu uma garantia: alguém deveria colocar a mão em sua boca como prova de boa-fé. **Tyr** aceitou — e, quando Gleipnir o prendeu de verdade, o lobo mordeu, arrancando-lhe a mão. O gesto de Tyr se tornou um símbolo absoluto de **coragem moral**: cumprir um juramento mesmo quando o custo é pessoal e irreversível.
 
-## Justiça como Responsabilidade
+## Interpretação editorial: Justiça como Responsabilidade
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 A figura de Tyr é frequentemente interpretada como a personificação da justiça que não depende apenas de palavras, mas de **responsabilidade prática**. Ele é o deus que “segura a consequência” para que a sociedade permaneça de pé. Seu mito reforça a ideia de que a lei e os acordos só têm valor quando alguém está disposto a defendê-los, mesmo diante do medo.
 
@@ -243,7 +247,9 @@ Após sonhos e presságios indicando a morte de Baldr, os deuses buscaram proteg
 
 Höðr, nessa versão, não age por maldade: ele é o instrumento trágico de um plano, e sua participação carrega o peso do “ato irreparável” cometido sem plena consciência.
 
-## Culpa, Destino e Vingança
+## Interpretação editorial: Culpa, Destino e Vingança
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 A morte de Baldr desencadeia um efeito dominó de dor e ruptura, funcionando como um dos sinais mais fortes de que o mundo caminha para o Ragnarök. Em muitas tradições, a vingança recai sobre Höðr: ele é morto por **Váli**, filho de Odin, nascido com o propósito de reparar a tragédia.
 
@@ -286,7 +292,9 @@ No reino dos mortos, Hermóðr encontra Baldr e tenta convencer Hel a libertá-l
 
 Hermóðr volta a Asgard com a proposta, carregando a última chance. Mesmo que o resultado final seja trágico em muitas versões (por causa de uma recusa decisiva), sua missão estabelece Hermóðr como símbolo de quem enfrenta o impossível para tentar salvar o que importa.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Hermóðr representa o arquétipo do mensageiro que não é apenas portador de recados, mas de **pontes**: ele atravessa fronteiras entre vida e morte, esperança e resignação, ordem e caos. Na mitologia nórdica, onde o destino pesa, sua história mostra que ainda assim existe espaço para tentativa, coragem e ação.
 
@@ -327,7 +335,11 @@ No início, segundo a tradição, existia o vazio e o caos primordial. **Vili**,
 
 Nesse mito, Vili não é um “deus secundário”: ele faz parte do ato fundador que dá existência ao cosmos como conhecemos.
 
-## Vili como Força de Vontade
+## Interpretação editorial: Interpretação editorial: Vili como Força de Vontade
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Embora as fontes nem sempre detalhem suas ações individuais, Vili costuma ser interpretado como a personificação da **vontade** — a energia que decide, inicia e sustenta a transformação. Se Odin representa a visão estratégica e Vé a dimensão do sagrado e dos ritos, Vili aparece como o “sim” interno que torna a criação possível: o impulso que escolhe agir.
 
@@ -335,7 +347,9 @@ Embora as fontes nem sempre detalhem suas ações individuais, Vili costuma ser 
 
 Vili é um exemplo de figura mítica que tem enorme importância no começo do mundo, mas aparece menos nas narrativas posteriores. Essa “retirada” reforça seu caráter arquetípico: ele é a força necessária para começar, para romper a inércia, para fundar a estrutura — e, uma vez que o mundo existe, seu papel passa a ecoar mais como princípio do que como personagem ativo.
 
-## Legado no Imaginário Nórdico
+## Interpretação editorial: Legado no Imaginário Nórdico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Mesmo com poucas menções diretas, Vili permanece ligado à ideia de que a criação exige três pilares: visão, vontade e sacralidade. Ele representa a parte do mito que lembra que nada nasce apenas de conhecimento — nasce também de decisão e coragem de transformar.`,
 },
@@ -370,7 +384,11 @@ Em outras palavras: não basta existir terra, céu e mar — é preciso que o mu
 
 Em algumas tradições, Odin, Vili e Vé também participam da criação ou do “despertar” dos primeiros humanos (frequentemente associados a **Ask** e **Embla**). Cada irmão contribui com dons fundamentais. Vé, nesse contexto, é muitas vezes ligado ao que torna o ser humano mais do que corpo: a dimensão de **consciência social**, **forma**, **sentido**, **expressão** e pertencimento a uma ordem maior.
 
-## Vé como Princípio Arquetípico
+## Interpretação editorial: Interpretação editorial: Vé como Princípio Arquetípico
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Vé é lembrado menos como personagem em aventuras e mais como **princípio fundador**. Ele representa:
 
@@ -380,7 +398,9 @@ Vé é lembrado menos como personagem em aventuras e mais como **princípio fund
 
 Por isso, mesmo com poucas aparições narrativas, Vé ocupa um papel estrutural: ele é a ideia de que o mundo precisa de consagração para ser sustentado.
 
-## Legado no Imaginário Nórdico
+## Interpretação editorial: Legado no Imaginário Nórdico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 No conjunto da criação, Vé completa a tríade com Odin e Vili: visão, vontade e sagrado. Ele é o lembrete de que a ordem não nasce apenas da força — nasce também de ritos, limites, símbolos e responsabilidade com aquilo que se considera digno de proteger.`,
 },
@@ -426,7 +446,9 @@ Esse ato não é apenas vingança familiar — é um gesto cósmico: conter o ca
 
 A vingança de Víðarr é um dos eventos que permite a transição do fim para o recomeço. Após o Ragnarök, ele é frequentemente citado entre os deuses que **sobrevivem** para habitar o mundo renovado, carregando a ideia de continuidade: mesmo quando tudo desmorona, algo permanece para reconstruir.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Víðarr representa a força que não se exibe, mas **sustenta**. Ele é o arquétipo de:
 
@@ -466,7 +488,9 @@ Após Baldr ser morto por um golpe de visco, em um ato no qual **Höðr (Hod)** 
 
 Váli surge como a solução dura para restaurar a ordem quebrada: ele mata Höðr, cumprindo a vingança e encerrando o ciclo imediato de impunidade. Em muitas versões, esse ato é apresentado como inevitável — menos um gesto de ódio pessoal e mais um “acerto de contas” cósmico.
 
-## Váli como Consequência
+## Interpretação editorial: Váli como Consequência
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 O significado de Váli vai além do evento. Ele representa a ideia de que, na mitologia nórdica:
 
@@ -480,7 +504,9 @@ Váli é a face da ordem que retorna não por conciliação, mas por **reparaç�
 
 Em muitas tradições, Váli é citado entre os deuses que **sobrevivem ao Ragnarök**. Essa sobrevivência reforça seu arquétipo: ele é continuidade da ordem após o colapso, alguém ligado à reconstrução do que foi rompido.
 
-## Legado no Imaginário Nórdico
+## Interpretação editorial: Legado no Imaginário Nórdico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Váli é o deus que não hesita quando o mundo exige resposta. Ele simboliza a ação que fecha ciclos dolorosos e lembra que, em Asgard, nem mesmo os deuses escapam do peso do destino, dos juramentos e das consequências.`,
 },
@@ -527,7 +553,9 @@ Em alguns relatos e interpretações, Bragi também é visto como aquele que rec
 
 A ligação com os skalds coloca Bragi no coração da cultura: ele é a ponte entre acontecimento e eternidade. Versos bem feitos sobrevivem quando a madeira apodrece e o ferro enferruja. A poesia, sob o olhar de Bragi, é uma forma de resistência contra o esquecimento.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Bragi representa:
 
@@ -574,7 +602,9 @@ Diante do declínio de Asgard, Loki é pressionado a reverter a situação. Em m
 
 O mito reforça a ideia de que o coração de um reino pode estar em algo simples e delicado: não uma espada, mas um **cesto de frutos** que sustenta o futuro.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Iðunn representa aquilo que renova e mantém a vida:
 
@@ -587,49 +617,34 @@ No panteão nórdico, Iðunn é a garantia silenciosa de que a vida segue — at
 },
 {
   slug: "sif",
-  title: "Sif — A Deusa da Fertilidade e da Terra Dourada",
-  description: "Sif é uma deusa associada aos Aesir na mitologia nórdica, ligada à fertilidade, à terra e às colheitas. Conhecida por seus cabelos dourados, frequentemente comparados a campos de trigo, ela simboliza abundância, crescimento e a ligação entre a natureza e os deuses de Asgard.",
+  title: "Sif — Os Cabelos de Ouro e os Tesouros dos Deuses",
+  description: "Sif, esposa de Thor, e o relato dos cabelos de ouro: o que conta Skáldskaparmál e como distinguir o episódio das interpretações agrícolas.",
   category: "deuses",
   section: "glossario",
   subcategory: "aesir",
   date: "2026-03-05",
   cover: "/images/glossario/deuses/aesir/sif.png",
   tags: ["sif", "aesir", "asgard", "fertilidade", "colheita", "terra", "thor", "cabelos dourados", "abundancia", "natureza"],
-  content: `## A Deusa da Terra e da Colheita
+  content: `## Sif nas Fontes
 
-**Sif** é uma deusa ligada aos **Aesir**, conhecida por sua associação com a **fertilidade da terra**, a abundância e o ciclo das colheitas. Seu símbolo mais famoso são os **cabelos dourados**, frequentemente interpretados como uma metáfora para campos de trigo maduros balançando ao vento.
-
-Dentro do imaginário nórdico, Sif representa a prosperidade que nasce do solo e sustenta a vida humana.
-
-## Atributos e Símbolos
-
-- **Domínios:** Fertilidade, terra cultivada, abundância e crescimento
-- **Símbolo central:** Cabelos dourados associados aos campos de grãos
-- **Relação familiar:** Esposa de **Thor**
-- **Temas:** Prosperidade, natureza fértil, estabilidade doméstica e proteção da comunidade
+**Sif** é a esposa de Thor. Gylfaginning, capítulo 31, também a apresenta como mãe de Ullr, enteado de Thor. O relato mais conhecido sobre ela está em Skáldskaparmál, capítulo 35: Loki corta seus cabelos e é obrigado a reparar o dano.
 
 ## Os Cabelos de Ouro
 
-Uma das histórias mais conhecidas envolvendo Sif começa quando **Loki** corta seus cabelos enquanto ela dorme, em um ato de travessura que rapidamente se transforma em problema sério. Ao descobrir o ocorrido, Thor ameaça Loki, exigindo que ele repare o dano.
+Thor ameaça Loki, que promete conseguir cabelos de ouro capazes de crescer como cabelos naturais. Loki procura os filhos de Ívaldi, que fabricam os novos cabelos, a lança Gungnir e o navio Skíðblaðnir.
 
-Para corrigir a situação, Loki procura os anões artesãos e encomenda novos cabelos feitos de **ouro mágico**, capazes de crescer como fios naturais quando colocados na cabeça de Sif. Esses cabelos se tornam um dos grandes artefatos criados pelos anões e reforçam o símbolo de Sif como personificação da fertilidade da terra.
+O episódio leva à aposta com Brokkr e seu irmão, chamado Sindri na tradução de Brodeur e conhecido também como Eitri. Dessa disputa surgem Gullinbursti, Draupnir e Mjölnir. Os cabelos de Sif, portanto, pertencem ao primeiro conjunto de presentes, não ao trabalho da segunda dupla de ferreiros.
 
-## Sif e a Prosperidade de Asgard
+## Interpretação Agrícola
 
-A presença de Sif no panteão reforça a importância da agricultura e da estabilidade para o mundo nórdico. Mesmo em uma mitologia marcada por batalhas e heróis, a sobrevivência cotidiana dependia da fertilidade do solo, das colheitas e do equilíbrio com a natureza.
+A comparação entre cabelos dourados e campos de cereais é uma leitura simbólica. O capítulo citado não declara que os cabelos sejam trigo nem define Sif como personificação exclusiva da terra cultivada. É importante separar essa interpretação daquilo que a narrativa efetivamente conta.
 
-Sif representa esse aspecto fundamental da vida, a abundância que permite que comunidades cresçam, prosperem e atravessem os ciclos das estações.
+## Fontes
 
-## Significado Simbólico
+- [Skáldskaparmál, capítulo 35](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal): cabelos e fabricação dos tesouros.
+- [Gylfaginning, capítulo 31](https://sacred-texts.com/book/the-prose-edda/gylfaginning): parentesco de Ullr.
 
-Sif simboliza:
-
-- a ligação entre divindade e natureza cultivada
-- a prosperidade que nasce da terra
-- o ciclo de crescimento, maturação e renovação
-- a estabilidade que sustenta famílias e comunidades
-
-No conjunto do panteão nórdico, Sif lembra que a força não vem apenas da guerra ou da magia, mas também da terra fértil que alimenta todos os mundos.`,
+Ambos na tradução de Arthur Gilchrist Brodeur (1916).`,
 },
 {
   slug: "var",
@@ -664,7 +679,9 @@ Vár surge como a divindade que **escuta esses compromissos** e mantém memória
 
 Em algumas interpretações, Vár é associada a votos entre parceiros, especialmente aqueles ligados a compromissos de união. Assim, ela também simboliza a confiança necessária para construir relações duradouras, lembrando que promessas sustentam laços entre indivíduos e comunidades.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Vár representa:
 
@@ -858,7 +875,9 @@ Por isso, eles simbolizam:
 - A proteção espiritual de uma região
 - A necessidade de convivência respeitosa com a natureza
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Os Landvættir representam:
 
@@ -918,7 +937,9 @@ As Dísir estavam ligadas a práticas de culto e reverência, como indica a exis
 
 Esse culto reforça o papel das Dísir como guardiãs sagradas, dignas de respeito, oferenda e memória ritual.
 
-## Dísir e o Sagrado Feminino
+## Interpretação editorial: Dísir e o Sagrado Feminino
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 As Dísir ocupam um lugar especial porque reúnem diferentes dimensões do feminino sagrado no mundo nórdico:
 
@@ -930,7 +951,9 @@ As Dísir ocupam um lugar especial porque reúnem diferentes dimensões do femin
 
 Elas mostram que a força feminina, na cosmologia nórdica, pode ser silenciosa e invisível, mas profundamente determinante.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 As Dísir representam:
 
@@ -1000,7 +1023,9 @@ A existência da Fylgja mostra que, na visão nórdica, o ser humano não era vi
 
 Nesse sentido, a Fylgja representa uma dimensão espiritual profundamente pessoal, diferente dos espíritos da terra ou das entidades coletivas. Ela é a presença que vai junto, o reflexo vivo daquilo que a pessoa é, carrega e se tornará.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 A Fylgja representa:
 
@@ -1067,7 +1092,9 @@ Por isso, perder a Hamingja podia significar declínio, fracasso ou enfraquecime
 
 Em certos contextos, a Hamingja parece funcionar quase como uma entidade acompanhante, próxima de outras ideias nórdicas de presença espiritual pessoal. No entanto, seu foco é menos a forma simbólica individual, como na Fylgja, e mais a **fortuna espiritual**, a energia de êxito, proteção e continuidade que envolve a vida humana.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 A Hamingja representa:
 
@@ -1153,7 +1180,9 @@ Muitos Draugar aparecem como guardiões de riquezas enterradas. Isso os aproxima
 
 Ele se torna, assim, não só um ser de horror, mas uma imagem do apego extremo que sobrevive além da morte.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 O Draugr representa:
 
@@ -1228,7 +1257,9 @@ Elas representam o elo entre:
 
 Embora possam ser comparadas a outras entidades femininas da mitologia nórdica, como as **Dísir** ou mesmo certas figuras ligadas ao presságio, as Nornir possuem uma função mais cósmica e universal. Enquanto outras entidades podem proteger linhagens ou acompanhar indivíduos, as Nornir atuam sobre a própria estrutura do destino.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 As Nornir representam:
 
@@ -1293,7 +1324,9 @@ Nesse sentido, podem representar:
 
 Os elfos da luz são fundamentais para a construção da imagem dos elfos no imaginário nórdico. Eles mostram que os elfos não eram vistos apenas como pequenos seres mágicos ou espíritos genéricos, mas como entidades complexas, ligadas à luminosidade, à fertilidade, ao encantamento e à ordem sutil do cosmos.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Os Ljósálfar representam:
 
@@ -1362,7 +1395,9 @@ Os Dökkálfar mostram que o povo élfico, na tradição nórdica, não era comp
 
 Eles representam o outro lado do encanto élfico, menos solar e mais noturno, menos evidente e mais secreto.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Os Dökkálfar representam:
 
@@ -1435,7 +1470,9 @@ Völundr ocupa uma posição liminar entre vários mundos:
 
 Essa ambiguidade é parte central de sua força mítica. Ele não é apenas um artesão maravilhoso, mas uma figura que mostra como o dom extraordinário pode se tornar também fonte de medo.
 
-## Significado Cultural
+## Interpretação editorial: Significado Cultural
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Völundr representa:
 
@@ -1449,1831 +1486,788 @@ Dentro do glossário de criaturas nórdicas, **Völundr** ocupa um lugar especia
 },
 {
   slug: "alf",
-  title: "Álfr — O Anão de Nome Élfico",
-  description: "Álfr (Alf) é um anão listado na Völuspá, na Edda Poética, entre os anões primordiais. Seu nome é particularmente curioso, pois 'álfr' é a palavra nórdica para 'elfo', revelando uma ligação simbólica entre dois povos míticos.",
+  title: "Álfr — Um Nome no Catálogo dos Anões",
+  description: "Álfr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/alf.png",
-  tags: ["alf", "álfr", "anão", "anoes", "völuspá", "edda poetica", "elfo", "criaturas nordicas", "mitologia nordica"],
-  content: `## O Anão de Nome Élfico
+  tags: ["alf","Álfr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Álfr** (frequentemente anglicizado como **Alf**) aparece na **Völuspá**, um dos poemas da **Edda Poética**, dentro do catálogo de nomes dos **anões primordiais**. Diferente de muitas outras figuras da mitologia nórdica, ele não possui uma narrativa própria preservada — sendo conhecido principalmente pelo significado singular de seu nome.
+**Álfr** consta de **Völuspá, estrofe 16 (Alf na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Álfr no Contexto Mítico
+## O que a Fonte Conta
 
-Na lista de anões da Völuspá, **Álfr** é mencionado entre as linhagens antigas que surgem nos primórdios do mundo. Esses nomes aparecem como parte de uma tradição poética que registra os povos subterrâneos ligados à criação e à estrutura do cosmos.
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-Mesmo sem uma história individual detalhada, a presença de Álfr indica sua inclusão entre os **primeiros anões**, seres associados às profundezas da terra e à formação do mundo.
+## Como Ler o Catálogo
 
-## Um Nome com Significado Curioso
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-O aspecto mais intrigante de Álfr está no próprio nome. Em nórdico antigo, a palavra:
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-- **álfr** significa literalmente **“elfo”**
+## Fonte
 
-Isso cria uma curiosa ambiguidade dentro da mitologia: um **anão cujo nome significa elfo**. Esse detalhe sugere que, nas tradições mais antigas, as fronteiras entre certos povos míticos talvez fossem mais fluidas do que as categorias posteriores indicam.
-
-## Anões e Elfos no Imaginário Nórdico
-
-Embora anões e elfos sejam frequentemente tratados como povos distintos em interpretações modernas, os textos antigos mostram que as classificações nem sempre eram rígidas. A presença de um nome como Álfr dentro de uma lista de anões reforça a possibilidade de conexões simbólicas ou linguísticas entre essas entidades.
-
-## Significado Cultural
-
-Álfr representa:
-
-- a tradição preservada em listas poéticas antigas
-- a complexidade linguística da mitologia nórdica
-- a relação simbólica entre diferentes povos míticos
-- a memória de nomes que sobreviveram mesmo sem narrativas completas
-
-Mesmo sem um mito próprio detalhado, Álfr permanece como um exemplo de como os textos nórdicos guardam fragmentos valiosos da cosmologia e da linguagem do mundo antigo.`,
+- [Völuspá, estrofe 16 (Alf na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "skafidur",
-  title: "Skáfiðr — O Anão do Polimento da Matéria",
-  description: "Skáfiðr (Skafidur) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens primordiais dos anões. Seu nome está ligado ao ato de raspar, polir ou refinar a matéria, simbolizando os processos finais de acabamento no trabalho artesanal dos anões.",
+  title: "Skáfiðr — Um Nome no Catálogo dos Anões",
+  description: "Skáfiðr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/skafidur.png",
-  tags: ["skafidur", "skáfiðr", "anão", "anoes", "völuspá", "edda poetica", "forja", "artesanato", "polimento", "mitologia nordica"],
-  content: `## O Anão do Acabamento
+  tags: ["skafidur","Skáfiðr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Skáfiðr** (frequentemente anglicizado como **Skafidur**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**. Ele faz parte das linhagens primordiais do povo anão, uma lista que reúne nomes associados à origem, à técnica e às qualidades do trabalho subterrâneo.
+**Skáfiðr** consta de **Völuspá, estrofe 15 (Skafith na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-Assim como vários anões mencionados na parte final dessa lista, Skáfiðr não possui uma narrativa individual preservada. Seu significado é conhecido principalmente através do **sentido simbólico de seu nome**.
+## O que a Fonte Conta
 
-## Quem é Skáfiðr no Contexto Mítico
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-Os anões listados na Völuspá compõem uma espécie de **genealogia mítica do povo subterrâneo**. Esses nomes podem representar diferentes aspectos da existência anã, como:
+## Como Ler o Catálogo
 
-- clãs e linhagens
-- qualidades da matéria
-- habilidades artesanais
-- processos técnicos da forja e da escultura
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa estrutura, **Skáfiðr** pertence ao grupo de nomes associados a **processos de transformação da matéria**.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## O Significado do Nome
+## Fonte
 
-O nome **Skáfiðr** está ligado a verbos que indicam ações como **raspar, aparar, polir ou alisar superfícies**. Isso sugere um simbolismo relacionado ao **acabamento final de um objeto**.
-
-Na tradição artesanal, o trabalho não termina quando a peça é moldada — ele termina quando ela é refinada, ajustada e aperfeiçoada. Skáfiðr representa exatamente essa etapa.
-
-## O Papel dos Processos na Mitologia dos Anões
-
-Muitos anões da tradição nórdica não representam indivíduos isolados, mas **etapas de um processo criativo**. Nesse contexto, Skáfiðr simboliza o momento em que a matéria já transformada recebe sua forma definitiva.
-
-Ele representa:
-
-- o refinamento após a criação
-- o cuidado com detalhes
-- o trabalho paciente que transforma algo bruto em algo completo
-
-## Significado Simbólico
-
-Skáfiðr simboliza:
-
-- o acabamento que dá valor à obra
-- a disciplina do detalhe
-- o refinamento da matéria após a forja
-- a importância das etapas finais de criação
-
-Dentro da tradição da Völuspá, Skáfiðr reforça a ideia de que o poder dos anões não está apenas em criar objetos extraordinários, mas também em **aperfeiçoá-los até que se tornem verdadeiramente dignos de lenda**.`,
+- [Völuspá, estrofe 15 (Skafith na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "virfir",
-  title: "Virfir — O Anão do Entrelaçamento",
-  description: "Virfir é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome carrega um valor simbólico ligado ao entrelaçamento, às formas torcidas e a padrões complexos da matéria, sugerindo os desenhos internos e as estruturas naturais que surgem nas profundezas da terra.",
+  title: "Virfir — Um Nome no Catálogo dos Anões",
+  description: "Virfir no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/virfir.png",
-  tags: ["virfir", "anão", "anoes", "völuspá", "edda poetica", "entrelaçamento", "formas", "padrões", "materia", "mitologia nordica"],
-  content: `## O Anão das Formas Complexas
+  tags: ["virfir","Virfir","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Virfir** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como muitos nomes presentes nessa lista, ele não possui uma narrativa própria preservada e é compreendido principalmente pelo **valor simbólico do seu nome**.
+**Virfir** consta de **Völuspá, estrofe 15**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Virfir no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem uma espécie de genealogia do povo subterrâneo, e seus nomes frequentemente evocam:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- clãs e linhagens antigas
-- qualidades da matéria
-- padrões naturais
-- processos internos da terra
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Virfir** pertence ao grupo estrutural, anões que expressam **formas e padrões complexos da matéria**, como se fossem a linguagem escondida no interior das rochas e dos metais.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Entrelaçamento e Formas Torcidas
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome Virfir é associado à ideia de **entrelaçamento**, torção e composição de formas. Isso pode ser lido de duas maneiras complementares:
+## Fonte
 
-- **Na natureza:** veios de minério, camadas dobradas, estruturas retorcidas de pedra e metal, padrões que surgem com pressão e tempo
-- **Na técnica anã:** fios, elos, tramas e encaixes, onde o valor está na forma complexa que dá resistência, beleza e função
-
-Virfir, assim, simboliza o momento em que a matéria deixa de ser simples e passa a carregar desenho, estrutura e padrão.
-
-## Virfir e os Padrões do Subterrâneo
-
-No imaginário nórdico, os anões não apenas fabricam: eles entendem as “regras” da terra por dentro. Virfir representa essa dimensão, a ideia de que existem **padrões ocultos** no mundo subterrâneo, e que dominá-los é parte do poder anão.
-
-## Significado Simbólico
-
-Virfir simboliza:
-
-- estruturas intrincadas e entrelaçadas
-- padrões naturais complexos moldados por tempo e pressão
-- a beleza e a força que nascem do “torcido”, do dobrado, do trabalhado
-- a inteligência técnica aplicada à forma
-
-Dentro do catálogo da Völuspá, Virfir reforça que o povo anão é, ao mesmo tempo, artesão e intérprete da matéria, capaz de ler e criar complexidade onde outros só veem pedra bruta.`,
+- [Völuspá, estrofe 15](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "skirfir",
-  title: "Skirfir — O Anão do Corte da Matéria",
-  description: "Skirfir é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado ao ato de cortar, separar ou dividir a matéria, simbolizando processos fundamentais de transformação e refinamento no trabalho subterrâneo dos anões.",
+  title: "Skirfir — Um Nome no Catálogo dos Anões",
+  description: "Skirfir no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/skirfir.png",
-  tags: ["skirfir", "anão", "anoes", "völuspá", "edda poetica", "corte", "separacao", "materia", "forja", "mitologia nordica"],
-  content: `## O Anão do Corte e da Separação
+  tags: ["skirfir","Skirfir","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Skirfir** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes presentes na parte final dessa lista, ele não possui uma narrativa própria preservada, sendo conhecido principalmente pelo **significado simbólico de seu nome**.
+**Skirfir** consta de **Völuspá, estrofe 15**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Skirfir no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá compõem uma genealogia do povo subterrâneo e frequentemente representam:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens antigas
-- Qualidades da matéria
-- Processos naturais
-- Técnicas artesanais dos anões
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Skirfir** pertence ao grupo estrutural, anões cujos nomes descrevem **processos de transformação da matéria** nas profundezas da terra.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Skirfir** está associado à ideia de **cortar, dividir ou separar**. Em termos simbólicos, isso pode representar a etapa em que a matéria bruta precisa ser isolada em partes utilizáveis.
+## Fonte
 
-No trabalho subterrâneo dos anões, esse processo é essencial. Antes de forjar um artefato, é necessário separar minério da rocha, dividir blocos de material e preparar cada componente para sua transformação.
-
-## O Processo de Transformação
-
-Na lógica simbólica da mitologia nórdica, cada etapa da criação possui um representante. Skirfir representa o momento em que a matéria deixa de ser um bloco indistinto e passa a ser **organizada e preparada para a criação**.
-
-Esse processo envolve:
-
-- Identificar o que é útil dentro da matéria bruta
-- Separar e preparar os materiais
-- Estabelecer ordem antes da transformação final
-
-## Significado Simbólico
-
-Skirfir simboliza:
-
-- A separação que permite a criação
-- O momento em que a matéria ganha estrutura
-- O conhecimento técnico que antecede a forja
-- A disciplina necessária para transformar recursos naturais em artefatos
-
-Dentro da tradição da Völuspá, Skirfir reforça a ideia de que o poder dos anões não está apenas na criação de objetos mágicos, mas também no domínio completo dos **processos que transformam a matéria desde sua forma mais bruta até sua forma final**.`,
+- [Völuspá, estrofe 15](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "hledjolf",
-  title: "Hléjólfr — O Anão da Proteção Combativa",
-  description: "Hléjólfr (Hledjolf) é um anão listado na Völuspá, na Edda Poética, entre as linhagens anãs primordiais. Seu nome composto sugere uma função ligada à proteção e à combatividade, simbolizando papéis defensivos ou guerreiros dentro da sociedade anã.",
+  title: "Hléjólfr — Um Nome no Catálogo dos Anões",
+  description: "Hléjólfr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/hledjolf.png",
-  tags: ["hledjolf", "hléjólfr", "anão", "anoes", "völuspá", "edda poetica", "protecao", "defesa", "guerreiro", "sociedade anã", "mitologia nordica"],
-  content: `## O Anão da Defesa e da Vigilância
+  tags: ["hledjolf","Hléjólfr","anões","edda em prosa","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Hléjólfr** (frequentemente anglicizado como **Hledjolf**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como quase todos os nomes da parte final dessa lista, ele não possui uma narrativa própria preservada e é compreendido principalmente pelo **significado simbólico de seu nome composto**.
+**Hléjólfr** consta de **Gylfaginning, capítulo 14 (Hledjólfr na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Hléjólfr no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem uma genealogia do povo subterrâneo e seus nomes frequentemente evocam:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens
-- Qualidades da matéria
-- Funções sociais
-- Papéis culturais dentro do mundo anão
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Hléjólfr** pertence ao grupo estrutural, anões cujos nomes indicam **funções protetoras ou guerreiras** dentro da sociedade subterrânea.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado Simbólico do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome composto **Hléjólfr** sugere uma ideia de **proteção combativa**, como alguém que protege não apenas com prudência, mas com capacidade de confronto. Isso aponta para um papel que pode lembrar:
+## Fonte
 
-- Guardiões de túneis e entradas
-- Protetores de oficinas e tesouros
-- Defensores de clãs e territórios
-- Escoltas em rotas subterrâneas
-
-Na lógica mítica, nem todo anão é apenas forjador: alguns representam as estruturas que mantêm a comunidade segura para que a criação aconteça.
-
-## Função Protetora na Sociedade Anã
-
-Se os anões são os grandes artesãos do mito nórdico, sua riqueza e seus artefatos exigem defesa. Hléjólfr simboliza a camada social que garante:
-
-- Estabilidade e segurança interna
-- Proteção dos segredos técnicos
-- Manutenção de fronteiras contra invasores
-- Prontidão em tempos de conflito
-
-Ele é a lembrança de que o subterrâneo não é apenas oficina, mas também fortaleza.
-
-## Significado Simbólico
-
-Hléjólfr representa:
-
-- Proteção ativa, não passiva
-- A força que guarda a comunidade
-- O papel de vigiar e defender o que tem valor
-- A ideia de que a criação só floresce onde há segurança
-
-Dentro do catálogo da Völuspá, Hléjólfr reforça que a cultura anã não é apenas técnica, é social e estratégica: um povo que cria maravilhas, mas também sabe protegê-las.`,
+- [Gylfaginning, capítulo 14 (Hledjólfr na tradução)](https://sacred-texts.com/book/the-prose-edda/gylfaginning), tradução de Arthur Gilchrist Brodeur (1916). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "hugstari",
-  title: "Hugstari — O Anão do Pensamento Profundo",
-  description: "Hugstari é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado ao pensamento, à mente e à reflexão profunda, simbolizando as qualidades intelectuais e estratégicas do povo anão.",
+  title: "Hugstari — Um Nome no Catálogo dos Anões",
+  description: "Hugstari no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/hugstari.png",
-  tags: ["hugstari", "anão", "anoes", "völuspá", "edda poetica", "mente", "pensamento", "sabedoria", "estrategia", "mitologia nordica"],
-  content: `## O Anão da Mente Profunda
+  tags: ["hugstari","Hugstari","anões","edda em prosa","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Hugstari** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes dessa lista, ele não possui uma narrativa individual preservada, sendo conhecido principalmente pelo **significado simbólico de seu nome**.
+**Hugstari** consta de **Gylfaginning, capítulo 14**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Hugstari no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá formam uma espécie de genealogia do povo subterrâneo. Seus nomes frequentemente representam diferentes aspectos da existência anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens
-- Qualidades da matéria
-- Forças naturais
-- Atributos mentais ou sociais
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Hugstari** pertence ao grupo estrutural de anões cujos nomes refletem **qualidades psicológicas e intelectuais**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O elemento **hug-** em nórdico antigo está ligado à ideia de **mente, pensamento ou espírito interior**. Assim, o nome Hugstari pode ser entendido como alguém associado ao **pensamento profundo, à reflexão e à estratégia**.
+## Fonte
 
-Esse significado conecta Hugstari à dimensão intelectual do povo anão, conhecida por sua capacidade de resolver problemas complexos, criar artefatos extraordinários e dominar conhecimentos técnicos difíceis.
-
-## Inteligência na Cultura Anã
-
-No imaginário nórdico, os anões não são apenas artesãos habilidosos, mas também **mentes engenhosas**. Criar objetos mágicos, trabalhar metais raros e compreender os segredos da terra exige planejamento, cálculo e compreensão profunda da matéria.
-
-Hugstari simboliza exatamente essa dimensão mental do povo anão, a capacidade de pensar antes de agir e de encontrar soluções onde outros veem apenas obstáculos.
-
-## Significado Simbólico
-
-Hugstari representa:
-
-- Pensamento estratégico e reflexão profunda
-- Inteligência aplicada ao trabalho artesanal
-- Sabedoria silenciosa que sustenta a criação
-- A mente como ferramenta tão poderosa quanto o martelo ou a forja
-
-Dentro do catálogo da Völuspá, Hugstari reforça que o poder dos anões não está apenas em suas mãos habilidosas, mas também em suas **mentes disciplinadas e criativas**, capazes de imaginar e construir maravilhas.`,
+- [Gylfaginning, capítulo 14](https://sacred-texts.com/book/the-prose-edda/gylfaginning), tradução de Arthur Gilchrist Brodeur (1916). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "hor",
-  title: "Hór — O Anão da Pedra Crua",
-  description: "Hór é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome curto e arcaico sugere a pedra em seu estado bruto, áspero e mineral, simbolizando as qualidades fundamentais da matéria e os estados primitivos da terra subterrânea.",
+  title: "Hór — Um Nome no Catálogo dos Anões",
+  description: "Hór no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/hor.png",
-  tags: ["hor", "hór", "anão", "anoes", "völuspá", "edda poetica", "pedra", "materia bruta", "aspereza", "mineral", "mitologia nordica"],
-  content: `## O Anão da Matéria Bruta
+  tags: ["hor","Hór","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Hór** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui uma narrativa preservada e é conhecido principalmente pelo **valor simbólico de seu nome curto, arcaico e direto**.
+**Hór** consta de **Völuspá, estrofe 15 (Hor na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Hór no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá formam uma espécie de genealogia do povo subterrâneo. Seus nomes podem representar:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e casas antigas
-- Qualidades fundamentais da matéria
-- Estados e condições da terra
-- Aspectos primitivos do mundo subterrâneo
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Hór** pertence ao grupo estrutural mais primitivo, composto por nomes extremamente curtos que parecem apontar para **propriedades básicas da pedra**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Pedra Crua e Aspereza Mineral
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome Hór sugere a ideia de **aspereza**, de material não trabalhado, de pedra crua. É o estado inicial da matéria antes de qualquer intervenção: sem polimento, sem corte, sem forma final.
+## Fonte
 
-Na lógica simbólica do mundo anão, isso é essencial, porque todo artefato começa aqui, na rocha dura, no minério preso, na superfície irregular que ainda não foi domada.
-
-## Hór e os Estados Primitivos da Terra
-
-Se alguns anões representam técnicas e etapas do trabalho (corte, torção, acabamento), Hór representa algo anterior: o **fundamento mineral**. Ele é a lembrança de que o subterrâneo é feito de pressão, peso e tempo, e que a matéria, antes de virar tesouro, é rude e resistente.
-
-## Significado Simbólico
-
-Hór simboliza:
-
-- A pedra em estado bruto
-- A aspereza mineral e a resistência
-- O ponto de partida de toda transformação
-- A base silenciosa sobre a qual a forja e a criação acontecem
-
-Dentro do catálogo da Völuspá, Hór reforça a ideia de que o povo anão não domina apenas o acabamento e a magia, mas também a matéria no seu estado mais primitivo, a rocha dura que sustenta o mundo.`,
+- [Völuspá, estrofe 15 (Hor na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "dolgthrasir",
-  title: "Dólgþrasir — O Anão da Resistência Vital",
-  description: "Dólgþrasir (Dolgthrasir) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome composto sugere força vital, resistência e persistência, simbolizando as energias internas que sustentam a vida e a sobrevivência no mundo subterrâneo.",
+  title: "Dólgþrasir — Um Nome no Catálogo dos Anões",
+  description: "Dólgþrasir no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/dolgthrasir.png",
-  tags: ["dolgthrasir", "dólgþrasir", "anão", "anoes", "völuspá", "edda poetica", "resistencia", "forca vital", "vida subterranea", "mitologia nordica"],
-  content: `## O Anão da Força Interior
+  tags: ["dolgthrasir","Dólgþrasir","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Dólgþrasir** (frequentemente anglicizado como **Dolgthrasir**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Assim como muitos nomes dessa lista, ele não possui uma narrativa individual preservada e é conhecido principalmente pelo **significado simbólico de seu nome composto**.
+**Dólgþrasir** consta de **Völuspá, estrofe 15 (Dolgthrasir na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Dólgþrasir no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá representam diferentes aspectos da existência subterrânea. Seus nomes frequentemente evocam:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens do povo anão  
-- Qualidades da matéria  
-- Processos naturais da terra  
-- Estados vitais ou forças internas da comunidade
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Dólgþrasir** pertence ao grupo estrutural de anões cujos nomes descrevem **forças internas ou estados de vida do povo anão**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Dólgþrasir** pode ser interpretado como a expressão de **energia combativa e resistência vital**. Ele sugere alguém que mantém sua força mesmo diante de pressão, conflito ou adversidade.
+## Fonte
 
-No mundo subterrâneo dos anões, onde a vida acontece sob peso de pedra, calor de fornalhas e riscos constantes, essa resistência não é apenas simbólica — é essencial para a sobrevivência.
-
-## Resistência no Mundo Subterrâneo
-
-A cultura anã é frequentemente associada a trabalho duro, disciplina e perseverança. A presença de um nome como Dólgþrasir dentro da genealogia da Völuspá reforça a ideia de que a sociedade anã valoriza qualidades como:
-
-- Persistência diante da dificuldade  
-- Energia vital que sustenta o trabalho  
-- Coragem para enfrentar ambientes hostis  
-- Determinação em proteger a própria comunidade
-
-Dólgþrasir representa a força silenciosa que mantém a vida subterrânea funcionando mesmo sob enorme pressão.
-
-## Significado Simbólico
-
-Dólgþrasir simboliza:
-
-- Resistência vital diante das adversidades  
-- Força interior que sustenta o trabalho e a sobrevivência  
-- Persistência diante da pressão do mundo subterrâneo  
-- A energia que mantém o povo anão ativo e resiliente
-
-Dentro do catálogo da Völuspá, Dólgþrasir reforça que a cultura anã não é apenas técnica e artesanal, mas também profundamente marcada pela **resiliência e pela força de continuar vivendo e criando mesmo nas condições mais duras**.`,
+- [Völuspá, estrofe 15 (Dolgthrasir na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "eikinskjaldi",
-  title: "Eikinskjaldi — O Anão do Escudo de Carvalho",
-  description: "Eikinskjaldi é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome composto significa literalmente 'escudo de carvalho', evocando proteção, resistência e a cultura guerreira e artesanal associada ao povo anão.",
+  title: "Eikinskjaldi — Um Nome no Catálogo dos Anões",
+  description: "Eikinskjaldi no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/eikinskjaldi.png",
-  tags: ["eikinskjaldi", "anão", "anoes", "völuspá", "edda poetica", "escudo", "carvalho", "protecao", "guerreiro", "mitologia nordica"],
-  content: `## O Anão do Escudo de Carvalho
+  tags: ["eikinskjaldi","Eikinskjaldi","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Eikinskjaldi** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens primordiais do povo anão. Como muitos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado literal e simbólico de seu nome composto**.
+**Eikinskjaldi** consta de **Völuspá, estrofes 13 e 16**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Eikinskjaldi no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá representam diferentes aspectos da cultura subterrânea e da sociedade anã. Seus nomes frequentemente evocam:
+Bellows comenta a leitura do nome como ‘escudo de carvalho’. Essa explicação do nome não é o relato de um escudo mágico ou de uma batalha vivida pelo personagem.
 
-- Clãs e linhagens antigas  
-- Qualidades da matéria  
-- Técnicas e processos artesanais  
-- Objetos e símbolos culturais do povo anão
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Eikinskjaldi** pertence ao grupo estrutural de anões cujos nomes descrevem **objetos, funções ou atributos característicos da cultura anã**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Eikinskjaldi** pode ser dividido em dois elementos:
+## Fonte
 
-- **Eikin** — relacionado ao **carvalho**, uma madeira forte e resistente  
-- **Skjaldi** — que significa **escudo**
-
-Assim, o nome pode ser interpretado como **“escudo de carvalho”**, evocando uma imagem de proteção sólida e confiável.
-
-## Escudos e Defesa na Cultura Nórdica
-
-Escudos feitos de madeira resistente eram elementos fundamentais na guerra e na defesa das comunidades nórdicas. O carvalho, conhecido por sua durabilidade, simboliza **força, estabilidade e proteção duradoura**.
-
-Dentro do imaginário anão, essa imagem também pode remeter à habilidade de criar equipamentos defensivos de alta qualidade, capazes de resistir a impactos e proteger guerreiros e tesouros.
-
-## Significado Simbólico
-
-Eikinskjaldi simboliza:
-
-- Proteção firme e confiável  
-- Resistência e durabilidade  
-- A importância dos equipamentos defensivos  
-- A capacidade anã de criar objetos robustos e duradouros
-
-Dentro do catálogo da Völuspá, Eikinskjaldi reforça que o povo anão não está ligado apenas à criação de artefatos mágicos ou preciosos, mas também à produção de ferramentas e proteções que garantem a segurança e a sobrevivência de sua comunidade.`,
+- [Völuspá, estrofes 13 e 16](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "ai",
-  title: "Ái — O Anão Primordial da Própria Pedra",
-  description: "Ái é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome extremamente arcaico sugere um vínculo direto com a essência mineral, como se representasse a própria pedra em seu estado mais fundamental e primordial.",
+  title: "Ái — Um Nome no Catálogo dos Anões",
+  description: "Ái no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/ai.png",
-  tags: ["ai", "ái", "anão", "anoes", "völuspá", "edda poetica", "pedra", "essencia mineral", "primordial", "terra", "mitologia nordica"],
-  content: `## O Nome Mais Antigo da Matéria
+  tags: ["ai","Ái","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Ái** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como muitos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo valor simbólico de seu nome **extremamente arcaico**, curto e direto.
+**Ái** consta de **Völuspá, estrofes 11 e 15 (Ai na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Ái no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá formam a genealogia do povo subterrâneo. Seus nomes frequentemente representam:
+O nome aparece duas vezes nesta edição do catálogo. A repetição não prova a existência de duas biografias distintas nem autoriza atribuir ao personagem a criação da pedra.
 
-- Clãs e linhagens antigas  
-- Casas e grupos primordiais  
-- Qualidades fundamentais da matéria  
-- Aspectos primordiais da terra
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Ái** pertence ao nível mais antigo desses nomes, anões que parecem representar não uma técnica ou um objeto, mas a própria **essência mineral**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Ái como Essência da Pedra
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-Enquanto alguns anões do catálogo evocam processos (corte, polimento, torção) ou funções sociais (guarda, proteção), Ái remete ao que existe antes de qualquer trabalho: **a pedra em si**, o fundamento mineral do mundo subterrâneo.
+## Fonte
 
-Ele simboliza:
-
-- A matéria bruta antes de ser transformada  
-- A permanência da rocha diante do tempo  
-- A base silenciosa onde veios de minério se formam  
-- O estado primordial da terra, ainda não “moldado” por mãos artesãs
-
-## O Subterrâneo Como Origem
-
-Na cosmologia nórdica, o subterrâneo é lugar de profundezas antigas, pressão e criação lenta. Ái, como nome arcaico e primordial, reforça essa percepção: os anões não são apenas criadores de artefatos, eles são parte das camadas profundas do mundo, próximos do que é mais antigo e fundamental.
-
-## Significado Simbólico
-
-Ái simboliza:
-
-- A própria pedra como origem  
-- A essência mineral, dura e permanente  
-- O fundamento sobre o qual toda transformação acontece  
-- O caráter primordial do mundo subterrâneo
-
-Dentro do catálogo da Völuspá, Ái funciona como um lembrete de que, antes do ouro, das runas e da forja, existe o elemento básico que sustenta tudo: **a pedra primordial**.`,
+- [Völuspá, estrofes 11 e 15 (Ai na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "pekr",
-  title: "Þekkr — O Anão da Confiança e da Aceitação",
-  description: "Þekkr (Thekkur) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado à ideia de ser agradável, digno de confiança e aceito, simbolizando traços sociais e relacionais importantes dentro da cultura anã primordial.",
+  title: "Þekkr — Um Nome no Catálogo dos Anões",
+  description: "Þekkr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/pekr.png",
-  tags: ["pekr", "þekkr", "thekkur", "anão", "anoes", "völuspá", "edda poetica", "confianca", "aceitacao", "cultura anã", "mitologia nordica"],
-  content: `## O Anão do Vínculo Social
+  tags: ["pekr","Þekkr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Þekkr** (frequentemente anglicizado como **Thekkur**, aqui em slug **pekr**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado simbólico de seu nome**.
+**Þekkr** consta de **Völuspá, estrofe 12 (Thekk na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Þekkr no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem a genealogia do povo subterrâneo e seus nomes frequentemente representam:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e casas antigas  
-- Qualidades pessoais  
-- Funções sociais do mundo anão  
-- Traços relacionais dentro da cultura primordial
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Þekkr** pertence ao grupo estrutural de anões que expressam **características sociais e relacionais**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O termo **Þekkr** está associado à ideia de alguém **agradável**, **estimado** e **digno de confiança**. Em sentido simbólico, isso aponta para uma qualidade essencial em sociedades baseadas em pacto, segredo técnico e colaboração intensa: a confiança.
+## Fonte
 
-No mundo anão, onde o valor de um clã pode depender de sigilo, precisão e lealdade, ser “þekkr” é ser alguém aceito, respeitado e confiável.
-
-## Confiança e Aceitação na Cultura Anã
-
-A presença de Þekkr no catálogo sugere que a mitologia não registra apenas matéria e técnica, mas também as bases sociais que sustentam a comunidade. A confiança é um recurso tão importante quanto minério.
-
-Þekkr simboliza:
-
-- A aceitação dentro de um clã  
-- A reputação construída por constância  
-- A lealdade que permite cooperação  
-- O vínculo que mantém segredos protegidos
-
-## Significado Simbólico
-
-Þekkr representa:
-
-- Confiança como valor social central  
-- Aceitação e pertencimento na comunidade  
-- Reputação e credibilidade construídas ao longo do tempo  
-- A ideia de que relações firmes sustentam a criação
-
-Dentro do catálogo da Völuspá, Þekkr reforça que o poder do povo anão não nasce apenas da forja, mas também de uma cultura interna forte, feita de **alianças, respeito e confiança mútua**.`,
+- [Völuspá, estrofe 12 (Thekk na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "sviarr",
-  title: "Svíarr — O Anão da Identidade do Clã",
-  description: "Svíarr é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está associado a identidades coletivas e à organização social do povo anão, simbolizando a força do clã, da comunidade e da identidade compartilhada no mundo subterrâneo.",
+  title: "Svíarr — Um Nome no Catálogo dos Anões",
+  description: "Svíarr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/sviarr.png",
-  tags: ["sviarr", "svíarr", "anão", "anoes", "völuspá", "edda poetica", "clã", "identidade", "comunidade", "cultura anã", "mitologia nordica"],
-  content: `## O Anão da Identidade Coletiva
+  tags: ["sviarr","Svíarr","anões","edda em prosa","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Svíarr** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Assim como a maioria dos nomes dessa lista, ele não possui uma narrativa preservada e é conhecido principalmente pelo **valor simbólico de seu nome e pela posição que ocupa dentro da genealogia anã**.
+**Svíarr** consta de **Gylfaginning, capítulo 14**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Svíarr no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá formam uma genealogia simbólica do povo subterrâneo. Seus nomes frequentemente evocam diferentes dimensões da cultura anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens antigas  
-- Casas e estruturas sociais  
-- Qualidades coletivas  
-- Forças sociais que sustentam a comunidade
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Svíarr** pertence ao grupo estrutural de nomes que expressam **aspectos sociais e identitários do povo anão primordial**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Identidade e Pertencimento
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome Svíarr sugere uma ideia de **identidade coletiva**, como se representasse o sentimento de pertencimento a um grupo, um clã ou uma comunidade. Em sociedades antigas, especialmente em culturas baseadas em linhagem e tradição, a identidade compartilhada era essencial para organização, cooperação e sobrevivência.
+## Fonte
 
-No mundo anão, isso pode simbolizar o vínculo que une indivíduos dentro de uma mesma casa, oficina ou linhagem.
-
-## O Papel do Clã na Cultura Anã
-
-A cultura anã é frequentemente imaginada como profundamente estruturada em torno de **clãs, casas e linhagens artesanais**. O conhecimento técnico, os segredos da forja e as tradições do subterrâneo são transmitidos através dessas estruturas.
-
-Svíarr simboliza a força dessa identidade coletiva, lembrando que os anões não são apenas indivíduos habilidosos, mas membros de comunidades antigas e interdependentes.
-
-## Significado Simbólico
-
-Svíarr representa:
-
-- A identidade compartilhada de um povo  
-- A força social dos clãs e das casas  
-- O sentimento de pertencimento à comunidade  
-- A continuidade cultural dentro do mundo subterrâneo
-
-Dentro do catálogo da Völuspá, Svíarr reforça a ideia de que o povo anão é definido não apenas por sua habilidade técnica, mas também por sua **estrutura social, suas linhagens e sua identidade coletiva profundamente enraizada**.`,
+- [Gylfaginning, capítulo 14](https://sacred-texts.com/book/the-prose-edda/gylfaginning), tradução de Arthur Gilchrist Brodeur (1916). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "hannarr",
-  title: "Hannarr — O Anão do Ofício Artesanal",
-  description: "Hannarr é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome sugere associação com o trabalho manual e os ofícios artesanais, simbolizando as habilidades técnicas que definem a cultura do povo anão.",
+  title: "Hannarr — Um Nome no Catálogo dos Anões",
+  description: "Hannarr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/hannarr.png",
-  tags: ["hannarr", "anão", "anoes", "völuspá", "edda poetica", "artesanato", "forja", "oficio", "tecnica", "mitologia nordica"],
-  content: `## O Anão do Trabalho Artesanal
+  tags: ["hannarr","Hannarr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Hannarr** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos anões dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado simbólico de seu nome**.
+**Hannarr** consta de **Völuspá, estrofe 13 (Hannar na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Hannarr no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá formam a genealogia do povo subterrâneo. Seus nomes frequentemente representam diferentes dimensões da cultura anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- Clãs e linhagens antigas  
-- Casas e estruturas sociais  
-- Qualidades da matéria  
-- Funções técnicas e artesanais do mundo anão
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Hannarr** pertence ao grupo estrutural de anões que expressam **aspectos técnicos e artesanais da cultura anã**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome Hannarr sugere ligação com o **trabalho manual e os ofícios especializados**. Na tradição mítica dos anões, o domínio da matéria exige conhecimento profundo, precisão e dedicação ao detalhe.
+## Fonte
 
-Assim, Hannarr pode ser interpretado como uma representação simbólica do artesão anão, aquele que domina ferramentas, entende a matéria e transforma recursos brutos em objetos úteis ou extraordinários.
-
-## O Artesanato na Cultura Anã
-
-A mitologia nórdica frequentemente associa os anões às maiores criações do mundo dos deuses, incluindo armas, joias e artefatos mágicos. Esse tipo de criação depende não apenas de força, mas de habilidade técnica refinada.
-
-Hannarr simboliza esse aspecto da sociedade anã:
-
-- Domínio das ferramentas  
-- Conhecimento técnico acumulado  
-- Disciplina no trabalho artesanal  
-- Transformação da matéria através da técnica
-
-## Significado Simbólico
-
-Hannarr representa:
-
-- O trabalho manual especializado  
-- A tradição artesanal do povo anão  
-- O domínio técnico sobre a matéria  
-- A importância do ofício na cultura subterrânea
-
-Dentro do catálogo da Völuspá, Hannarr reforça a ideia de que o poder dos anões nasce da combinação entre **conhecimento técnico, habilidade manual e dedicação ao trabalho artesanal**, elementos centrais da cultura mítica desse povo.`,
+- [Völuspá, estrofe 13 (Hannar na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "loni",
-  title: "Lóni — O Anão da Umidade Profunda",
-  description: "Lóni é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome é interpretado de forma simbólica como ligado à umidade, à água subterrânea e às forças ocultas do subsolo, representando aspectos do ambiente anão que vão além da rocha e do metal.",
+  title: "Lóni — Um Nome no Catálogo dos Anões",
+  description: "Lóni no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/loni.png",
-  tags: ["loni", "lóni", "anão", "anoes", "völuspá", "edda poetica", "umidade", "agua subterranea", "subsolo", "forcas naturais", "mitologia nordica"],
-  content: `## O Anão da Água Oculta
+  tags: ["loni","Lóni","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Lóni** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui uma narrativa preservada e é conhecido principalmente pelo **significado simbólico de seu nome**.
+**Lóni** consta de **Völuspá, estrofe 13 (Loni na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Lóni no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem a genealogia do povo subterrâneo, representando diferentes dimensões do mundo anão, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas  
-- **Casas** e estruturas do subsolo  
-- **Qualidades da matéria**  
-- **Forças naturais** das profundezas
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Lóni** pertence ao grupo de anões que expressam **aspectos do ambiente subterrâneo além da pedra**, incluindo a água escondida, a umidade constante e os fluxos invisíveis sob a terra.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Lóni** pode ser associado, em leitura simbólica, a ideias de **umidade profunda**, **águas subterrâneas** ou condições úmidas do interior da terra. Isso o conecta a uma dimensão menos rígida do mundo anão: não o mineral seco e bruto, mas o subsolo vivo, escuro e saturado de presença elemental.
+## Fonte
 
-Na lógica mítica, isso é importante porque o subterrâneo não é feito apenas de rocha e metal. Ele também contém infiltrações, vapores, lençóis ocultos e correntes silenciosas que moldam a matéria ao longo do tempo.
-
-## Água e Profundidade no Mundo Anão
-
-A presença simbólica de Lóni reforça que os anões não pertencem apenas ao universo da forja, mas ao ecossistema completo das profundezas. A água subterrânea pode:
-
-- **Abrir caminhos** na pedra  
-- **Alterar a textura** da matéria  
-- **Nutrir cavidades** ocultas  
-- **Participar da transformação** lenta do subsolo
-
-Lóni representa essa camada úmida e invisível da terra, um elemento silencioso, mas essencial na formação do mundo subterrâneo.
-
-## Significado Simbólico
-
-Lóni simboliza:
-
-- **A Umidade profunda das cavernas e fendas**  
-- **A Água oculta que percorre o subsolo**  
-- **As Forças naturais que moldam a terra em silêncio**  
-- **O Ambiente subterrâneo como realidade viva, e não apenas mineral**
-
-Dentro do catálogo da Völuspá, Lóni reforça que o povo anão está ligado não só à pedra e ao metal, mas também às **forças ocultas da profundidade**, incluindo a água escura e paciente que percorre o coração da terra.`,
+- [Völuspá, estrofe 13 (Loni na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "frar",
-  title: "Frár — O Anão da Força Mineral",
-  description: "Frár é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome é interpretado de forma simbólica como ligado à força e à intensidade da matéria mineral, representando propriedades físicas fundamentais da terra subterrânea.",
+  title: "Frár — Um Nome no Catálogo dos Anões",
+  description: "Frár no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/frar.png",
-  tags: ["frar", "frár", "anão", "anoes", "völuspá", "edda poetica", "mineral", "forca da terra", "materia", "subsolo", "mitologia nordica"],
-  content: `## O Anão da Intensidade Mineral
+  tags: ["frar","Frár","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Frár** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos anões dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **valor simbólico de seu nome**.
+**Frár** consta de **Völuspá, estrofe 13 (Frar na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Frár no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões mencionados na Völuspá formam a genealogia do povo subterrâneo. Seus nomes frequentemente representam diferentes dimensões do mundo anão, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas  
-- **Casas** e estruturas subterrâneas  
-- **Qualidades da matéria**  
-- **Forças naturais da terra**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Frár** pertence ao grupo estrutural de anões que expressam **aspectos físicos fundamentais do mundo mineral**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Frár** pode ser associado a ideias de **intensidade, força e vigor**. Em um contexto mineral e subterrâneo, isso pode representar a energia contida na matéria bruta da terra, aquela pressão e densidade que tornam a rocha resistente e os minerais valiosos.
+## Fonte
 
-Esse tipo de força não é violenta ou repentina, mas **constante e profunda**, construída ao longo de eras dentro da terra.
-
-## Força e Pressão no Subsolo
-
-No imaginário nórdico, o mundo subterrâneo é um espaço de pressão, calor e transformação lenta. É nesse ambiente que metais e pedras preciosas se formam.
-
-Frár simboliza essa dimensão física do subsolo:
-
-- **Pressão mineral que compacta a rocha**  
-- **Força interna da terra**  
-- **Energia acumulada nas profundezas**  
-- **A resistência natural da matéria**
-
-## Significado Simbólico
-
-Frár representa:
-
-- **A Força primordial da matéria mineral**  
-- **A Energia silenciosa das profundezas da terra**  
-- **A Resistência física da rocha e dos metais**  
-- **A Intensidade natural que sustenta o mundo subterrâneo**
-
-Dentro do catálogo da Völuspá, Frár reforça a ideia de que o povo anão está intimamente ligado às forças físicas da terra, não apenas como artesãos da matéria, mas como expressões vivas da **energia mineral que forma o próprio subsolo**.`,
+- [Völuspá, estrofe 13 (Frar na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
-{
-  slug: "groin",
-  title: "Gróinn — O Anão do Crescimento Subterrâneo",
-  description: "Gróinn (Gróin) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está ligado à ideia de crescimento e germinação, simbolizando forças vitais e orgânicas que também existem nas profundezas da terra.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/groin.png",
-  tags: ["groin", "gróinn", "gróin", "anão", "anoes", "völuspá", "edda poetica", "crescimento", "vida subterranea", "forcas naturais", "mitologia nordica"],
-  content: `## O Anão da Vida que Brota na Escuridão
 
-**Gróinn** (frequentemente anglicizado como **Gróin**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos nomes dessa lista, ele não possui narrativa preservada e é conhecido principalmente pelo **valor simbólico de seu nome**.
 
-## Quem é Gróinn no Contexto Mítico
 
-Os anões da Völuspá formam a genealogia do povo subterrâneo, e seus nomes frequentemente representam diferentes dimensões do mundo profundo, como:
 
-- Clãs e linhagens antigas  
-- Casas e estruturas subterrâneas  
-- Qualidades da matéria  
-- Forças naturais da terra
 
-Dentro dessa estrutura, **Gróinn** pertence ao grupo estrutural de anões que expressam **aspectos vitais e orgânicos do mundo subterrâneo**.
-
-## O Significado do Nome
-
-O nome **Gróinn** está associado ao verbo nórdico antigo ligado a **crescer, brotar ou germinar**. Isso cria uma imagem interessante dentro do universo mineral dos anões: mesmo nas profundezas escuras da terra, existe crescimento.
-
-Esse crescimento pode ser entendido de forma simbólica, como:
-
-- Formação lenta de cristais e minerais  
-- Expansão de veios metálicos dentro da rocha  
-- Processos naturais que transformam o interior da terra ao longo do tempo
-
-## Vida e Transformação no Subsolo
-
-Embora o mundo anão seja frequentemente associado à pedra e ao metal, a mitologia sugere que o subterrâneo também é um espaço **dinâmico e vivo**. Rochas se formam, minerais crescem, e estruturas geológicas evoluem lentamente.
-
-Gróinn simboliza essa dimensão de **vida silenciosa da terra**, aquela que não se move rapidamente, mas que transforma o mundo ao longo das eras.
-
-## Significado Simbólico
-
-Gróinn representa:
-
-- O Crescimento lento e profundo da matéria  
-- A Vida que se manifesta mesmo nas profundezas da terra  
-- A Formação natural de minerais e cristais  
-- A Transformação contínua do mundo subterrâneo
-
-Dentro do catálogo da Völuspá, Gróinn reforça a ideia de que o povo anão está ligado não apenas à matéria inerte, mas também aos **processos vitais e orgânicos que acontecem dentro da própria terra**, revelando um subterrâneo que cresce, evolui e se transforma com o tempo.`,
-},
-{
-  slug: "thror",
-  title: "Thrór — O Rei Anão de Erebor",
-  description: "Thrór é um rei anão da Terra-média de J. R. R. Tolkien, avô de Thorin II Escudo de Carvalho e pai de Thráin II. Embora não pertença à mitologia nórdica, seu nome deriva diretamente de Þrór, um anão listado na Völuspá, mostrando como Tolkien adaptou nomes édicos em sua mitologia literária.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/thror.png",
-  tags: ["thror", "þrór", "tolkien", "anão", "erebor", "casa de durin", "thorin", "thrain", "smaug", "moria"],
-  content: `## O Rei Anão de Erebor
-
-**Thrór** é um rei anão da **Terra-média**, universo criado por **J. R. R. Tolkien**. Ele é lembrado como avô de **Thorin II Escudo de Carvalho** e pai de **Thráin II**, além de ter governado a **Montanha Solitária, Erebor**, em um período de grande riqueza e esplendor para a **Casa de Durin**.
-
-Embora não seja um personagem da mitologia nórdica, seu nome deriva diretamente de **Þrór**, um anão listado na **Völuspá**, na **Edda Poética**. Assim, Thrór representa uma adaptação tolkieniana de um antigo nome éddico.
-
-## Quem é Thrór
-
-Thrór foi o rei dos anões de **Erebor** antes da chegada do dragão **Smaug**. Durante seu reinado, a Montanha Solitária viveu um dos momentos mais prósperos de sua história, marcada por enorme riqueza, mineração abundante e prestígio entre os povos da Terra-média.
-
-Seu nome está ligado ao auge do poder anão, mas também ao início de uma grande queda.
-
-## A Queda de Erebor
-
-A prosperidade de Erebor atraiu Smaug, que atacou a montanha e tomou seu tesouro. Com isso, Thrór e seu povo foram forçados ao exílio, perdendo seu reino, sua morada e boa parte de sua estabilidade.
-
-Esse evento se torna uma das grandes tragédias da história dos anões em Tolkien, moldando o destino de gerações seguintes.
-
-## Thrór em Moria e a Guerra dos Anões e Orcs
-
-Já idoso, Thrór tenta retornar a **Moria (Khazad-dûm)**, antiga morada ancestral dos anões. No entanto, ali ele é morto pelo orc **Azog**, em um ato brutal e humilhante.
-
-Sua morte desencadeia a **Guerra dos Anões e Orcs**, conflito decisivo na história da Terra-média e marco de honra, vingança e resistência para a Casa de Durin.
-
-## Relação com a Tradição Nórdica
-
-O nome **Thrór** mostra como Tolkien buscou inspiração direta nos textos nórdicos antigos. Ao tomar nomes da **Völuspá** e inseri-los em sua mitologia literária, ele criou uma ponte entre a tradição éddica e a fantasia moderna.
-
-Nesse sentido, Thrór não é um anão da mitologia nórdica propriamente dita, mas carrega um nome e uma herança cultural que nascem dela.
-
-## Significado Simbólico
-
-Thrór representa:
-
-- A Grandeza perdida dos reinos anões  
-- A Herança da Casa de Durin  
-- O Exílio e a memória de um reino destruído  
-- A Ligação entre a tradição nórdica e a fantasia de Tolkien
-
-Dentro de um glossário ampliado sobre anões, Thrór ocupa um lugar especial como exemplo de como os nomes e ecos da mitologia nórdica continuaram vivos na literatura fantástica moderna.`,
-},
-{
-  slug: "frerin",
-  title: "Frerin — O Príncipe Anão da Casa de Durin",
-  description: "Frerin é um anão da Terra-média de J. R. R. Tolkien, filho de Náin II e irmão mais novo de Thráin II. Embora não pertença à mitologia nórdica, faz parte da tradição anã criada por Tolkien, representando a linhagem real da Casa de Durin em um período de exílio, guerra e perda.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/frerin.png",
-  tags: ["frerin", "tolkien", "anão", "terra-média", "casa de durin", "náin ii", "thráin ii", "azanulbizar", "guerra dos anões e orcs", "erebor"],
-  content: `## O Príncipe Anão do Exílio
-
-**Frerin** é um anão da **Terra-média**, universo criado por **J. R. R. Tolkien**. Filho de **Náin II** e irmão mais novo de **Thráin II**, ele pertence à nobre linhagem da **Casa de Durin**, uma das mais importantes entre os anões da obra tolkieniana.
-
-Diferente de muitos outros nomes anões usados por Tolkien, **Frerin** não vem diretamente da **Völuspá**, na **Edda Poética**. Seu nome foi criado pelo autor dentro da tradição linguística e cultural dos anões da Terra-média.
-
-## Quem é Frerin
-
-Frerin vive durante o período de exílio dos anões após a perda de **Erebor**, quando a Casa de Durin atravessa uma fase marcada por deslocamento, instabilidade e conflito. Como príncipe anão, ele faz parte de uma geração que herda não a prosperidade de um reino estável, mas a dura realidade da sobrevivência fora de sua antiga morada.
-
-Sua figura está ligada à continuidade da linhagem real em um momento de crise.
-
-## Frerin e a Guerra dos Anões e Orcs
-
-Frerin participa da **Guerra dos Anões e Orcs**, um dos grandes conflitos da história anã na Terra-média. Durante esse período, a Casa de Durin busca responder à violência sofrida em **Moria** e restaurar sua honra diante das perdas acumuladas.
-
-Frerin morre ainda jovem na **Batalha de Azanulbizar**, ao lado de seu pai **Náin II**. Sua morte torna esse episódio ainda mais trágico, marcando o custo humano e dinástico da guerra.
-
-## Lugar na Linha de Sucessão
-
-A morte de Frerin acontece antes da ascensão de **Thráin II** e, posteriormente, de **Thorin II Escudo de Carvalho**. Por isso, embora não seja um dos anões mais centrais na narrativa extensa de Tolkien, ele ocupa um lugar importante dentro da cronologia da Casa de Durin, como membro da linhagem real perdido em um dos momentos mais duros de sua história.
-
-## Significado Simbólico
-
-Frerin representa:
-
-- A Juventude interrompida pela guerra  
-- O Peso do exílio sobre a Casa de Durin  
-- A Continuidade da linhagem anã em tempos de crise  
-- O Custo trágico dos conflitos que moldam a história dos anões
-
-Dentro de um glossário ampliado sobre anões, Frerin ocupa o lugar de príncipe da tradição tolkieniana cuja trajetória breve reforça o tom épico e melancólico da história da **Casa de Durin**.`,
-},
-{
-  slug: "nain-2",
-  title: "Náin II — O Rei Anão da Casa de Durin",
-  description: "Náin II é um rei anão da Terra-média de J. R. R. Tolkien, pertencente à linhagem de Durin. Embora não seja um personagem da mitologia nórdica, seu nome deriva diretamente de Náinn, anão listado na Völuspá, mostrando a influência éddica na construção da tradição anã de Tolkien.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/nain-2.png",
-  tags: ["nain-2", "náin ii", "tolkien", "anão", "terra-média", "casa de durin", "thráin ii", "thorin ii", "azanulbizar", "azog", "erebor"],
-  content: `## O Rei Anão da Linhagem de Durin
-
-**Náin II** é um rei anão da **Terra-média**, universo criado por **J. R. R. Tolkien**, pertencente à antiga e nobre **Casa de Durin**. Ele faz parte da linhagem real dos anões e ocupa um lugar importante na história que antecede a trajetória de **Thorin II Escudo de Carvalho**.
-
-Embora não seja um personagem da mitologia nórdica, seu nome deriva diretamente de **Náinn**, um anão listado na **Völuspá**, na **Edda Poética**. Assim como outros nomes anões usados por Tolkien, Náin II representa uma adaptação literária de nomes preservados na tradição éddica.
-
-## Quem é Náin II
-
-Na cronologia de Tolkien, **Náin II** é um rei da **Casa de Durin** e ancestral direto de Thorin. Ele governa os anões em um período marcado pelo exílio e pelo esforço de preservar a dignidade e a continuidade da linhagem após grandes perdas.
-
-Sua figura pertence a uma fase decisiva da história anã, quando os descendentes de Durin já não vivem mais o auge de Erebor, mas enfrentam guerra, deslocamento e instabilidade.
-
-## Náin II e a Guerra dos Anões e Orcs
-
-Náin II participa da **Guerra dos Anões e Orcs**, conflito que se torna central para a honra e a sobrevivência da Casa de Durin. Durante a **Batalha de Azanulbizar**, travada diante de **Moria**, ele enfrenta diretamente os perigos que cercam a tentativa de restaurar a força anã.
-
-Nesse confronto, **Náin II é morto pelo orc Azog**, em um acontecimento que marca profundamente a memória da linhagem e se torna um dos episódios mais dolorosos da história dos anões na Terra-média.
-
-## Pai de Thráin II, Avô de Thorin II
-
-Náin II ocupa também uma posição importante na genealogia da Casa de Durin por ser pai de:
-
-- **Thráin II**
-
-E avô de:
-
-- **Thorin II Escudo de Carvalho**
-
-Essa posição faz dele um elo essencial entre gerações de reis e herdeiros que carregam o peso do exílio, da perda de Erebor e da esperança de restauração.
-
-## Relação com a Tradição Nórdica
-
-O nome de Náin II mostra como Tolkien aproveitou nomes da **Völuspá** para construir sua própria tradição anã. Embora o personagem pertença inteiramente à literatura fantástica moderna, sua base nominal remete ao universo mítico nórdico.
-
-## Significado Simbólico
-
-Náin II representa:
-
-- A Continuidade da linhagem de Durin em tempos de crise
-- O Peso da liderança anã durante o exílio
-- O Sacrifício real na Guerra dos Anões e Orcs
-- A Ligação entre os nomes da tradição éddica e a mitologia literária de Tolkien
-
-Dentro de um glossário ampliado sobre anões, Náin II ocupa um lugar importante como rei da tradição tolkieniana, ancestral direto de Thorin e figura central no período de guerra e dor da **Casa de Durin**.`,
-},
-{
-  slug: "thorin-2",
-  title: "Thorin II Escudo-de-Carvalho — O Rei Anão de Erebor",
-  description: "Thorin II Escudo-de-Carvalho é um rei anão da Terra-média de J. R. R. Tolkien e personagem central de O Hobbit. Embora não pertença à mitologia nórdica, seu nome e sua linhagem foram inspirados diretamente nos anões da Völuspá, conectando a tradição éddica à fantasia moderna.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/thorin-2.png",
-  tags: ["thorin-2", "thorin ii", "oakenshield", "escudo-de-carvalho", "tolkien", "o hobbit", "erebor", "casa de durin", "smaug", "terra-média"],
-  content: `## O Rei Anão da Montanha Solitária
-
-**Thorin II Escudo-de-Carvalho** (**Thorin II Oakenshield**) é um rei anão da **Terra-média**, universo criado por **J. R. R. Tolkien**, e uma das figuras centrais de **O Hobbit**. Ele é filho de **Thráin II** e herdeiro da antiga **Casa de Durin**, uma das linhagens mais nobres entre os anões.
-
-Embora não pertença à mitologia nórdica, Thorin faz parte de uma tradição literária profundamente inspirada pelos nomes da **Völuspá**, especialmente figuras como **Þorinn**, **Durinn** e outros anões do catálogo éddico.
-
-## Quem é Thorin II
-
-Após o dragão **Smaug** destruir o reino anão de **Erebor**, Thorin e seu povo passam a viver no exílio. Como herdeiro do trono perdido, ele carrega não apenas a memória de um reino destruído, mas também a responsabilidade de restaurá-lo.
-
-É esse desejo que move a grande expedição narrada em **O Hobbit**: a jornada para reconquistar a **Montanha Solitária** e recuperar o legado da Casa de Durin.
-
-## O Líder da Companhia dos Anões
-
-Durante a narrativa, Thorin lidera a **Companhia dos Anões** com traços marcantes que definem sua presença:
-
-- **Autoridade real**
-- **Orgulho ancestral**
-- **Desejo de restaurar o reino**
-- **Forte senso de honra e herança**
-
-Essas qualidades fazem dele um líder poderoso, mas também complexo, pois sua grandeza está sempre acompanhada do peso da memória, da responsabilidade dinástica e da pressão pela reconquista.
-
-## Erebor, Ouro e Corrupção
-
-Ao longo da história, Thorin enfrenta não apenas inimigos externos, mas também a influência destrutiva do tesouro de Erebor. Nesse ponto, sua trajetória ecoa temas muito presentes na tradição nórdica: o **ouro amaldiçoado**, a cobiça e a corrupção provocada pela riqueza acumulada.
-
-Esse paralelo aproxima Thorin de motivos míticos como os de **Andvari** e **Fáfnir**, em que o ouro não representa apenas prosperidade, mas também obsessão, ruína moral e conflito.
-
-## A Casa de Durin e a Herança Épica
-
-Thorin é um personagem profundamente ligado à ideia de **linhagem**, **memória** e **restauração**. Ele não busca apenas riqueza, mas a devolução de um lar, de uma coroa e de uma dignidade ancestral. Por isso, sua história combina heroísmo, tragédia e orgulho de forma muito intensa.
-
-## Significado Simbólico
-
-Thorin II representa:
-
-- **A Realeza anã em exílio**
-- **A Busca pela restauração de Erebor**
-- **O Orgulho ancestral da Casa de Durin**
-- **O Perigo da corrupção pela riqueza**
-- **A Ponte entre os anões da Völuspá e a fantasia de Tolkien**
-
-Dentro de um glossário ampliado sobre anões, Thorin II ocupa um lugar central como o grande rei anão da obra de Tolkien, herdeiro de uma tradição literária que transforma ecos da mitologia nórdica em uma das narrativas mais marcantes da fantasia moderna.`,
-},
 {
   slug: "thrar",
-  title: "Þrár — O Anão da Obstinação Primordial",
-  description: "Þrár (Thrar) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome está ligado à ideia de obstinação, persistência e força de vontade, simbolizando uma das qualidades mais duras e fundamentais do povo anão na tradição nórdica.",
+  title: "Þrár — Um Nome no Catálogo dos Anões",
+  description: "Þrár no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/thrar.png",
-  tags: ["thrar", "þrár", "anão", "anoes", "völuspá", "edda poetica", "obstinacao", "persistencia", "forca de vontade", "mitologia nordica"],
-  content: `## O Anão da Persistência Inflexível
+  tags: ["thrar","Þrár","anões","edda em prosa","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Þrár** (frequentemente anglicizado como **Thrar**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como muitos nomes dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **valor simbólico de seu nome**.
+**Þrár** consta de **Völuspá, estrofe 12, na edição em nórdico antigo de Guðni Jónsson**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Þrár no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá formam a genealogia do povo subterrâneo, representando diferentes dimensões da cultura e da existência anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas comunitárias
-- **Qualidades da matéria**
-- **Forças internas** e disposições de caráter
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Þrár** pertence ao grupo de anões cujos nomes expressam **qualidades internas fundamentais**, especialmente a persistência e a obstinação.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Þrár** está associado à ideia de alguém **obstinado**, **teimoso** ou movido por uma vontade difícil de dobrar. Em termos simbólicos, isso combina profundamente com o imaginário anão: seres ligados à pedra, à resistência, ao trabalho paciente e à permanência diante da pressão.
+## Fonte
 
-Þrár representa a força de continuar mesmo quando o caminho é duro, escuro ou lento.
-
-## Obstinação e Cultura Anã
-
-Na tradição nórdica, os anões não são definidos apenas por habilidade técnica, mas também por sua capacidade de suportar ambientes hostis, guardar segredos antigos e trabalhar por longos períodos até alcançar a forma perfeita.
-
-Nesse sentido, Þrár simboliza:
-
-- **Persistência diante da dificuldade**
-- **Firmeza de propósito**
-- **Resistência mental e moral**
-- **A vontade que não cede facilmente**
-
-Essa obstinação pode ser vista como virtude, mas também como uma força severa, quase mineral, que se recusa a mudar de curso.
-
-## Relação com Nomes Tolkienianos
-
-É importante distinguir **Þrár**, figura da mitologia nórdica, de nomes como **Thráin I** e **Thráin II**, personagens da obra de **J. R. R. Tolkien**. Tolkien adaptou diversos nomes da tradição éddica, e nomes como **Þrár** e **Þráinn** ajudaram a inspirar sua nomenclatura anã.
-
-Assim:
-
-- **Þrár / Þráinn** pertencem à tradição nórdica
-- **Thráin I / II** pertencem ao universo de Tolkien
-
-## Significado Simbólico
-
-Þrár representa:
-
-- **A Obstinação como força primordial**
-- **A Persistência silenciosa do povo anão**
-- **A Vontade firme diante da dureza do mundo**
-- **O Caráter inflexível associado à pedra e ao subterrâneo**
-
-Dentro do catálogo da Völuspá, Þrár reforça a ideia de que os anões não são apenas artesãos da matéria, mas também encarnações de qualidades internas profundas, entre elas a capacidade de resistir, insistir e permanecer.`,
+- [Völuspá, estrofe 12, na edição em nórdico antigo de Guðni Jónsson](https://heimskringla.no/wiki/V%C3%B6lusp%C3%A1), edição de Guðni Jónsson, texto em nórdico antigo. Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
-{
-  slug: "fili",
-  title: "Fíli — O Príncipe Anão da Companhia de Thorin",
-  description: "Fíli é um anão da Terra-média de J. R. R. Tolkien, membro da Companhia de Thorin em O Hobbit e sobrinho de Thorin II Escudo-de-Carvalho. Ele pertence à Casa de Durin e representa a geração jovem da linhagem real anã que participa da expedição para reconquistar Erebor.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/fili.png",
-  tags: ["fili", "fíli", "tolkien", "anão", "terra-média", "o hobbit", "companhia de thorin", "casa de durin", "erebor", "batalha dos cinco exércitos"],
-  content: `## O Jovem Príncipe da Casa de Durin
 
-**Fíli** é um anão da **Terra-média**, universo criado por **J. R. R. Tolkien**, e um dos membros da **Companhia de Thorin** na jornada narrada em **O Hobbit**. Ele é sobrinho de **Thorin II Escudo-de-Carvalho** e pertence à antiga e nobre **Casa de Durin**.
-
-Fíli representa a geração mais jovem da linhagem real anã que participa da expedição para reconquistar **Erebor**, a Montanha Solitária.
-
-## Quem é Fíli
-
-Fíli é filho de **Dís**, irmã de Thorin, o que faz dele e de seu irmão **Kíli** os únicos membros da companhia que pertencem diretamente à linhagem real de Durin além do próprio Thorin.
-
-Entre os anões da expedição, Fíli se destaca por sua juventude, agilidade e capacidade de agir rapidamente em momentos de necessidade.
-
-## Fíli na Companhia de Thorin
-
-Durante a jornada para Erebor, Fíli desempenha diversas funções importantes dentro do grupo. Como um dos anões mais jovens, ele frequentemente atua em tarefas que exigem mobilidade e atenção.
-
-Entre suas qualidades destacam-se:
-
-- **Lealdade absoluta a Thorin**
-- **Coragem em situações perigosas**
-- **Disposição para proteger a companhia**
-- **Espírito aventureiro típico da juventude**
-
-Sua presença ajuda a equilibrar a companhia, trazendo energia e dinamismo ao grupo.
-
-## A Batalha dos Cinco Exércitos
-
-O destino de Fíli está ligado ao momento final da jornada. Durante a **Batalha dos Cinco Exércitos**, ele luta ao lado de Thorin e dos anões para defender Erebor.
-
-Na batalha, **Fíli morre defendendo seu tio**, demonstrando lealdade até o fim. Sua morte reforça o caráter trágico da vitória final, mostrando que a reconquista do reino tem um custo profundo para a Casa de Durin.
-
-## Relação com a Tradição Nórdica
-
-Assim como muitos nomes usados por Tolkien, **Fíli** deriva diretamente do catálogo de anões da **Völuspá**, na **Edda Poética**. Tolkien utilizou esses nomes antigos como base para construir sua própria mitologia literária.
-
-Assim, Fíli representa um elo entre:
-
-- A tradição éddica da mitologia nórdica
-- A fantasia moderna da Terra-média
-
-## Significado Simbólico
-
-Fíli representa:
-
-- A Juventude da linhagem de Durin
-- A Lealdade familiar dentro da Casa de Durin
-- O Espírito aventureiro dos anões jovens
-- O Sacrifício na reconquista de Erebor
-
-Dentro de um glossário ampliado sobre anões, Fíli simboliza a geração que luta para restaurar o passado perdido de seu povo, carregando honra, coragem e fidelidade até o fim.`,
-},
 {
   slug: "kili",
-  title: "Kíli — O Anão das Fendas e Passagens da Pedra",
-  description: "Kíli (Kili) é um anão listado na Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome é interpretado de forma simbólica como ligado a fendas, aberturas e passagens da pedra, representando aspectos físicos e ocultos do mundo subterrâneo.",
+  title: "Kíli — Um Nome no Catálogo dos Anões",
+  description: "Kíli no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/kili.png",
-  tags: ["kili", "kíli", "anão", "anoes", "völuspá", "edda poetica", "fendas", "passagens", "pedra", "subterraneo", "mitologia nordica"],
-  content: `## O Anão das Aberturas da Rocha
+  tags: ["kili","Kíli","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Kíli** (frequentemente anglicizado como **Kili**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos anões dessa lista, ele não possui narrativa preservada e é conhecido principalmente pelo **valor simbólico de seu nome** e por sua posição dentro da genealogia anã.
+**Kíli** consta de **Völuspá, estrofe 13 (Kili na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Kíli no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem a genealogia do povo subterrâneo, representando diferentes dimensões do mundo profundo, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas do subsolo
-- **Qualidades da matéria**
-- **Aspectos do mundo subterrâneo**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Kíli** pertence ao grupo estrutural de anões que expressam **características físicas e simbólicas da terra profunda**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Kíli** pode ser lido simbolicamente como ligado a **fendas, rachaduras, aberturas e passagens na pedra**. Isso o aproxima de uma dimensão essencial do universo anão: o interior da rocha não é um bloco fechado, mas um espaço cheio de veios, túneis, cortes naturais e caminhos ocultos.
+## Fonte
 
-Kíli simboliza justamente essa condição da terra que se abre, se divide e permite acesso ao que está escondido.
-
-## Fendas e Passagens no Mundo Subterrâneo
-
-Na lógica mítica dos anões, as profundezas não são apenas massa mineral compacta. Elas são feitas também de:
-
-- **Túneis naturais**
-- **Fissuras na rocha**
-- **Aberturas por onde correm águas e vapores**
-- **Caminhos ocultos para minério, oficinas e moradas**
-
-Kíli representa essas aberturas estruturais do subsolo, os pontos em que a pedra deixa de ser barreira e se torna passagem.
-
-## O Papel Simbólico das Aberturas
-
-As fendas da terra possuem valor ambíguo: podem ser fragilidade, mas também acesso; podem ser ruptura, mas também descoberta. No imaginário anão, abrir caminho pela rocha é condição para habitar, minerar e compreender o subterrâneo.
-
-Kíli, assim, simboliza:
-
-- **O Espaço que permite travessia**
-- **A Fissura que revela o interior da terra**
-- **A Passagem entre o oculto e o acessível**
-- **A Estrutura subterrânea como rede viva de caminhos**
-
-## Significado Simbólico
-
-Kíli representa:
-
-- **As Fendas e passagens da pedra**
-- **Os Caminhos ocultos do mundo subterrâneo**
-- **A Abertura da matéria para exploração e descoberta**
-- **A Ligação entre profundidade, acesso e estrutura mineral**
-
-Dentro do catálogo da Völuspá, Kíli reforça que o mundo anão não é apenas feito de matéria sólida, mas também de **aberturas, corredores e espaços escondidos**, sem os quais a vida subterrânea não existiria.`,
+- [Völuspá, estrofe 13 (Kili na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "dvalinn",
-  title: "Dvalinn — O Ancestral Anão e Mestre das Runas",
-  description: "Dvalinn (Dwalin) é um dos anões mais importantes da mitologia nórdica, citado na Völuspá e em outras tradições eddicas. Considerado ancestral de clãs anões, sábio primordial, transmissor de runas e artesão mítico, ele ocupa um lugar central na memória e na cultura do povo anão.",
+  title: "Dvalinn — O Anão nas Tradições Éddicas",
+  description: "Dvalinn — O Anão nas Tradições Éddicas: passagens das Eddas, diferenças entre relatos e limites da identificação.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/dvalinn.png",
-  tags: ["dvalinn", "dwalin", "anão", "anoes", "völuspá", "edda poetica", "hávamál", "runas", "brísingamen", "mitologia nordica"],
-  content: `## O Grande Ancestral dos Anões
+  tags: ["dvalinn","anões","eddas","fontes medievais"],
+  content: `## O que Dizem os Textos
 
-**Dvalinn** (frequentemente anglicizado como **Dwalin**) é um dos anões mais importantes da **mitologia nórdica**. Seu nome aparece no catálogo da **Völuspá**, na **Edda Poética**, e também em outras tradições eddicas, sempre associado a uma posição de destaque entre o povo anão.
+Dvalinn aparece no catálogo de Völuspá, estrofes 11 e 14. A segunda passagem introduz uma lista ligada ao seu grupo. Em Hávamál, estrofe 144 na edição de Bellows, seu nome é associado às runas entre os anões. Fáfnismál, estrofe 13, fala em Nornas descendentes de Dvalinn. São contextos distintos, que não devem ser ampliados para uma biografia completa de mestre de todas as artes.
 
-Dvalinn é frequentemente visto como **patriarca**, **sábio rúnico**, **ancestral de clãs** e **artesão mítico**, ocupando um papel comparável ao de uma figura fundadora dentro da cultura anã.
+Não se deve confundir automaticamente esse anão com o cervo homônimo de Grímnismál. A associação com a fabricação de Brísingamen pertence a outra tradição textual e não é narrada nessas passagens das Eddas.
 
-## Dvalinn no Contexto Mítico
+## Limites da Leitura
 
-Dvalinn pertence à **primeira geração de anões**, formada a partir da matéria primordial do mundo. Nas tradições nórdicas, ele aparece como uma figura estrutural e ancestral, ligada a funções centrais do universo anão, como:
+Este verbete diferencia o relato medieval das interpretações posteriores. As ilustrações são criações modernas, e o significado de um nome não comprova por si só poderes, rituais ou características pessoais.
 
-- **Ancestral de clãs anões**
-- **Sábio primordial**
-- **Transmissor de runas**
-- **Artesão mítico**
+## Fontes
 
-Dentro do catálogo e das tradições poéticas, seu nome não representa apenas um indivíduo, mas uma referência de origem, sabedoria e continuidade cultural.
-
-## Dvalinn e as Runas
-
-Um dos aspectos mais importantes de Dvalinn aparece no **Hávamál**, onde se afirma que:
-
-- **Dvalinn ensinou as runas aos anões**
-
-Esse detalhe lhe dá uma posição única no imaginário nórdico. Se **Odin** está ligado à conquista e à revelação das runas no âmbito divino, **Dvalinn** ocupa papel equivalente no mundo anão, como aquele que transmite esse conhecimento ao seu povo.
-
-Assim, Dvalinn representa não só a sabedoria técnica da forja, mas também a **sabedoria simbólica e mágica das runas**, ligando linguagem, poder e tradição.
-
-## Artesão Mítico e Brísingamen
-
-Dvalinn também é associado à tradição artesanal dos anões e, em algumas narrativas, à criação do colar **Brísingamen**, famoso artefato ligado à deusa **Freyja**, ao lado de outros anões artesãos.
-
-Essa associação reforça sua dupla natureza:
-
-- **Mestre do conhecimento oculto**
-- **Criador de objetos preciosos e míticos**
-
-Ele une, assim, dois pilares fundamentais do imaginário anão: **sabedoria** e **ofício**.
-
-## Dvalinn como Figura Fundadora
-
-Diferente de muitos nomes da Völuspá que permanecem mais enigmáticos, Dvalinn atravessa diferentes tradições com uma presença mais forte e reconhecível. Ele pode ser entendido como uma figura de referência para os anões, alguém que organiza, transmite e preserva aquilo que define esse povo.
-
-## Significado Simbólico
-
-Dvalinn representa:
-
-- **A Ancestralidade do povo anão**
-- **A Sabedoria primordial ligada às runas**
-- **A Transmissão de conhecimento entre gerações**
-- **A União entre magia, linguagem e artesanato**
-- **O Papel fundador de um patriarca mítico**
-
-Dentro do glossário dos anões, Dvalinn ocupa um lugar central como uma das figuras mais importantes da tradição nórdica, não apenas como nome ancestral, mas como **mestre das runas e guardião da memória cultural dos anões**.`,
+[Völuspá, 11 e 14](https://sacred-texts.com/book/the-poetic-edda/voluspo); [Hávamál, 144](https://sacred-texts.com/book/the-poetic-edda/hovamol); [Fáfnismál, 13](https://sacred-texts.com/book/the-poetic-edda/fafnismol), Bellows (1923).`,
 },
-{
-  slug: "balinn",
-  title: "Balinn — O Anão do Poder Firme e da Presença Antiga",
-  description: "Balinn (Balin) é um anão listado no catálogo da Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Seu nome é compreendido de forma simbólica como ligado à firmeza, à solidez e a uma presença antiga, representando aspectos fundamentais do poder mineral e da estabilidade do mundo subterrâneo.",
-  category: "criaturas",
-  section: "glossario",
-  subcategory: "anoes",
-  date: "2026-03-05",
-  cover: "/images/glossario/criaturas/anoes/balinn.png",
-  tags: ["balinn", "balin", "anão", "anoes", "völuspá", "edda poetica", "solidez", "poder mineral", "terra antiga", "mitologia nordica"],
-  content: `## O Anão da Solidez Primordial
 
-**Balinn** (frequentemente anglicizado como **Balin**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos anões dessa lista, ele não possui uma narrativa própria preservada e é conhecido principalmente pelo **significado simbólico de seu nome** e por sua posição dentro da genealogia do povo anão.
-
-## Quem é Balinn no Contexto Mítico
-
-Os anões da Völuspá formam a genealogia do povo subterrâneo, representando diferentes dimensões da existência anã, como:
-
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas do subsolo
-- **Qualidades arquetípicas**
-- **Forças da terra**
-
-Dentro dessa estrutura, **Balinn** pertence ao grupo estrutural de anões que expressam **aspectos fundamentais da solidez e do poder mineral**.
-
-## O Significado do Nome
-
-O nome **Balinn** pode ser interpretado simbolicamente como ligado à **firmeza**, à **presença estável** e a uma força que não depende de movimento, mas de permanência. Em vez de sugerir transformação ou processo, Balinn remete ao que já está consolidado, ao que sustenta, resiste e permanece.
-
-No imaginário anão, isso o aproxima das camadas mais antigas e confiáveis da terra, da rocha que não cede facilmente e da estrutura mineral que serve de base para tudo o que será escavado, moldado ou construído.
-
-## Poder e Antiguidade no Mundo Subterrâneo
-
-A cultura anã, na tradição nórdica, está profundamente ligada à ideia de permanência. Os anões trabalham no interior da terra, lidando com materiais que atravessam eras e carregam a memória do mundo. Balinn simboliza essa dimensão antiga do subsolo, a força que não brilha necessariamente como o metal polido, mas que torna possível toda a existência subterrânea.
-
-Ele representa:
-
-- **A Solidez das estruturas profundas**
-- **A Presença antiga da terra mineral**
-- **A Estabilidade que sustenta oficinas, túneis e moradas**
-- **O Poder silencioso da matéria consolidada**
-
-## Balinn e a Força Arquetípica da Pedra
-
-Enquanto alguns anões da Völuspá simbolizam funções específicas, processos técnicos ou papéis sociais, Balinn parece pertencer ao grupo de nomes mais arquetípicos, aqueles que expressam qualidades fundamentais da própria matéria. Sua força não é a do impacto, mas a da duração, da densidade e da estabilidade.
-
-## Significado Simbólico
-
-Balinn representa:
-
-- **A Firmeza que sustenta o mundo subterrâneo**
-- **A Solidez primordial da pedra e da terra**
-- **A Presença antiga que atravessa o tempo**
-- **O Poder mineral que existe antes da forja e além dela**
-
-Dentro do catálogo da Völuspá, Balinn reforça a ideia de que o povo anão não é apenas técnico ou artesanal, mas também profundamente ligado às qualidades mais antigas e permanentes da terra, aquelas que sustentam o subterrâneo em sua forma mais estável e poderosa.`,
-},
 {
   slug: "oin",
-  title: "Óinn — O Anão do Calor da Pedra",
-  description: "Óinn (Oin) é um anão listado no catálogo da Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Assim como Glóinn, ele não possui narrativa preservada, sendo conhecido principalmente pelo valor simbólico de seu nome e sua posição genealógica entre os anões.",
+  title: "Óinn — Um Nome no Catálogo dos Anões",
+  description: "Óinn no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/oin.png",
-  tags: ["oin", "óinn", "anão", "anoes", "völuspá", "edda poetica", "calor da pedra", "metal", "subterraneo", "mitologia nordica"],
-  content: `## O Anão do Calor Interior da Terra
+  tags: ["oin","Óinn","anões","edda em prosa","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Óinn** (frequentemente anglicizado como **Oin**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como **Glóinn**, ele não possui uma narrativa preservada, sendo conhecido principalmente pelo **valor simbólico de seu nome** e por sua posição dentro da genealogia do povo anão.
+**Óinn** consta de **Gylfaginning, capítulo 14**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Óinn no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá representam a diversidade e a estrutura do povo subterrâneo. Seus nomes frequentemente evocam diferentes dimensões do mundo profundo, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas  
-- **Casas** e grupos do povo anão  
-- **Qualidades fundamentais da matéria**  
-- **Aspectos naturais do mundo subterrâneo**
+## Como Ler o Catálogo
 
-Dentro dessa genealogia, **Óinn** aparece na mesma sequência que **Glóinn**, sugerindo uma **afinidade simbólica entre os dois nomes**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Óinn e Glóinn
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A proximidade entre **Óinn** e **Glóinn** no catálogo da Völuspá é frequentemente interpretada de forma simbólica. Enquanto Glóinn remete à ideia de **brilho**, **luz** ou **incandescência**, Óinn pode representar o **calor interior da pedra** — a energia subterrânea que torna possível a transformação da matéria.
+## Fonte
 
-Juntos, os dois nomes evocam elementos fundamentais do mundo anão:
-
-- **Luz e brilho do metal**
-- **Calor das profundezas da terra**
-- **Energia da forja**
-- **Transformação da matéria mineral**
-
-## O Subterrâneo como Fornalha Natural
-
-Na imaginação mítica nórdica, o interior da terra é um espaço de calor, pressão e transformação. Rochas se partem, metais se formam e veios minerais crescem lentamente ao longo das eras.
-
-Óinn simboliza esse **calor silencioso do subsolo**, a energia contida na matéria antes de ser revelada pela mineração e pela forja dos anões.
-
-## Significado Simbólico
-
-Óinn representa:
-
-- **O Calor oculto da terra**
-- **A Energia mineral das profundezas**
-- **A Afinidade entre fogo subterrâneo e metal**
-- **A Força que prepara a matéria para a transformação**
-
-Dentro do catálogo da Völuspá, Óinn reforça a ideia de que o mundo anão não é apenas pedra e metal, mas também **energia, calor e transformação natural**, forças invisíveis que moldam o interior da terra.`,
+- [Gylfaginning, capítulo 14](https://sacred-texts.com/book/the-prose-edda/gylfaginning), tradução de Arthur Gilchrist Brodeur (1916). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "gloin",
-  title: "Glóinn — O Anão do Brilho da Matéria",
-  description: "Glóinn (Gloin) é um anão listado no catálogo da Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Como a maioria dos anões dessa lista, não possui narrativa própria preservada, sendo conhecido principalmente pelo significado simbólico de seu nome, associado ao brilho, à luz e à incandescência da matéria subterrânea.",
+  title: "Glóinn — Um Nome no Catálogo dos Anões",
+  description: "Glóinn no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/gloin.png",
-  tags: ["gloin", "glóinn", "anão", "anoes", "völuspá", "edda poetica", "brilho", "luz", "metal", "subterraneo", "mitologia nordica"],
-  content: `## O Anão do Brilho Interior da Terra
+  tags: ["gloin","Glóinn","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Glóinn** (frequentemente anglicizado como **Gloin**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como a maioria dos anões dessa lista, ele não possui narrativa própria preservada, sendo conhecido principalmente pelo **significado simbólico de seu nome**.
+**Glóinn** consta de **Völuspá, estrofe 15 (Gloin na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Glóinn no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem a genealogia do povo subterrâneo, representando diferentes dimensões da existência anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas do subsolo
-- **Qualidades arquetípicas**
-- **Forças da terra**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Glóinn** pertence ao grupo de anões que expressam **aspectos fundamentais da matéria e do mundo subterrâneo**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## O Significado do Nome
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-O nome **Glóinn** está associado, em leitura simbólica, à ideia de **brilho**, **luminosidade** ou **incandescência**. Isso o conecta diretamente ao imaginário do metal aquecido, da rocha que reluz, do minério valioso escondido nas profundezas e da luz que surge do interior escuro da terra.
+## Fonte
 
-No universo simbólico dos anões, Glóinn representa aquilo que **brilha dentro da matéria**, mesmo antes de ser totalmente revelado pela mineração ou pela forja.
-
-## Brilho e Subterrâneo
-
-O mundo anão não é apenas feito de escuridão, pedra bruta e peso mineral. Ele também é um reino de:
-
-- **Veios metálicos reluzentes**
-- **Pedras e cristais que refletem luz**
-- **Calor subterrâneo que torna a matéria incandescente**
-- **Tesouros ocultos que brilham no interior da terra**
-
-Glóinn simboliza essa dimensão luminosa do subsolo, a presença do brilho no coração da escuridão mineral.
-
-## Glóinn e a Matéria Transformada
-
-O brilho tem, na cultura anã, um valor ambíguo e poderoso. Ele pode representar riqueza, beleza e descoberta, mas também a promessa de transformação: aquilo que reluz costuma ser o que será extraído, moldado e convertido em artefato.
-
-Por isso, Glóinn também pode ser entendido como símbolo do instante em que a matéria deixa de ser apenas rocha e começa a revelar seu valor oculto.
-
-## Significado Simbólico
-
-Glóinn representa:
-
-- **O Brilho escondido nas profundezas**
-- **A Luz mineral da terra**
-- **A Incandescência da matéria subterrânea**
-- **O Valor oculto que a pedra guarda em seu interior**
-
-Dentro do catálogo da Völuspá, Glóinn reforça a ideia de que o povo anão está ligado não apenas à dureza da pedra, mas também ao **brilho secreto do mundo subterrâneo**, onde metal, fogo e luz nascem do coração da terra.`,
+- [Völuspá, estrofe 15 (Gloin na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "dori",
-  title: "Dóri — O Anão da Linhagem Primordial",
-  description: "Dóri (Dori) é um anão listado no catálogo da Völuspá, na Edda Poética, geralmente mencionado ao lado de Óri e Nóri. Como a maioria dos nomes dessa lista, não possui narrativa própria preservada, sendo conhecido principalmente como membro das linhagens anãs primordiais e símbolo da diversidade ancestral do povo subterrâneo.",
+  title: "Dóri — Um Nome no Catálogo dos Anões",
+  description: "Dóri no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/dori.png",
-  tags: ["dori", "dóri", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Genealogia Ancestral
+  tags: ["dori","Dóri","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Dóri** (frequentemente anglicizado como **Dori**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Ele é geralmente mencionado junto de **Óri** e **Nóri**, formando uma pequena sequência de nomes que reforça a ideia de organização e diversidade dentro do povo anão.
+**Dóri** consta de **Völuspá, estrofe 15 (Dori na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-Como a maioria dos nomes dessa lista, Dóri não possui uma narrativa própria preservada, sendo conhecido principalmente por sua presença na genealogia simbólica dos anões.
+## O que a Fonte Conta
 
-## Quem é Dóri no Contexto Mítico
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-Os anões da Völuspá formam a genealogia simbólica do povo subterrâneo, representando diferentes dimensões da cultura anã, como:
+## Como Ler o Catálogo
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas comunitárias
-- **Qualidades arquetípicas**
-- **Diversidade ancestral**
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa estrutura, **Dóri** pertence ao grupo de anões que expressam a **multiplicidade e a organização do povo anão primordial**.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## Dóri, Óri e Nóri
+## Fonte
 
-A recorrente associação entre **Dóri**, **Óri** e **Nóri** sugere que esses nomes podem ser compreendidos em conjunto, como parte de uma mesma lógica genealógica ou estrutural. Em vez de representarem personagens isolados com histórias individuais, eles parecem funcionar como nomes que ajudam a compor a rede ancestral do mundo anão.
-
-Essa proximidade reforça a ideia de que o catálogo da Völuspá não é apenas uma lista de indivíduos, mas também um mapa simbólico da formação de clãs, grupos e identidades subterrâneas.
-
-## O Papel da Multiplicidade na Cultura Anã
-
-A presença de nomes como Dóri mostra que a mitologia nórdica entende o povo anão como uma coletividade complexa, formada por muitas linhagens e expressões diferentes. O valor desses nomes está justamente em indicar que o mundo subterrâneo possui profundidade social e ancestral, não sendo reduzido a poucos indivíduos famosos.
-
-Dóri simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Organização interna do povo subterrâneo**
-- **A Diversidade de casas e clãs**
-- **A Memória ancestral preservada em nome**
-
-## Significado Simbólico
-
-Dóri representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Multiplicidade ancestral das casas subterrâneas**
-- **A Estrutura genealógica da cultura anã**
-- **A Presença de um nome que ajuda a compor a identidade coletiva dos anões**
-
-Dentro do catálogo da Völuspá, Dóri reforça a ideia de que o povo anão é definido não apenas por técnica ou matéria, mas também por sua **diversidade ancestral e organização interna**, preservadas poeticamente nos nomes que atravessaram o tempo.`,
+- [Völuspá, estrofe 15 (Dori na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "ori",
-  title: "Óri — O Anão da Linhagem Primordial",
-  description: "Óri (Ori) é um anão listado no catálogo da Völuspá, na Edda Poética, geralmente mencionado próximo de Nóri na sequência de nomes. Como a maioria dos anões dessa lista, ele não possui narrativa própria preservada, sendo conhecido como membro das linhagens anãs primordiais e parte da estrutura ancestral do povo subterrâneo.",
+  title: "Óri — Um Nome no Catálogo dos Anões",
+  description: "Óri no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/ori.png",
-  tags: ["ori", "óri", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Genealogia Subterrânea
+  tags: ["ori","Óri","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Óri** (frequentemente anglicizado como **Ori**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Ele é geralmente mencionado próximo de **Nóri** na sequência dos nomes, o que reforça sua inserção dentro de uma rede genealógica e simbólica do povo anão.
+**Óri** consta de **Völuspá, estrofe 15 (Ori na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-Como a maioria dos anões dessa lista, Óri não possui uma narrativa própria preservada, sendo conhecido principalmente por sua presença na tradição poética e por seu papel dentro da ancestralidade subterrânea.
+## O que a Fonte Conta
 
-## Quem é Óri no Contexto Mítico
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-Os anões da Völuspá compõem uma genealogia simbólica do povo subterrâneo, representando diferentes dimensões da cultura anã, como:
+## Como Ler o Catálogo
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas comunitárias
-- **Qualidades arquetípicas**
-- **Diversidade ancestral**
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa estrutura, **Óri** pertence ao grupo de anões que expressam a organização interna e a multiplicidade do povo anão primordial.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## Óri e Nóri na Sequência Genealógica
+## Fonte
 
-A proximidade entre **Óri** e **Nóri** no catálogo da Völuspá sugere uma relação estrutural entre os nomes, como parte de uma mesma lógica de enumeração poética. Em vez de indicarem personagens isolados com feitos individuais, esses nomes parecem ajudar a compor o mapa ancestral dos anões, preservando a memória de linhagens, agrupamentos e identidades subterrâneas.
-
-Óri, nesse sentido, é menos uma figura narrativa e mais um nome de valor genealógico e simbólico.
-
-## O Papel da Ancestralidade na Cultura Anã
-
-A presença de Óri mostra que a tradição nórdica não vê os anões apenas como artesãos ou seres subterrâneos genéricos, mas como um povo com profundidade histórica, organização interna e diversidade própria. Nomes como o de Óri ajudam a sustentar essa visão de uma coletividade antiga, estruturada e culturalmente rica.
-
-Óri simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Organização genealógica do povo subterrâneo**
-- **A Multiplicidade de casas e clãs**
-- **A Memória ancestral preservada em nome**
-
-## Significado Simbólico
-
-Óri representa:
-
-- **A Presença ancestral dentro da genealogia anã**
-- **A Estrutura coletiva do povo subterrâneo**
-- **A Continuidade poética das linhagens primordiais**
-- **O Valor dos nomes como guardiões da memória mítica**
-
-Dentro do catálogo da Völuspá, Óri reforça a ideia de que o povo anão é definido também por sua **ancestralidade, diversidade e organização interna**, preservadas na sequência de nomes que atravessou os séculos.`,
+- [Völuspá, estrofe 15 (Ori na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "nori",
-  title: "Nóri — O Anão da Linhagem Primordial",
-  description: "Nóri (Nori) é um anão listado no catálogo da Völuspá, na Edda Poética, pertencente às linhagens anãs primordiais. Como muitos nomes dessa lista, não possui narrativa própria preservada, sendo conhecido principalmente por sua posição genealógica e por seu valor simbólico dentro da ancestralidade do povo anão.",
+  title: "Nóri — Um Nome no Catálogo dos Anões",
+  description: "Nóri no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/nori.png",
-  tags: ["nori", "nóri", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Antiguidade Subterrânea
+  tags: ["nori","Nóri","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Nóri** (frequentemente anglicizado como **Nori**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Como muitos nomes dessa lista, ele não possui narrativa própria preservada, sendo conhecido principalmente por sua posição genealógica e por seu valor simbólico dentro da tradição anã.
+**Nóri** consta de **Völuspá, estrofe 11 (Nori na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Nóri no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá formam a genealogia do povo subterrâneo. Esses nomes representam diferentes dimensões da cultura e da existência anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs** e linhagens antigas
-- **Casas** e estruturas comunitárias
-- **Qualidades** simbólicas
-- **Direções ou forças naturais**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Nóri** pertence ao grupo estrutural de anões que indicam a **diversidade e a antiguidade do mundo anão primordial**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Nóri na Genealogia dos Anões
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A presença de Nóri no catálogo reforça a ideia de que o povo anão, na tradição nórdica, não é formado por figuras isoladas, mas por uma rede complexa de nomes ancestrais. Esses nomes funcionam como marcas de pertencimento, memória e organização do mundo subterrâneo.
+## Fonte
 
-Nóri aparece como parte dessa tradição de nomes que preservam a profundidade histórica e simbólica dos anões, ajudando a compor a imagem de um povo antigo, estruturado e multifacetado.
-
-## Diversidade e Estrutura no Mundo Anão
-
-A genealogia da Völuspá mostra que os anões representam muito mais do que artesãos subterrâneos. Eles também encarnam aspectos da própria organização do cosmos subterrâneo, incluindo suas linhagens, suas casas e suas forças fundamentais.
-
-Nesse sentido, Nóri simboliza:
-
-- **A Continuidade das linhagens ancestrais**
-- **A Preservação da memória do povo anão**
-- **A Diversidade de grupos e identidades subterrâneas**
-- **A Antiguidade silenciosa das profundezas**
-
-## Significado Simbólico
-
-Nóri representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Antiguidade do mundo subterrâneo**
-- **A Diversidade estrutural das casas e clãs**
-- **O Valor genealógico dos nomes preservados na tradição poética**
-
-Dentro do catálogo da Völuspá, Nóri reforça a ideia de que o povo anão é definido também por sua **memória ancestral, sua multiplicidade e sua organização interna**, preservadas nos nomes que sobreviveram como ecos do mundo subterrâneo primordial.`,
+- [Völuspá, estrofe 11 (Nori na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "bombur",
-  title: "Bǫmburr — O Anão da Casa Primordial",
-  description: "Bǫmburr (Bombur) é um anão listado no catálogo da Völuspá, na Edda Poética, ao lado de Bifurr e Bǫfurr. Como eles, não possui narrativa preservada, sendo conhecido principalmente como parte das linhagens anãs primordiais e da diversidade simbólica do povo subterrâneo.",
+  title: "Bǫmburr — Um Nome no Catálogo dos Anões",
+  description: "Bǫmburr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/bombur.png",
-  tags: ["bombur", "bǫmburr", "anão", "anoes", "völuspá", "edda poetica", "clã anão", "linhagem anã", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Sequência Ancestral
+  tags: ["bombur","Bǫmburr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Bǫmburr** (frequentemente anglicizado como **Bombur**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre as linhagens anãs primordiais. Ele surge ao lado de **Bifurr** e **Bǫfurr**, formando um trio de nomes que parece ter valor estrutural dentro da genealogia do povo anão.
+**Bǫmburr** consta de **Völuspá, estrofe 11 (Bombur na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-Como muitos anões dessa lista, Bǫmburr não possui narrativa própria preservada, sendo conhecido principalmente por sua posição no catálogo e por seu valor simbólico dentro da ancestralidade subterrânea.
+## O que a Fonte Conta
 
-## Quem é Bǫmburr no Contexto Mítico
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-No catálogo da Völuspá, Bombur pertence ao conjunto de anões que representam diferentes dimensões do povo subterrâneo, como:
+## Como Ler o Catálogo
 
-- **Clãs ancestrais**
-- **Casas anãs**
-- **Qualidades simbólicas**
-- **Diversidade do povo subterrâneo**
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa estrutura, **Bǫmburr** pode ser entendido como parte de uma sequência que ajuda a compor a organização interna e a multiplicidade do mundo anão primordial.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## Bifurr, Bǫfurr e Bǫmburr
+## Fonte
 
-O trio **Bifurr – Bǫfurr – Bǫmburr** aparece em sequência na Völuspá, o que sugere algum tipo de proximidade simbólica, genealógica ou pertencimento a uma mesma casa. Em listas poéticas como essa, a repetição sonora e a vizinhança entre nomes frequentemente reforçam a ideia de agrupamento.
-
-Assim, Bǫmburr pode ser lido não apenas como um nome isolado, mas como parte de uma pequena constelação de anões que preserva a memória de linhagens, parentescos ou divisões internas da sociedade anã.
-
-## O Valor dos Nomes em Sequência
-
-Na tradição da Völuspá, muitos anões não são definidos por feitos individuais, mas por seu lugar em uma genealogia simbólica. Isso significa que o valor de nomes como Bǫmburr está em mostrar que o povo anão possui profundidade histórica, variedade de casas e uma estrutura ancestral complexa.
-
-Bǫmburr simboliza:
-
-- **A Continuidade das linhagens subterrâneas**
-- **A Força das casas anãs primordiais**
-- **A Diversidade interna do povo anão**
-- **A Memória preservada em sequências poéticas de nomes**
-
-## Significado Simbólico
-
-Bǫmburr representa:
-
-- **A Presença de uma casa ou linhagem dentro do povo anão**
-- **A Diversidade ancestral do mundo subterrâneo**
-- **O Valor genealógico dos nomes preservados na Völuspá**
-- **A Estrutura coletiva que sustenta a identidade anã primordial**
-
-Dentro do catálogo da Völuspá, Bǫmburr reforça a ideia de que os anões são um povo antigo, múltiplo e organizado, cuja memória sobrevive não apenas em grandes narrativas, mas também na força poética de seus nomes ancestrais.`,
+- [Völuspá, estrofe 11 (Bombur na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "bofurr",
-  title: "Bǫfurr — O Anão da Linhagem Primordial",
-  description: "Bǫfurr (Bofur) é um anão listado no catálogo da Völuspá, na Edda Poética. Como Bifurr, seu nome aparece entre os anões primordiais e genealógicos, sem narrativa própria preservada, sendo conhecido principalmente por seu valor simbólico dentro da organização ancestral do povo subterrâneo.",
+  title: "Bǫfurr — Um Nome no Catálogo dos Anões",
+  description: "Bǫfurr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/bofurr.png",
-  tags: ["bofur", "bǫfurr", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Estrutura Ancestral
+  tags: ["bofurr","Bǫfurr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Bǫfurr** (frequentemente anglicizado como **Bofur**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre os nomes que compõem a genealogia primordial do povo anão. Como **Bifurr**, seu nome surge sem narrativa própria preservada, sendo conhecido principalmente por sua posição simbólica dentro da tradição poética.
+**Bǫfurr** consta de **Völuspá, estrofe 11 (Bofur na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Bǫfurr no Contexto Mítico
+## O que a Fonte Conta
 
-Os anões da Völuspá compõem uma genealogia simbólica do povo subterrâneo. Esses nomes representam diferentes dimensões da existência anã, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Casas**
-- **Linhagens**
-- **Clãs ancestrais**
-- **Qualidades arquetípicas**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Bǫfurr** pertence ao grupo de anões que indicam a **multiplicidade e a organização do mundo anão primordial**.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Bǫfurr e a Genealogia dos Anões
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A presença de Bǫfurr no catálogo reforça a ideia de que o povo anão, na tradição nórdica, é composto por uma rede antiga de nomes ligados à ancestralidade e à organização interna. Em vez de serem apresentados apenas como indivíduos com feitos heróicos, muitos anões da Völuspá funcionam como marcadores de casas, grupos e identidades subterrâneas.
+## Fonte
 
-Bǫfurr deve ser entendido nesse contexto, como parte de uma memória genealógica que preserva a profundidade histórica do povo anão.
-
-## O Valor Estrutural dos Nomes
-
-Nomes como o de Bǫfurr ajudam a mostrar que o mundo anão não é homogêneo. Ele é formado por muitas linhagens, agrupamentos e expressões da ancestralidade subterrânea. O catálogo da Völuspá serve justamente para transmitir essa diversidade por meio da enumeração poética.
-
-Nesse sentido, Bǫfurr simboliza:
-
-- **A Presença de uma linhagem ancestral**
-- **A Organização interna do povo anão**
-- **A Multiplicidade de casas e clãs**
-- **A Continuidade da memória subterrânea**
-
-## Relação com Outros Nomes da Sequência
-
-Bǫfurr aparece em uma sequência de nomes que inclui outros anões ligados à mesma lógica genealógica. Essa proximidade sugere pertencimento a um mesmo conjunto estrutural dentro do catálogo, reforçando a ideia de agrupamento simbólico ou de casa ancestral.
-
-## Significado Simbólico
-
-Bǫfurr representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Estrutura ancestral das casas subterrâneas**
-- **A Diversidade organizadora do mundo anão**
-- **O Valor poético dos nomes preservados na Völuspá**
-
-Dentro do catálogo da Völuspá, Bǫfurr reforça a ideia de que os anões são um povo antigo, múltiplo e organizado, cuja identidade é preservada não apenas por feitos individuais, mas também pela força simbólica de suas linhagens e de seus nomes ancestrais.`,
+- [Völuspá, estrofe 11 (Bofur na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "bifurr",
-  title: "Bifurr — O Anão da Linhagem Subterrânea",
-  description: "Bifurr (Bifur) é um anão listado no catálogo da Völuspá, na Edda Poética. Como muitos nomes dessa lista, ele não possui narrativa própria preservada, sendo conhecido principalmente como membro das linhagens anãs primordiais e parte da estrutura ancestral do povo subterrâneo.",
+  title: "Bifurr — Um Nome no Catálogo dos Anões",
+  description: "Bifurr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/bifurr.png",
-  tags: ["bifurr", "bifur", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Estrutura Ancestral
+  tags: ["bifurr","Bifurr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Bifurr** (frequentemente anglicizado como **Bifur**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre os nomes que compõem a genealogia primordial do povo anão. Como muitos nomes dessa lista, ele não possui narrativa própria preservada, sendo conhecido principalmente por sua posição dentro da tradição poética e genealógica.
+**Bifurr** consta de **Völuspá, estrofe 11 (Bifur na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Bifurr no Contexto Mítico
+## O que a Fonte Conta
 
-No grande catálogo da Völuspá aparecem dezenas de anões que representam diferentes dimensões do mundo subterrâneo, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Clãs**
-- **Ancestrais**
-- **Casas**
-- **Linhagens subterrâneas**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Bifurr** pertence ao grupo genealógico de anões cuja função é **estrutural dentro da cosmologia anã**, indicando a multiplicidade e a antiguidade do povo subterrâneo.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Bifurr e a Genealogia dos Anões
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A presença de Bifurr no catálogo reforça a ideia de que a mitologia nórdica compreende os anões não apenas como artesãos isolados, mas como um povo antigo, diversificado e organizado em linhagens. Muitos nomes da Völuspá cumprem justamente esse papel: preservar poeticamente a memória de casas, grupos e ancestrais subterrâneos.
+## Fonte
 
-Bifurr deve ser entendido nesse contexto, como parte da malha ancestral que sustenta a identidade coletiva do povo anão.
-
-## O Valor Estrutural dos Nomes
-
-Mesmo sem um mito individual preservado, nomes como Bifurr são importantes porque mostram que o mundo anão possui profundidade histórica. Eles ajudam a compor um retrato mais amplo de uma sociedade subterrânea formada por muitas origens, muitos agrupamentos e muitas continuidades.
-
-Nesse sentido, Bifurr simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Antiguidade do povo subterrâneo**
-- **A Organização genealógica das casas profundas**
-- **A Memória coletiva preservada em nome**
-
-## Bifurr na Tradição Poética
-
-Dentro da Völuspá, a enumeração dos anões não funciona apenas como lista de personagens, mas como um mapa simbólico da formação do povo anão. Bifurr ocupa seu lugar nesse mapa como um nome que reforça a pluralidade da ancestralidade subterrânea.
-
-## Significado Simbólico
-
-Bifurr representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Estrutura ancestral das casas subterrâneas**
-- **A Multiplicidade do mundo anão antigo**
-- **O Valor poético dos nomes preservados na Völuspá**
-
-Dentro do catálogo da Völuspá, Bifurr reforça a ideia de que os anões são um povo múltiplo, ancestral e profundamente enraizado no mundo subterrâneo, cuja memória sobrevive nos nomes que a poesia antiga preservou.`,
+- [Völuspá, estrofe 11 (Bifur na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "thrair",
-  title: "Þráinn — O Anão da Linhagem Primordial",
-  description: "Þráinn (Thrain) é um anão listado no catálogo da Völuspá, na Edda Poética. Como muitos nomes dessa lista, não possui narrativa própria preservada, sendo conhecido principalmente como membro das linhagens anãs primordiais e parte da estrutura ancestral do povo subterrâneo.",
+  title: "Þráinn — Um Nome no Catálogo dos Anões",
+  description: "Þráinn no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/thrair.png",
-  tags: ["thrair", "þráinn", "thrain", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Estrutura Ancestral
+  tags: ["thrair","Þráinn","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Þráinn** (frequentemente anglicizado como **Thrain**) aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre os nomes que compõem a genealogia primordial do povo anão. Como muitos nomes dessa lista, ele não possui narrativa própria preservada, sendo conhecido principalmente por sua presença na tradição poética e por seu valor simbólico.
+**Þráinn** consta de **Völuspá, estrofe 12 (Thrain na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Þráinn no Contexto Mítico
+## O que a Fonte Conta
 
-Os catálogos da Völuspá registram anões que representam diferentes dimensões do mundo subterrâneo, como:
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-- **Ancestrais**
-- **Clãs**
-- **Casas**
-- **Qualidades arquetípicas**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Þráinn** pertence ao grupo estrutural de anões cujo significado está principalmente no **nome e na simbologia associada**, mais do que em narrativas individuais.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Þráinn na Genealogia dos Anões
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A presença de Þráinn no catálogo reforça a ideia de que a mitologia nórdica preserva a memória do povo anão por meio de uma genealogia extensa e simbólica. Esses nomes funcionam como marcas de ancestralidade, indicando a existência de diferentes linhagens e grupos dentro do mundo subterrâneo.
+## Fonte
 
-Þráinn deve ser compreendido como parte dessa rede de nomes que ajudam a compor a identidade coletiva dos anões.
-
-## O Valor Simbólico do Nome
-
-Na tradição da Völuspá, muitos anões não são conhecidos por feitos individuais, mas pelo valor simbólico de seus nomes. Esses nomes carregam ecos de qualidades, funções ou identidades associadas ao mundo subterrâneo.
-
-Assim, Þráinn simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Antiguidade do povo subterrâneo**
-- **A Estrutura ancestral das casas e clãs**
-- **A Memória preservada na tradição poética**
-
-## Significado Simbólico
-
-Þráinn representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Estrutura genealógica do mundo subterrâneo**
-- **A Diversidade ancestral das casas anãs**
-- **O Valor simbólico dos nomes preservados na Völuspá**
-
-Dentro do catálogo da Völuspá, Þráinn reforça a ideia de que os anões são um povo antigo e múltiplo, cuja história e identidade sobrevivem não apenas em grandes mitos, mas também na força simbólica de seus nomes ancestrais.`,
+- [Völuspá, estrofe 12 (Thrain na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "reginn",
@@ -3330,7 +2324,9 @@ Ao provar o sangue de Fáfnir, Sigurd passa a compreender a fala dos pássaros. 
 
 Percebendo a traição iminente, **Sigurd mata Reginn**, encerrando assim a linhagem direta do clã de Hreiðmarr e completando mais uma etapa da tragédia ligada ao ouro amaldiçoado.
 
-## Reginn como Figura Simbólica
+## Interpretação editorial: Reginn como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Reginn é uma personagem complexa porque reúne grandeza técnica e fraqueza moral. Ele representa:
 
@@ -3341,7 +2337,9 @@ Reginn é uma personagem complexa porque reúne grandeza técnica e fraqueza mor
 
 Se Fáfnir encarna a corrupção visível do ouro, Reginn encarna sua corrupção **mental e estratégica**.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Reginn representa:
 
@@ -3351,7 +2349,11 @@ Reginn representa:
 - **A Continuidade da maldição do ouro**
 - **A Tragédia da ambição dentro do próprio clã**
 
-Dentro do glossário dos anões, Reginn ocupa um lugar central como uma das figuras mais narrativamente importantes da mitologia nórdica, unindo técnica, inteligência, manipulação e tragédia em torno do ciclo do ouro amaldiçoado.`,
+Dentro do glossário dos anões, Reginn ocupa um lugar central como uma das figuras mais narrativamente importantes da mitologia nórdica, unindo técnica, inteligência, manipulação e tragédia em torno do ciclo do ouro amaldiçoado.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulos 39–40](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "otr",
@@ -3406,7 +2408,9 @@ A morte de Ótr é o ponto de partida de toda a saga do ouro amaldiçoado. Sem e
 
 Assim, Ótr ocupa um lugar decisivo no mito, mesmo não sendo o personagem mais ativo da saga posterior.
 
-## Ótr como Figura Simbólica
+## Interpretação editorial: Ótr como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Ótr representa uma ruptura inicial, um momento em que um ato aparentemente simples gera consequências imensas. Sua história mostra como, na mitologia nórdica, erro, violência e compensação podem desencadear ciclos irreversíveis de maldição.
 
@@ -3417,7 +2421,9 @@ Ele simboliza:
 - **A Transformação de um acidente em destino**
 - **O Preço mortal que abre caminho para a cobiça**
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Ótr representa:
 
@@ -3426,131 +2432,64 @@ Ele simboliza:
 - **A Ruptura que desencadeia uma cadeia trágica**
 - **O Momento em que a compensação se transforma em maldição**
 
-Dentro do glossário dos anões, Ótr ocupa um lugar singular como a figura cuja morte coloca em movimento uma das narrativas mais importantes e sombrias da mitologia nórdica: a saga do **ouro amaldiçoado**.`,
+Dentro do glossário dos anões, Ótr ocupa um lugar singular como a figura cuja morte coloca em movimento uma das narrativas mais importantes e sombrias da mitologia nórdica: a saga do **ouro amaldiçoado**.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulo 39](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "nordri-sudri-austri-vestri",
-  title: "Norðri, Suðri, Austri e Vestri — Os Quatro Anões que Sustentam o Céu",
-  description: "Norðri, Suðri, Austri e Vestri são quatro anões primordiais da mitologia nórdica associados aos pontos cardeais e à sustentação da abóbada celeste. Presentes na Edda em Prosa e no catálogo da Völuspá, eles ocupam um dos papéis mais grandiosos atribuídos aos anões: o de pilares cósmicos que mantêm o firmamento erguido sobre o mundo.",
+  title: "Norðri, Suðri, Austri e Vestri — Os Quatro Suportes do Céu",
+  description: "Norðri, Suðri, Austri e Vestri — Os Quatro Suportes do Céu: passagens das Eddas, diferenças entre relatos e limites da identificação.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/nordri-sudri-austri-vestri.png",
-  tags: ["nordri-sudri-austri-vestri", "norðri", "suðri", "austri", "vestri", "anão", "anoes", "mitologia nordica", "völuspá", "edda em prosa", "cosmogonia", "pontos cardeais", "ceu"],
-  content: `## Os Anões dos Quatro Cantos do Mundo
+  tags: ["nordri-sudri-austri-vestri","anões","eddas","fontes medievais"],
+  content: `## O que Dizem os Textos
 
-**Norðri**, **Suðri**, **Austri** e **Vestri** são quatro anões primordiais da **mitologia nórdica**, associados aos **quatro pontos cardeais** e à sustentação da **abóbada celeste**. Eles aparecem tanto na **Edda em Prosa** quanto no catálogo de anões da **Völuspá**, ocupando um lugar singular dentro da cosmologia nórdica.
+Em Gylfaginning, capítulo 8, os deuses transformam o crânio de Ymir no céu e colocam um anão sob cada um de seus quatro cantos. Os nomes correspondem a norte, sul, leste e oeste. Völuspá, estrofe 11, também os inclui no catálogo dos anões.
 
-Seus nomes significam literalmente:
+A função cosmológica de sustentar o céu é explicitada por Snorri. Isso os distingue dos muitos nomes do catálogo para os quais não se preserva uma tarefa individual no trecho.
 
-- **Norðri** = Norte
-- **Suðri** = Sul
-- **Austri** = Leste
-- **Vestri** = Oeste
+## Limites da Leitura
 
-## O Papel Cósmico dos Quatro Anões
+Este verbete diferencia o relato medieval das interpretações posteriores. As ilustrações são criações modernas, e o significado de um nome não comprova por si só poderes, rituais ou características pessoais.
 
-Após a criação do mundo a partir do corpo do gigante **Ymir**, os deuses moldam o céu usando seu **crânio**. Para manter essa imensa estrutura erguida sobre a terra, colocam quatro anões nos cantos do mundo, cada um sustentando uma extremidade do firmamento.
+## Fontes
 
-Assim, **Norðri**, **Suðri**, **Austri** e **Vestri** não são apenas habitantes do subterrâneo ou artesãos da matéria: eles são literalmente os **suportes do céu**.
-
-## Quem São no Contexto Mítico
-
-Diferente de muitos anões da Völuspá conhecidos apenas por seus nomes, esses quatro possuem uma função mítica clara e grandiosa. Eles representam:
-
-- **Os Pontos cardeais do cosmos**
-- **A Estabilidade da criação**
-- **A Ordem espacial do mundo**
-- **A Força que sustenta a estrutura celeste**
-
-Sua presença marca a passagem dos anões do plano genealógico para o plano cósmico.
-
-## Os Pilares do Firmamento
-
-O papel desses quatro anões é um dos mais extraordinários atribuídos ao povo anão na tradição nórdica. Em vez de apenas forjar artefatos ou guardar segredos subterrâneos, eles participam diretamente da **manutenção do universo**.
-
-Eles simbolizam uma ideia central da cosmologia nórdica: o mundo precisa de sustentação, direção e equilíbrio. O céu não paira sozinho, ele é mantido por forças concretas, colocadas nos limites do mundo conhecido.
-
-## Espaço, Direção e Ordem
-
-Por representarem Norte, Sul, Leste e Oeste, esses anões também ajudam a organizar simbolicamente o espaço. Eles não apenas seguram o céu, mas definem os eixos do mundo, transformando o cosmos em algo orientado, dividido e compreensível.
-
-Nesse sentido, eles representam:
-
-- **A Organização espacial do universo**
-- **A Estabilidade dos limites do mundo**
-- **A Transformação do caos em ordem**
-- **A Presença dos anões na própria arquitetura do cosmos**
-
-## Significado Simbólico
-
-Norðri, Suðri, Austri e Vestri representam:
-
-- **Os Quatro pontos cardeais do mundo**
-- **A Sustentação da abóbada celeste**
-- **A Estabilidade cósmica após a criação**
-- **O Papel dos anões como pilares do universo**
-- **A Ordem que mantém o mundo erguido e orientado**
-
-Dentro do glossário dos anões, esse quarteto ocupa um lugar excepcional: eles não são apenas parte do povo subterrâneo, mas **forças estruturais da própria criação**, anões cuja função é sustentar o céu e dar forma ao espaço do mundo nórdico.`,
+[Gylfaginning, 8](https://sacred-texts.com/book/the-prose-edda/gylfaginning), Brodeur (1916); [Völuspá, 11](https://sacred-texts.com/book/the-poetic-edda/voluspo), Bellows (1923).`,
 },
 {
   slug: "lofarr",
-  title: "Lofarr — O Anão da Linhagem Primordial",
-  description: "Lofarr (ou Lofar) é um anão listado no grande catálogo de anões da Völuspá, na Edda Poética. Como muitos nomes dessa lista, não possui narrativa preservada, sendo conhecido principalmente como membro das linhagens anãs primordiais e parte da estrutura ancestral do povo subterrâneo.",
+  title: "Lofarr — Um Nome no Catálogo dos Anões",
+  description: "Lofarr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/lofarr.png",
-  tags: ["lofarr", "lofar", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Estrutura Ancestral
+  tags: ["lofarr","Lofarr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Lofarr** (também registrado como **Lofar**) aparece no grande catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre os nomes que compõem a genealogia primordial do povo anão. Como muitos nomes dessa lista, ele não possui narrativa preservada, sendo conhecido principalmente por sua presença na tradição poética e por seu valor genealógico.
+**Lofarr** consta de **Völuspá, estrofes 14 e 16 (Lofar na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Lofarr no Contexto Mítico
+## O que a Fonte Conta
 
-Os catálogos da Völuspá registram dezenas de anões que compõem a estrutura ancestral do povo subterrâneo. Esses nomes funcionam como:
+O poema anuncia a relação dos ancestrais de Lofarr e menciona um deslocamento de anões das rochas para terrenos arenosos. Não desenvolve uma aventura individual de Lofarr nem fornece uma árvore genealógica completa.
 
-- **Clãs**
-- **Ancestrais**
-- **Casas anãs**
-- **Linhagens míticas**
+## Como Ler o Catálogo
 
-Dentro dessa estrutura, **Lofarr** pertence ao grupo de anões cuja presença indica a **antiguidade** e a **multiplicidade** do povo anão no mundo nórdico.
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-## Lofarr na Genealogia dos Anões
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-A presença de Lofarr no catálogo reforça a ideia de que os anões da tradição nórdica não são apenas figuras isoladas, mas parte de uma rede extensa de nomes ancestrais. Essa genealogia poética preserva a memória de um povo subterrâneo antigo, diverso e estruturado em casas, clãs e linhagens.
+## Fonte
 
-Lofarr deve ser compreendido como parte dessa malha ancestral, ajudando a sustentar a identidade coletiva do mundo anão primordial.
-
-## O Valor Estrutural dos Nomes
-
-Na Völuspá, muitos anões não são lembrados por aventuras individuais, mas pelo lugar que ocupam em uma enumeração simbólica. O valor de nomes como Lofarr está justamente em mostrar que o povo anão possui profundidade histórica e organização própria.
-
-Nesse sentido, Lofarr simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Antiguidade do povo subterrâneo**
-- **A Estrutura das casas e clãs primordiais**
-- **A Memória coletiva preservada em nome**
-
-## Lofarr e a Multiplicidade do Mundo Anão
-
-Ao lado de dezenas de outros nomes preservados na Völuspá, Lofarr contribui para a imagem de um povo anão múltiplo e antigo, cuja presença no cosmos nórdico vai além da forja e do artesanato. Ele pertence ao conjunto de nomes que revelam a densidade social, genealógica e simbólica do subterrâneo.
-
-## Significado Simbólico
-
-Lofarr representa:
-
-- **A Linhagem primordial do povo anão**
-- **A Estrutura ancestral das casas subterrâneas**
-- **A Multiplicidade do mundo anão antigo**
-- **O Valor poético dos nomes preservados na Völuspá**
-
-Dentro do catálogo da Völuspá, Lofarr reforça a ideia de que os anões são um povo ancestral e organizado, cuja memória sobrevive não apenas em grandes feitos, mas também na força simbólica de seus nomes preservados pela poesia antiga.`,
+- [Völuspá, estrofes 14 e 16 (Lofar na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "hreidmar",
@@ -3607,7 +2546,9 @@ Hreiðmarr ocupa um lugar decisivo nessa história porque é a **primeira vítim
 
 Ele é o ponto em que compensação vira posse, posse vira avareza, e avareza vira assassinato.
 
-## Hreiðmarr como Figura Simbólica
+## Interpretação editorial: Hreiðmarr como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Hreiðmarr representa uma verdade central do mito nórdico: a riqueza não é neutra quando carrega maldição. Ele não cai em batalha heroica nem por falta de poder, mas por permitir que o ouro entre no centro da família como força dominante.
 
@@ -3618,7 +2559,9 @@ Ele simboliza:
 - **O Início da ruína dentro da própria casa**
 - **O Primeiro elo familiar quebrado pela maldição**
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Hreiðmarr representa:
 
@@ -3628,135 +2571,69 @@ Hreiðmarr representa:
 - **A Queda de uma casa poderosa por causa da riqueza**
 - **O Momento em que o tesouro deixa de ser pagamento e se torna destruição**
 
-Dentro do glossário dos anões, Hreiðmarr ocupa um lugar central como o senhor cuja queda inaugura uma das mais importantes tragédias da mitologia nórdica, a saga do **ouro amaldiçoado**.`,
+Dentro do glossário dos anões, Hreiðmarr ocupa um lugar central como o senhor cuja queda inaugura uma das mais importantes tragédias da mitologia nórdica, a saga do **ouro amaldiçoado**.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulos 39–40](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "ginnarr",
-  title: "Ginnarr — O Anão da Linhagem Genealógica",
-  description: "Ginnarr é um nome de anão que aparece em tradições e listas nórdicas antigas associadas ao grande catálogo de anões preservado na Völuspá e em compilações posteriores. Como vários anões dessas listas, não possui narrativa própria preservada, sendo conhecido principalmente como membro das antigas linhagens anãs do mundo subterrâneo.",
+  title: "Ginnarr — Um Nome no Catálogo dos Anões",
+  description: "Ginnarr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/ginnarr.png",
-  tags: ["ginnarr", "ginnar", "anão", "anoes", "völuspá", "edda poetica", "linhagem anã", "clãs", "subterraneo", "mitologia nordica"],
-  content: `## O Anão da Memória Genealógica
+  tags: ["ginnarr","Ginnarr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Ginnarr** (também registrado como **Ginnar**) é um nome de anão que aparece em tradições e listas nórdicas antigas associadas ao grande catálogo preservado na **Völuspá**, da **Edda Poética**, e em compilações posteriores. Como vários anões dessas listas, ele não possui narrativa própria preservada, sendo conhecido principalmente por seu nome e por seu lugar dentro da memória genealógica do povo anão.
+**Ginnarr** consta de **Völuspá, estrofe 16 (Ginnar na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Ginnarr no Contexto Mítico
+## O que a Fonte Conta
 
-Os catálogos de anões nórdicos funcionam como genealogias e registros de clãs. Neles aparecem dezenas de nomes, alguns ligados a mitos mais desenvolvidos, outros preservados apenas como parte da estrutura ancestral do mundo subterrâneo.
+A passagem enumera nomes, mas não atribui a este anão uma profissão particular, um poder sobre a pedra ou uma personalidade. Não há base nesse catálogo para transformar uma sugestão etimológica em biografia.
 
-Esses nomes podem representar:
+## Como Ler o Catálogo
 
-- **Clãs**
-- **Casas anãs**
-- **Linhagens antigas**
-- **Ancestrais do povo subterrâneo**
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa lógica, **Ginnarr** pertence ao grupo de anões cuja função é principalmente **estrutural e genealógica**.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## Ginnarr e as Antigas Casas Anãs
+## Fonte
 
-A presença de Ginnarr em listas tradicionais reforça a ideia de que o povo anão, na mitologia nórdica, não é formado apenas por figuras isoladas de grande fama. Ele também é composto por uma vasta rede de nomes ancestrais que preservam a antiguidade, a diversidade e a organização interna das casas anãs.
-
-Ginnarr deve ser compreendido como parte dessas antigas linhagens do mundo primordial subterrâneo, um nome que ajuda a sustentar a profundidade histórica da cultura anã.
-
-## O Valor dos Nomes sem Narrativa
-
-Mesmo sem um mito individual preservado, nomes como Ginnarr possuem importância simbólica. Eles mostram que o universo anão era imaginado como amplo, antigo e estruturado, com muitos membros e ramificações. A poesia antiga preserva esses nomes justamente para indicar que a memória do povo subterrâneo vai além dos personagens mais famosos.
-
-Nesse sentido, Ginnarr simboliza:
-
-- **A Continuidade das linhagens anãs**
-- **A Antiguidade do mundo subterrâneo**
-- **A Presença de casas e clãs esquecidos**
-- **A Força da memória preservada em nome**
-
-## Ginnarr na Tradição Nórdica
-
-Ao lado de anões mais conhecidos por seus feitos, como **Andvari** ou **Brokkr**, Ginnarr pertence ao conjunto de nomes cuja importância está menos na narrativa e mais na estrutura. Ele ajuda a compor o pano de fundo genealógico do povo anão, funcionando como um eco das antigas casas subterrâneas preservadas pela tradição poética.
-
-## Significado Simbólico
-
-Ginnarr representa:
-
-- **A Linhagem ancestral do povo anão**
-- **A Estrutura genealógica das casas subterrâneas**
-- **A Multiplicidade do mundo anão antigo**
-- **O Valor dos nomes preservados pela tradição nórdica**
-
-Dentro de um glossário ampliado sobre anões, Ginnarr reforça a ideia de que o povo anão é muito mais do que seus personagens mais famosos: ele é uma civilização mítica antiga, diversa e profundamente enraizada na memória poética do mundo nórdico.`,
+- [Völuspá, estrofe 16 (Ginnar na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "gandalf",
-  title: "Gandálfr — O Anão da Magia e do Bastão Encantado",
-  description: "Gandálfr é um anão listado no catálogo de anões da Völuspá, na Edda Poética. Diferente de figuras como Brokkr ou Andvari, não possui narrativa própria preservada, sendo conhecido principalmente pelo valor etimológico e simbólico de seu nome, que sugere ligação com magia, feitiçaria e autoridade ritual.",
+  title: "Gandálfr — Um Nome no Catálogo dos Anões",
+  description: "Gandálfr no catálogo medieval dos anões: onde o nome aparece e o que a fonte permite afirmar sobre ele.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/gandalf.png",
-  tags: ["gandalf", "gandálfr", "anão", "anoes", "völuspá", "edda poetica", "magia", "bastão encantado", "elfo", "feitiçaria", "mitologia nordica"],
-  content: `## O Anão do Bastão Mágico
+  tags: ["gandalf","Gandálfr","anões","völuspá","fontes medievais"],
+  content: `## Onde o Nome Aparece
 
-**Gandálfr** aparece no catálogo de anões da **Völuspá**, poema preservado na **Edda Poética**, entre os nomes que compõem as antigas linhagens do povo anão. Diferente de figuras como **Brokkr** ou **Andvari**, ele não possui narrativa própria preservada, sendo conhecido principalmente pelo **significado simbólico e etimológico de seu nome**.
+**Gandálfr** consta de **Völuspá, estrofe 12 (Gandalf na tradução)**. O verbete trata do nome preservado na tradição medieval nórdica. Grafias e ordem dos nomes variam entre manuscritos, edições e traduções.
 
-## Quem é Gandálfr no Contexto Mítico
+## O que a Fonte Conta
 
-No catálogo da Völuspá, Gandálfr aparece entre os anões primordiais ou antigos, indicando que fazia parte das primeiras linhagens anãs. Como muitos nomes dessa lista, sua função é menos narrativa e mais estrutural, ajudando a compor a memória ancestral do povo subterrâneo.
+Bellows relaciona o nome à expressão ‘elfo mágico’. A presença desse nome no catálogo de anões é verificável, mas o trecho não descreve um mago com bastão, rituais próprios ou uma missão. Não se deve deduzir uma biografia a partir da tradução do nome.
 
-Esses nomes frequentemente representam:
+## Como Ler o Catálogo
 
-- **Clãs** e linhagens antigas
-- **Casas anãs**
-- **Qualidades arquetípicas**
-- **Funções simbólicas** dentro da cosmologia anã
+O catálogo integra o relato das origens dos anões. É diferente das narrativas desenvolvidas de Brokkr, Andvari ou Fafnir: a existência de um nome na lista não demonstra que todos os anões compartilhassem as mesmas habilidades e histórias.
 
-Dentro dessa estrutura, **Gandálfr** se destaca por sugerir uma associação especial com **magia, poder ritual e autoridade encantatória**.
+Associações modernas com forças minerais, arquétipos ou qualidades morais podem servir à criação artística, mas não são informações biográficas fornecidas pela passagem citada. A capa deste verbete também é uma interpretação artística.
 
-## O Significado do Nome
+## Fonte
 
-O nome **Gandálfr** pode ser entendido aproximadamente como:
-
-- **Gandr** = bastão mágico, objeto encantado, instrumento de poder ritual
-- **Álfr** = elfo
-
-Assim, o nome sugere algo como **“elfo do bastão mágico”** ou **“ser élfico ligado ao objeto encantado”**.
-
-Esse significado é particularmente interessante porque aponta para uma possível sobreposição simbólica entre **anões** e **elfos** nas tradições germânicas antigas, mostrando que as categorias míticas nem sempre eram rígidas.
-
-## Gandálfr e a Magia Ritual
-
-Mesmo sem um mito próprio preservado, Gandálfr parece representar um tipo de anão associado não apenas à matéria e à forja, mas também à **magia**, à **feitiçaria** e à **autoridade ritual**.
-
-Seu nome evoca a imagem de alguém ligado a:
-
-- **Objetos de poder**
-- **Conhecimento encantatório**
-- **Prestígio ritual**
-- **Sabedoria antiga com traços élficos**
-
-Isso o torna uma figura singular dentro do catálogo, pois sugere um anão cuja força não está apenas na oficina ou na pedra, mas também no domínio do invisível e do sagrado.
-
-## Anões e Elfos nas Tradições Antigas
-
-O elemento **-álfr** no nome Gandálfr reforça uma questão importante nas tradições germânicas antigas: em certos contextos, anões e elfos parecem compartilhar zonas simbólicas próximas, especialmente quando associados à magia, ao brilho, ao oculto e ao saber antigo.
-
-Gandálfr pode ser lido justamente como um nome que preserva essa fronteira fluida, uma figura anã com ressonâncias élficas, ou um representante de um tipo híbrido no imaginário mítico.
-
-## Significado Simbólico
-
-Gandálfr representa:
-
-- **A Ligação entre anões e magia ritual**
-- **O Bastão encantado como símbolo de poder**
-- **A Sobreposição simbólica entre anões e elfos**
-- **A Autoridade antiga baseada em saber oculto**
-- **A Presença da feitiçaria dentro da ancestralidade anã**
-
-Dentro do catálogo da Völuspá, Gandálfr ocupa um lugar especial como um nome que aponta para algo além da forja e da matéria: ele sugere a presença de **magia, ritual e poder encantatório** no coração das antigas linhagens anãs.`,
+- [Völuspá, estrofe 12 (Gandalf na tradução)](https://sacred-texts.com/book/the-poetic-edda/voluspo), tradução de Henry Adams Bellows (1923). Consulte o catálogo e, separadamente, as notas do tradutor.
+- [Critérios de leitura e referências do site](/fontes).`,
 },
 {
   slug: "fafnir",
@@ -3820,7 +2697,9 @@ Antes de morrer, Fáfnir adverte **Sigurd**: o ouro é amaldiçoado e trará mor
 
 Seu aviso reforça a dimensão trágica do personagem: ele é vítima e agente da maldição ao mesmo tempo.
 
-## Fáfnir Como Figura Simbólica
+## Interpretação editorial: Fáfnir Como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Fáfnir representa uma das ideias mais profundas da mitologia nórdica: a de que a cobiça transforma. Ele não nasce monstro, ele se torna monstro. O dragão é a forma visível de uma corrupção interior já consumada.
 
@@ -3831,7 +2710,9 @@ Ele simboliza:
 - **A Ruptura dos laços familiares por causa do ouro**
 - **A Transformação moral expressa no corpo monstruoso**
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Fáfnir representa:
 
@@ -3841,7 +2722,11 @@ Fáfnir representa:
 - **O Dragão como forma final da avareza**
 - **O Aviso trágico de que a riqueza maldita destrói todos ao redor**
 
-Dentro do glossário dos anões, Fáfnir ocupa um lugar singular: ele começa como membro de uma linhagem ligada aos anões e termina como um dos maiores monstros da tradição nórdica, tornando-se o símbolo máximo da **corrupção pelo ouro**.`,
+Dentro do glossário dos anões, Fáfnir ocupa um lugar singular: ele começa como membro de uma linhagem ligada aos anões e termina como um dos maiores monstros da tradição nórdica, tornando-se o símbolo máximo da **corrupção pelo ouro**.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulo 40](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "eitri",
@@ -3909,7 +2794,9 @@ A história deixa claro que os anões não são apenas artesãos habilidosos: el
 
 Sua obra mostra que a força dos deuses depende, em muitos momentos, da inteligência técnica dos anões.
 
-## Eitri Como Figura Simbólica
+## Interpretação editorial: Eitri Como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Eitri simboliza:
 
@@ -3921,7 +2808,9 @@ Eitri simboliza:
 
 Se Brokkr representa o esforço contínuo da fornalha, Eitri representa a mente criadora que transforma fogo e metal em destino.
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Eitri representa:
 
@@ -3931,134 +2820,59 @@ Eitri representa:
 - **O Papel central dos anões no poder dos deuses**
 - **A Forja como união entre habilidade, disciplina e magia**
 
-Dentro do glossário dos anões, Eitri ocupa um lugar central como um dos maiores ferreiros da mitologia nórdica, o mestre técnico cuja obra deu aos deuses alguns de seus mais importantes instrumentos de poder.`,
+Dentro do glossário dos anões, Eitri ocupa um lugar central como um dos maiores ferreiros da mitologia nórdica, o mestre técnico cuja obra deu aos deuses alguns de seus mais importantes instrumentos de poder.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulo 35](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "durinn",
-  title: "Durinn — O Anão Primordial e Ancestral das Linhagens",
-  description: "Durinn (ou Durin) é um dos anões primordiais da mitologia nórdica, listado entre os primeiros criados no mundo. Seu nome aparece no catálogo de anões da Völuspá, na Edda Poética, e também na Edda em Prosa, sendo associado à ancestralidade, à liderança e à origem de linhagens anãs.",
+  title: "Durinn — Um dos Primeiros Anões",
+  description: "Durinn — Um dos Primeiros Anões: passagens das Eddas, diferenças entre relatos e limites da identificação.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/durinn.png",
-  tags: ["durinn", "durin", "anão", "anoes", "völuspá", "edda poetica", "edda em prosa", "linhagem anã", "ancestral", "mitologia nordica"],
-  content: `## O Anão Primordial das Primeiras Linhagens
+  tags: ["durinn","anões","eddas","fontes medievais"],
+  content: `## O que Dizem os Textos
 
-**Durinn** (frequentemente grafado como **Durin**) é um dos anões primordiais da **mitologia nórdica**, listado entre os primeiros seres desse povo a surgir no mundo. Seu nome aparece no catálogo de anões da **Völuspá**, na **Edda Poética**, e também é preservado na **Edda em Prosa**, o que reforça sua importância dentro da tradição nórdica.
+Völuspá, estrofe 10, menciona Mótsognir como o principal entre os anões e Durinn em seguida. A passagem associa Durinn à formação de figuras humanas na terra, mas sua formulação admite dificuldades de tradução. Gylfaginning, capítulo 14, reorganiza o relato das origens e apresenta o catálogo.
 
-Durinn está associado à **ancestralidade**, à **liderança** e à **origem das grandes linhagens anãs**, sendo visto, em tradições posteriores, como um arquétipo do **rei ancestral dos anões**.
+Esses trechos dão destaque ao nome; não fornecem uma monarquia com sucessores numerados, uma genealogia de reis de uma montanha ou uma história de reencarnações.
 
-## Quem é Durinn no Contexto Mítico
+## Limites da Leitura
 
-No poema **Völuspá**, Durinn aparece entre os primeiros anões formados da matéria primordial da terra, ao lado de nomes como **Dvalinn** e **Dáinn**. Isso o coloca na geração fundadora da raça anã, ligada diretamente às origens do mundo e à formação das primeiras casas subterrâneas.
+Este verbete diferencia o relato medieval das interpretações posteriores. As ilustrações são criações modernas, e o significado de um nome não comprova por si só poderes, rituais ou características pessoais.
 
-Diferente de anões que protagonizam histórias específicas, Durinn é uma figura de valor principalmente **genealógico** e **simbólico**. Seu nome carrega peso porque representa uma autoridade primordial dentro da memória anã.
+## Fontes
 
-## Durinn e a Geração Fundadora
-
-A presença de Durinn entre os primeiros anões sugere que ele não é apenas mais um nome em uma lista, mas parte do núcleo inicial que define o povo anão como raça mítica. Dentro desse contexto, ele pode ser associado a ideias como:
-
-- **Origem das primeiras linhagens**
-- **Autoridade ancestral**
-- **Continuidade das casas anãs**
-- **Fundação simbólica da sociedade subterrânea**
-
-Durinn representa, assim, não apenas um indivíduo, mas um ponto de partida para a identidade coletiva dos anões.
-
-## Uma Figura de Autoridade Entre os Anões
-
-Mesmo sem uma narrativa própria preservada como a de **Andvari**, **Brokkr** ou **Reginn**, Durinn se destaca por seu lugar estrutural. Seu nome transmite a ideia de alguém ligado à organização, à permanência e ao prestígio das antigas casas anãs.
-
-Por isso, em tradições posteriores, o nome **Durin** passa a funcionar quase como um título simbólico de fundador, patriarca ou rei ancestral entre os anões.
-
-## Durinn na Tradição Posterior
-
-A força simbólica de Durinn ultrapassou a tradição puramente mítica. Em tradições germânicas posteriores, e mais tarde na literatura moderna, seu nome passou a ser associado ao fundador de linhagens e reis ancestrais dos anões.
-
-Esse desenvolvimento mostra como Durinn se tornou um nome-arquétipo: não apenas um anão primordial, mas uma imagem duradoura de liderança e ancestralidade no imaginário anão.
-
-## Significado Simbólico
-
-Durinn representa:
-
-- **A Ancestralidade primordial do povo anão**
-- **A Origem das grandes linhagens subterrâneas**
-- **A Autoridade e liderança entre os anões antigos**
-- **A Continuidade das casas e clãs anãos**
-- **O Arquétipo do rei ancestral dos anões**
-
-Dentro do glossário dos anões, Durinn ocupa um lugar central como uma das figuras fundadoras mais importantes da mitologia nórdica, um nome que simboliza origem, autoridade e permanência no coração do mundo subterrâneo.`,
+[Völuspá, 9–11](https://sacred-texts.com/book/the-poetic-edda/voluspo), Bellows (1923); [Gylfaginning, 14](https://sacred-texts.com/book/the-prose-edda/gylfaginning), Brodeur (1916).`,
 },
 {
   slug: "dainn",
-  title: "Dáinn — O Anão Primordial da Sabedoria Rúnica",
-  description: "Dáinn (ou Dain) é um anão primordial da mitologia nórdica, listado entre os primeiros anões criados no mundo. Seu nome aparece no catálogo de anões da Edda Poética, especialmente na Völuspá, e também na Edda em Prosa, sendo frequentemente associado à sabedoria antiga, à magia rúnica e às linhagens ancestrais dos anões.",
+  title: "Dáinn — O Nome no Catálogo dos Anões",
+  description: "Dáinn — O Nome no Catálogo dos Anões: passagens das Eddas, diferenças entre relatos e limites da identificação.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/dainn.png",
-  tags: ["dainn", "dáinn", "dain", "anão", "anoes", "völuspá", "edda poetica", "edda em prosa", "runas", "sabedoria", "mitologia nordica"],
-  content: `## O Anão Primordial da Sabedoria Antiga
+  tags: ["dainn","anões","eddas","fontes medievais"],
+  content: `## O que Dizem os Textos
 
-**Dáinn** (frequentemente grafado como **Dain**) é um anão primordial da **mitologia nórdica**, listado entre os primeiros anões criados no mundo. Seu nome aparece em fontes como o catálogo de anões da **Edda Poética**, especialmente no poema **Völuspá**, e também na **Edda em Prosa**.
+Dáinn aparece em Völuspá, estrofe 11. O catálogo não lhe atribui o papel de mestre das runas. Em Hávamál, estrofe 144 na edição de Bellows, Dáinn é associado aos elfos, enquanto Dvalinn é associado aos anões. A coincidência dos nomes não basta para demonstrar que se trata da mesma figura em ambos os textos.
 
-Entre os anões antigos, Dáinn é frequentemente associado à **sabedoria ancestral**, à **magia rúnica** e à transmissão de conhecimentos profundos dentro da raça anã.
+Grímnismál também nomeia um cervo Dáinn. É necessário distinguir esses contextos, em vez de reunir todas as ocorrências numa única biografia.
 
-## Quem é Dáinn no Contexto Mítico
+## Limites da Leitura
 
-Na cosmogonia nórdica, os anões surgem da matéria primordial do mundo, ligados à terra, às pedras e às profundezas. Dentro desse conjunto de primeiros seres subterrâneos, **Dáinn** é citado como um dos mais importantes, ao lado de figuras como **Dvalinn**.
+Este verbete diferencia o relato medieval das interpretações posteriores. As ilustrações são criações modernas, e o significado de um nome não comprova por si só poderes, rituais ou características pessoais.
 
-Isso o coloca na geração fundadora do povo anão, entre os nomes que não representam apenas indivíduos isolados, mas pilares da memória, da identidade e da ancestralidade anã.
+## Fontes
 
-## Dáinn e a Geração Primordial
-
-A presença de Dáinn entre os primeiros anões sugere uma posição de destaque dentro da estrutura do mundo subterrâneo. Ele pertence à camada mais antiga da tradição, aquela que liga os anões diretamente à criação do cosmos e à organização das primeiras linhagens.
-
-Nesse sentido, Dáinn pode ser associado a ideias como:
-
-- **Ancestralidade primordial**
-- **Autoridade antiga entre os anões**
-- **Ligação entre terra, saber e permanência**
-- **Origem das linhagens sábias do povo anão**
-
-## Dáinn e as Runas
-
-Uma das associações mais importantes de Dáinn aparece de forma indireta em um verso do **Hávamál**, no qual se diz que:
-
-- **Dáinn escreveu as runas para os anões**
-
-Esse detalhe é extremamente significativo, porque coloca Dáinn como uma figura ligada à **transmissão do conhecimento rúnico** dentro da raça anã. Assim como Odin está associado à conquista das runas entre os deuses, Dáinn aparece como um elo entre os anões e o saber mágico inscrito nos símbolos.
-
-Isso faz dele não apenas um ancestral, mas também um **guardião e transmissor de conhecimento oculto**.
-
-## Sabedoria Antiga e Arquétipo Ancestral
-
-Em tradições germânicas posteriores, o nome Dáinn também aparece associado a seres extremamente antigos e sábios, o que reforça seu caráter de arquétipo ancestral. Seu nome passa a carregar a ideia de profundidade temporal, conhecimento antigo e autoridade adquirida não pela força, mas pela antiguidade e pelo domínio do saber.
-
-## Dáinn Como Figura Simbólica
-
-Dáinn representa uma dimensão essencial do imaginário anão: a de que o povo subterrâneo não domina apenas a matéria, mas também o **conhecimento secreto** que a atravessa. Ele une pedra, memória, runa e tradição em uma única figura ancestral.
-
-Ele simboliza:
-
-- **A Sabedoria antiga do povo anão**
-- **A Transmissão das runas e do conhecimento oculto**
-- **A Autoridade das primeiras linhagens**
-- **A Ligação entre ancestralidade e magia**
-
-## Significado Simbólico
-
-Dáinn representa:
-
-- **O Anão primordial da sabedoria rúnica**
-- **A Transmissão do conhecimento mágico entre os anões**
-- **A Antiguidade das linhagens subterrâneas**
-- **A Autoridade ancestral fundada no saber**
-- **A União entre memória, runa e tradição**
-
-Dentro do glossário dos anões, Dáinn ocupa um lugar central como uma das figuras mais antigas e simbólicas da mitologia nórdica, um nome que preserva a imagem do **ancestral sábio que leva as runas ao povo anão**.`,
+[Völuspá, 11](https://sacred-texts.com/book/the-poetic-edda/voluspo); [Hávamál, 144](https://sacred-texts.com/book/the-poetic-edda/hovamol); [Grímnismál, 33](https://sacred-texts.com/book/the-poetic-edda/grimnismol), Bellows (1923).`,
 },
 {
   slug: "brokkr",
@@ -4128,7 +2942,9 @@ Brokkr não pode decapitá-lo sem atingir o pescoço, então escolhe outra puni�
 
 Esse desfecho reforça uma inversão poderosa do mito: o enganador é vencido não por força bruta, mas pela competência e pela justiça prática dos anões.
 
-## Brokkr Como Figura Simbólica
+## Interpretação editorial: Brokkr Como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Brokkr representa o lado firme e perseverante da criação. Se Eitri simboliza o domínio técnico da forja, Brokkr simboliza o trabalho contínuo que sustenta a obra até o fim.
 
@@ -4139,7 +2955,9 @@ Ele representa:
 - **A Vitória do ofício sobre a trapaça**
 - **A Justiça artesanal contra a astúcia enganosa**
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Brokkr representa:
 
@@ -4149,7 +2967,11 @@ Brokkr representa:
 - **A Criação de Gullinbursti, Draupnir e Mjölnir**
 - **A Vitória da disciplina anã sobre o engano**
 
-Dentro do glossário dos anões, Brokkr ocupa um lugar central como um dos maiores artesãos da mitologia nórdica, não apenas por participar da criação de Mjölnir, mas por demonstrar que o poder nasce tanto da técnica quanto da resistência.`,
+Dentro do glossário dos anões, Brokkr ocupa um lugar central como um dos maiores artesãos da mitologia nórdica, não apenas por participar da criação de Mjölnir, mas por demonstrar que o poder nasce tanto da técnica quanto da resistência.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulo 35](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "andvari",
@@ -4211,7 +3033,9 @@ A maldição de Andvari desencadeia uma sequência de eventos devastadores:
 
 Assim, Andvari ocupa um papel decisivo na mitologia nórdica: sua maldição coloca em movimento toda a grande tragédia do ouro amaldiçoado.
 
-## Andvari Como Figura Simbólica
+## Interpretação editorial: Andvari Como Figura Simbólica
+
+Esta seção propõe uma leitura temática; não reproduz uma doutrina explicitada pelas fontes medievais.
 
 Andvari é importante porque representa a origem de uma ideia que ecoa muito além da tradição nórdica: a de que certos tesouros não trazem prosperidade, mas destruição. Sua história molda o arquétipo do ouro que corrompe, da riqueza que envenena relações e da posse que se converte em condenação.
 
@@ -4222,7 +3046,9 @@ Ele simboliza:
 - **O Objeto mágico que traz ruína**
 - **A Maldição que atravessa gerações**
 
-## Significado Simbólico
+## Interpretação editorial: Significado Simbólico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Andvari representa:
 
@@ -4232,90 +3058,43 @@ Andvari representa:
 - **O Início da tragédia de Fáfnir, Reginn e Sigurd**
 - **O Arquétipo do tesouro que destrói seus donos**
 
-Dentro do glossário dos anões, Andvari ocupa um lugar central como a figura que transforma riqueza em maldição e inaugura uma das correntes trágicas mais importantes da mitologia nórdica.`,
+Dentro do glossário dos anões, Andvari ocupa um lugar central como a figura que transforma riqueza em maldição e inaugura uma das correntes trágicas mais importantes da mitologia nórdica.
+
+## Fonte do Relato
+
+[Skáldskaparmál, capítulos 39–40](https://sacred-texts.com/book/the-prose-edda/skaldskaparmal), tradução de Arthur Gilchrist Brodeur (1916). As seções simbólicas são interpretações editoriais; a fonte sustenta o episódio, não todas as generalizações sobre o povo anão.`,
 },
 {
   slug: "alvis",
   title: "Alvíss — O Anão Todo-Sábio",
-  description: "Alvíss (Alvis), cujo nome em nórdico antigo significa “o onisciente” ou “todo-sábio”, é um anão da mitologia nórdica conhecido principalmente pelo poema Alvíssmál, preservado na Edda Poética. Ele representa o arquétipo do anão erudito, profundo conhecedor do cosmos, mas também orgulhoso e ingênuo, qualidades que acabam levando à sua ruína.",
+  description: "Alvíss e o diálogo com Thor em Alvíssmál: os nomes poéticos do mundo, o casamento pretendido e a armadilha do amanhecer.",
   category: "criaturas",
   section: "glossario",
   subcategory: "anoes",
   date: "2026-03-05",
   cover: "/images/glossario/criaturas/anoes/alvis.png",
   tags: ["alvis", "alvíss", "anão", "anoes", "mitologia nordica", "alvíssmál", "edda poetica", "thor", "þrúðr", "sabedoria", "cosmologia"],
-  content: `## O Anão Erudito da Edda Poética
+  content: `## O Anão que Interroga o Mundo
 
-**Alvíss** (frequentemente anglicizado como **Alvis**) é um anão da **mitologia nórdica** conhecido principalmente pelo poema **Alvíssmál** (“Os Ditos de Alvis”), preservado na **Edda Poética**. Seu nome significa algo como **“o onisciente”** ou **“todo-sábio”**, e ele representa o arquétipo do anão erudito: um ser de vasto conhecimento sobre o cosmos, a linguagem e a ordem do mundo.
-
-Ao mesmo tempo, Alvíss também encarna um traço recorrente da mitologia nórdica: a sabedoria sem prudência. Seu enorme saber não é suficiente para salvá-lo da própria vaidade.
-
-## Quem é Alvíss no Contexto Mítico
-
-Diferente de anões associados principalmente à forja ou ao ouro, Alvíss se destaca pelo **conhecimento intelectual**. Ele não é lembrado por criar artefatos divinos, mas por dominar nomes, categorias e visões cosmológicas compartilhadas por diferentes seres do universo nórdico.
-
-Ele representa:
-
-- **A Sabedoria enciclopédica**
-- **O Conhecimento das linguagens do cosmos**
-- **A Erudição anã**
-- **O Risco do orgulho intelectual**
-
-## A Reivindicação da Mão de Þrúðr
-
-Segundo o mito, Alvíss reivindica a mão de **Þrúðr (Trud)**, filha do deus **Thor**. A promessa do casamento teria sido feita na ausência de Thor, e ao retornar, o deus do trovão decide impedir a união sem violar diretamente a palavra dada.
-
-Em vez de recorrer à força bruta, Thor escolhe outro caminho: um teste.
+**Alvíss** é o anão que deseja casar com a filha de Thor em **Alvíssmál**, poema da Edda Poética. A jovem não é nomeada no poema; identificá-la como Þrúðr é uma associação posterior, não uma informação explícita dessa passagem.
 
 ## O Desafio de Thor
 
-Thor propõe que Alvíss prove sua sabedoria respondendo a uma série de perguntas. O desafio gira em torno de como diferentes tipos de seres, como:
+Thor diz não ter autorizado a promessa e condiciona o casamento a uma prova de conhecimento. Pergunta como terra, céu, lua, sol, nuvens e outros elementos são chamados entre diferentes seres. Alvíss responde com séries de nomes poéticos.
 
-- **Deuses**
-- **Homens**
-- **Anões**
-- **Gigantes**
+O interesse do poema está tanto no diálogo quanto no vocabulário da poesia. Não é necessário entender cada denominação como prova de uma cosmologia separada para cada povo mítico.
 
-nomeiam os elementos fundamentais do mundo, como o céu, a lua, o sol, a terra, o mar, o fogo e outros aspectos do cosmos.
+## A Luz do Amanhecer
 
-Esse interrogatório transforma o poema em uma espécie de catálogo poético do universo nórdico, revelando múltiplas formas de linguagem e percepção da realidade.
+Na estrofe 35, Thor revela que o enganou: o dia chegou e o sol ilumina o salão. A transformação em pedra é a explicação tradicional do desfecho, apresentada também nas notas de Bellows. A estrofe final, porém, não descreve passo a passo uma petrificação. Essa distinção preserva a diferença entre texto e comentário.
 
-## O Saber de Alvíss
+## Interpretação Editorial
 
-Alvíss responde corretamente a todas as perguntas, demonstrando conhecimento extraordinário. Sua fala revela domínio cosmológico, linguístico e simbólico, reforçando a imagem do anão como ser profundamente instruído nas estruturas do mundo.
+O contraste entre erudição e astúcia permite ler o episódio como uma reflexão sobre os limites do conhecimento. Essa é uma interpretação literária, não uma definição religiosa formulada pelo poema.
 
-Nesse sentido, ele encarna a ideia de que os anões não dominam apenas a matéria, mas também o saber antigo e oculto.
+## Fonte
 
-## A Ruína ao Amanhecer
-
-Mas o desafio tem uma armadilha. Thor prolonga o diálogo até o amanhecer. Quando o sol nasce, sua luz atinge Alvíss e ele é **petrificado**, transformando-se em pedra, como acontece com muitos anões em certas tradições nórdicas.
-
-Assim, Thor vence não pela força, mas pela **astúcia**.
-
-A tragédia de Alvíss está justamente aí: ele sabia muito, mas não percebeu que estava sendo conduzido à ruína.
-
-## Alvíss Como Figura Simbólica
-
-Alvíss é uma figura fascinante porque une grandeza e limite. Ele representa o valor do conhecimento, mas também o perigo da confiança excessiva em si mesmo. Sua sabedoria é real, mas sua percepção prática falha diante da estratégia de Thor.
-
-Ele simboliza:
-
-- **O Saber vasto do anão erudito**
-- **A Linguagem como forma de poder**
-- **O Orgulho intelectual**
-- **A Astúcia divina que supera a pura erudição**
-
-## Significado Simbólico
-
-Alvíss representa:
-
-- **O Anão todo-sábio da tradição eddica**
-- **A Erudição cosmológica do povo anão**
-- **O Conhecimento das múltiplas linguagens do mundo**
-- **A Queda provocada pela ingenuidade e pelo orgulho**
-- **A Vitória da astúcia de Thor sobre a sabedoria excessivamente confiante**
-
-Dentro do glossário dos anões, Alvíss ocupa um lugar especial como uma das figuras mais intelectualmente marcantes da mitologia nórdica, um personagem que transforma sabedoria em poesia, mas também em tragédia.`,
+- [Alvíssmál, estrofes 1–8 e 35, com o diálogo intermediário](https://sacred-texts.com/book/the-poetic-edda/alvissmol), tradução e notas de Henry Adams Bellows (1923).`,
 },
   {
     slug: "asgard",
@@ -4343,7 +3122,9 @@ Dentro de Asgard encontram-se salões lendários:
 - **Gladsheim:** O salão do conselho dos deuses
 - **Vingólf:** O santuário das deusas
 
-## Significado Cósmico
+## Interpretação editorial: Significado Cósmico
+
+A leitura a seguir é uma interpretação temática do site, não uma afirmação literal de uma fonte medieval.
 
 Asgard representa a ordem divina, o poder e a sabedoria dos Aesir. É o centro do governo cósmico, de onde Odin observa todos os mundos sentado em seu trono **Hlidskjálf**. Dali, seus corvos **Huginn** e **Muninn** partem diariamente para trazer notícias de toda a criação.`,
   },
@@ -4684,789 +3465,675 @@ A narrativa de Helgi envolve batalhas épicas, honra inabalável e o cumprimento
   },
   {
     slug: "fehu",
-    title: "Fehu ᚠ — A Runa da Riqueza",
-    description: "Fehu, a primeira runa do Elder Futhark, simboliza riqueza, gado, abundância e o fluxo de energia vital.",
+    title: "Fehu ᚠ — Riqueza e Gado",
+    description: "Fehu ᚠ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
     category: "runas",
     section: "glossario",
     date: "2025-02-01",
     cover: "/images/glossario/runas/fehu.png",
-    tags: ["fehu", "runas", "elder futhark", "riqueza"],
-    content: `## Fehu ᚠ
+    tags: ["fehu","runas","futhark antigo","poemas rúnicos","história da escrita"],
+    content: `## A Runa como Escrita
 
-**Fehu** é a primeira runa do Elder Futhark, o mais antigo alfabeto rúnico conhecido. Seu nome significa "gado" ou "riqueza móvel" em nórdico antigo.
+**Fehu ᚠ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **f**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Gado, riqueza material
-- **Simbólico:** Abundância, prosperidade, energia vital, novos começos
-- **Invertida:** Perda, desperdício, ganância
+O poema anglo-saxão associa Feoh à riqueza e à necessidade de generosidade; o norueguês também relaciona Fé à discórdia entre parentes. Não são instruções de um feitiço para atrair dinheiro.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na sociedade viking, a riqueza era medida em cabeças de gado. Fehu representa não apenas riqueza material, mas o fluxo constante de energia e recursos. É uma runa de movimento e circulação — a riqueza que fica parada apodrece.
+## História e Interpretação Contemporânea
 
-## Uso Mágico
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Fehu era utilizada em inscrições para atrair prosperidade e sucesso em empreendimentos comerciais. Também era associada ao deus Freyr, divindade da fertilidade e abundância.`,
+## Fontes
+
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
   },
   {
   slug: "uruz",
-  title: "Uruz ᚢ — A Runa da Força Primordial",
-  description: "Uruz, a segunda runa do Elder Futhark, simboliza força, vitalidade, poder bruto e a energia primordial da vida.",
+  title: "Uruz ᚢ — O Auroque e as Variações do Nome",
+  description: "Uruz ᚢ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/uruz.png",
-  tags: ["uruz", "runas", "elder futhark", "força", "vitalidade", "poder"],
-  content: `## Uruz ᚢ
+  tags: ["uruz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Uruz** é a segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **auroque** (um grande boi selvagem da Europa antiga), animal símbolo de força indomável, resistência e vitalidade.
+**Uruz ᚢ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **u**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Auroque, boi selvagem
-- **Simbólico:** Força física, vitalidade, poder primordial, transformação
-- **Invertida:** Fraqueza, perda de energia, estagnação
+O Úr anglo-saxão descreve o auroque. Nos poemas escandinavos, os nomes correspondentes se ligam à escória ou à chuva. Essas diferenças impedem tratar ‘força primordial’ como tradução única e literal.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-O auroque era um animal poderoso e temido na Europa antiga. Representava força natural em estado bruto — uma energia que não foi domesticada.
+## História e Interpretação Contemporânea
 
-Por isso, **Uruz** simboliza a potência vital da natureza: a força que sustenta a vida, impulsiona mudanças e permite superar dificuldades.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também pode indicar momentos de **transformação profunda**, nos quais a energia interior precisa ser despertada.
+## Fontes
 
-## Uso Mágico
-
-Uruz era associada a rituais de fortalecimento, saúde e renovação. Inscrições com essa runa podiam ser usadas para invocar vigor físico, resistência em batalhas ou recuperação após doenças.
-
-Em práticas simbólicas, Uruz representa a força que surge das raízes da vida — o poder natural que existe antes da civilização e das estruturas sociais.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "thurisaz",
-  title: "Thurisaz ᚦ — A Runa dos Gigantes e da Defesa",
-  description: "Thurisaz, a terceira runa do Elder Futhark, simboliza gigantes, defesa, conflito e forças perigosas que exigem reação consciente.",
+  title: "Thurisaz ᚦ — Espinho e Gigante",
+  description: "Thurisaz ᚦ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/thurisaz.png",
-  tags: ["thurisaz", "runas", "elder futhark", "gigantes", "defesa", "conflito"],
-  content: `## Thurisaz ᚦ
+  tags: ["thurisaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Thurisaz** é a terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado aos **þursar**, os gigantes ou seres caóticos da mitologia nórdica, frequentemente associados a forças brutas, destrutivas e perigosas.
+**Thurisaz ᚦ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **þ**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Gigante, þurs
-- **Simbólico:** Defesa, confronto, reação, força caótica, proteção ativa
-- **Invertida:** Vulnerabilidade, conflito mal conduzido, ataque sem controle
+O poema anglo-saxão descreve Þorn, o espinho; os poemas escandinavos usam Þurs, gigante. Atribuir defesa espiritual a todas essas ocorrências é uma interpretação posterior.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição nórdica, os gigantes representam forças antigas e indomadas da natureza e do caos. Por isso, **Thurisaz** carrega uma energia ambígua: ela tanto aponta para o perigo quanto para a capacidade de enfrentá-lo.
+## História e Interpretação Contemporânea
 
-É uma runa de **limite**, **choque** e **resposta defensiva**. Ela aparece quando algo precisa ser confrontado, bloqueado ou impedido. Diferente de uma proteção passiva, Thurisaz sugere defesa com presença, reação e firmeza.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também está associada ao martelo de **Thor**, o defensor de Asgard contra as forças gigantescas e caóticas.
+## Fontes
 
-## Uso Mágico
-
-Thurisaz era utilizada em contextos de proteção, quebra de influências hostis e fortalecimento diante de ameaças. Em inscrições rúnicas, podia simbolizar defesa espiritual, barreira contra inimigos e poder de reação em tempos de crise.
-
-Em práticas simbólicas, Thurisaz representa a força necessária para enfrentar o caos sem ser consumido por ele, transformando conflito em consciência e defesa em poder.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "ansuz",
-  title: "Ansuz ᚨ — A Runa da Comunicação e da Inspiração Divina",
-  description: "Ansuz, a quarta runa do Elder Futhark, simboliza comunicação, palavra sagrada, sabedoria e inspiração divina.",
+  title: "Ansuz ᚨ — Um Nome com Tradições Diferentes",
+  description: "Ansuz ᚨ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/ansuz.png",
-  tags: ["ansuz", "runas", "elder futhark", "comunicação", "inspiração divina", "sabedoria"],
-  content: `## Ansuz ᚨ
+  tags: ["ansuz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Ansuz** é a quarta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado aos **Aesir**, os deuses do panteão nórdico, e por isso carrega forte associação com a **palavra inspirada**, a **sabedoria divina** e a **comunicação sagrada**.
+**Ansuz ᚨ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **a**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Deus, divindade, Aesir
-- **Simbólico:** Comunicação, inspiração divina, sabedoria, revelação, mensagem
-- **Invertida:** Mal-entendido, distorção, bloqueio de comunicação, conselho enganoso
+O poema anglo-saxão associa Ós à fala; o islandês descreve Óss em termos ligados a Odin, enquanto o norueguês apresenta a foz de um rio. O contexto linguístico importa mais do que uma equivalência universal com inspiração.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição nórdica, **Ansuz** está ligada à fala que transmite poder, conhecimento e ordem. É a runa da voz carregada de sentido, do discurso que ensina, orienta e transforma.
+## História e Interpretação Contemporânea
 
-Frequentemente é associada a **Odin**, deus da sabedoria, da poesia e das runas, reforçando sua conexão com a inspiração, a linguagem e a transmissão de conhecimento oculto.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, Ansuz representa tanto a comunicação entre pessoas quanto a ideia de receber sinais, conselhos ou percepções vindas de uma fonte mais alta.
+## Fontes
 
-## Uso Mágico
-
-Ansuz era utilizada em inscrições ligadas à eloquência, à sabedoria e à clareza mental. Podia ser invocada em contextos de aprendizado, conselhos, negociações, discursos e práticas voltadas à inspiração poética ou espiritual.
-
-Em práticas simbólicas, Ansuz representa a força da palavra viva, aquela que não apenas informa, mas desperta consciência, alinha pensamento e conecta o humano ao divino.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "raidho",
-  title: "Raidho ᚱ — A Runa da Jornada e do Destino",
-  description: "Raidho, a quinta runa do Elder Futhark, simboliza jornada, movimento, caminho correto e o fluxo do destino em ação.",
+  title: "Raidho ᚱ — Cavalgada e Viagem",
+  description: "Raidho ᚱ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/raidho.png",
-  tags: ["raidho", "runas", "elder futhark", "jornada", "movimento", "destino"],
-  content: `## Raidho ᚱ
+  tags: ["raidho","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Raidho** é a quinta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **cavalgada**, **viagem** ou **deslocamento**, e por isso representa o movimento com direção, a jornada orientada e o caminho que se desenrola no tempo.
+**Raidho ᚱ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **r**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Cavalgada, viagem, percurso
-- **Simbólico:** Jornada, movimento, ordem, caminho correto, destino em curso
-- **Invertida:** Desvio, atraso, desordem, caminho bloqueado
+Os poemas associam o nome à cavalgada. O texto anglo-saxão contrasta a facilidade de falar de uma viagem com o esforço do cavalo. ‘Destino pessoal’ não é uma tradução literal desse verso.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Raidho** não representa apenas movimento físico, mas também o alinhamento entre ação e percurso. É a runa do caminho que faz sentido, da travessia guiada por ordem, ritmo e propósito.
+## História e Interpretação Contemporânea
 
-Ela pode simbolizar viagens, mudanças de fase, deslocamentos importantes e o avanço de processos que precisam seguir seu curso natural. Também está ligada à ideia de que o destino não é apenas algo que acontece, mas algo que se percorre.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, Raidho fala tanto de estrada quanto de direção interior: mover-se é importante, mas mover-se na direção certa é essencial.
+## Fontes
 
-## Uso Mágico
-
-Raidho era utilizada em inscrições ligadas a proteção em viagens, condução segura, organização de caminhos e harmonização de processos em andamento. Também podia ser associada à busca por direção, resolução de impasses e alinhamento com o próprio destino.
-
-Em práticas simbólicas, Raidho representa o movimento que encontra ordem, a jornada que conduz ao lugar certo e o destino que se revela passo a passo no caminho percorrido.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "kenaz",
-  title: "Kenaz ᚲ — A Runa do Conhecimento e da Iluminação",
-  description: "Kenaz, a sexta runa do Elder Futhark, simboliza conhecimento, iluminação, criatividade e a chama que revela o que estava oculto.",
+  title: "Kenaz ᚲ — Tocha e Ferida",
+  description: "Kenaz ᚲ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/kenaz.png",
-  tags: ["kenaz", "runas", "elder futhark", "conhecimento", "iluminação", "criatividade"],
-  content: `## Kenaz ᚲ
+  tags: ["kenaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Kenaz** é a sexta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **tocha**, **chama controlada** ou **fogo de conhecimento**, e por isso representa a luz que esclarece, aquece e transforma.
+**Kenaz ᚲ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **k**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Tocha, chama
-- **Simbólico:** Conhecimento, iluminação, criatividade, revelação, habilidade
-- **Invertida:** Confusão, perda de clareza, bloqueio criativo, obscuridade
+O Cén anglo-saxão é descrito como uma tocha. O Kaun escandinavo é uma ferida ou úlcera. ‘Iluminação espiritual’ é uma leitura moderna, não um significado comum comprovado para todas as tradições.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Kenaz** representa o fogo que não destrói de forma caótica, mas ilumina e permite ver com clareza. É a chama do artesão, do poeta, do curador e de todos aqueles que transformam matéria, ideias ou experiência em algo novo.
+## História e Interpretação Contemporânea
 
-Por isso, Kenaz está associada ao aprendizado, à percepção repentina, à inspiração e ao refinamento de talentos. Ela simboliza o momento em que algo escondido se torna visível, compreensível e utilizável.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também pode indicar processos de cura e regeneração, pois a luz da consciência permite identificar o que precisa ser trabalhado e transformado.
+## Fontes
 
-## Uso Mágico
-
-Kenaz era utilizada em inscrições ligadas ao conhecimento, à inspiração, à arte, à cura e à revelação de caminhos antes obscuros. Podia ser invocada em contextos de estudo, criação, aperfeiçoamento técnico e despertar de percepção interior.
-
-Em práticas simbólicas, Kenaz representa a chama da mente e do espírito, a luz que revela potencial, dissipa a escuridão e transforma ignorância em compreensão.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "gebo",
-  title: "Gebo ᚷ — A Runa do Presente e da Parceria",
-  description: "Gebo, a sétima runa do Elder Futhark, simboliza presente, troca, parceria e o equilíbrio das relações baseadas em reciprocidade.",
+  title: "Gebo ᚷ — O Presente",
+  description: "Gebo ᚷ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/gebo.png",
-  tags: ["gebo", "runas", "elder futhark", "presente", "troca", "parceria"],
-  content: `## Gebo ᚷ
+  tags: ["gebo","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Gebo** é a sétima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **presente** ou **dádiva**, e por isso está profundamente ligada à ideia de troca, reciprocidade e alianças construídas com equilíbrio.
+**Gebo ᚷ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **g**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Presente, dádiva
-- **Simbólico:** Troca, parceria, reciprocidade, aliança, equilíbrio relacional
-- **Invertida:** Gebo tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar troca injusta, dependência ou vínculos desarmônicos
+Gyfu, no poema anglo-saxão, relaciona o presente à honra, ao sustento e à ajuda. A passagem permite discutir reciprocidade, mas não estabelece uma regra divinatória sobre relacionamentos.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na cultura nórdica e germânica, o ato de dar e receber tinha enorme importância social e espiritual. Presentes não eram apenas objetos, eram formas de criar laços, selar alianças, demonstrar honra e estabelecer compromissos entre pessoas, famílias e líderes.
+## História e Interpretação Contemporânea
 
-Por isso, **Gebo** representa relações em que existe circulação equilibrada de valor. Ela fala de parceria verdadeira, cooperação e troca justa, em que ambas as partes participam do vínculo de forma viva e consciente.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também pode simbolizar o encontro entre forças complementares, mostrando que certas conquistas não surgem do isolamento, mas da união entre pessoas, talentos ou caminhos.
+## Fontes
 
-## Uso Mágico
-
-Gebo era associada a rituais de união, acordos, alianças e fortalecimento de vínculos. Podia ser utilizada em inscrições ligadas a amizades, parcerias, trocas comerciais, compromissos afetivos e harmonização de relações.
-
-Em práticas simbólicas, Gebo representa o poder da reciprocidade: o presente que cria ligação, a troca que fortalece e a parceria que transforma duas forças em algo maior do que cada uma isoladamente.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "wunjo",
-  title: "Wunjo ᚹ — A Runa da Alegria e da Harmonia",
-  description: "Wunjo, a oitava runa do Elder Futhark, simboliza alegria, harmonia, felicidade e a sensação de bem-estar que surge quando tudo encontra seu lugar.",
+  title: "Wunjo ᚹ — Alegria",
+  description: "Wunjo ᚹ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/wunjo.png",
-  tags: ["wunjo", "runas", "elder futhark", "alegria", "harmonia", "felicidade"],
-  content: `## Wunjo ᚹ
+  tags: ["wunjo","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Wunjo** é a oitava runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **alegria**, **contentamento** e **harmonia interior**, representando o momento em que forças, emoções e relações entram em equilíbrio.
+**Wunjo ᚹ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **w**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Alegria, contentamento
-- **Simbólico:** Harmonia, felicidade, bem-estar, realização, alinhamento
-- **Invertida:** Tristeza, desarmonia, frustração, desalinhamento emocional
+Wynn, no poema anglo-saxão, descreve alegria e bem-estar em contraste com sofrimento e carência. O verso não promete felicidade a quem portar o sinal.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Wunjo** representa a alegria que nasce do equilíbrio verdadeiro. Não se trata apenas de prazer passageiro, mas de uma sensação mais profunda de consonância, quando a vida, os vínculos e o interior da pessoa parecem estar em acordo.
+## História e Interpretação Contemporânea
 
-Ela pode indicar momentos de paz, celebração, convivência harmoniosa e resultados positivos após períodos de esforço ou tensão. Também está ligada à ideia de pertencimento, de sentir-se bem em um grupo, em uma casa ou em um caminho.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, Wunjo simboliza a felicidade que surge quando existe coerência entre o que se vive, o que se sente e o que se constrói.
+## Fontes
 
-## Uso Mágico
-
-Wunjo era utilizada em inscrições ligadas à harmonia, à paz entre pessoas, à alegria compartilhada e ao fortalecimento de vínculos saudáveis. Podia ser invocada em contextos de cura emocional, reconciliação, celebração e busca por equilíbrio interno.
-
-Em práticas simbólicas, Wunjo representa a alegria que não aliena, mas integra, a felicidade que vem do alinhamento e a harmonia que transforma esforço em plenitude.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "hagalaz",
-  title: "Hagalaz ᚺ — A Runa da Destruição e da Mudança Repentina",
-  description: "Hagalaz, a nona runa do Elder Futhark, simboliza destruição, ruptura, forças incontroláveis da natureza e mudanças repentinas que transformam o curso dos acontecimentos.",
+  title: "Hagalaz ᚺ — Granizo",
+  description: "Hagalaz ᚺ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/hagalaz.png",
-  tags: ["hagalaz", "runas", "elder futhark", "destruição", "mudança repentina", "transformação"],
-  content: `## Hagalaz ᚺ
+  tags: ["hagalaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Hagalaz** é a nona runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **granizo**, e por isso está ligada às forças súbitas e destrutivas da natureza, aquelas que interrompem, quebram e alteram o curso normal das coisas.
+**Hagalaz ᚺ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **h**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Granizo
-- **Simbólico:** Destruição, ruptura, mudança repentina, crise, transformação forçada
-- **Invertida:** Hagalaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar caos prolongado, resistência à mudança ou sensação de colapso
+Os poemas rúnicos descrevem o granizo e seus efeitos. Usar essa imagem como metáfora de mudanças imprevistas é uma interpretação, distinta do nome e da função escrita da letra.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Hagalaz** representa o impacto do inesperado. Assim como uma tempestade de granizo pode cair de repente e destruir plantações, planos e estruturas, essa runa simboliza eventos que vêm de fora do controle humano e exigem adaptação imediata.
+## História e Interpretação Contemporânea
 
-Ela está associada à quebra de padrões, ao colapso de formas antigas e à necessidade de atravessar períodos turbulentos. Embora sua energia seja dura, Hagalaz não fala apenas de perda: ela também representa a transformação que só acontece quando algo rígido é rompido.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, é uma runa ligada à crise como agente de mudança. O que ela destrói muitas vezes já não podia permanecer como estava.
+## Fontes
 
-## Uso Mágico
-
-Hagalaz era associada a processos de quebra, proteção diante de forças hostis e compreensão de ciclos de crise e renovação. Em inscrições e leituras simbólicas, podia indicar momentos em que o destino impõe ruptura para redirecionar a vida ou revelar fragilidades ocultas.
-
-Em práticas simbólicas, Hagalaz representa a tempestade inevitável que desorganiza para transformar, a força que rompe ilusões de controle e o poder da mudança que chega sem pedir permissão.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "nauthiz",
-  title: "Nauthiz ᚾ — A Runa da Necessidade e da Resistência",
-  description: "Nauthiz, a décima runa do Elder Futhark, simboliza necessidade, dificuldade, limitação e a resistência desenvolvida diante da pressão e da escassez.",
+  title: "Nauthiz ᚾ — Necessidade",
+  description: "Nauthiz ᚾ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/nauthiz.png",
-  tags: ["nauthiz", "runas", "elder futhark", "necessidade", "dificuldade", "resistência"],
-  content: `## Nauthiz ᚾ
+  tags: ["nauthiz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Nauthiz** é a décima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **necessidade** ou **carência**, e por isso está ligada a situações de pressão, dificuldade e limitação que exigem resistência, disciplina e adaptação.
+**Nauthiz ᚾ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **n**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Necessidade, Carência
-- **Simbólico:** Dificuldade, Resistência, Restrição, Pressão, Superação
-- **Invertida:** Sofrimento prolongado, Impotência, Bloqueio, Escassez mal administrada
+Nyd, no poema anglo-saxão, trata da aflição e da necessidade; os poemas escandinavos também a relacionam a dificuldades. Conselhos de autoconhecimento derivados disso pertencem à leitura contemporânea.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Nauthiz** representa os momentos em que a vida impõe limites. É a runa da fricção, daquilo que aperta, atrasa ou dificulta, mas que ao mesmo tempo fortalece.
+## História e Interpretação Contemporânea
 
-Ela simboliza a experiência de enfrentar carência, pressão ou obstáculos sem poder simplesmente evitá-los. Por isso, Nauthiz está ligada à resistência interior, à capacidade de suportar o desconforto e de encontrar meios de continuar mesmo quando os recursos são poucos.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Diferente de uma runa de destruição súbita, Nauthiz fala de tensão contínua: o desafio que testa a firmeza, obriga a rever prioridades e ensina a distinguir o essencial do supérfluo.
+## Fontes
 
-## Uso Mágico
-
-Nauthiz era utilizada em inscrições ligadas à proteção em tempos difíceis, ao fortalecimento diante de privações e à disciplina necessária para atravessar crises. Também podia ser associada a práticas de contenção, sobrevivência e domínio da vontade em situações de escassez.
-
-Em práticas simbólicas, Nauthiz representa a força que nasce da necessidade, a resistência construída sob pressão e a sabedoria adquirida quando a dificuldade obriga a amadurecer.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "isa",
-  title: "Isa ᛁ — A Runa do Gelo e da Pausa",
-  description: "Isa, a décima primeira runa do Elder Futhark, simboliza gelo, estagnação, imobilidade e a pausa necessária antes de um novo movimento.",
+  title: "Isa ᛁ — Gelo",
+  description: "Isa ᛁ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/isa.png",
-  tags: ["isa", "runas", "elder futhark", "gelo", "estagnação", "pausa"],
-  content: `## Isa ᛁ
+  tags: ["isa","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Isa** é a décima primeira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **gelo**, e por isso está ligada à imobilidade, à suspensão do movimento e aos períodos em que tudo parece parar.
+**Isa ᛁ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **i**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Gelo
-- **Simbólico:** Estagnação, Pausa, Imobilidade, Contenção, Clareza fria
-- **Invertida:** Isa tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar rigidez excessiva, isolamento ou paralisação prolongada
+Os poemas descrevem o gelo, seu brilho e seus perigos. ‘Pausa interior’ é uma metáfora possível para leitores modernos, não uma definição histórica de um oráculo.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Isa** representa o momento em que a energia deixa de fluir livremente e se cristaliza. É a runa da pausa, da contenção e da quietude forçada ou necessária.
+## História e Interpretação Contemporânea
 
-Assim como o gelo preserva, endurece e interrompe o movimento da água, Isa simboliza situações em que o avanço é suspenso. Isso pode ser vivido como bloqueio, frieza ou estagnação, mas também como um tempo de observação, silêncio e foco.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Isa não fala necessariamente de fracasso ou fim. Muitas vezes, indica apenas que ainda não é hora de agir, e que a clareza precisa surgir antes do próximo passo.
+## Fontes
 
-## Uso Mágico
-
-Isa era associada a práticas de contenção, estabilização e interrupção de influências indesejadas. Podia ser usada em inscrições ligadas à preservação, ao autocontrole, à proteção por imobilização e à necessidade de esfriar impulsos desordenados.
-
-Em práticas simbólicas, Isa representa a força do repouso, a lucidez que nasce do silêncio e a pausa inevitável que antecede transformações futuras.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "jera",
-  title: "Jera ᛃ — A Runa da Colheita e dos Ciclos Naturais",
-  description: "Jera, a décima segunda runa do Elder Futhark, simboliza colheita, ciclos naturais, recompensa e os resultados que chegam no tempo certo.",
+  title: "Jera ᛃ — Ano e Colheita",
+  description: "Jera ᛃ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/jera.png",
-  tags: ["jera", "runas", "elder futhark", "colheita", "ciclos naturais", "recompensa"],
-  content: `## Jera ᛃ
+  tags: ["jera","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Jera** é a décima segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **ano**, **estação** ou **colheita**, e por isso representa os ciclos naturais do tempo, o amadurecimento dos processos e a recompensa que chega após esforço e espera.
+**Jera ᛃ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **j**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Ano, Colheita
-- **Simbólico:** Recompensa, Ciclos naturais, Resultado, Tempo certo, Frutificação
-- **Invertida:** Jera tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar atraso na colheita, impaciência ou dificuldade em respeitar o tempo dos processos
+Gér, no poema anglo-saxão, está ligado ao ano favorável e aos frutos da terra. Os nomes escandinavos correspondentes também evocam um bom ano. A sazonalidade não comprova práticas individuais de adivinhação.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Jera** representa a lógica do ciclo completo: plantar, cuidar, esperar e colher. Ela está ligada à compreensão de que nem tudo pode ser apressado, porque certas recompensas só surgem quando o tempo, o trabalho e as condições certas se encontram.
+## História e Interpretação Contemporânea
 
-Por isso, Jera simboliza tanto a **colheita material** quanto a **frutificação simbólica** de ações passadas. É a runa dos resultados merecidos, do retorno natural daquilo que foi semeado e da harmonia com os ritmos do mundo.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Ela também lembra que todo fim prepara um novo começo: cada colheita encerra um ciclo, mas também inicia outro.
+## Fontes
 
-## Uso Mágico
-
-Jera era utilizada em inscrições ligadas à prosperidade, à boa colheita, ao amadurecimento de projetos e à chegada de recompensas após períodos de trabalho. Também podia ser associada à paciência, à fertilidade e ao alinhamento com os ritmos naturais da vida.
-
-Em práticas simbólicas, Jera representa o tempo certo das coisas, a recompensa que vem com constância e a sabedoria de respeitar os ciclos que governam crescimento, maturação e retorno.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "eihwaz",
-  title: "Eihwaz ᛇ — A Runa do Eixo do Mundo e da Transformação",
-  description: "Eihwaz, a décima terceira runa do Elder Futhark, simboliza eixo do mundo, transformação, proteção e a resistência que atravessa mudanças profundas.",
+  title: "Eihwaz ᛇ — O Teixo",
+  description: "Eihwaz ᛇ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/eihwaz.png",
-  tags: ["eihwaz", "runas", "elder futhark", "eixo do mundo", "transformação", "proteção"],
-  content: `## Eihwaz ᛇ
+  tags: ["eihwaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Eihwaz** é a décima terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **teixo**, árvore associada à longevidade, à resistência e à ligação entre vida, morte e renovação. Por isso, Eihwaz representa transformação profunda, proteção e estabilidade diante de passagens difíceis.
+**Eihwaz ᛇ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **valor fonético discutido**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Teixo
-- **Simbólico:** Transformação, Proteção, Resistência, Eixo do mundo, Travessia entre estados
-- **Invertida:** Eihwaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar medo da mudança, bloqueio de passagem ou resistência excessiva ao inevitável
+Eoh, no poema anglo-saxão, descreve o teixo. A leitura como ‘eixo do mundo’ ou a identificação direta com Yggdrasil requer uma argumentação adicional; não está dada na estrofe.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Eihwaz** está associada à ideia de sustentação profunda. O teixo é uma árvore ligada tanto à durabilidade quanto ao mistério, frequentemente associada a arcos, morte ritual, renascimento e continuidade.
+## História e Interpretação Contemporânea
 
-Por isso, Eihwaz pode ser entendida como uma runa do **eixo do mundo**, aquilo que conecta planos, sustenta travessias e permite que a consciência atravesse períodos de transformação sem se romper. Ela fala de mudanças que não são superficiais, mas estruturais, em que algo precisa morrer simbolicamente para que outra forma de existência possa emergir.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também é uma runa de proteção, não no sentido de evitar toda dor, mas de dar firmeza para atravessar processos intensos com integridade.
+## Fontes
 
-## Uso Mágico
-
-Eihwaz era utilizada em inscrições ligadas à proteção espiritual, à resistência em tempos de crise, à travessia segura entre fases e ao fortalecimento diante de mudanças inevitáveis. Também podia ser associada à conexão com o invisível, à profundidade interior e à sustentação em ritos de passagem.
-
-Em práticas simbólicas, Eihwaz representa a coluna que sustenta a transformação, a proteção que acompanha a travessia e a força silenciosa que permanece firme entre o fim de um ciclo e o nascimento de outro.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "perthro",
-  title: "Perthro ᛈ — A Runa do Destino e do Mistério",
-  description: "Perthro, a décima quarta runa do Elder Futhark, simboliza destino, mistério, sorte e os aspectos ocultos do que ainda está por se revelar.",
+  title: "Perthro ᛈ — Um Nome de Significado Incerto",
+  description: "Perthro ᛈ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/perthro.png",
-  tags: ["perthro", "runas", "elder futhark", "destino", "mistério", "sorte"],
-  content: `## Perthro ᛈ
+  tags: ["perthro","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Perthro** é a décima quarta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu significado exato é debatido, mas ela costuma ser associada a ideias como **mistério**, **sorte**, **destino** e aquilo que permanece oculto até o momento certo de se revelar.
+**Perthro ᛈ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **p**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Significado incerto, frequentemente associado a receptáculo, jogo de sorte ou sorteio
-- **Simbólico:** Destino, mistério, acaso, revelação oculta, sorte
-- **Invertida:** Segredos ocultos, ilusões, azar, bloqueio intuitivo, dificuldade em compreender o que está em jogo
+Peorð é um dos nomes mais difíceis do poema anglo-saxão. A estrofe evoca diversão entre guerreiros, mas o referente do nome é discutido. Traduzir com certeza por ‘destino’, ‘útero’ ou ‘copo de dados’ apaga essa incerteza.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Perthro** está ligada ao que não pode ser totalmente previsto ou controlado. Ela representa o encontro entre acaso e destino, o momento em que forças invisíveis parecem influenciar o curso dos acontecimentos.
+## História e Interpretação Contemporânea
 
-Por isso, Perthro é frequentemente vista como uma runa dos **mistérios**, daquilo que está escondido sob a superfície, aguardando o instante de emergir. Também pode simbolizar sorte, mas não de forma superficial: trata-se da sorte como parte de um tecido maior de possibilidades, escolhas e forças ocultas.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Ela convida à percepção do invisível, à aceitação do incerto e à compreensão de que nem tudo pode ser revelado antes da hora.
+## Fontes
 
-## Uso Mágico
-
-Perthro era associada a práticas ligadas à intuição, ao destino, à descoberta de segredos e à abertura para sinais ocultos. Podia ser utilizada em inscrições relacionadas a jogos de sorte, revelações, processos iniciáticos e busca por compreensão do que ainda não está claro.
-
-Em práticas simbólicas, Perthro representa o véu entre o conhecido e o desconhecido, a sorte que surge de caminhos invisíveis e o mistério que participa silenciosamente da construção do destino.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "algiz",
-  title: "Algiz ᛉ — A Runa da Proteção e da Defesa Espiritual",
-  description: "Algiz, a décima quinta runa do Elder Futhark, simboliza proteção, defesa espiritual, amparo e a conexão com forças que preservam a integridade do ser.",
+  title: "Algiz ᛉ — Nome e Interpretações",
+  description: "Algiz ᛉ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/algiz.png",
-  tags: ["algiz", "runas", "elder futhark", "proteção", "defesa espiritual", "amparo"],
-  content: `## Algiz ᛉ
+  tags: ["algiz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Algiz** é a décima quinta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Ela está ligada à ideia de **proteção**, **defesa espiritual** e conexão com forças superiores de preservação e cuidado.
+**Algiz ᛉ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **z**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Significado exato debatido, frequentemente associado a alce, junco ou gesto de proteção
-- **Simbólico:** Proteção, Defesa espiritual, Amparo, Vigilância, Conexão sagrada
-- **Invertida:** Vulnerabilidade, Exposição, Falta de proteção, Descuido espiritual
+O poema anglo-saxão descreve Eolh-secg, uma planta cortante de terreno pantanoso. A relação com a reconstrução do nome da runa antiga exige cautela. O sentido popular de ‘proteção espiritual’ não é uma tradução direta dessa estrofe.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Algiz** representa a energia que protege sem necessariamente atacar. É a runa da guarda, da presença atenta e da integridade preservada diante de ameaças visíveis e invisíveis.
+## História e Interpretação Contemporânea
 
-Seu formato é muitas vezes interpretado como braços erguidos em invocação, galhos abertos para o alto ou chifres de um animal atento, sugerindo alerta, receptividade e defesa. Por isso, Algiz está ligada tanto à proteção física quanto à espiritual, funcionando como um símbolo de ligação entre o humano e o sagrado.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Ela também pode indicar limites saudáveis, consciência de risco e capacidade de perceber o perigo antes que ele atinja plenamente.
+## Fontes
 
-## Uso Mágico
-
-Algiz era utilizada em inscrições de proteção, defesa contra influências hostis, fortalecimento espiritual e guarda de pessoas, lugares ou objetos sagrados. Podia ser invocada em contextos de vigilância, purificação, segurança ritual e busca por amparo diante de energias adversas.
-
-Em práticas simbólicas, Algiz representa a força que resguarda, a defesa que nasce da consciência e o amparo invisível que sustenta quem caminha com atenção, presença e alinhamento espiritual.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "sowilo",
-  title: "Sowilo ᛊ — A Runa do Sol e da Vitória",
-  description: "Sowilo, a décima sexta runa do Elder Futhark, simboliza sol, vitória, sucesso e a força luminosa que guia, energiza e conduz à realização.",
+  title: "Sowilo ᛊ — Sol",
+  description: "Sowilo ᛊ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/sowilo.png",
-  tags: ["sowilo", "runas", "elder futhark", "sol", "vitória", "sucesso"],
-  content: `## Sowilo ᛊ
+  tags: ["sowilo","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Sowilo** é a décima sexta runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **sol**, fonte de luz, direção, energia e triunfo. Por isso, Sowilo representa vitória, sucesso, clareza e a força vital que impulsiona o ser em direção à realização.
+**Sowilo ᛊ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **s**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Sol
-- **Simbólico:** Vitória, Sucesso, Clareza, Energia vital, Direção
-- **Invertida:** Sowilo tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar excesso de ego, desgaste, cegueira diante da própria sombra ou sucesso instável
+Os poemas associam a runa ao sol. O poema anglo-saxão destaca sua importância para navegantes. Vitória e sucesso podem ser leituras simbólicas posteriores, sem constituírem promessas do texto.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Sowilo** simboliza a luz que vence a escuridão. É a runa da energia solar como princípio de orientação, vitalidade e conquista. Ela representa o momento em que a força interior se alinha com a direção correta, produzindo avanço, superação e êxito.
+## História e Interpretação Contemporânea
 
-Também está ligada à clareza de propósito, à confiança e à consciência desperta. Sowilo não fala apenas de vencer externamente, mas de encontrar coerência interna suficiente para seguir com intensidade e foco.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, é uma runa associada ao triunfo que nasce de alinhamento, força e lucidez, não apenas de impulso.
+## Fontes
 
-## Uso Mágico
-
-Sowilo era utilizada em inscrições ligadas à vitória, ao fortalecimento da vontade, ao sucesso em disputas e à busca por energia vital e clareza. Podia ser invocada em contextos de liderança, conquista, renovação de ânimo e superação de obstáculos.
-
-Em práticas simbólicas, Sowilo representa a luz que orienta, a vitória que nasce da clareza e o sucesso que surge quando a energia interior encontra direção e propósito.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "tiwaz",
-  title: "Tiwaz ᛏ — A Runa da Honra, Justiça e Liderança",
-  description: "Tiwaz, a décima sétima runa do Elder Futhark, simboliza honra, justiça, liderança, coragem moral e a disposição de agir com retidão mesmo diante do sacrifício.",
+  title: "Tiwaz ᛏ — Týr e a Tradição dos Poemas",
+  description: "Tiwaz ᛏ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/tiwaz.png",
-  tags: ["tiwaz", "runas", "elder futhark", "honra", "justiça", "liderança"],
-  content: `## Tiwaz ᛏ
+  tags: ["tiwaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Tiwaz** é a décima sétima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao deus **Týr**, divindade nórdica associada à **justiça**, aos **juramentos**, à **coragem** e ao **sacrifício em nome da ordem**.
+**Tiwaz ᛏ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **t**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Týr, deus da justiça e da coragem
-- **Simbólico:** Honra, Justiça, Liderança, Disciplina, Sacrifício consciente
-- **Invertida:** Injustiça, Covardia moral, Falta de direção, Liderança fragilizada
+Os poemas norueguês e islandês associam Týr à perda da mão e ao lobo. O poema anglo-saxão apresenta Tir com imagens de orientação e constância. Não é adequado reduzir esses testemunhos a um manual de liderança.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Tiwaz** representa a força da retidão. É a runa da liderança que não se baseia apenas em poder, mas em princípios, responsabilidade e disposição para sustentar o que é correto.
+## História e Interpretação Contemporânea
 
-Sua associação com **Týr** reforça essa leitura: ele é o deus que sacrifica a própria mão para que os deuses consigam prender **Fenrir**, colocando o bem coletivo acima da segurança pessoal. Por isso, Tiwaz simboliza a coragem moral de agir com honra mesmo quando há custo.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Ela também está ligada à disciplina, à decisão firme e ao senso de direção necessário para conduzir pessoas, causas ou conflitos de maneira justa.
+## Fontes
 
-## Uso Mágico
-
-Tiwaz era utilizada em inscrições ligadas à vitória justa, à coragem em batalha, ao fortalecimento da honra pessoal e à proteção de juramentos e compromissos. Podia ser invocada em contextos de liderança, decisões difíceis, disputas legais ou morais e busca por firmeza de caráter.
-
-Em práticas simbólicas, Tiwaz representa a liderança guiada por princípios, a justiça que exige coragem e a honra de sustentar o caminho certo mesmo diante do sacrifício.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "berkano",
-  title: "Berkano ᛒ — A Runa do Nascimento e do Crescimento",
-  description: "Berkano, a décima oitava runa do Elder Futhark, simboliza nascimento, fertilidade, crescimento, cuidado e os processos de renovação que fazem a vida florescer.",
+  title: "Berkano ᛒ — Bétula",
+  description: "Berkano ᛒ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/berkano.png",
-  tags: ["berkano", "runas", "elder futhark", "nascimento", "fertilidade", "crescimento"],
-  content: `## Berkano ᛒ
+  tags: ["berkano","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Berkano** é a décima oitava runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado ao **vidoeiro** (bétula), árvore associada à renovação, à fertilidade, à proteção e ao início de novos ciclos.
+**Berkano ᛒ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **b**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Vidoeiro, Bétula
-- **Simbólico:** Nascimento, Fertilidade, Crescimento, Renovação, Cuidado
-- **Invertida:** Bloqueio de crescimento, Fragilidade, Dificuldade de nutrir, Estagnação em processos de desenvolvimento
+Beorc, no poema anglo-saxão, é associado à árvore; as formas escandinavas também evocam a bétula. A maternidade é uma interpretação simbólica posterior, não uma tradução literal do nome.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Berkano** representa tudo aquilo que nasce, cresce e precisa ser cuidado para florescer. É uma runa profundamente ligada aos ciclos da vida, à fertilidade da terra, ao desenvolvimento orgânico e ao acolhimento necessário para que algo novo amadureça.
+## História e Interpretação Contemporânea
 
-Ela pode simbolizar nascimento literal, maternidade, cura, criação de projetos, amadurecimento emocional e qualquer processo que envolva proteção e desenvolvimento gradual. Berkano fala de crescimento vivo, daquele que não pode ser forçado, mas precisa de ambiente adequado, nutrição e tempo.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Por isso, também está associada à energia do abrigo, da proteção amorosa e da regeneração.
+## Fontes
 
-## Uso Mágico
-
-Berkano era utilizada em inscrições ligadas à fertilidade, à proteção de nascimentos, à saúde, à cura e ao fortalecimento de processos de crescimento. Podia ser invocada em contextos de renovação, cuidado familiar, desenvolvimento de projetos e abertura de novos ciclos.
-
-Em práticas simbólicas, Berkano representa a vida que brota, o crescimento que pede cuidado e a força suave, mas poderosa, que protege, nutre e permite florescer.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "ehwaz",
-  title: "Ehwaz ᛖ — A Runa do Movimento, da Parceria e da Confiança",
-  description: "Ehwaz, a décima nona runa do Elder Futhark, simboliza movimento, parceria, confiança, cooperação e o avanço construído em sintonia entre forças que caminham juntas.",
+  title: "Ehwaz ᛖ — Cavalo",
+  description: "Ehwaz ᛖ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/ehwaz.png",
-  tags: ["ehwaz", "runas", "elder futhark", "movimento", "parceria", "confiança"],
-  content: `## Ehwaz ᛖ
+  tags: ["ehwaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Ehwaz** é a décima nona runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **cavalo**, animal profundamente associado ao deslocamento, à lealdade, à parceria e à confiança entre cavaleiro e montaria.
+**Ehwaz ᛖ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **e**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Cavalo
-- **Simbólico:** Movimento, Parceria, Confiança, Cooperação, Progresso conjunto
-- **Invertida:** Desconfiança, Falta de sintonia, Movimento travado, Ruptura de parceria
+Eh, no poema anglo-saxão, descreve o cavalo como motivo de alegria e orgulho. A cooperação entre cavalo e cavaleiro pode inspirar uma leitura sobre confiança, mas essa interpretação deve ser distinguida da estrofe.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Ehwaz** representa o avanço que acontece quando duas forças trabalham em sintonia. O cavalo não é apenas um meio de transporte, mas um parceiro vivo, cuja relação com o humano exige confiança mútua, sensibilidade e alinhamento.
+## História e Interpretação Contemporânea
 
-Por isso, Ehwaz simboliza movimento com cooperação. Ela está ligada a jornadas realizadas com apoio, alianças confiáveis, relações produtivas e processos que avançam porque existe harmonia entre intenção e ação, ou entre duas partes que se complementam.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também pode indicar transição, mudança positiva e deslocamento para um novo estágio, desde que haja fidelidade, coordenação e abertura para caminhar junto.
+## Fontes
 
-## Uso Mágico
-
-Ehwaz era utilizada em inscrições ligadas a viagens seguras, fortalecimento de vínculos, parcerias confiáveis e harmonização de relações de trabalho, amizade ou compromisso. Também podia ser associada à superação de travas em processos que dependem de cooperação verdadeira.
-
-Em práticas simbólicas, Ehwaz representa o movimento que nasce da confiança, a parceria que conduz ao progresso e a travessia bem-sucedida quando há sintonia entre forças que caminham lado a lado.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "mannaz",
-  title: "Mannaz ᛗ — A Runa da Humanidade e da Consciência Coletiva",
-  description: "Mannaz, a vigésima runa do Elder Futhark, simboliza humanidade, consciência coletiva, identidade, inteligência social e a relação entre o indivíduo e a comunidade.",
+  title: "Mannaz ᛗ — Ser Humano",
+  description: "Mannaz ᛗ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/mannaz.png",
-  tags: ["mannaz", "runas", "elder futhark", "humanidade", "consciência coletiva", "comunidade"],
-  content: `## Mannaz ᛗ
+  tags: ["mannaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Mannaz** é a vigésima runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **homem**, **ser humano** ou **humanidade**, e por isso está ligada à identidade humana, à consciência coletiva e à forma como o indivíduo se compreende dentro de um grupo maior.
+**Mannaz ᛗ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **m**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Homem, ser humano
-- **Simbólico:** Humanidade, Consciência coletiva, Identidade, Cooperação, Inteligência social
-- **Invertida:** Isolamento, Confusão de identidade, Dificuldade relacional, Desalinhamento com o coletivo
+Mann, no poema anglo-saxão, combina vínculos humanos com a lembrança da morte. Os poemas escandinavos também tratam da condição humana, sem formular uma doutrina de consciência coletiva.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Mannaz** representa o ser humano não como entidade isolada, mas como parte de uma rede de relações, cultura, memória e convivência. É a runa da consciência que surge no encontro entre o eu e o outro, entre identidade pessoal e pertencimento coletivo.
+## História e Interpretação Contemporânea
 
-Por isso, Mannaz está ligada à inteligência social, à cooperação, ao autoconhecimento e à compreensão de que a humanidade se constrói em relação. Ela pode simbolizar maturidade, reflexão, responsabilidade social e percepção de papéis dentro de uma comunidade.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também sugere que o crescimento individual depende, em parte, da capacidade de compreender os vínculos que nos formam, sustentam e desafiam.
+## Fontes
 
-## Uso Mágico
-
-Mannaz era utilizada em inscrições ligadas ao fortalecimento da mente, ao autoconhecimento, à harmonia social e à clareza nas relações humanas. Podia ser invocada em contextos de cooperação, liderança consciente, integração em grupos e desenvolvimento da percepção sobre si mesmo e sobre os outros.
-
-Em práticas simbólicas, Mannaz representa a humanidade como consciência viva, o indivíduo em diálogo com a comunidade e a sabedoria que nasce quando o ser humano compreende seu lugar dentro do todo.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "laguz",
-  title: "Laguz ᛚ — A Runa da Água, da Intuição e das Emoções",
-  description: "Laguz, a vigésima primeira runa do Elder Futhark, simboliza água, intuição, emoções, fluxo e a sabedoria profunda que se move sob a superfície.",
+  title: "Laguz ᛚ — Água",
+  description: "Laguz ᛚ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/laguz.png",
-  tags: ["laguz", "runas", "elder futhark", "água", "intuição", "emoções"],
-  content: `## Laguz ᛚ
+  tags: ["laguz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Laguz** é a vigésima primeira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à **água**, aos **lagos** e aos fluxos profundos da vida, por isso representa intuição, emoções, movimento interior e conexão com aquilo que não pode ser controlado de forma rígida.
+**Laguz ᛚ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **l**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Água, Lago
-- **Simbólico:** Intuição, Emoções, Fluxo, Sensibilidade, Profundidade interior
-- **Invertida:** Bloqueio emocional, Confusão intuitiva, Medo do fluxo, Desequilíbrio interior
+Lagu, no poema anglo-saxão, descreve o mar e o temor de quem navega. Os poemas escandinavos falam da água. A associação automática a intuição e emoções é uma leitura moderna.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Laguz** representa a água como força viva, móvel e misteriosa. Diferente de estruturas fixas, a água se adapta, contorna obstáculos e alcança profundidades invisíveis. Por isso, essa runa está ligada à percepção intuitiva, à vida emocional e aos movimentos internos que nem sempre podem ser explicados racionalmente.
+## História e Interpretação Contemporânea
 
-Laguz também fala de entrega ao fluxo. Ela sugere a importância de escutar o que se move por dentro, reconhecer ciclos emocionais e confiar em percepções sutis. Ao mesmo tempo, lembra que águas profundas podem tanto nutrir quanto confundir, exigindo sensibilidade e equilíbrio.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-É uma runa associada ao feminino simbólico, ao inconsciente, à imaginação e à sabedoria que emerge quando se aprende a sentir sem se perder.
+## Fontes
 
-## Uso Mágico
-
-Laguz era utilizada em inscrições ligadas à intuição, à proteção em travessias marítimas, à conexão com o invisível e ao equilíbrio emocional. Podia ser invocada em contextos de sonhos, sensibilidade espiritual, cura interior e aprofundamento da percepção.
-
-Em práticas simbólicas, Laguz representa a água da alma, o fluxo das emoções e a inteligência intuitiva que guia por caminhos que a lógica sozinha não alcança.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "ingwaz",
-  title: "Ingwaz ᛜ — A Runa da Fertilidade e do Potencial Interior",
-  description: "Ingwaz, a vigésima segunda runa do Elder Futhark, simboliza fertilidade, potencial interior, gestação de forças e a energia madura que se prepara para florescer.",
+  title: "Ingwaz ᛜ — Ing",
+  description: "Ingwaz ᛜ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/ingwaz.png",
-  tags: ["ingwaz", "runas", "elder futhark", "fertilidade", "potencial interior", "crescimento"],
-  content: `## Ingwaz ᛜ
+  tags: ["ingwaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Ingwaz** é a vigésima segunda runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado a **Ing**, frequentemente associado ao deus **Freyr**, divindade nórdica relacionada à fertilidade, à abundância e à prosperidade.
+**Ingwaz ᛜ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **ŋ (ng)**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Ing, nome divino associado à fertilidade
-- **Simbólico:** Fertilidade, Potencial interior, Gestação, Maturação, Energia contida
-- **Invertida:** Ingwaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar potencial represado, dificuldade de conclusão ou energia estagnada antes do florescimento
+A estrofe anglo-saxã de Ing descreve uma figura entre os dinamarqueses orientais que depois parte. A relação com Yngvi e Freyr é uma interpretação comparativa; o poema não apresenta um sistema de ‘potencial interior’.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Ingwaz** representa a força que cresce em silêncio antes de se manifestar. É a runa do potencial guardado, da semente madura, da energia fértil que ainda não explodiu em movimento, mas já está plenamente carregada de possibilidade.
+## História e Interpretação Contemporânea
 
-Por isso, Ingwaz está ligada a processos de gestação, amadurecimento e preparação. Ela não fala do crescimento visível, mas da potência interna que se organiza antes de tomar forma no mundo.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Também pode indicar fertilidade em sentido amplo: não apenas biológica, mas criativa, emocional, espiritual ou material. É a runa do que está prestes a nascer porque já se tornou maduro por dentro.
+## Fontes
 
-## Uso Mágico
-
-Ingwaz era utilizada em inscrições ligadas à fertilidade, à abundância, à proteção de processos em gestação e ao fortalecimento de projetos que ainda estavam amadurecendo. Podia ser invocada em contextos de prosperidade, renovação, fecundidade e desenvolvimento de potencial oculto.
-
-Em práticas simbólicas, Ingwaz representa a semente carregada de futuro, a energia interior pronta para florescer e o poder fértil que se prepara, em silêncio, para se tornar realidade.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "dagaz",
-  title: "Dagaz ᛞ — A Runa da Transformação e do Despertar",
-  description: "Dagaz, a vigésima terceira runa do Elder Futhark, simboliza transformação, despertar, clareza e a passagem luminosa de um estado para outro.",
+  title: "Dagaz ᛞ — Dia",
+  description: "Dagaz ᛞ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/dagaz.png",
-  tags: ["dagaz", "runas", "elder futhark", "transformação", "despertar", "clareza"],
-  content: `## Dagaz ᛞ
+  tags: ["dagaz","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Dagaz** é a vigésima terceira runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome significa **dia** ou **aurora**, e por isso está ligada ao despertar, à clareza e à transformação que acontece quando a luz rompe a escuridão.
+**Dagaz ᛞ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **d**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Dia, Aurora
-- **Simbólico:** Transformação, Despertar, Clareza, Virada, Iluminação
-- **Invertida:** Dagaz tradicionalmente não possui forma invertida fixa, mas em desequilíbrio pode indicar dificuldade de enxergar a mudança, resistência ao despertar ou transição incompleta
+Dæg, no poema anglo-saxão, celebra o dia e a luz. Empregar essa imagem como metáfora de despertar espiritual é possível na recepção moderna, mas não equivale a uma instrução medieval de divinação.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Dagaz** representa o momento da virada. É a passagem entre noite e dia, entre confusão e compreensão, entre um estado antigo e uma nova percepção.
+## História e Interpretação Contemporânea
 
-Por isso, essa runa está associada a transformações súbitas, revelações, despertares de consciência e mudanças positivas que trazem mais luz ao caminho. Ela não simboliza apenas mudança em si, mas a mudança que ilumina, esclarece e renova.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Dagaz também pode indicar um ponto de transição em que algo finalmente se torna visível, compreensível ou maduro o bastante para emergir. É uma runa de abertura, consciência expandida e passagem para um novo ciclo com mais lucidez.
+## Fontes
 
-## Uso Mágico
-
-Dagaz era utilizada em inscrições ligadas à renovação, ao despertar espiritual, à clareza mental e à superação de fases obscuras. Podia ser invocada em contextos de transformação positiva, abertura de caminhos, iluminação de decisões e passagem segura entre estados diferentes de vida ou consciência.
-
-Em práticas simbólicas, Dagaz representa a luz que chega no momento exato, a transformação que desperta e a aurora interior que marca o fim da escuridão e o início de uma nova visão.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 {
   slug: "othala",
-  title: "Othala ᛟ — A Runa da Herança, do Lar e da Ancestralidade",
-  description: "Othala, a vigésima quarta runa do Elder Futhark, simboliza herança, lar, ancestralidade, pertencimento e os legados materiais e espirituais transmitidos entre gerações.",
+  title: "Othala ᛟ — Herança e Propriedade",
+  description: "Othala ᛟ: valor de escrita, tradições dos poemas rúnicos e distinção entre documentação histórica e interpretações modernas.",
   category: "runas",
   section: "glossario",
   date: "2026-03-05",
   cover: "/images/glossario/runas/othala.png",
-  tags: ["othala", "runas", "elder futhark", "herança", "lar", "ancestralidade"],
-  content: `## Othala ᛟ
+  tags: ["othala","runas","futhark antigo","poemas rúnicos","história da escrita"],
+  content: `## A Runa como Escrita
 
-**Othala** é a vigésima quarta e última runa do **Elder Futhark**, o mais antigo sistema rúnico conhecido. Seu nome está ligado à ideia de **herança ancestral**, **propriedade herdada**, **terra de família** e pertencimento a uma linhagem ou casa.
+**Othala ᛟ** pertence ao conjunto convencional de 24 sinais do **Futhark antigo**. Sua transliteração usual é **o**. Os nomes usados hoje para esse alfabeto são reconstruções linguísticas, apoiadas na comparação de tradições posteriores; não devem ser apresentados como uma lista de palavras diretamente documentada em nórdico antigo.
 
-## Significado
+## O que os Poemas Preservam
 
-- **Literal:** Herança, Propriedade ancestral
-- **Simbólico:** Lar, Ancestralidade, Legado, Pertencimento, Tradição
-- **Invertida:** Desenraizamento, Ruptura com a herança, Conflito familiar, Perda de pertencimento
+Éþel, no poema anglo-saxão, trata da terra ou propriedade herdada e da prosperidade no lar. Um vínculo espiritual obrigatório com os ancestrais não é estabelecido pela estrofe.
 
-## Na Tradição
+Os poemas anglo-saxão, norueguês e islandês pertencem a tradições e alfabetos diferentes. A edição de Bruce Dickins reúne os textos e suas traduções, permitindo comparar as diferenças em vez de fundi-las.
 
-Na tradição rúnica, **Othala** representa aquilo que é recebido das gerações anteriores e que forma a base de identidade, continuidade e pertencimento. Ela está ligada tanto à herança material, como terras, bens e casa, quanto à herança imaterial, como valores, memória, cultura e tradição.
+## História e Interpretação Contemporânea
 
-Por isso, Othala simboliza o vínculo com os ancestrais, com o lar e com tudo aquilo que constitui uma origem. Também pode indicar proteção do que é sagrado dentro de uma família ou comunidade, bem como responsabilidade diante do legado recebido.
+A função de escrita deve ser distinguida dos usos simbólicos. Tabelas de ‘runa invertida’, conselhos pessoais e fórmulas para prosperidade ou proteção não são apresentados aqui como costumes vikings comprovados. A presença de magia em textos nórdicos, por si só, não demonstra cada uma dessas correspondências modernas.
 
-Ela não fala apenas de posse, mas de **continuidade**. O que foi herdado precisa ser compreendido, honrado e, muitas vezes, transformado com consciência antes de ser transmitido adiante.
+## Fontes
 
-## Uso Mágico
-
-Othala era utilizada em inscrições ligadas à proteção da casa, fortalecimento dos laços familiares, preservação da herança e conexão com os ancestrais. Podia ser invocada em contextos de estabilidade doméstica, defesa de território, reconexão com raízes e busca por identidade profunda.
-
-Em práticas simbólicas, Othala representa o chão ancestral sob os pés, o lar como centro de pertencimento e o legado que une passado, presente e futuro dentro de uma mesma linhagem.`,
+- [Poemas rúnicos anglo-saxão, norueguês e islandês — texto, tradução e notas](https://www.arild-hauge.com/PDF/Runic%20and%20heroic%20poems%20of%20the%20old%20Teutonic%20peoples.pdf), Bruce Dickins, *Runic and Heroic Poems of the Old Teutonic Peoples* (1915), seção inicial, páginas impressas 12–33.
+- [Como distinguir fontes e interpretações](/fontes).`,
 },
 
 
