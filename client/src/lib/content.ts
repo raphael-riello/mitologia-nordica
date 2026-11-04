@@ -2,6 +2,7 @@ import type { ContentItem } from "./types";
 import { giantContent } from "./giants";
 import { beastContent } from "./beasts";
 import { coreGodContent } from "./core-gods";
+import { culturalContent } from "./cultural-content";
 
 export const allContent: ContentItem[] = [
   ...coreGodContent,
@@ -4516,6 +4517,7 @@ Em **Tribes of Midgard**, você assume o papel de um **Einherjar**, um guerreiro
 
 
   // === CONTEÚDO ===
+  ...culturalContent,
   {
     slug: "mitologia-nordica-neil-gaiman",
     title: "Mitologia Nórdica — Neil Gaiman",
@@ -4617,7 +4619,7 @@ Vikings abriu caminho para outras produções de temática nórdica e é conside
   {
     slug: "wardruna",
     title: "Wardruna",
-    description: "Projeto musical norueguês que recria a sonoridade da era viking usando instrumentos tradicionais e cantos em nórdico antigo.",
+    description: "Projeto musical norueguês que cria música contemporânea inspirada em tradições nórdicas, com instrumentos tradicionais e trabalho vocal.",
     category: "musicas",
     section: "conteudo",
     date: "2025-03-01",
