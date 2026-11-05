@@ -3113,6 +3113,24 @@
       }
     ]
   },
+  "/images/jogos/multiplayer/northgard.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/multiplayer/northgard-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/multiplayer/northgard-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/jogos/multiplayer/northgard-1254.webp"
+      }
+    ]
+  },
   "/images/jogos/multiplayer/tribes-of-midgard.png": {
     "width": 500,
     "height": 500,
@@ -3169,6 +3187,42 @@
       }
     ]
   },
+  "/images/jogos/singleplayer/expeditions-viking.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/expeditions-viking-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/singleplayer/expeditions-viking-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/jogos/singleplayer/expeditions-viking-1254.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/god-of-war-2018.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/god-of-war-2018-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/singleplayer/god-of-war-2018-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/jogos/singleplayer/god-of-war-2018-1254.webp"
+      }
+    ]
+  },
   "/images/jogos/singleplayer/god-of-war-ragnarok.png": {
     "width": 500,
     "height": 500,
@@ -3222,6 +3276,60 @@
       {
         "width": 500,
         "src": "/images/jogos/singleplayer/nordhold-500.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/roki.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/roki-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/singleplayer/roki-960.webp"
+      },
+      {
+        "width": 1536,
+        "src": "/images/jogos/singleplayer/roki-1536.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/senuas-saga-hellblade-2.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/senuas-saga-hellblade-2-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/singleplayer/senuas-saga-hellblade-2-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/jogos/singleplayer/senuas-saga-hellblade-2-1254.webp"
+      }
+    ]
+  },
+  "/images/jogos/singleplayer/song-of-iron.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/jogos/singleplayer/song-of-iron-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/jogos/singleplayer/song-of-iron-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/jogos/singleplayer/song-of-iron-1254.webp"
       }
     ]
   },

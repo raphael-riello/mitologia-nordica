@@ -3,8 +3,10 @@ import { giantContent } from "./giants";
 import { beastContent } from "./beasts";
 import { coreGodContent } from "./core-gods";
 import { culturalContent } from "./cultural-content";
+import { moreGameContent } from "./more-games";
 
 export const allContent: ContentItem[] = [
+  ...moreGameContent,
   ...coreGodContent,
   ...beastContent,
   ...giantContent,
