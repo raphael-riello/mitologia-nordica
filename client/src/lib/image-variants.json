@@ -107,6 +107,114 @@
       }
     ]
   },
+  "/images/conteudo/musicas/brothers-of-metal.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/brothers-of-metal-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/brothers-of-metal-960.webp"
+      },
+      {
+        "width": 1536,
+        "src": "/images/conteudo/musicas/brothers-of-metal-1536.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/danheim.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/danheim-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/danheim-960.webp"
+      },
+      {
+        "width": 1536,
+        "src": "/images/conteudo/musicas/danheim-1536.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/forndom.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/forndom-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/forndom-960.webp"
+      },
+      {
+        "width": 1536,
+        "src": "/images/conteudo/musicas/forndom-1536.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/nytt-land.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/nytt-land-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/nytt-land-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/musicas/nytt-land-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/skalmold.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/skalmold-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/skalmold-960.webp"
+      },
+      {
+        "width": 1254,
+        "src": "/images/conteudo/musicas/skalmold-1254.webp"
+      }
+    ]
+  },
+  "/images/conteudo/musicas/sowulo.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/conteudo/musicas/sowulo-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/conteudo/musicas/sowulo-960.webp"
+      },
+      {
+        "width": 1536,
+        "src": "/images/conteudo/musicas/sowulo-1536.webp"
+      }
+    ]
+  },
   "/images/conteudo/musicas/wardruna.png": {
     "width": 1254,
     "height": 1254,

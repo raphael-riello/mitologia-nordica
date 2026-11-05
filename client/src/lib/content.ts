@@ -4,8 +4,10 @@ import { beastContent } from "./beasts";
 import { coreGodContent } from "./core-gods";
 import { culturalContent } from "./cultural-content";
 import { moreGameContent } from "./more-games";
+import { moreMusicContent } from "./more-music";
 
 export const allContent: ContentItem[] = [
+  ...moreMusicContent,
   ...moreGameContent,
   ...coreGodContent,
   ...beastContent,
